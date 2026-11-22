@@ -1,0 +1,22 @@
+{
+  "displayName": "BattleCON Workshop",
+  "shortDescription": "BattleCON ruling & DIY guard",
+  "longDescription": "Two working protocols built for a BattleCON DIY project: the Arena Referee forces a rules-briefing and glossary load before any match simulation, ruling, or battle report, enforcing the six rules, the state-machine simulation discipline, and the finisher switch-style protocol; the DIY Guardian enforces the supreme principles for design and localization work (official frame as boundary, citable precedents, full information disclosure, three-pass rule reconciliation, verbatim transcription of physical cards). All skills set rules and point to living data in the project memory store; the user's rulings always take precedence.",
+  "developerName": "BattleCON DIY",
+  "websiteURL": "https://boardgamegeek.com/boardgame/123471/battlecon-devastation-of-indines",
+  "tryPrompts": [
+    "Run a match and write the battle report",
+    "Review whether this DIY character design is legal",
+    "Rule the full resolution order of this attack"
+  ],
+  "skillOverrides": {
+    "arena-referee": {
+      "displayName": "Arena Referee",
+      "description": "Mandatory startup protocol for simulations, rulings and battle reports: load the rules briefing and glossary first, then apply the six rules and the state-machine discipline"
+    },
+    "diy-guardian": {
+      "displayName": "DIY Guardian",
+      "description": "Supreme-principle guard for DIY design and localization: citable precedents, open information, three-pass reconciliation, verbatim card transcription"
+    }
+  }
+}

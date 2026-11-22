@@ -1,0 +1,36 @@
+{
+  "id": "boss-burman",
+  "卡类": "角色(首领)",
+  "名称": "巨龙伯尔曼(拉瑞莫尔·伯曼)",
+  "英文": "Larimore Burman (Dragon)",
+  "系列": "首领剧本(情景Boss)",
+  "称号": "巨龙伯尔曼(指南官方名)/龙院长(旧录)",
+  "卡类注": "首领",
+  "套件": {
+    "特技": 1,
+    "架势": 8,
+    "套路": 13
+  },
+  "生命": "25×敌方斗士数(2人50/3人75/4人100);旧版破点池14/21/28存档",
+  "角标分配": "待实卡",
+  "机制名": "Press·Holds·破点(旧版)/架势套路(新版)",
+  "卡牌清单": [
+    "UA_巨龙伯尔曼",
+    "套路_Arcane Barrier",
+    "套路_Backlash",
+    "套路_Claw Snap",
+    "套路_Caustic Bite",
+    "套路_Dragon Slayer",
+    "套路_Earthshaker",
+    "套路_Kinetic Pulse",
+    "套路_Mystic Missile",
+    "套路_Red Crest",
+    "套路_Tail Whip",
+    "套路_Tyrant Fury",
+    "套路_Volcanic Breath",
+    "套路_Word of Forbiddance",
+    "架势_待实卡×8"
+  ],
+  "优先级": "旧版fandom折算(2026-11-22录入);指南套件计数官方;8架势待实卡",
+  "last_updated": "2026-11-22"
+}
