@@ -1,0 +1,28 @@
+{
+ "角色": "Dolores Malephaise",
+ "名称": "Base One [TBD]",
+ "卡类": "专属基底",
+ "系列": "SOLO",
+ "数值": {
+  "距离": "1~6",
+  "威力": "?",
+  "速度": "?",
+  "韧性": "?"
+ },
+ "效果": [
+  {
+   "时点": "每当",
+   "条件": "the Opponent is Pushed or Pulled",
+   "效果": "<i-sb>+2 Power</i-sb>.",
+   "背景": "灰底"
+  },
+  {
+   "时点": "每当",
+   "条件": "the Opponent Advances or Retreats",
+   "效果": "<b>Chip 1</b>.",
+   "背景": "灰底"
+  }
+ ],
+ "备注": "Split from old single Base placeholder;base name and Power/Priority/Guard never in frame [TBD].",
+ "来源": "官方实卡(2026-11-24用户拍照录入;画面模糊处以占位符标出)"
+}

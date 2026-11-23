@@ -1,0 +1,36 @@
+{
+ "名称": "Dolores Malephaise",
+ "卡类": "角色",
+ "类别": "Fighter",
+ "系列": "SOLO",
+ "称号": "Mother of Monsters",
+ "类型": "Disruptor",
+ "难度": "Intermediate",
+ "台词": "I will teach you the true meaning of fear…",
+ "机制概述": "<i-sb>Wings</i-sb> marker;Setup:you have <i-sb>Wings</i-sb>;Limited Ante:Use <i-sb>Wings</i-sb> (Close or Retreat 1 immediately,+1 Priority during the beat);End,<i-sb>Wings</i-sb> depleted:Regain <i-sb>1 Force</i-sb> or spend <i-sb>3 Force</i-sb> to regain your <i-sb>Wings</i-sb>",
+ "id": "SOLO-Dolores Malephaise",
+ "卡牌清单": [
+  "UA_Unfurl_the_Wings.json",
+  "Style_Painful.json",
+  "Style_Placeholder_Orange.json",
+  "Style_Placeholder_Yellow.json",
+  "Style_Placeholder_Green.json",
+  "Style_Placeholder_Blue.json",
+  "Base_Placeholder_One.json",
+  "Base_Placeholder_Two.json",
+  "Finisher_Fatal_Descent_Funeral_Rites.json",
+  "Status_Funeral_Dirge_Placeholder.json"
+ ],
+ "机制名": "<i-sb>Wings</i-sb>",
+ "中文名": "多洛莉丝·玛勒法斯",
+ "角标分配": {
+  "Painful": "<red-diamond>",
+  "Placeholder Orange": "<orange-pentagon>",
+  "Placeholder Yellow": "<yellow-hexagon>",
+  "Placeholder Green": "<green-tri-down>",
+  "Placeholder Blue": "<blue-circle>"
+ },
+ "来源": "官方实卡(2026-11-24用户拍照录入;画面模糊处以占位符标出)",
+ "角色": "Dolores Malephaise",
+ "备注": "Verified against 2026-11-24 source video:Red style named PAINFUL,stats corrected;title/tagline from card back;speculative Finisher_Alt_Placeholder never appears in the video,removed.Still TBD:orange/yellow/green/blue style names,blue range upper bound,base names and stats."
+}
