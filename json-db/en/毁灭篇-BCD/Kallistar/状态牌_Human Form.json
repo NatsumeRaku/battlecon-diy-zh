@@ -1,0 +1,27 @@
+{
+ "角色": "Kallistar",
+ "角标": "",
+ "名称": "Human Form",
+ "卡类": "状态牌",
+ "系列": "毁灭篇-BCD",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "quote:My emotions will not waver."
+  },
+  {
+   "时点": "循环",
+   "条件": "",
+   "效果": "Recycle, 10 or less life: Set your UA to 10. Replace your Style with the matching-colored <i-sb>Phoenix</i-sb> Styles, wherever they are (your original Style becomes your original <i-sb>Phoenix</i-sb>)."
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "N/A"
+ },
+ "备注": "形态牌,文字部分可辨;身份依人形/凤凰双形态+火焰机制推定为Kallistar(DEV),待核;TTS模拟器截图,图糊随缘录入",
+ "来源": "官方实卡(2026-11-24用户供图录入)"
+}
