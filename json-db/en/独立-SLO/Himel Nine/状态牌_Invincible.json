@@ -1,0 +1,27 @@
+{
+ "角色": "Himel Nine",
+ "角标": "",
+ "名称": "Invincible",
+ "卡类": "状态牌",
+ "系列": "独立-SLO",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<p-b>When</p-b> you Advance or Retreat or the Opponent Advances past you, become <i-sb>Exposed</i-sb>."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<p-b>When</p-b> you would take more than 1 damage, take 1 damage instead."
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "N/A"
+ },
+ "备注": "形态牌,quote:YOU FOOL! I'M LITERALLY INVINCIBLE!;TTS模拟器截图,图糊随缘录入",
+ "来源": "官方实卡(2026-11-24用户供图录入)"
+}

@@ -1,0 +1,30 @@
+{
+ "角色": "Dolores Malephaise",
+ "名称": "Unfurl the Wings",
+ "卡类": "特技(UA)",
+ "系列": "独立-SLO",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Dolores uses her Wings of Malephaise to manipulate priority and positioning. Disrupt your foes' plans and appear where they least expect it!"
+  },
+  {
+   "时点": "初始设置",
+   "效果": "You have <i-sb>Wings</i-sb>.",
+   "条件": ""
+  },
+  {
+   "时点": "投注",
+   "条件": "限定",
+   "效果": "Use <i-sb>Wings</i-sb> (Close or Retreat 1 immediately. <i-sb>+1 Priority</i-sb> during the beat).",
+   "背景": "橙底"
+  },
+  {
+   "时点": "结束",
+   "条件": "<i-sb>Wings</i-sb> depleted",
+   "效果": "Choose One: Regain <i-sb>1 Force</i-sb>. / Spend <i-sb>3 Force</i-sb> to regain your <i-sb>Wings</i-sb>。"
+  }
+ ],
+ "来源": "官方实卡(2026-11-24用户拍照录入;画面模糊处以占位符标出)"
+}
