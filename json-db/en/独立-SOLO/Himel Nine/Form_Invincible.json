@@ -1,0 +1,22 @@
+{
+ "角色": "Himel Nine",
+ "名称": "Invincible",
+ "卡类": "形态牌",
+ "系列": "独立-SOLO",
+ "数值": "N/A",
+ "台词": "\"YOU FOOL! I'M LITERALLY INVINCIBLE!\" (ALL SYSTEMS OK! THREAT ASSESSMENT:12%)",
+ "效果": [
+  {
+   "时点": "每当",
+   "条件": "you Advance or Retreat or the Opponent Advances past you",
+   "效果": "When you Advance or Retreat or the Opponent Advances past you, become Exposed."
+  },
+  {
+   "时点": "每当",
+   "条件": "you would take more than 1 damage",
+   "效果": "When you would take more than 1 damage, take 1 damage instead."
+  }
+ ],
+ "备注": "2026-11-24用户拍照录入(Scanned_7x10_split扫描件);画面模糊处以占位符标出",
+ "来源": "官方实卡"
+}

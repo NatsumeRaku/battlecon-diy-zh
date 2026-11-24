@@ -1,0 +1,40 @@
+{
+ "名称": "Himel Nine",
+ "中文名": "海梅尔九号",
+ "卡类": "角色",
+ "类别": "Fighter",
+ "系列": "独立-SOLO",
+ "称号": "The Most Powerful of All Robots",
+ "类型": "Slugger/Novice",
+ "机制概述": "Invincible/Exposed forms; setup Invincible; more-than-1 damage becomes 1; moving or being passed switches to Exposed; Ante 1 Life to switch back.",
+ "id": "独立-SOLO-Himel Nine",
+ "难度": "Novice",
+ "卡牌清单": [
+  "UA_Invincible_Armor.json",
+  "Style_Dancer.json",
+  "Style_Sentinel.json",
+  "Style_Decompression.json",
+  "Style_Detonation.json",
+  "Style_Insurmountable.json",
+  "UniqueBase_Cannonade.json",
+  "Finisher_Take_the_Shot_IK_38.json",
+  "Form_Invincible.json",
+  "Form_Exposed.json",
+  "Reference_Styles.json",
+  "Reference_Bases.json",
+  "Reference_Map.json",
+  "Reference_Finishers.json"
+ ],
+ "机制名": "Forms (Invincible/Exposed)",
+ "英文": "Himel Nine",
+ "角标分配": {
+  "Dancer": "<red-diamond>",
+  "Insurmountable": "<orange-pentagon>",
+  "Detonation": "<yellow-hexagon>",
+  "Decompression": "<green-tri-down>",
+  "Sentinel": "<blue-circle>"
+ },
+ "备注": "2026-11-24用户拍照录入(Scanned_7x10_split扫描件);画面模糊处以占位符标出",
+ "来源": "官方实卡",
+ "角色": "Himel Nine"
+}
