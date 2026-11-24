@@ -1,14 +1,8 @@
 {
  "角色": "Dolores Malephaise",
- "名称": "Base One [TBD]",
- "卡类": "专属基底",
+ "名称": "Barbs",
+ "卡类": "专属招式",
  "系列": "SOLO",
- "数值": {
-  "距离": "1~6",
-  "威力": "?",
-  "速度": "?",
-  "韧性": "?"
- },
  "效果": [
   {
    "时点": "每当",
@@ -23,6 +17,12 @@
    "背景": "灰底"
   }
  ],
- "备注": "Split from old single Base placeholder;base name and Power/Priority/Guard never in frame [TBD].",
+ "数值": {
+  "距离": "1~6",
+  "威力": 1,
+  "速度": 3,
+  "韧性": 3
+ },
+ "备注": "User 2026-11-24:Dolores has ONE Unique Attack,Barbs (1~6/1/3/3);the two \"bases\" were a misread and are deleted.Card text reads \"When\" (not \"Whenever\").",
  "来源": "官方实卡(2026-11-24用户拍照录入;画面模糊处以占位符标出)"
 }
