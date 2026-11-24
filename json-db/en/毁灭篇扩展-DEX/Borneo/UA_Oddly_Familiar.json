@@ -1,0 +1,20 @@
+{
+ "角色": "Borneo",
+ "名称": "Oddly Familiar",
+ "卡类": "特技(UA)",
+ "系列": "毁灭篇扩展-DEX",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Borneo uses 7 Unique Bases from other fighters in Devastation of Indines! Use their strengths to offset your weaker Styles show them who's the baddest familiar in town!"
+  },
+  {
+   "时点": "初始设置",
+   "条件": "",
+   "效果": "Setup: Add your 7 Unique Bases to your hand. You do not have Standard Bases."
+  }
+ ],
+ "备注": "2026-11-24用户拍照录入(Scanned_7x10_split扫描件);画面模糊处以占位符标出;官方实卡(2026-11-25用户盒照凭证,行138/140删除后平反,仅限en树)",
+ "来源": "官方实卡"
+}
