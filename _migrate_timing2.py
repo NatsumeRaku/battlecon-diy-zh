@@ -29,13 +29,13 @@ edit(f'{B}/战争篇-BCW/吕克·冯·戈特/风格_永恒.json',
 edit(f'{B}/线上版-BCO/赛博·圣米克哈尔·伊森/风格_不变的.json',
      lambda e: e.get('时点') == '首次被命中',
      lambda e: e.update({'时点': '每当', '条件': '你首次被命中时'}))
-edit(f'{B}/线上版-BCO/赛博·塞萨尔·格里斯特/UA_恐吓.json',
+edit(f'{B}/线上版-BCO/赛博·塞萨尔·格里斯特特/UA_恐吓.json',
      lambda e: e.get('时点') == '首次致死',
      lambda e: e.update({'时点': '每当', '条件': '你首次致死时'}))
-edit(f'{B}/毁灭篇-BCD/塞萨尔·格里斯/UA_威胁等级.json',
+edit(f'{B}/毁灭篇-BCD/塞萨尔·格里斯特/UA_威胁等级.json',
      lambda e: e.get('时点') == '即将第5枚',
      lambda e: e.update({'时点': '每当', '条件': '即将放置第5枚累积物时'}))
-edit(f'{B}/毁灭篇-BCD/塞萨尔·格里斯/UA_威胁等级.json',
+edit(f'{B}/毁灭篇-BCD/塞萨尔·格里斯特/UA_威胁等级.json',
      lambda e: e.get('时点') == '生命首次降至1以下',
      lambda e: e.update({'时点': '每当', '条件': '你的生命首次降至1以下时'}))
 
