@@ -2070,17 +2070,17 @@ json-db/zh/毁灭篇-BCD/茹妮卡·泽纳宁/UA_高超炼器.json
 json-db/zh/毁灭篇-BCD/茹妮卡·泽纳宁/风格_调试.json
 convention/时点词表.md
 convention/符号映射表.md
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/UA_展翼.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/character.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/专属_基底占位.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/终结技_变招占位.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/终结技_致命降临_殡葬仪式.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/状态牌_占位·挽歌.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·红.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·橙.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·黄.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·绿.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·蓝.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/UA_展翼.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/character.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/专属_基底占位.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/终结技_变招占位.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/终结技_致命降临_殡葬仪式.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/状态牌_占位·挽歌.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·红.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·橙.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·黄.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·绿.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·蓝.json
 json-db/en/SOLO/Dolores Malephaise/character.json
 json-db/en/SOLO/Dolores Malephaise/UA_Unfurl_the_Wings.json
 json-db/en/SOLO/Dolores Malephaise/Base_Placeholder.json
@@ -2092,19 +2092,19 @@ json-db/en/SOLO/Dolores Malephaise/Style_Placeholder_Orange.json
 json-db/en/SOLO/Dolores Malephaise/Style_Placeholder_Yellow.json
 json-db/en/SOLO/Dolores Malephaise/Style_Placeholder_Green.json
 json-db/en/SOLO/Dolores Malephaise/Style_Placeholder_Blue.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/character.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/UA_展翼.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_痛苦.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·橙.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·黄.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·绿.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·蓝.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/专属_占位·基底一.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/专属_占位·基底二.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/终结技_致命降临_殡葬仪式.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/终结技_变招占位.json|DELETE
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·红.json|DELETE
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/专属_基底占位.json|DELETE
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/character.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/UA_展翼.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_痛苦.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·橙.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·黄.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·绿.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·蓝.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/专属_占位·基底一.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/专属_占位·基底二.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/终结技_致命降临_殡葬仪式.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/终结技_变招占位.json|DELETE
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·红.json|DELETE
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/专属_基底占位.json|DELETE
 json-db/en/SOLO/Dolores Malephaise/character.json
 json-db/en/SOLO/Dolores Malephaise/Style_Painful.json
 json-db/en/SOLO/Dolores Malephaise/Style_Placeholder_Orange.json
@@ -2118,18 +2118,18 @@ json-db/en/SOLO/Dolores Malephaise/Base_Placeholder.json|DELETE
 json-db/en/SOLO/Dolores Malephaise/Finisher_Alt_Placeholder.json|DELETE
 convention/中英译名对照表.md
 convention/中英译名对照表.md
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/专属_占位·基底一.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/character.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·黄.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_恐惧.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_折磨.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_恶习.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/专属招式_倒刺.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·橙.json|DELETE
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·绿.json|DELETE
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·蓝.json|DELETE
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/专属_占位·基底一.json|DELETE
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/专属_占位·基底二.json|DELETE
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/专属_占位·基底一.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/character.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·黄.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_恐惧.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_折磨.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_恶习.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/专属招式_倒刺.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·橙.json|DELETE
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·绿.json|DELETE
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·蓝.json|DELETE
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/专属_占位·基底一.json|DELETE
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/专属_占位·基底二.json|DELETE
 json-db/en/SOLO/Dolores Malephaise/character.json
 json-db/en/SOLO/Dolores Malephaise/Style_Terror.json
 json-db/en/SOLO/Dolores Malephaise/Style_Tormented.json
@@ -2141,16 +2141,21 @@ json-db/en/SOLO/Dolores Malephaise/Style_Placeholder_Green.json|DELETE
 json-db/en/SOLO/Dolores Malephaise/Style_Placeholder_Blue.json|DELETE
 json-db/en/SOLO/Dolores Malephaise/Base_Placeholder_One.json|DELETE
 json-db/en/SOLO/Dolores Malephaise/Base_Placeholder_Two.json|DELETE
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/character.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_狂躁.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_占位·黄.json|DELETE
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/character.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_狂躁.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_占位·黄.json|DELETE
 json-db/en/SOLO/Dolores Malephaise/character.json
 json-db/en/SOLO/Dolores Malephaise/Style_Manic.json
 json-db/en/SOLO/Dolores Malephaise/Style_Placeholder_Yellow.json|DELETE
 convention/中英译名对照表.md
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_狂躁.json
-json-db/zh/独立-SOLO/多洛莉丝·玛勒法斯/风格_狂躁.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_狂躁.json
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯/风格_狂躁.json
 json-db/en/SOLO/Dolores Malephaise/Style_Manic.json
 convention/中英译名对照表.md
 convention/中英译名对照表.md
 convention/中英译名对照表.md
+rulebook/rulebook-cn-b.md
+rulebook/模式指南.md
+json-db/zh/独立-SOLO/多洛蕾丝·玛勒菲斯
+json-db/en/SOLO/Dolores Malephaise/character.json
+常驻指令-v2.md
