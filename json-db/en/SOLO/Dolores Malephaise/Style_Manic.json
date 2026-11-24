@@ -1,0 +1,27 @@
+{
+ "角色": "Dolores Malephaise",
+ "名称": "Manic",
+ "卡类": "风格",
+ "系列": "SOLO",
+ "角标": "<yellow-hexagon>",
+ "数值": {
+  "距离": "3~4*",
+  "威力": "+1",
+  "速度": "-1",
+  "韧性": "+0"
+ },
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "This attack does not hit if your Attack's Range is N/A."
+  },
+  {
+   "时点": "命中",
+   "效果": "Push or Pull 1~2.",
+   "条件": ""
+  }
+ ],
+ "来源": "官方实卡(2026-11-24用户拍照录入;画面模糊处以占位符标出)",
+ "备注": "Range 3~4* absolute,unmodifiable (asterisk on card).Name from user screenshot 2026-11-24,motion blur,read as MANIC [lightly TBD]. Card subject corrected to \"Attack\" (not \"Base\") by user 2026-11-24."
+}
