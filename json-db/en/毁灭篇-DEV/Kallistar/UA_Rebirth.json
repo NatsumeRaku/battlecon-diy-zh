@@ -1,0 +1,27 @@
+{
+ "角色": "Kallistar",
+ "角标": "",
+ "名称": "Rebirth",
+ "卡类": "UA",
+ "系列": "毁灭篇-DEV",
+ "效果": [
+  {
+   "时点": "循环",
+   "条件": "",
+   "效果": "Recycle, 10 or less life: Set your UA to 10. Replace your Styles with the matching-colored <i-sb>Phoenix</i-sb> Styles, wherever they are (your original Styles become...). [后半被遮]"
+  },
+  {
+   "时点": "初始设置",
+   "条件": "",
+   "效果": "Setup: You have [被遮] life. She starts in her safer <i-sb>Human Form</i-sb>, then changes to her dangerous <i-sb>Phoenix Form</i-sb> at half life."
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "N/A"
+ },
+ "备注": "UA文字大半被游戏UI遮挡,仅录可辨部分;身份依人形/凤凰双形态+火焰机制推定为Kallistar(DEV),待核;TTS模拟器截图,图糊随缘录入",
+ "来源": "官方实卡(2026-11-24用户供图录入)"
+}

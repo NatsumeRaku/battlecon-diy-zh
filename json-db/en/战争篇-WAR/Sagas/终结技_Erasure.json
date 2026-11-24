@@ -1,0 +1,32 @@
+{
+ "角色": "Sagas",
+ "角标": "",
+ "名称": "Erasure",
+ "卡类": "终结技",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<b>Ignore Guard</b>, <b>Ignore Armor</b>"
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> Regain <i-sb>Mirror</i-sb>."
+  },
+  {
+   "时点": "循环",
+   "条件": "",
+   "效果": "Recycle, this attack hit: Trash the Opponent's attack pair. They skip cycling their Discard Piles this beat."
+  }
+ ],
+ "数值": {
+  "距离": "3~4",
+  "威力": "3",
+  "速度": "6",
+  "韧性": "0"
+ },
+ "备注": "quote:Everything can be replaced.;TTS模拟器截图,图糊随缘录入",
+ "来源": "官方实卡(2026-11-24用户供图录入)"
+}
