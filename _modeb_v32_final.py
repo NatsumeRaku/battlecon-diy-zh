@@ -119,7 +119,7 @@ def play_boss_burman(seed, h1_name, h2_name, verbose=False):
                 continue
             b = BASES_JIA[bs_]
             card = next(s for s in CHARS[h.name].styles if s.name == st_)
-            p = b['power'] + card.power + h.tokens.get('_复仇力', 0)
+            p = (b.get('power') or 0) + card.power + h.tokens.get('_复仇力', 0)  # 闪避/格挡power=None按0计
             if st_ == '钢铁':
                 h.pos = min(h.pos + 2, B.pos - 1)
             elif bs_ == '猛冲':

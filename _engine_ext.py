@@ -15,7 +15,7 @@ def play_generic(seed, nameA, nameB, verbose=False):
     log = []; beat_no = 0
     while A.life > 0 and B.life > 0 and beat_no < 30:
         beat_no += 1
-        state.pop('hit_by_观者', None)
+        state.pop('hit_by_先古·观者', None)
         ctx = build_ctx(A, B, log)
         for holder, opp in ((A, B), (B, A)):
             if holder.name == '亚历克希安':
