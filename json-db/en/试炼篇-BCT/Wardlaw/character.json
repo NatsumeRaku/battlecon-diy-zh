@@ -1,0 +1,22 @@
+{
+ "名称": "Wardlaw",
+ "卡类": "角色",
+ "类别": "斗士",
+ "系列": "试炼篇-BCT",
+ "称号": "",
+ "类型": "Slugger",
+ "难度": "Intermediate",
+ "英文": "Wardlaw O'Brien",
+ "机制概述": "Gains bonuses at arena edge; movement effects that move Opponent to edge Chip 2; can Chip 2 again if Opponent already at edge; Reveal at edge: +2 Priority and Before: Advance 1",
+ "机制名": "",
+ "角标分配": {
+  "Dangerous": "<blue-circle>"
+ },
+ "卡牌清单": [
+  "UA_Beatdown.json",
+  "风格_Dangerous.json"
+ ],
+ "备注": "页脚Wardlaw O'Brien (Slugger/Intermediate)；图糊随缘录入,仅2卡。",
+ "来源": "官方实卡(2026-11-24用户供图录入)",
+ "角色": "Wardlaw"
+}
