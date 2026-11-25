@@ -1,0 +1,27 @@
+{
+ "角色": "Jager",
+ "角标": "<red-diamond>",
+ "名称": "Menacing",
+ "卡类": "风格",
+ "系列": "命运篇-FAT",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>Stun Immunity</i-sb>, <i-sb>Ignore Guard</i-sb>, <i-sb>Ignore Armor</i-sb>."
+  },
+  {
+   "时点": "开始",
+   "条件": "The Opponent's Base's name matches a Base name in your Discard Piles",
+   "效果": "<g-b>Start,</g-b> the Opponent's Base's name matches a Base name in your Discard Piles: Become Active Player."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "-2",
+  "韧性": "+0"
+ },
+ "备注": "deck37格25;页脚JAGER •FAT;红色菱形角标",
+ "来源": "官方实卡(TTS图包)"
+}

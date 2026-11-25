@@ -1,0 +1,22 @@
+{
+ "角色": "Baenvier",
+ "角标": "<orange-pentagon>",
+ "名称": "Spellforge",
+ "卡类": "风格",
+ "系列": "命运篇-FAT",
+ "效果": [
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> The Opponent returns their Style to their hand (Its stats and text no longer apply. Any bonuses and penalties gained prior to this still apply)."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "+2",
+  "韧性": "+0"
+ },
+ "备注": "deck37格11;页脚BAENVIER •FAT;橙色五边形角标",
+ "来源": "官方实卡(TTS图包)"
+}

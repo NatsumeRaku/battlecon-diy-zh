@@ -1,0 +1,22 @@
+{
+ "角色": "Triallandra",
+ "角标": "<yellow-hexagon>",
+ "名称": "Galactic",
+ "卡类": "风格",
+ "系列": "命运篇-FAT",
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "Your active Facade's <i-sb>Transform</i-sb> and <i-sb>Stabilize</i-sb> are both applied to this attack (instead of just one as usual)."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "-1",
+  "韧性": "+0"
+ },
+ "备注": "deck37格17;页脚IRIALANDRADAYAMORELLA •FAT;黄色六边形角标",
+ "来源": "官方实卡(TTS图包)"
+}

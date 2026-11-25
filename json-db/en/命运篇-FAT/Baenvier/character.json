@@ -6,6 +6,16 @@
  "系列": "命运篇-FAT",
  "效果": [],
  "数值": {},
- "备注": "盒照识别(66050/66052);Baenvier,FAT[轻待核];骨架占位,卡面内容待TTS图包识别后补录",
- "来源": "官方实卡(2026-11-25用户盒照识别)"
+ "备注": "盒照识别(66050/66052);Baenvier,FAT[轻待核];骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck38格67角色卡补全英文/称号;deck37格10-59补录风格/基底",
+ "来源": "官方实卡(TTS图包)",
+ "英文": "Baenvier Marlgrove",
+ "称号": "Knight Commander",
+ "卡牌清单": [
+  "基底_Crescent.json",
+  "终结技_Spire.json",
+  "风格_Cure.json",
+  "风格_Destruction.json",
+  "风格_Ranc.json",
+  "风格_Spellforge.json"
+ ]
 }

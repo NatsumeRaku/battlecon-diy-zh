@@ -1,0 +1,27 @@
+{
+ "角色": "Eustace",
+ "角标": "<red-diamond>",
+ "名称": "Frigid",
+ "卡类": "风格",
+ "系列": "命运篇-FAT",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "Frostflow not anted",
+   "效果": "<b>Reveal,</b> <i-sb>Frostflow</i-sb> not anted: <i-sb>+1 Power</i-sb> per depleted <i-sb>Frostflow</i-sb>."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "<g-b>End:</g-b> Close <i-sb>6</i-sb>."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "deck37格20;页脚EUSTACE •FAT;红色菱形角标",
+ "来源": "官方实卡(TTS图包)"
+}

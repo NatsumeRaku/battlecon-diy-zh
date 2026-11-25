@@ -1,0 +1,22 @@
+{
+ "角色": "Thessala",
+ "角标": "<red-diamond>",
+ "名称": "Slicing",
+ "卡类": "风格",
+ "系列": "命运篇-FAT",
+ "效果": [
+  {
+   "时点": "每当",
+   "条件": "The Opponent Retreats",
+   "效果": "<p-b>When the Opponent Retreats,</p-b> <i-sb>+0~2 Range</i-sb>."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+1",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "deck37格40;页脚THESSALA •FAT;红色菱形角标",
+ "来源": "官方实卡(TTS图包)"
+}

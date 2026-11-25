@@ -1,0 +1,27 @@
+{
+ "角色": "Alumis",
+ "角标": "<green-tri-down>",
+ "名称": "Horrific",
+ "卡类": "风格",
+ "系列": "命运篇-FAT",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>Ignore Guard</i-sb>, <i-sb>Ignore Armor</i-sb>."
+  },
+  {
+   "时点": "开始",
+   "条件": "The Opponent is not on the Shadow",
+   "效果": "<g-b>Start, the Opponent is not on the Shadow:</g-b> Push or Pull <i-sb>1</i-sb> towards the Shadow."
+  }
+ ],
+ "数值": {
+  "距离": "+0~1",
+  "威力": "+1",
+  "速度": "-1",
+  "韧性": "+2"
+ },
+ "备注": "deck37格58;页脚ALUMIS •FAT;绿色倒三角角标",
+ "来源": "官方实卡(TTS图包)"
+}

@@ -1,0 +1,21 @@
+{
+ "角色": "Alumis",
+ "角标": "",
+ "名称": "Alumis",
+ "卡类": "角色",
+ "系列": "命运篇-FAT",
+ "效果": [],
+ "数值": {},
+ "备注": "骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck38格60角色卡补全英文/称号;deck37格10-59补录风格/基底",
+ "来源": "官方实卡(TTS图包)",
+ "英文": "Alumis",
+ "称号": "Shadow Puppeteer",
+ "卡牌清单": [
+  "基底_Tenebrous.json",
+  "终结技_Dread.json",
+  "风格_Arcane.json",
+  "风格_Ghastly.json",
+  "风格_Horrific.json",
+  "风格_Sinister.json"
+ ]
+}

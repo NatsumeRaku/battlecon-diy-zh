@@ -1,0 +1,21 @@
+{
+ "角色": "Xenitia",
+ "角标": "",
+ "名称": "Xenitia",
+ "卡类": "角色",
+ "系列": "命运篇-FAT",
+ "效果": [],
+ "数值": {},
+ "备注": "骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck38格65角色卡补全英文/称号;deck37格10-59补录风格/基底",
+ "来源": "官方实卡(TTS图包)",
+ "英文": "Xenitia Zook",
+ "称号": "Blood Mage",
+ "卡牌清单": [
+  "基底_Purging.json",
+  "终结技_Bloodweapon.json",
+  "风格_Draining.json",
+  "风格_Guilty.json",
+  "风格_Razor.json",
+  "风格_Rending.json"
+ ]
+}

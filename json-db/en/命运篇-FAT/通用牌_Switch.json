@@ -1,0 +1,27 @@
+{
+ "角色": "通用",
+ "角标": "<purple-star>",
+ "名称": "Switch",
+ "卡类": "Force风格",
+ "系列": "命运篇-FAT",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> Spend Force equal to your life to replace your attack with your Finisher, trash this card, and pick up your Base."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "<g-b>End:</g-b> Regain a Force. You may switch your Finisher."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "deck37格0;页脚FORCE STYLE •FAT;Force风格通用牌;角标为紫色五角星(Force标记,新型角标)",
+ "来源": "官方实卡(TTS图包)"
+}

@@ -1,0 +1,32 @@
+{
+ "角色": "Sarafina",
+ "角标": "<green-tri-down>",
+ "名称": "Locus",
+ "卡类": "风格",
+ "系列": "命运篇-FAT",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "You Advanced past the Opponent",
+   "效果": "<b>Reveal, you Advanced past the Opponent:</b> <i-sb>+4 Priority</i-sb>."
+  },
+  {
+   "时点": "开始",
+   "条件": "The Opponent is on the Projection",
+   "效果": "<g-b>Start, the Opponent on the Projection:</g-b> Regain <i-sb>2 Force</i-sb> and Pull <i-sb>1</i-sb>."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "<g-b>End:</g-b> <i-sb>Projection 3</i-sb>."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+1",
+  "速度": "-1",
+  "韧性": "+0"
+ },
+ "备注": "deck37格38;页脚SARAFINA •FAT;绿色倒三角角标",
+ "来源": "官方实卡(TTS图包)"
+}

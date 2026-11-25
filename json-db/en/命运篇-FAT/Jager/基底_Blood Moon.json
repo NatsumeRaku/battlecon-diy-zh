@@ -1,0 +1,27 @@
+{
+ "角色": "Jager",
+ "角标": "<blue-circle>",
+ "名称": "Blood Moon",
+ "卡类": "基底",
+ "系列": "命运篇-FAT",
+ "效果": [
+  {
+   "时点": "每当",
+   "条件": "The Opponent Advances past you",
+   "效果": "<p-b>When the Opponent Advances past you,</p-b> your Range becomes <i-sb>N/A</i-sb>."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<b>Armor 2</b>, Avoid attacks at Range <i-sb>4+</i-sb>."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+1",
+  "速度": "-2",
+  "韧性": "+2"
+ },
+ "备注": "deck37格29;页脚JAGER •FAT;蓝色圆形角标;基底牌",
+ "来源": "官方实卡(TTS图包)"
+}

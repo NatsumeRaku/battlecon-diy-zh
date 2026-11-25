@@ -1,0 +1,21 @@
+{
+ "角色": "Triallandra",
+ "角标": "",
+ "名称": "Triallandra",
+ "卡类": "角色",
+ "系列": "命运篇-FAT",
+ "效果": [],
+ "数值": {},
+ "备注": "骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck38格69角色卡补全英文/称号;deck37格10-59补录风格/基底",
+ "来源": "官方实卡(TTS图包)",
+ "英文": "Irialandradayamorella",
+ "称号": "Star Knight",
+ "卡牌清单": [
+  "基底_Magical.json",
+  "终结技_Starlight.json",
+  "风格_Astral.json",
+  "风格_Aurora.json",
+  "风格_Comet.json",
+  "风格_Galactic.json"
+ ]
+}

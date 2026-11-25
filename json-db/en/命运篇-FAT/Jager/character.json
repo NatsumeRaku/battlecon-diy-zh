@@ -1,0 +1,21 @@
+{
+ "角色": "Jager",
+ "角标": "",
+ "名称": "Jager",
+ "卡类": "角色",
+ "系列": "命运篇-FAT",
+ "效果": [],
+ "数值": {},
+ "备注": "骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck38格61角色卡补全英文/称号;deck37格10-59补录风格/基底",
+ "来源": "官方实卡(TTS图包)",
+ "英文": "Jager Brandford",
+ "称号": "Wolfborn",
+ "卡牌清单": [
+  "基底_Blood Moon.json",
+  "终结技_Slicer.json",
+  "风格_Fanged.json",
+  "风格_Hounding.json",
+  "风格_Menacing.json",
+  "风格_Refined.json"
+ ]
+}

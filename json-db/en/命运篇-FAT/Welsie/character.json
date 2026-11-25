@@ -6,6 +6,16 @@
  "系列": "命运篇-FAT",
  "效果": [],
  "数值": {},
- "备注": "盒照识别(66050/66052);Welsie Acktern,FAT[轻待核];骨架占位,卡面内容待TTS图包识别后补录",
- "来源": "官方实卡(2026-11-25用户盒照识别)"
+ "备注": "盒照识别(66050/66052);Welsie Acktern,FAT[轻待核];骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck38格66角色卡补全英文/称号;deck37格10-59补录风格/基底",
+ "来源": "官方实卡(TTS图包)",
+ "英文": "Welsie Acktern",
+ "称号": "Time Traveler",
+ "卡牌清单": [
+  "基底_Anomalous.json",
+  "终结技_Arc.json",
+  "风格_Discordant.json",
+  "风格_Parallax.json",
+  "风格_Quandary.json",
+  "风格_Temporal.json"
+ ]
 }
