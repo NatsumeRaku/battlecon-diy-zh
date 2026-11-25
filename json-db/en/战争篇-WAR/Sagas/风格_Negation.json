@@ -8,7 +8,7 @@
   {
    "时点": "展示",
    "条件": "",
-   "效果": "<b>Reveal:</b> The Opponent's Style has <i-sb>+0 Range</i-sb>, <i-sb>+0 Power</i-sb>, <i-sb>+0 Priority</i-sb>, and <i-sb>+0 Guard</i-sb> instead of its printed values."
+   "效果": "<b>Reveal:</b> The Opponent's <i-sb>Style</i-sb> has <i-sb>+0 Range</i-sb>, <i-sb>+0 Power</i-sb>, <i-sb>+0 Priority</i-sb>, and <i-sb>+0 Guard</i-sb> instead of its printed values."
   },
   {
    "时点": "展示",

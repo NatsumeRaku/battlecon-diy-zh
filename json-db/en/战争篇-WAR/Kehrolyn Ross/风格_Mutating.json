@@ -8,12 +8,12 @@
   {
    "时点": "持续",
    "条件": "",
-   "效果": "Morph: Mutated."
+   "效果": "<i-sb>Morph</i-sb>: <i-sb>Mutated</i-sb>."
   },
   {
    "时点": "展示",
    "条件": "",
-   "效果": "<b>Reveal:</b> Apply the stats and effects of your active Morph again. Suffer <b>Chip 1</b>."
+   "效果": "<b>Reveal:</b> Apply the stats and effects of your active <i-sb>Morph</i-sb> again. Suffer <b>Chip 1</b>."
   }
  ],
  "数值": {

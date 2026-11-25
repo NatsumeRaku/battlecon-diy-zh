@@ -8,7 +8,7 @@
   {
    "时点": "后置",
    "条件": "",
-   "效果": "<bl-b>After:</bl-b> Activate Virus."
+   "效果": "<bl-b>After:</bl-b> Activate <i-sb>Virus</i-sb>."
   }
  ],
  "数值": {

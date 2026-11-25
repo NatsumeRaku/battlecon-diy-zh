@@ -8,7 +8,7 @@
   {
    "时点": "持续",
    "条件": "",
-   "效果": "<b>Armor 2</b>. You cannot be Pushed or Pulled. Triggers on your Base are Optional."
+   "效果": "<b>Armor 2</b>. You cannot be Pushed or Pulled. Triggers on your <b>Base</b> are Optional."
   }
  ],
  "数值": {

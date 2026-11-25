@@ -8,7 +8,7 @@
   {
    "时点": "开始",
    "条件": "",
-   "效果": "<g-b>Start:</g-b> Reveal a Style not named “Switch” from your hand. Apply its stats and text to your attack but do not gain its listed Morph. If it has any Reveal triggers, perform them now."
+   "效果": "<g-b>Start:</g-b> Reveal a <i-sb>Style</i-sb> not named “<i-sb>Switch</i-sb>” from your hand. Apply its stats and text to your attack but do not gain its listed <i-sb>Morph</i-sb>. If it has any <i-sb>Reveal</i-sb> triggers, perform them now."
   }
  ],
  "数值": {
