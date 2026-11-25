@@ -1,11 +1,26 @@
 {
- "角色": "Magdelina",
- "角标": "",
- "名称": "Magdelina",
+ "名称": "Magdelina Larington",
+ "中文名": "",
  "卡类": "角色",
+ "类别": "斗士",
  "系列": "战争篇-WAR",
- "效果": [],
- "数值": {},
- "备注": "盒照识别(66050/66052);Magdelina Larington,战争篇人类形态(2010P&P)[轻待核:与DEV首领Twilight Magdelina区分];骨架占位,卡面内容待TTS图包识别后补录",
- "来源": "官方实卡(2026-11-25用户盒照识别)"
+ "称号": "Battle Channeler",
+ "类型": "",
+ "难度": "",
+ "机制概述": "",
+ "机制名": "Trance",
+ "卡牌清单": [
+  "风格_Sanctimonious.json",
+  "风格_Excelsus.json",
+  "风格_Spiritual.json",
+  "风格_Priestess.json",
+  "风格_Safety.json",
+  "专属_Flash.json",
+  "专属_Blessing.json",
+  "终结技_Apotheosis.json"
+ ],
+ "id": "战争篇-WAR-Magdelina",
+ "英文状态": "角色卡/五风格/专属基底/α终结技已据TTS官方模组卡面核实录入;UA/β终结技模组未含待补",
+ "来源": "官方实卡(TTS图包)",
+ "角色": "Magdelina Larington"
 }

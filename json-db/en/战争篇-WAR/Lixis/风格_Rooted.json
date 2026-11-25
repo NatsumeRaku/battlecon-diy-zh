@@ -1,0 +1,22 @@
+{
+ "角色": "Lixis Ran Kanda",
+ "角标": "<green-tri-down>",
+ "名称": "Rooted",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "<b>Armor 2</b>. You cannot be Pushed or Pulled. Triggers on your Base are Optional."
+  }
+ ],
+ "数值": {
+  "距离": "-1~0",
+  "威力": "+0",
+  "速度": "-2",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

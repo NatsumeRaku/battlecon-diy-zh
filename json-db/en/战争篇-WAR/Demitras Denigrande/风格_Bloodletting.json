@@ -1,0 +1,27 @@
+{
+ "角色": "Demitras Denigrande",
+ "角标": "<green-tri-down>",
+ "名称": "Bloodletting",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "<b>Ignore Armor</b>."
+  },
+  {
+   "时点": "命中",
+   "条件": "1 or fewer Crescendo held",
+   "效果": "<r-b>Hit, 1 or fewer Crescendo held:</r-b> Regain 2 life."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "-2",
+  "速度": "+3",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

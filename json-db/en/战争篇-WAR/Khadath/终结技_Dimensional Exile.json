@@ -1,0 +1,22 @@
+{
+ "角色": "Khadath Ahemusei",
+ "角标": "<star8-alpha>",
+ "名称": "Dimensional Exile",
+ "卡类": "终结技",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "Stun Immunity. X is on the <i-sb>Gate</i-sb>."
+  }
+ ],
+ "数值": {
+  "距离": "X",
+  "威力": "25",
+  "速度": "0<initiative>",
+  "韧性": "0<stun-shield>"
+ },
+ "备注": "quote:What you need is an extended vacation!;TTS模组仅含α面,β面[待核]",
+ "来源": "官方实卡(TTS图包)"
+}

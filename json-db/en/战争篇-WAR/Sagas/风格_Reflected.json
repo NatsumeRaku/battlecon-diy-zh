@@ -1,0 +1,23 @@
+{
+ "角色": "Sagas Seities",
+ "角标": "<green-tri-down>",
+ "名称": "Reflected",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start, Optional:</g-b> Spend <i-sb>Mirror</i-sb> for Push 1 and the Opponent cannot enter spaces adjacent to you.",
+   "可选": true
+  }
+ ],
+ "数值": {
+  "距离": "+1~2",
+  "威力": "+1",
+  "速度": "+1",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

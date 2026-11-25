@@ -1,11 +1,25 @@
 {
- "角色": "Kehrolyn Ross",
- "角标": "",
  "名称": "Kehrolyn Ross",
+ "中文名": "",
  "卡类": "角色",
+ "类别": "斗士",
  "系列": "战争篇-WAR",
- "效果": [],
- "数值": {},
- "备注": "页脚定位BRAWLER/NOVICE;仅UA照录",
- "来源": "官方实卡(2026-11-24用户供图录入)"
+ "称号": "Shapeshifter",
+ "类型": "",
+ "难度": "",
+ "机制概述": "",
+ "机制名": "Morph",
+ "卡牌清单": [
+  "风格_Whip.json",
+  "风格_Quicksilver.json",
+  "风格_Mutating.json",
+  "风格_Bladed.json",
+  "风格_Exoskeletal.json",
+  "专属_Strand.json",
+  "终结技_Hydra Fork.json"
+ ],
+ "id": "战争篇-WAR-Kehrolyn Ross",
+ "英文状态": "角色卡/五风格/专属基底/α终结技已据TTS官方模组卡面核实录入;UA/β终结技模组未含待补",
+ "来源": "官方实卡(TTS图包)",
+ "角色": "Kehrolyn Ross"
 }

@@ -1,0 +1,27 @@
+{
+ "角色": "Kallistar Flarechild",
+ "角标": "<orange-pentagon>",
+ "名称": "Volcanic",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "命中",
+   "条件": "Elemental",
+   "效果": "<r-b>Hit, Elemental:</r-b> Next beat, <i-sb>+1 Power</i-sb>."
+  },
+  {
+   "时点": "结束",
+   "条件": "Human",
+   "效果": "<g-b>End, Human:</g-b> Teleport to any space."
+  }
+ ],
+ "数值": {
+  "距离": "+1~3",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

@@ -1,11 +1,25 @@
 {
- "角色": "Rukyuk",
- "角标": "",
- "名称": "Rukyuk",
+ "名称": "Rukyuk Amberdeen",
+ "中文名": "",
  "卡类": "角色",
+ "类别": "斗士",
  "系列": "战争篇-WAR",
- "效果": [],
- "数值": {},
- "备注": "盒照识别(66050/66052);Rukyuk Amberdeen,战争篇(2010P&P);骨架占位,卡面内容待TTS图包识别后补录",
- "来源": "官方实卡(2026-11-25用户盒照识别)"
+ "称号": "Wandering Sharpshooter",
+ "类型": "",
+ "难度": "",
+ "机制概述": "",
+ "机制名": "Ammo",
+ "卡牌清单": [
+  "风格_Sniper.json",
+  "风格_Crossfire.json",
+  "风格_Gunner.json",
+  "风格_Point Blank.json",
+  "风格_Trick.json",
+  "专属_Reload.json",
+  "终结技_Fully Automatic.json"
+ ],
+ "id": "战争篇-WAR-Rukyuk",
+ "英文状态": "角色卡/五风格/专属基底/α终结技已据TTS官方模组卡面核实录入;UA/β终结技模组未含待补",
+ "来源": "官方实卡(TTS图包)",
+ "角色": "Rukyuk Amberdeen"
 }

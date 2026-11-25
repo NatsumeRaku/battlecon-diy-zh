@@ -1,0 +1,22 @@
+{
+ "角色": "Hepzibah Culotre",
+ "角标": "<green-tri-down>",
+ "名称": "Anathema",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> <i-sb>+1 Power</i-sb> and <i-sb>+1 Priority</i-sb> per active Pact (max 3 each)."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "-1",
+  "速度": "-1",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

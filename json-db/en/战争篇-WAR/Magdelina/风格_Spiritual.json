@@ -1,0 +1,22 @@
+{
+ "角色": "Magdelina Larington",
+ "角标": "<yellow-hexagon>",
+ "名称": "Spiritual",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "If this attack did not hit, you cannot gain Trance or Level Up."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+1",
+  "速度": "+1",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

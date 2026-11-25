@@ -1,0 +1,22 @@
+{
+ "角色": "Kehrolyn Ross",
+ "角标": "<gray-moon>",
+ "名称": "Strand",
+ "卡类": "专属",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start:</g-b> Reveal a Style not named “Switch” from your hand. Apply its stats and text to your attack but do not gain its listed Morph. If it has any Reveal triggers, perform them now."
+  }
+ ],
+ "数值": {
+  "距离": "1",
+  "威力": "3",
+  "速度": "3",
+  "韧性": "1"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

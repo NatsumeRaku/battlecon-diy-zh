@@ -1,0 +1,23 @@
+{
+ "角色": "Hikaru Soryama",
+ "角标": "<red-diamond>",
+ "名称": "Geomantic",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start, Optional:</g-b> Use an <i-sb>Element</i-sb>. (Deplete the token, gain its innate effects.)",
+   "可选": true
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+1",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "卡名实读[待核];TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

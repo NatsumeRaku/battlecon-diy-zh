@@ -1,0 +1,28 @@
+{
+ "角色": "Magdelina Larington",
+ "角标": "<blue-circle>",
+ "名称": "Safety",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "You cannot take more than X damage, where X is 3 plus your current Level."
+  },
+  {
+   "时点": "结束",
+   "条件": "you were hit",
+   "效果": "<g-b>End, you were hit, Optional:</g-b> Advance or Retreat 1-3.",
+   "可选": true
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "-2",
+  "韧性": "+1"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

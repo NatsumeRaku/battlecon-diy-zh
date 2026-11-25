@@ -1,0 +1,25 @@
+{
+ "名称": "Seth Grewmul",
+ "中文名": "",
+ "卡类": "角色",
+ "类别": "斗士",
+ "系列": "战争篇-WAR",
+ "称号": "Oracle",
+ "类型": "",
+ "难度": "",
+ "机制概述": "",
+ "机制名": "Foresight",
+ "卡牌清单": [
+  "风格_Fool's.json",
+  "风格_Vanishing.json",
+  "风格_Compelling.json",
+  "风格_Mimic's.json",
+  "风格_Wrath.json",
+  "专属_Omen.json",
+  "终结技_Reaving Fate.json"
+ ],
+ "id": "战争篇-WAR-Seth",
+ "英文状态": "角色卡/五风格/专属基底/α终结技已据TTS官方模组卡面核实录入;UA/β终结技模组未含待补",
+ "来源": "官方实卡(TTS图包)",
+ "角色": "Seth Grewmul"
+}

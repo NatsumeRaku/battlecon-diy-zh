@@ -1,0 +1,22 @@
+{
+ "角色": "Luc von Gott",
+ "角标": "<red-diamond>",
+ "名称": "Eternal",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "每当",
+   "条件": "you are hit",
+   "效果": "When you are hit, spend any amount of <i-sb>Time</i-sb> for <b>Armor 1</b> each."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "-4",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

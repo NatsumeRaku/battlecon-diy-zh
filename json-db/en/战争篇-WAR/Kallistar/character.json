@@ -1,11 +1,25 @@
 {
- "角色": "Kallistar",
- "角标": "",
- "名称": "Kallistar",
+ "名称": "Kallistar Flarechild",
+ "中文名": "",
  "卡类": "角色",
+ "类别": "斗士",
  "系列": "战争篇-WAR",
- "效果": [],
- "数值": {},
- "备注": "身份依人形/凤凰双形态+火焰机制推定为Kallistar(DEV),待核;TTS模拟器截图,图糊随缘录入;2026-11-25系列更正:Kallistar系战争篇出身(2010P&P预览+规则书30人名单双证),原挂DEV误",
- "来源": "官方实卡(2026-11-24用户供图录入)"
+ "称号": "Fire Elemental",
+ "类型": "",
+ "难度": "",
+ "机制概述": "",
+ "机制名": "Elemental",
+ "卡牌清单": [
+  "风格_Ignition.json",
+  "风格_Volcanic.json",
+  "风格_Flare.json",
+  "风格_Caustic.json",
+  "风格_Blazing.json",
+  "专属_Spellbolt.json",
+  "终结技_Supernova.json"
+ ],
+ "id": "战争篇-WAR-Kallistar",
+ "英文状态": "角色卡/五风格/专属基底/α终结技已据TTS官方模组卡面核实录入;UA/β终结技模组未含待补",
+ "来源": "官方实卡(TTS图包)",
+ "角色": "Kallistar Flarechild"
 }

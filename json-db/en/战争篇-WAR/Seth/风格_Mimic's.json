@@ -1,0 +1,27 @@
+{
+ "角色": "Seth Grewmul",
+ "角标": "<green-tri-down>",
+ "名称": "Mimic's",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "每当",
+   "条件": "the Opponent would Advance",
+   "效果": "Whenever the Opponent would Advance, Retreat the same distance first, as far as possible."
+  },
+  {
+   "时点": "每当",
+   "条件": "the Opponent Retreats",
+   "效果": "Whenever the Opponent Retreats, Advance the same distance."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+1",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

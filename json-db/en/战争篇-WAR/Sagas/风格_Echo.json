@@ -1,0 +1,27 @@
+{
+ "角色": "Sagas Seities",
+ "角标": "<red-diamond>",
+ "名称": "Echo",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "the Opponent's Base has the same name as yours",
+   "效果": "<g-b>Start, the Opponent's Base has the same name as yours:</g-b> Stun Immunity, <i-sb>+2 Power</i-sb>, and the Opponent becomes Active Player."
+  },
+  {
+   "时点": "结束",
+   "条件": "Reactive Player",
+   "效果": "<g-b>End, Reactive Player:</g-b> Regain <i-sb>Mirror</i-sb>."
+  }
+ ],
+ "数值": {
+  "距离": "+0~1",
+  "威力": "+1",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

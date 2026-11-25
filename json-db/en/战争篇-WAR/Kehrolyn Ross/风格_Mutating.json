@@ -1,0 +1,27 @@
+{
+ "角色": "Kehrolyn Ross",
+ "角标": "<yellow-hexagon>",
+ "名称": "Mutating",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "Morph: Mutated."
+  },
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> Apply the stats and effects of your active Morph again. Suffer <b>Chip 1</b>."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

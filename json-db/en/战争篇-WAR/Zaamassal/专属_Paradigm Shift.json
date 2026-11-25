@@ -1,0 +1,23 @@
+{
+ "角色": "Zaamassal Kett",
+ "系列": "战争篇-WAR",
+ "来源": "官方实卡(TTS图包)",
+ "角标": "<gray-moon>",
+ "名称": "Paradigm Shift",
+ "卡类": "专属",
+ "效果": [
+  {
+   "时点": "后置",
+   "条件": "",
+   "效果": "<bl-b>After, Optional:</bl-b> Become a <i-sb>Paradigm</i-sb> of your choice.",
+   "可选": true
+  }
+ ],
+ "备注": "TTS官方模组卡面直录",
+ "数值": {
+  "距离": "2~3",
+  "威力": "3",
+  "速度": "3",
+  "韧性": "0"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "角色": "Cherri Seneca",
+ "角标": "<red-diamond>",
+ "名称": "Crimson",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> Cause a Clash if the Opponent's printed Priority is less than yours. <i-sb>+2 Power</i-sb> if you could not."
+  }
+ ],
+ "数值": {
+  "距离": "+0~1",
+  "威力": "-1",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

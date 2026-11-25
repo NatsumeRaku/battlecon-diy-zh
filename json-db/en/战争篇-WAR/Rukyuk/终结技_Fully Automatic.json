@@ -1,0 +1,27 @@
+{
+ "角色": "Rukyuk Amberdeen",
+ "角标": "<star8-alpha>",
+ "名称": "Fully Automatic",
+ "卡类": "终结技",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> Negate all bonuses and effects from <i-sb>Ammo</i-sb>."
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> Spend all <i-sb>Ammo</i-sb> for <i-sb>+2 Power</i-sb> each."
+  }
+ ],
+ "数值": {
+  "距离": "3~6",
+  "威力": "1",
+  "速度": "6<initiative>",
+  "韧性": "0"
+ },
+ "备注": "quote:Time to go all-out!;TTS模组仅含α面,β面[待核]",
+ "来源": "官方实卡(TTS图包)"
+}

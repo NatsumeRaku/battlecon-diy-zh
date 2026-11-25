@@ -1,0 +1,22 @@
+{
+ "角色": "Khadath Ahemusei",
+ "角标": "<red-diamond>",
+ "名称": "Hunter's",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "Opponent on or adjacent to the Gate",
+   "效果": "<b>Reveal, Opponent on or adjacent to the Gate:</b> <i-sb>+2 Power</i-sb> and <i-sb>+2 Priority</i-sb>."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

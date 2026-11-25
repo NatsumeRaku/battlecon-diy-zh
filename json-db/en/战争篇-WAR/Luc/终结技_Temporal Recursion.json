@@ -1,0 +1,28 @@
+{
+ "角色": "Luc von Gott",
+ "角标": "<star8-alpha>",
+ "名称": "Temporal Recursion",
+ "卡类": "终结技",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start, Optional:</g-b> Spend 1-2 <i-sb>Time</i-sb> for Advance 1 each.",
+   "可选": true
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> Spend any amount of <i-sb>Time</i-sb> for <i-sb>+2 Power</i-sb> each."
+  }
+ ],
+ "数值": {
+  "距离": "1",
+  "威力": "3",
+  "速度": "5<initiative>",
+  "韧性": "0"
+ },
+ "备注": "quote:This time, there's no way out for you!;TTS模组仅含α面,β面[待核]",
+ "来源": "官方实卡(TTS图包)"
+}

@@ -1,0 +1,27 @@
+{
+ "角色": "Hepzibah Culotre",
+ "角标": "<yellow-hexagon>",
+ "名称": "Pactbound",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "2+ active Pacts",
+   "效果": "<g-b>Start, 2+ active Pacts:</g-b> Regain 2 life."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "<g-b>End:</g-b> Choose an active Pact. It cannot be deactivated this beat."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+1",
+  "速度": "-1",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

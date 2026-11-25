@@ -1,0 +1,28 @@
+{
+ "角色": "Zaamassal Kett",
+ "系列": "战争篇-WAR",
+ "来源": "官方实卡(TTS图包)",
+ "角标": "<star8-alpha>",
+ "名称": "Open the Gate",
+ "卡类": "终结技",
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "<b>Ignore Guard</b>."
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit, Optional:</r-b> Become a <i-sb>Paradigm</i-sb> of your choice. Trash 1-2 inactive <i-sb>Paradigms</i-sb> and activate Gate Opened.",
+   "可选": true
+  }
+ ],
+ "备注": "quote:Everything is about to change...;TTS模组仅含α面,β面[待核]",
+ "数值": {
+  "距离": "1~2",
+  "威力": "3",
+  "速度": "5<initiative>",
+  "韧性": "0"
+ }
+}
