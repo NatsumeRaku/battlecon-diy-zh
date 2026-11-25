@@ -46,3 +46,14 @@ CardID = deckID*100 + 格序号（行优先）。OCR 主任务按卡表图切片
 
 **终结技正名**:d02格54 Seth α卡面标题实印"READING FATE"(非Reaving Fate),已改档终结技_Reading Fate.json;旧档_旧版待核/终结技_Reading Fate.json保留备查。
 **β终结技下落**:TTS卡背储存与卡正面不连续,格序实扫未覆盖到β面;灰星状态牌疑为β终结技生成物,待续扫。
+
+## deck2格0-39清点(2026-11-26)
+非β终结技,为形态卡与模式卡,共29张(格3-9空):
+- 格0 SUPER/格1 ULTRA/格2 REVENGE(前误记Reserve):模式卡(Overload机制,力量/优先/防御加成+按生命Recycle得Force;REVENGE为团队卡,全员+1 Power/+0 Priority平局决胜),页脚仅"•WAR",归属与卡类待用户定夺,未录入。
+- 格10-14 Hepzibah PACT卡5张:Inevitable(+0~1距离)/Immortality(Armor 2)/Almighty(+2 Power)/Endless(+2 Priority)/Corruption(Hit: Chip 1)。
+- 格15-19+35 Kehrolyn MORPH形态6张:Quickness(+2 Priority,After移动1)/Mutated(Reveal:重施风格效果,Chip 1)/Blades(+1 Power/+1 Guard,Hit Range 1: +2 Power)/Exoskeleton(+2 Guard,Armor 2)/Stable(End: 回1 Force)/Whiplash(+0~2距离,Hit: Pull 1)。
+- 格20 Lixis VIRUS卡:Limited Ante: 对手1生命时+3 Priority,否则Chip 2。
+- 格21-26 Magdelina LEVEL形态6张:Level 0-5,Power/Priority/Guard随级成长,Recycle耗Trance升级(0/1级耗2,2级耗3,3级耗4,4级耗5,5级封顶)。
+- 格27-33 Zaamassal PARADIGM形态7张:Punishing(Damage: Chip 2)/Resilient(Armor 2,After全失)/Hasty(+0 Priority,平局决胜)/Fluid(Before/End各可选移动1)/Distorted(回避距离4+攻击;Before可选距离变3*)/Tranquil(整卡灰调=未激活,无效果)/Gate Opened(每当 stunned/成Paradigm回收全部trashed范式并停用此卡;Reveal:应用全部trashed范式)。
+- 格34 Kallistar HUMAN形态:Armor 1。Kallistar应有Elemental形态,模组此区未见[待核]。
+以上26张形态卡已录入(行160),卡类"形态卡"照页脚命名待用户确认。
