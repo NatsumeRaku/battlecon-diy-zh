@@ -1,5 +1,5 @@
 {
- "卡类": "形态卡",
+ "卡类": "形态牌",
  "名称": "Level 3",
  "角色": "Magdelina Larington",
  "系列": "战争篇-WAR",
@@ -16,6 +16,7 @@
    "效果": "Recycle: Spend 4 <i-sb>Trance</i-sb> to <i-sb>Level Up</i-sb>."
   }
  ],
- "备注": "deck2格24;页脚:MAGDELINA (LEVEL FORM);quote:Take possession of your humble servant...;新卡类\"形态卡\"照页脚类别命名,待用户确认",
- "来源": "官方实卡(TTS图包)"
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck2格24;页脚:MAGDELINA (LEVEL FORM)",
+ "台词": "“Take possession of your humble servant...”"
 }

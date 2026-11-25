@@ -1,5 +1,5 @@
 {
- "卡类": "形态卡",
+ "卡类": "形态牌",
  "名称": "Level 4",
  "角色": "Magdelina Larington",
  "系列": "战争篇-WAR",
@@ -16,6 +16,7 @@
    "效果": "Recycle: Spend 5 <i-sb>Trance</i-sb> to <i-sb>Level Up</i-sb>."
   }
  ],
- "备注": "deck2格25;页脚:MAGDELINA (LEVEL FORM);quote:...and let the will of Ka-Shin shine through you through me.;新卡类\"形态卡\"照页脚类别命名,待用户确认",
- "来源": "官方实卡(TTS图包)"
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck2格25;页脚:MAGDELINA (LEVEL FORM)",
+ "台词": "“...and let the will of Ka-Shin shine through you through me.”"
 }

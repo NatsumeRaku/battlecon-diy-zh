@@ -1,5 +1,5 @@
 {
- "卡类": "形态卡",
+ "卡类": "形态牌",
  "名称": "Virus",
  "角色": "Lixis Ran Kanda",
  "系列": "战争篇-WAR",
@@ -12,6 +12,7 @@
    "效果": "<o-b>Limited Ante:</o-b> <i-sb>+3 Priority</i-sb> if the Opponent has 1 life. Otherwise, <b>Chip 2</b>."
   }
  ],
- "备注": "deck2格20;页脚:LIXIS (VIRUS CARD);quote:How's my latest formula?;新卡类\"形态卡\"照页脚类别命名,待用户确认",
- "来源": "官方实卡(TTS图包)"
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck2格20;页脚:LIXIS (VIRUS CARD)",
+ "台词": "“How's my latest formula?”"
 }

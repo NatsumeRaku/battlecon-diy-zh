@@ -10,11 +10,11 @@
  "机制概述": "",
  "机制名": "Pacts",
  "卡牌清单": [
-  "形态卡_Inevitable.json",
-  "形态卡_Immortality.json",
-  "形态卡_Almighty.json",
-  "形态卡_Endless.json",
-  "形态卡_Corruption.json",
+  "形态牌_Inevitable.json",
+  "形态牌_Immortality.json",
+  "形态牌_Almighty.json",
+  "形态牌_Endless.json",
+  "形态牌_Corruption.json",
   "状态牌_Pact Sealed.json"
  ],
  "id": "战争篇-WAR-Hepzibah Culotre",

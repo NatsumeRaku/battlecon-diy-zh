@@ -56,4 +56,4 @@ CardID = deckID*100 + 格序号（行优先）。OCR 主任务按卡表图切片
 - 格21-26 Magdelina LEVEL形态6张:Level 0-5,Power/Priority/Guard随级成长,Recycle耗Trance升级(0/1级耗2,2级耗3,3级耗4,4级耗5,5级封顶)。
 - 格27-33 Zaamassal PARADIGM形态7张:Punishing(Damage: Chip 2)/Resilient(Armor 2,After全失)/Hasty(+0 Priority,平局决胜)/Fluid(Before/End各可选移动1)/Distorted(回避距离4+攻击;Before可选距离变3*)/Tranquil(整卡灰调=未激活,无效果)/Gate Opened(每当 stunned/成Paradigm回收全部trashed范式并停用此卡;Reveal:应用全部trashed范式)。
 - 格34 Kallistar HUMAN形态:Armor 1。Kallistar应有Elemental形态,模组此区未见[待核]。
-以上26张形态卡已录入(行160),卡类"形态卡"照页脚命名待用户确认。
+以上26张已录入(行160),卡类"形态牌"沿用zh树先例(杀戮尖塔1/塞萨尔·格里斯特/沃客·巨星/春丽/绯雪均有形态牌),quote入台词字段(行162)。
