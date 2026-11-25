@@ -1,0 +1,24 @@
+{
+ "名称": "Clive Melmont",
+ "中文名": "",
+ "卡类": "角色",
+ "类别": "斗士",
+ "系列": "毁灭篇-DEV",
+ "称号": "The Hero's Apprentice",
+ "类型": "",
+ "难度": "",
+ "机制概述": "",
+ "机制名": "Modules",
+ "卡牌清单": [
+  "风格_Megaton.json",
+  "风格_Leaping.json",
+  "风格_Upgradeable.json",
+  "风格_Rocket.json",
+  "风格_Burnout.json",
+  "终结技_System Reset.json"
+ ],
+ "id": "毁灭篇-DEV-Clive Melmont",
+ "英文状态": "名称/称号/五风格/α终结技已据TTS官方模组卡面核实录入;UA/β终结技/专属基底模组未含待补;模组卡4张(Module Card:Swapse Boost?/Atomic Reactor/Barrier Chip/Rocket Boots)因卡类无封闭值暂未录入[待核]",
+ "来源": "官方实卡(TTS图包)",
+ "角色": "Clive Melmont"
+}

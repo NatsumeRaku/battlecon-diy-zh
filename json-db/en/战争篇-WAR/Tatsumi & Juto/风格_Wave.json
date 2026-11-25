@@ -1,0 +1,29 @@
+{
+ "角色": "Tatsumi & Juto",
+ "角标": "<blue-circle>",
+ "名称": "Wave",
+ "卡类": "风格",
+ "系列": "战争篇-WAR",
+ "效果": [
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit, Optional:</r-b> Push 1-2.",
+   "可选": true
+  },
+  {
+   "时点": "后置",
+   "条件": "",
+   "效果": "<bl-b>After, Optional:</bl-b> Shift <i-sb>Juto</i-sb> 1-6 towards the edge of the arena behind the Opponent.",
+   "可选": true
+  }
+ ],
+ "数值": {
+  "距离": "+2~4",
+  "威力": "-1",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

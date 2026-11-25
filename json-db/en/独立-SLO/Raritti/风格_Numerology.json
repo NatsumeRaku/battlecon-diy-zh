@@ -1,0 +1,28 @@
+{
+ "角色": "Raritti",
+ "角标": "<green-tri-down>",
+ "名称": "Numerology",
+ "卡类": "风格",
+ "系列": "独立-SLO",
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "<b>Ignore Armor</b>."
+  },
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start, Optional:</g-b> Perform the Flip Trigger of an active <i-sb>Fate</i-sb>.",
+   "可选": true
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}
