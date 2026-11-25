@@ -49,7 +49,7 @@ CardID = deckID*100 + 格序号（行优先）。OCR 主任务按卡表图切片
 
 ## deck2格0-39清点(2026-11-26)
 非β终结技,为形态卡与模式卡,共29张(格3-9空):
-- 格0 SUPER/格1 ULTRA/格2 REVENGE(前误记Reserve):模式卡(Overload机制,力量/优先/防御加成+按生命Recycle得Force;REVENGE为团队卡,全员+1 Power/+0 Priority平局决胜),页脚仅"•WAR",归属与卡类待用户定夺,未录入。
+- 格0 SUPER/格1 ULTRA/格2 REVENGE(前误记Reserve):模式卡,即zh树多人模式参考牌_超级/终极/复仇之英文面,已补录en/多人模式(行161)。zh树无战争篇-WAR系列,WAR系列仅en树持有。
 - 格10-14 Hepzibah PACT卡5张:Inevitable(+0~1距离)/Immortality(Armor 2)/Almighty(+2 Power)/Endless(+2 Priority)/Corruption(Hit: Chip 1)。
 - 格15-19+35 Kehrolyn MORPH形态6张:Quickness(+2 Priority,After移动1)/Mutated(Reveal:重施风格效果,Chip 1)/Blades(+1 Power/+1 Guard,Hit Range 1: +2 Power)/Exoskeleton(+2 Guard,Armor 2)/Stable(End: 回1 Force)/Whiplash(+0~2距离,Hit: Pull 1)。
 - 格20 Lixis VIRUS卡:Limited Ante: 对手1生命时+3 Priority,否则Chip 2。

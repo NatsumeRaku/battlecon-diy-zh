@@ -1,10 +1,19 @@
 {
- "名称": "",
+ "名称": "Revenge",
  "中文名": "复仇",
  "角色": "多人模式",
  "卡类": "参考牌",
  "系列": "多人模式",
- "效果": "",
- "英文状态": "骨架待补:卡名/效果需官方英文原文",
- "来源": "待核验"
+ "角标": "",
+ "数值": "N/A",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Your team gains 2 additional Force at the end of the beat. Each surviving team member has <i-sb>+1 Power</i-sb>, <i-sb>+0▲ Priority</i-sb> <i>(a tiebreaker)</i> on all attacks."
+  }
+ ],
+ "备注": "deck2格2;TTS英文面=zh参考牌_复仇;前记Reserve系误读",
+ "英文状态": "据TTS模组英文原文录入",
+ "来源": "官方实卡(TTS图包)"
 }
