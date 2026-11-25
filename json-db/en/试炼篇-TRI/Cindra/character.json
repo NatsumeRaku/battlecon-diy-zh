@@ -6,6 +6,19 @@
  "系列": "试炼篇-TRI",
  "效果": [],
  "数值": {},
- "备注": "盒照识别(66050/66052);Cindra Flama,TVTropes Trials名单;骨架占位,卡面内容待TTS图包识别后补录",
- "来源": "官方实卡(2026-11-25用户盒照识别)"
+ "备注": "盒照识别(66050/66052);Cindra Flama,TVTropes Trials名单;骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck33/34录入:风格×4+基底×1+终结技×1(Cindra另有凤凰形态套5张)",
+ "来源": "官方实卡(TTS图包)",
+ "卡牌清单": [
+  "基底_Perilous.json",
+  "基底_Phoenix.json",
+  "终结技_Wings.json",
+  "风格_Ashen.json",
+  "风格_Cinder.json",
+  "风格_Ember.json",
+  "风格_Fulminant.json",
+  "风格_Kindled.json",
+  "风格_Rising.json",
+  "风格_Smoldering.json",
+  "风格_Soaring.json"
+ ]
 }

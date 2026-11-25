@@ -1,0 +1,22 @@
+{
+ "角色": "Cindra Flama",
+ "角标": "<green-tri-down>",
+ "名称": "Soaring",
+ "卡类": "风格",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start:</g-b> Advance 4. Your Range becomes 1~6* if you Advanced past the Opponent and your Power is not N/A."
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "deck33格13;页脚CINDRA •TRI",
+ "来源": "官方实卡(TTS图包)"
+}

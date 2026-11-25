@@ -1,0 +1,15 @@
+{
+ "角色": "Dravil",
+ "卡类": "角色",
+ "系列": "试炼篇-TRI",
+ "卡牌清单": [
+  "基底_Torrential.json",
+  "终结技_Storm.json",
+  "风格_Cloying.json",
+  "风格_Frozen.json",
+  "风格_Lunar.json",
+  "风格_Resonant.json"
+ ],
+ "备注": ";2026-11-26 TTS deck33/34录入:风格×4+基底×1+终结技×1(Cindra另有凤凰形态套5张)",
+ "来源": "官方实卡(TTS图包)"
+}

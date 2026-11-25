@@ -1,0 +1,22 @@
+{
+ "角色": "Amon Elcela",
+ "角标": "<green-tri-down>",
+ "名称": "Containment",
+ "卡类": "风格",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "If the Opponent would Advance 2 or more spaces, instead they Advance 1. If the Opponent would Retreat 2 or more spaces, instead they Retreat 1."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "-1",
+  "韧性": "+0"
+ },
+ "备注": "deck33格3;页脚AMON •TRI",
+ "来源": "官方实卡(TTS图包)"
+}

@@ -1,0 +1,28 @@
+{
+ "角色": "Lucida Malephaise",
+ "角标": "<green-tri-down>",
+ "名称": "Sharpened",
+ "卡类": "风格",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "前置",
+   "条件": "",
+   "效果": "<bl-b>Before, Optional:</bl-b> Spend a <i-sb>Consume</i-sb> to Pull 1 (flip it to its <i-sb>Rend</i-sb> side as you deplete it).",
+   "可选": true
+  },
+  {
+   "时点": "后置",
+   "条件": "you did not hit",
+   "效果": "<bl-b>After, you did not hit:</bl-b> Regain a <i-sb>Rend</i-sb>, then flip it to its <i-sb>Consume</i-sb> side."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+2",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "deck33格43;页脚LUCIDA •TRI",
+ "来源": "官方实卡(TTS图包)"
+}

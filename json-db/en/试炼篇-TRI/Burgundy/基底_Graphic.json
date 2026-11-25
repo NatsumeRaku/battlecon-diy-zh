@@ -1,0 +1,22 @@
+{
+ "角色": "Burgundy XII",
+ "角标": "<blue-circle>",
+ "名称": "Graphic",
+ "卡类": "基底",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "每当",
+   "条件": "you are hit",
+   "效果": "<p-b>When</p-b> you are hit, <b>Armor 2</b> if there is <i-sb>Paint</i-sb> between you and the Opponent."
+  }
+ ],
+ "数值": {
+  "距离": "-1~0",
+  "威力": "+1",
+  "速度": "-1",
+  "韧性": "+3"
+ },
+ "备注": "deck33格5;页脚BURGUNDY •TRI",
+ "来源": "官方实卡(TTS图包)"
+}

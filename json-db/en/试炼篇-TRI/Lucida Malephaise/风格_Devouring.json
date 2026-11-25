@@ -1,0 +1,22 @@
+{
+ "角色": "Lucida Malephaise",
+ "角标": "<yellow-hexagon>",
+ "名称": "Devouring",
+ "卡类": "风格",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> Apply the effects of all <i-sb>Rend</i-sb> tokens applied to the Opponent again."
+  }
+ ],
+ "数值": {
+  "距离": "+0~1",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "deck33格42;页脚LUCIDA •TRI",
+ "来源": "官方实卡(TTS图包)"
+}

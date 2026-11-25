@@ -1,0 +1,16 @@
+{
+ "角色": "Dareios",
+ "卡类": "角色",
+ "系列": "试炼篇-TRI",
+ "卡牌清单": [
+  "基底_Stumbling.json",
+  "终结技_Keg.json",
+  "风格_Shuffling.json",
+  "风格_Slandering.json",
+  "风格_Slurred.json",
+  "风格_Staggering.json",
+  "饮料牌_Emeraldaber.json"
+ ],
+ "备注": ";2026-11-26 TTS deck33/34录入:风格×4+基底×1+终结技×1(Cindra另有凤凰形态套5张)",
+ "来源": "官方实卡(TTS图包)"
+}

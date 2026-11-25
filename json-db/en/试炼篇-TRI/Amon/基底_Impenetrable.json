@@ -1,0 +1,38 @@
+{
+ "角色": "Amon Elcela",
+ "角标": "<blue-circle>",
+ "名称": "Impenetrable",
+ "卡类": "基底",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<b>Armor 3</b>"
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> The Opponent gains <i-sb>Stun Immunity</i-sb>."
+  },
+  {
+   "时点": "后置",
+   "条件": "",
+   "效果": "<bl-b>After:</bl-b> Lose all Armor."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "<g-b>End, Optional:</g-b> Advance or Retreat 1.",
+   "可选": true
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+1",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "deck33格4;页脚AMON •TRI",
+ "来源": "官方实卡(TTS图包)"
+}

@@ -1,0 +1,29 @@
+{
+ "角色": "Hayden Morgan",
+ "角标": "<red-diamond>",
+ "名称": "Telestatic",
+ "卡类": "风格",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "前置",
+   "条件": "",
+   "效果": "<bl-b>Before, Optional:</bl-b> Spend 2 <i-sb>Control</i-sb> for <i-sb>+1~2 Range</i-sb>.",
+   "可选": true
+  },
+  {
+   "时点": "命中",
+   "条件": "Range 1~2",
+   "效果": "<r-b>Hit, Range 1~2, Optional:</r-b> Spend 2 <i-sb>Fury</i-sb>. If you did, the Opponent discards a Style.",
+   "可选": true
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+1",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "deck33格30;页脚HAYDEN •TRI",
+ "来源": "官方实卡(TTS图包)"
+}

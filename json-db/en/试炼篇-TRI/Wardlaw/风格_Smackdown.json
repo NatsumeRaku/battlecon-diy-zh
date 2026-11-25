@@ -1,0 +1,23 @@
+{
+ "角色": "Wardlaw O'Brien",
+ "角标": "<orange-pentagon>",
+ "名称": "Smackdown",
+ "卡类": "风格",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit, Optional:</r-b> Push 1~3. <i-sb>-1 Power</i-sb> per space the Opponent moved this way.",
+   "可选": true
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+1",
+  "速度": "+1",
+  "韧性": "+0"
+ },
+ "备注": "deck33格51;页脚WARDLAW •TRI",
+ "来源": "官方实卡(TTS图包)"
+}

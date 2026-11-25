@@ -1,0 +1,27 @@
+{
+ "角色": "Uleyla Kimbhe",
+ "角标": "<green-tri-down>",
+ "名称": "Quickening",
+ "卡类": "风格",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "you are on the Staff",
+   "效果": "<b>Reveal, you are on the <i-sb>Staff</i-sb>:</b> <i-sb>+2 Priority</i-sb>."
+  },
+  {
+   "时点": "前置",
+   "条件": "",
+   "效果": "<bl-b>Before:</bl-b> Advance or Retreat 1."
+  }
+ ],
+ "数值": {
+  "距离": "+0~1",
+  "威力": "+0",
+  "速度": "+2",
+  "韧性": "+0"
+ },
+ "备注": "deck33格38;页脚ULEYLA •TRI",
+ "来源": "官方实卡(TTS图包)"
+}

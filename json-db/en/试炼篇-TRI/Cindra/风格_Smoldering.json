@@ -1,0 +1,22 @@
+{
+ "角色": "Cindra Flama (Phoenix)",
+ "角标": "<yellow-hexagon>",
+ "名称": "Smoldering",
+ "卡类": "风格",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Avoid attacks at Range 2~3. <i-sb>Ignore Guard</i-sb>"
+  }
+ ],
+ "数值": {
+  "距离": "+0~4",
+  "威力": "+2",
+  "速度": "-3",
+  "韧性": "+0"
+ },
+ "备注": "deck33格17;页脚CINDRA •TRI;页脚CINDRA (PHOENIX),凤凰形态套",
+ "来源": "官方实卡(TTS图包)"
+}
