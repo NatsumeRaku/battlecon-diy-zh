@@ -1,0 +1,24 @@
+{
+ "名称": "Hepzibah Culotre",
+ "中文名": "",
+ "卡类": "角色",
+ "类别": "斗士",
+ "系列": "战争篇-WAR",
+ "称号": "Vivimancer",
+ "类型": "",
+ "难度": "",
+ "机制概述": "",
+ "机制名": "Pacts",
+ "卡牌清单": [
+  "形态卡_Inevitable.json",
+  "形态卡_Immortality.json",
+  "形态卡_Almighty.json",
+  "形态卡_Endless.json",
+  "形态卡_Corruption.json",
+  "状态牌_Pact Sealed.json"
+ ],
+ "id": "战争篇-WAR-Hepzibah Culotre",
+ "英文状态": "角色卡/五风格/专属/终结技本体未录,仅录入契约形态卡与状态牌;TTS模组本体卡待补",
+ "来源": "官方实卡(TTS图包)",
+ "角色": "Hepzibah Culotre"
+}

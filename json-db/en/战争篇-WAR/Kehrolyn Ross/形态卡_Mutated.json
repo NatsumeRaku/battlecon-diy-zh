@@ -1,0 +1,17 @@
+{
+ "卡类": "形态卡",
+ "名称": "Mutated",
+ "角色": "Kehrolyn Ross",
+ "系列": "战争篇-WAR",
+ "角标": "",
+ "数值": "N/A",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> Apply your Style's stats and effects again. Suffer <b>Chip 1</b>."
+  }
+ ],
+ "备注": "deck2格16;页脚:KEHROLYN (MORPH FORM);quote:I shall become what I must.;新卡类\"形态卡\"照页脚类别命名,待用户确认",
+ "来源": "官方实卡(TTS图包)"
+}

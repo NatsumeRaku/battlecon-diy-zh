@@ -1,0 +1,19 @@
+{
+ "卡类": "形态卡",
+ "名称": "Whiplash",
+ "角色": "Kehrolyn Ross",
+ "系列": "战争篇-WAR",
+ "角标": "",
+ "数值": {
+  "距离": "+0~2"
+ },
+ "效果": [
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> Pull 1."
+  }
+ ],
+ "备注": "deck2格35;页脚:KEHROLYN (MORPH FORM);quote:Grace, skill, excellence—perfection.;新卡类\"形态卡\"照页脚类别命名,待用户确认",
+ "来源": "官方实卡(TTS图包)"
+}

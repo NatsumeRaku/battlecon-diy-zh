@@ -17,7 +17,13 @@
   "风格_Exoskeletal.json",
   "专属_Strand.json",
   "终结技_Hydra Fork.json",
-  "状态牌_August Legacy.json"
+  "状态牌_August Legacy.json",
+  "形态卡_Quickness.json",
+  "形态卡_Mutated.json",
+  "形态卡_Blades.json",
+  "形态卡_Exoskeleton.json",
+  "形态卡_Stable.json",
+  "形态卡_Whiplash.json"
  ],
  "id": "战争篇-WAR-Kehrolyn Ross",
  "英文状态": "角色卡/五风格/专属基底/α终结技已据TTS官方模组卡面核实录入;UA/β终结技模组未含待补",

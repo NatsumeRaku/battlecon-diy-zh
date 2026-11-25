@@ -1,0 +1,22 @@
+{
+ "卡类": "形态卡",
+ "名称": "Gate Opened",
+ "角色": "Zaamassal Kett",
+ "系列": "战争篇-WAR",
+ "角标": "",
+ "数值": "N/A",
+ "效果": [
+  {
+   "时点": "每当",
+   "条件": "you are stunned or become a Paradigm",
+   "效果": "When you are stunned or become a <i-sb>Paradigm</i-sb>, recover all trashed <i-sb>Paradigms</i-sb> and deactivate this card."
+  },
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> Apply the stats and effects of all trashed <i-sb>Paradigms</i-sb> to your attack."
+  }
+ ],
+ "备注": "deck2格33;页脚:ZAAMASSAL (GATE OPENED FORM);quote:Lend me your power, origin of all!;新卡类\"形态卡\"照页脚类别命名,待用户确认",
+ "来源": "官方实卡(TTS图包)"
+}

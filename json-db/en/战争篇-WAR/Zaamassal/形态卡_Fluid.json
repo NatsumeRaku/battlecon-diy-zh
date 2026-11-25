@@ -1,0 +1,24 @@
+{
+ "卡类": "形态卡",
+ "名称": "Fluid",
+ "角色": "Zaamassal Kett",
+ "系列": "战争篇-WAR",
+ "角标": "",
+ "数值": "N/A",
+ "效果": [
+  {
+   "时点": "前置",
+   "条件": "",
+   "效果": "<bl-b>Before, Optional:</bl-b> Advance or Retreat 1.",
+   "可选": true
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "<g-b>End, Optional:</g-b> Advance or Retreat 1.",
+   "可选": true
+  }
+ ],
+ "备注": "deck2格30;页脚:ZAAMASSAL (PARADIGM FORM);quote:I am everywhere, and nowhere.;新卡类\"形态卡\"照页脚类别命名,待用户确认",
+ "来源": "官方实卡(TTS图包)"
+}

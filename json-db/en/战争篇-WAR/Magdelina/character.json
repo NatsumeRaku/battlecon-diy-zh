@@ -17,7 +17,13 @@
   "风格_Safety.json",
   "专属_Flash.json",
   "专属_Blessing.json",
-  "终结技_Apotheosis.json"
+  "终结技_Apotheosis.json",
+  "形态卡_Level 0.json",
+  "形态卡_Level 1.json",
+  "形态卡_Level 2.json",
+  "形态卡_Level 3.json",
+  "形态卡_Level 4.json",
+  "形态卡_Level 5.json"
  ],
  "id": "战争篇-WAR-Magdelina",
  "英文状态": "角色卡/五风格/专属基底/α终结技已据TTS官方模组卡面核实录入;UA/β终结技模组未含待补",

@@ -1,0 +1,19 @@
+{
+ "卡类": "形态卡",
+ "名称": "Quickness",
+ "角色": "Kehrolyn Ross",
+ "系列": "战争篇-WAR",
+ "角标": "",
+ "数值": {
+  "速度": "+2"
+ },
+ "效果": [
+  {
+   "时点": "后置",
+   "条件": "",
+   "效果": "<bl-b>After:</bl-b> Advance or Retreat 1."
+  }
+ ],
+ "备注": "deck2格15;页脚:KEHROLYN (MORPH FORM);quote:Let us dance, then.;新卡类\"形态卡\"照页脚类别命名,待用户确认",
+ "来源": "官方实卡(TTS图包)"
+}
