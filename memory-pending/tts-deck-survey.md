@@ -29,16 +29,20 @@ CardID = deckID*100 + 格序号（行优先）。OCR 主任务按卡表图切片
 
 ## deck7 复盘点(2026-11-26,用户裁定后改写)
 格10-19共10张,用户裁定全部为**状态效果牌**:无卡类页脚(辅助判断特征),卡文整体括注斜体,效果跨回合持续。归属看立绘(与角色卡艺术图同源,逐一比对实锤),图标颜色非斗士对应色。已录入en树战争篇-WAR各斗士文件夹,文件名状态牌_*.json。
-- d07_c10 Battery Charged:PRIORITY +4。立绘=Cadenza(用户核定华彩骑士);图标黄绿六边形(中心色[215,221,35]),与风格#3徽章(黄六边形)一致;卡名呼应Cadenza风格#3 Battery;生成自[待核]。
-- d07_c11 Watched:(For the rest of the duel, gain "End: Regain Insight.") 立绘=Cherri;图标灰八芒星([120,120,120]);生成自[待核](疑β终结技,灰=背/已激活)。
-- d07_c12 Hamstrung:(Next beat, the Opponent cannot Advance or Retreat.) 立绘=Heketch;图标青圆形([4,161,180]),与风格#5徽章(蓝圆形)一致;生成自[待核]。
-- d07_c13 Nightmarsh:(For the rest of the duel, gain "End: Regain Shadowstep.") 立绘=Heketch;图标灰八芒星;Shadowstep为Heketch机制名;生成自[待核]。
-- d07_c14 Pact Sealed:(For the rest of the duel, gain "Ante: Trash 2 Force to activate a Pact.") 立绘=Hepzibah Culotre;图标白八芒星([237,237,237]=α面空心);卡文与Hepzibah α终结技Seal the Pact(d02格44)后置效果逐字一致;生成自=Hepzibah Culotre·Seal the Pact。
-- d07_c15 Vulcanized:POWER +1。立绘=Kallistar;图标橙五边形([251,163,33],用户指正非六边形),与风格#2徽章(橙五边形)一致;生成自[待核]。
-- d07_c16 August Legacy:(For the rest of the duel, apply the trashed Morph's stats and effects to your attack.) 立绘=Kehrolyn Ross;图标灰八芒星;Morph为Kehrolyn机制名;生成自[待核]。
-- d07_c17 Shattered:(Next beat, Ignore Guard.) 立绘=Sagas;图标橙五边形([128,88,35]暗琥珀);生成自[待核]。
-- d07_c18 Clarity:(For the rest of the duel, the Opponent must set their Style face-up before you choose and set your attack for the beat.) 立绘=Seth;图标白八芒星(=α面);卡文与Seth α终结技命中效果逐字一致;生成自=Seth Grewmul·Reading Fate。
-- d07_c19 Death Stalking:PRIORITY +4。立绘=Vanaah;图标浅灰八芒星([189,189,189]);生成自[待核]。
+- d07_c10 Battery Charged:PRIORITY +4。立绘=Cadenza(用户核定华彩骑士);图标黄绿六边形(中心色[215,221,35])=来源风格Battery徽章(风格#3黄六边形);卡名呼应;二次核验:风格Battery"End: Next beat, you have +4 Priority"吻合。**生成自=Cadenza·Battery**。
+- d07_c11 Watched:(For the rest of the duel, gain "End: Regain Insight.") 立绘=Cherri;图标灰八芒星([120,120,120])=β终结技;二次核验:Cherri体系Regain Insight多处(专属Stare/终结技Soul Gaze命中、风格Catatonic结束),无逐字源;生成终结技名[待核]。
+- d07_c12 Hamstrung:(Next beat, the Opponent cannot Advance or Retreat.) 立绘=Heketch;图标青圆形([4,161,180])=来源风格Ambush徽章(风格#5蓝圆形);二次核验:风格Ambush"Spend Shadowstep: If you did, next beat, the Opponent cannot Advance or Retreat"逐字重合(状态牌省支付与条件)。**生成自=Regicide Heketch·Ambush**。
+- d07_c13 Nightmarsh:(For the rest of the duel, gain "End: Regain Shadowstep.") 立绘=Heketch;图标灰八芒星=β终结技;二次核验:Shadowstep为Heketch五风格共用机制名;生成终结技名[待核]。
+- d07_c14 Pact Sealed:(For the rest of the duel, gain "Ante: Trash 2 Force to activate a Pact.") 立绘=Hepzibah Culotre;图标白八芒星([237,237,237]=α面空心);卡文与Hepzibah α终结技Seal the Pact(d02格44)后置效果逐字一致。**生成自=Hepzibah Culotre·Seal the Pact**。
+- d07_c15 Vulcanized:POWER +1。立绘=Kallistar;图标橙五边形([251,163,33],用户指正为五边形)=来源风格Volcanic徽章(风格#2橙五边形);二次核验:风格Volcanic"Next beat, +1 Power"吻合,卡名呼应。**生成自=Kallistar Flarechild·Volcanic**。
+- d07_c16 August Legacy:(For the rest of the duel, apply the trashed Morph's stats and effects to your attack.) 立绘=Kehrolyn Ross;图标灰八芒星=β终结技;二次核验:与专属Strand"Apply its stats and text to your attack"机制同型;生成终结技名[待核]。
+- d07_c17 Shattered:(Next beat, Ignore Guard.) 立绘=Sagas;图标橙五边形([128,88,35]暗琥珀)=来源风格Scattering徽章(风格#2橙五边形);二次核验:风格Scattering"Spend Mirror. If you did, next beat, Ignore Guard"逐字重合(状态牌省支付与条件)。**生成自=Sagas Seities·Scattering**。
+- d07_c18 Clarity:(For the rest of the duel, the Opponent must set their Style face-up before you choose and set your attack for the beat.) 立绘=Seth;图标白八芒星(=α面);卡文与Seth α终结技命中效果逐字一致。**生成自=Seth Grewmul·Reading Fate**。
+- d07_c19 Death Stalking:PRIORITY +4。立绘=Vanaah;图标浅灰八芒星([189,189,189])=β终结技;二次核验:Vanaah已录卡无PRIORITY +4效果,与β来源推断不冲突;生成终结技名[待核]。
+
+**图标语义实锤**:彩色几何图标=来源风格之徽章(位置色形一致,中心色采样比对);灰八芒星=β终结技来源(灰=背/已激活),白八芒星=α终结技来源(空心)。风格卡徽章按格位固定:格1红菱形/格2橙五边形/格3黄六边形/格4绿倒三角/格5蓝圆形,全斗士通用。
+**deck格序更正**:Heketch风格格序=d04格25 Critical/26 Psycho/27 Merciless/28 Rasping/29 Ambush(前误读Assassin);Kallistar格序=d04格40 Ignition/41 Volcanic/42 Flare/43 Caustic/44 Blazing;Sagas格序=d05格15 Echo/16 Scattering/17 Negation/18 Repelling/19 Shadow。
+**[待核]**:Sagas仓库"风格_Reflected.json"与TTS实卡d05格18标题"REPELLING"冲突,待用户定夺正名。
 
 **终结技正名**:d02格54 Seth α卡面标题实印"READING FATE"(非Reaving Fate),已改档终结技_Reading Fate.json;旧档_旧版待核/终结技_Reading Fate.json保留备查。
 **β终结技下落**:TTS卡背储存与卡正面不连续,格序实扫未覆盖到β面;灰星状态牌疑为β终结技生成物,待续扫。
