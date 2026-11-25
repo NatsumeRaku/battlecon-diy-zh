@@ -1,0 +1,27 @@
+{
+ "角色": "Arec Zane",
+ "角标": "<orange-pentagon>",
+ "名称": "Returning",
+ "卡类": "风格",
+ "系列": "毁灭篇-DEV",
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start, the Opponent's Base has the same name as yours:</g-b> <i-sb>+0~5 Range</i-sb>."
+  },
+  {
+   "时点": "循环",
+   "条件": "",
+   "效果": "Recycle, Range not N/A: Pick up the Base paired with this attack."
+  }
+ ],
+ "数值": {
+  "距离": "+0~1",
+  "威力": "+0",
+  "速度": "+1",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}

@@ -1,0 +1,27 @@
+{
+ "角色": "Arec Zane",
+ "角标": "<blue-circle>",
+ "名称": "Mirrored",
+ "卡类": "风格",
+ "系列": "毁灭篇-DEV",
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "Avoid attacks at Range 2."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "<g-b>End:</g-b> Next beat, as a Limited Ante, you may Teleport to the nearest space behind the Opponent."
+  }
+ ],
+ "数值": {
+  "距离": "+1~2",
+  "威力": "+0",
+  "速度": "-1",
+  "韧性": "+0"
+ },
+ "备注": "TTS官方模组卡面直录",
+ "来源": "官方实卡(TTS图包)"
+}
