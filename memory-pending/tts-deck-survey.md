@@ -26,3 +26,19 @@ CardID = deckID*100 + 格序号（行优先）。OCR 主任务按卡表图切片
 
 ## 有效卡格统计（CardID 实扫）
 牌组1:58格；牌组2:58格；牌组3:11格；牌组4:54格；牌组5:40格；牌组6:24格；牌组7:10格；牌组32:36格；牌组33:56格；牌组34:16格；牌组35:4格；牌组36:20格；牌组37:50格；牌组38:59格；牌组39:7格；牌组40:52格；牌组41:58格；牌组42:57格；牌组43:27格；牌组44:65格；牌组45:70格；牌组46:5格；牌组47:63格；牌组48:46格；牌组49:7格；牌组50:30格；牌组51:16格。合计1022格（旧会话记1061，差异为Deck对象引用格，无碍）。
+
+## deck7 复盘点(2026-11-26,用户裁定后改写)
+格10-19共10张,用户裁定全部为**状态效果牌**:无卡类页脚(辅助判断特征),卡文整体括注斜体,效果跨回合持续。归属看立绘(与角色卡艺术图同源,逐一比对实锤),图标颜色非斗士对应色。已录入en树战争篇-WAR各斗士文件夹,文件名状态牌_*.json。
+- d07_c10 Battery Charged:PRIORITY +4。立绘=Cadenza(用户核定华彩骑士);图标黄绿六边形(中心色[215,221,35]),与风格#3徽章(黄六边形)一致;卡名呼应Cadenza风格#3 Battery;生成自[待核]。
+- d07_c11 Watched:(For the rest of the duel, gain "End: Regain Insight.") 立绘=Cherri;图标灰八芒星([120,120,120]);生成自[待核](疑β终结技,灰=背/已激活)。
+- d07_c12 Hamstrung:(Next beat, the Opponent cannot Advance or Retreat.) 立绘=Heketch;图标青圆形([4,161,180]),与风格#5徽章(蓝圆形)一致;生成自[待核]。
+- d07_c13 Nightmarsh:(For the rest of the duel, gain "End: Regain Shadowstep.") 立绘=Heketch;图标灰八芒星;Shadowstep为Heketch机制名;生成自[待核]。
+- d07_c14 Pact Sealed:(For the rest of the duel, gain "Ante: Trash 2 Force to activate a Pact.") 立绘=Hepzibah Culotre;图标白八芒星([237,237,237]=α面空心);卡文与Hepzibah α终结技Seal the Pact(d02格44)后置效果逐字一致;生成自=Hepzibah Culotre·Seal the Pact。
+- d07_c15 Vulcanized:POWER +1。立绘=Kallistar;图标橙五边形([251,163,33],用户指正非六边形),与风格#2徽章(橙五边形)一致;生成自[待核]。
+- d07_c16 August Legacy:(For the rest of the duel, apply the trashed Morph's stats and effects to your attack.) 立绘=Kehrolyn Ross;图标灰八芒星;Morph为Kehrolyn机制名;生成自[待核]。
+- d07_c17 Shattered:(Next beat, Ignore Guard.) 立绘=Sagas;图标橙五边形([128,88,35]暗琥珀);生成自[待核]。
+- d07_c18 Clarity:(For the rest of the duel, the Opponent must set their Style face-up before you choose and set your attack for the beat.) 立绘=Seth;图标白八芒星(=α面);卡文与Seth α终结技命中效果逐字一致;生成自=Seth Grewmul·Reading Fate。
+- d07_c19 Death Stalking:PRIORITY +4。立绘=Vanaah;图标浅灰八芒星([189,189,189]);生成自[待核]。
+
+**终结技正名**:d02格54 Seth α卡面标题实印"READING FATE"(非Reaving Fate),已改档终结技_Reading Fate.json;旧档_旧版待核/终结技_Reading Fate.json保留备查。
+**β终结技下落**:TTS卡背储存与卡正面不连续,格序实扫未覆盖到β面;灰星状态牌疑为β终结技生成物,待续扫。

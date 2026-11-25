@@ -1,0 +1,21 @@
+{
+ "卡类": "状态效果牌",
+ "名称": "Nightmarsh",
+ "角色": "Regicide Heketch",
+ "系列": "战争篇-WAR",
+ "角标": "<star8-beta>",
+ "数值": "N/A",
+ "目标": "自己",
+ "公开性": "公开",
+ "生成自": "Regicide Heketch·[待核]",
+ "移除条件": "Rest of the duel",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i>(For the rest of the duel, gain \"End: Regain <i-sb>Shadowstep</i-sb>.\")</i>"
+  }
+ ],
+ "备注": "deck7格13;立绘与Heketch角色卡同源;无卡类页脚;图标八芒星,中心色[119,119,119]灰",
+ "来源": "官方实卡(TTS图包)"
+}
