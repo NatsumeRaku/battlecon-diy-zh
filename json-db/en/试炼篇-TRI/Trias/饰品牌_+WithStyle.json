@@ -1,0 +1,18 @@
+{
+ "角色": "Trias Blackwind",
+ "角标": "",
+ "名称": "+ With Style!",
+ "卡类": "饰品牌(Embellishment)",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "You cannot be Pushed or Pulled."
+  }
+ ],
+ "数值": {},
+ "台词": "“Try as you might, try as you may, Trias will always win the day! Ha ha ha!”",
+ "备注": "deck32格58;页脚TRIAS (ENDING EMBELLISHMENT CARD) •TRI;无数值栏",
+ "来源": "官方实卡(TTS图包)"
+}

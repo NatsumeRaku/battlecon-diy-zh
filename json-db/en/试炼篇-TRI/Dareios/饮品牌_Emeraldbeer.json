@@ -1,0 +1,23 @@
+{
+ "角色": "Dareios Kuel",
+ "角标": "",
+ "名称": "Emeraldbeer[待核]",
+ "卡类": "饮品牌(Drink)",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> <i-sb>+2 Power</i-sb>"
+  },
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start:</g-b> The Opponent may choose to Push 1 or Pull 1."
+  }
+ ],
+ "数值": {},
+ "台词": "“Strength for the body, mind, and soul. Mostly the body though.”",
+ "备注": "deck32格64;页脚DAREIOS (DRINK CARD) •TRI;卡名辨读待核",
+ "来源": "官方实卡(TTS图包)"
+}

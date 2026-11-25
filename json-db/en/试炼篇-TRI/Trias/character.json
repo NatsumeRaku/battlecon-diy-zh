@@ -6,14 +6,23 @@
  "系列": "试炼篇-TRI",
  "效果": [],
  "数值": {},
- "备注": "盒照识别(66050/66052);Trias Blackwind,TVTropes Trials名单;骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck33/34录入:风格×4+基底×1+终结技×1(Cindra另有凤凰形态套5张)",
+ "备注": "盒照识别(66050/66052);Trias Blackwind,TVTropes Trials名单;骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck33/34录入:风格×4+基底×1+终结技×1(Cindra另有凤凰形态套5张);deck32格45角色卡补全称号",
  "来源": "官方实卡(TTS图包)",
  "卡牌清单": [
   "基底_Spoony.json",
   "终结技_Ballad.json",
+  "终结技_Slipstream.json",
   "风格_Awesome.json",
   "风格_Epic.json",
   "风格_Outrageous.json",
-  "风格_Resounding.json"
- ]
+  "风格_Resounding.json",
+  "饰品牌_+FromtheHeavens.json",
+  "饰品牌_+WithStyle.json",
+  "饰品牌_+oftheAges.json",
+  "饰品牌_Perfectly+.json",
+  "饰品牌_Super+.json",
+  "饰品牌_Truly+.json"
+ ],
+ "英文": "Trias Blackwind",
+ "称号": "The One and Only"
 }

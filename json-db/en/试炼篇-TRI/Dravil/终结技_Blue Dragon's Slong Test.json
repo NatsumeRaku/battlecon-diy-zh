@@ -1,0 +1,28 @@
+{
+ "角色": "Dravil Coldwater",
+ "角标": "<star8-alpha>",
+ "名称": "Blue Dragon's Slong Test[待核]",
+ "卡类": "终结技",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<b>Armor 4</b>"
+  },
+  {
+   "时点": "展示",
+   "条件": "Steam",
+   "效果": "<b>Reveal, <i-sb>Steam</i-sb>:</b> You are stunned."
+  }
+ ],
+ "数值": {
+  "距离": "1~2",
+  "威力": "7",
+  "速度": "1▲",
+  "韧性": "2"
+ },
+ "备注": "deck32格1;彩色立绘+空心八角星角标;页脚DRAVIL •TRI;右下角标β;终结技数值为绝对值;台词在效果首段照录;卡名标题在图包中被裁切,Slong为辨读结果",
+ "来源": "官方实卡(TTS图包)",
+ "台词": "“And then, when victory seemed impossible, the patient dragon struck. Just... like... this!”"
+}

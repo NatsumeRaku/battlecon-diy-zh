@@ -1,0 +1,20 @@
+{
+ "角色": "Trias Blackwind",
+ "角标": "",
+ "名称": "Truly +",
+ "卡类": "饰品牌(Embellishment)",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<b>Armor 1</b>"
+  }
+ ],
+ "数值": {
+  "韧性": "+2"
+ },
+ "台词": "“You dare stand before the great Trias? Prepare for defeat!”",
+ "备注": "deck32格54;页脚TRIAS (BEGINNING EMBELLISHMENT CARD) •TRI;仅印刷威力/韧性/距离修正",
+ "来源": "官方实卡(TTS图包)"
+}

@@ -1,0 +1,28 @@
+{
+ "角色": "Amon Elcela",
+ "角标": "",
+ "名称": "Code Red",
+ "卡类": "形态牌",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "You cannot be Pushed or Pulled."
+  },
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> The Opponent has <i-sb>+3 Power</i-sb>."
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "+2",
+  "速度": "N/A",
+  "韧性": "🛡[待核]"
+ },
+ "台词": "“Field breach! Initializing emergency response.”",
+ "备注": "deck32格61;页脚AMON (DANGER LEVEL FORM) •TRI,LEVEL 3;危险等级形态系列之一;韧性栏为护盾图标",
+ "来源": "官方实卡(TTS图包)"
+}
