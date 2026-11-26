@@ -1,0 +1,27 @@
+{
+ "角色": "Takeshi",
+ "角标": "<purple-star>",
+ "名称": "Butter Knife",
+ "卡类": "武器牌",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "+2",
+  "韧性": "+0"
+ },
+ "效果": [
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> Advance or Retreat 1."
+  },
+  {
+   "时点": "伤害",
+   "条件": "Range 3+",
+   "效果": "<r-b>Damage, Range 3+:</r-b> Trash this <i-sb>Weapon</i-sb>."
+  }
+ ],
+ "备注": "deck50格22;页脚TAKESHI (WEAPON CARD)·SLO",
+ "来源": "官方实卡(TTS图包)"
+}

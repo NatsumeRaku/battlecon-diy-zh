@@ -1,0 +1,23 @@
+{
+ "角色": "Takeshi",
+ "角标": "<star8-alpha>",
+ "名称": "Omega Destroyer",
+ "卡类": "终结技",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "3~5",
+  "威力": "9",
+  "速度": "4",
+  "韧性": "0"
+ },
+ "台词": "“I didn’t want to use this, but... ok, you got me, I was actually looking forward to it!”",
+ "效果": [
+  {
+   "时点": "后置",
+   "条件": "",
+   "效果": "<bl-b>After:</bl-b> You are eliminated."
+  }
+ ],
+ "备注": "deck50格18;页脚TAKESHI·SLO;右下α标;速度印\"4▲\"",
+ "来源": "官方实卡(TTS图包)"
+}

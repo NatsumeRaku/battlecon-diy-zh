@@ -1,0 +1,22 @@
+{
+ "角色": "Takeshi",
+ "角标": "<purple-star>",
+ "名称": "Toothpick",
+ "卡类": "武器牌",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "-1",
+  "韧性": "+2"
+ },
+ "效果": [
+  {
+   "时点": "伤害",
+   "条件": "",
+   "效果": "<r-b>Damage:</r-b> Push 1 per damage dealt. Push as possible if you could not. Then, <i-sb>Chip 1</i-sb> if the Opponent is on an edge of the arena."
+  }
+ ],
+ "备注": "deck50格28;页脚TAKESHI (WEAPON CARD)·SLO",
+ "来源": "官方实卡(TTS图包)"
+}

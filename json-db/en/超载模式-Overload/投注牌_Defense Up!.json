@@ -1,0 +1,17 @@
+{
+ "角色": "通用",
+ "角标": "<green-tri-down>",
+ "名称": "Defense Up!",
+ "卡类": "投注牌",
+ "系列": "超载模式-Overload",
+ "效果": [
+  {
+   "时点": "投注",
+   "条件": "Limited Ante",
+   "效果": "<o-b>Limited Ante:</o-b> Trash 2 <i-sb>Force</i-sb> for <i-sb>+2 Guard</i-sb>."
+  }
+ ],
+ "数值": "N/A",
+ "备注": "deck35格5;页脚OVERLOAD·WAN;绿框",
+ "来源": "官方实卡(TTS图包)"
+}
