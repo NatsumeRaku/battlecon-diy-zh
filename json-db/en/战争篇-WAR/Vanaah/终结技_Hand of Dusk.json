@@ -1,7 +1,7 @@
 {
  "角色": "Vanaah Kalmor",
  "系列": "战争篇-WAR",
- "来源": "官方实卡(TTS图包)",
+ "来源": "官方实卡",
  "角标": "<star8-alpha>",
  "名称": "Hand of Dusk",
  "卡类": "终结技",
@@ -18,7 +18,7 @@
    "可选": true
   }
  ],
- "备注": "quote:The divine twilight calls for your soul!;TTS模组仅含α面,β面[待核]",
+ "备注": "来源注记:TTS图包;quote:The divine twilight calls for your soul!;TTS模组仅含α面,β面[待核]",
  "数值": {
   "距离": "4~5",
   "威力": "7",
