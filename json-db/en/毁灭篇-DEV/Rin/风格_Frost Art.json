@@ -6,7 +6,7 @@
   "系列": "毁灭篇-DEV",
   "效果": [
     {
-      "时点": "亮牌",
+      "时点": "展示",
       "条件": "",
       "效果": "<b>Reveal:</b> <i-sb>+1 Priority</i-sb> per <i-sb>Frost</i-sb> in your supply."
     },

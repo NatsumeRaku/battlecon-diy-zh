@@ -6,7 +6,7 @@
   "系列": "命运篇-FAT",
   "效果": [
     {
-      "时点": "亮牌",
+      "时点": "展示",
       "条件": "",
       "效果": "<b>Reveal, <i-sb>Frostflow</i-sb> ante:</b> Negate <i-sb>Power</i-sb> and <b>Armor</b> bonuses from <i-sb>Frostflow</i-sb>. Regain a <i-sb>Frostflow</i-sb>."
     },
