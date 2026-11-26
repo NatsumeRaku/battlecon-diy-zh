@@ -1,7 +1,7 @@
 {
  "角色": "Hikaru",
  "卡类": "特技(UA)",
- "名称": "Geomorphic Assault[待核]",
+ "名称": "Geomantic Assault",
  "系列": "战争篇-WAR",
  "机制概述": "Hikaru has 4 distinct Element Tokens. He can use these for different effects and gain them back over the course of the duel. Use them to power up his attacks at the right time.",
  "效果": [
@@ -18,5 +18,5 @@
  ],
  "台词": "",
  "来源": "官方实卡",
- "备注": "来源注记:TTS图包卡背;deck1_back格45卡背实读(2026-11-27卡背图切片,OCR+目识双核);UA名OCR作GEOMANTIC ASSAULT,疑Geomorphic Assault[待核]"
+ "备注": "来源注记:TTS图包卡背;deck1_back格45卡背实读(2026-11-27卡背图切片,OCR+目识双核);UA名OCR作GEOMANTIC ASSAULT,疑Geomorphic Assault[待核];行236卡背OCR标题实读销[待核]"
 }
