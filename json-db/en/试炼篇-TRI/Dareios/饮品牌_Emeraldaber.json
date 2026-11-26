@@ -1,8 +1,8 @@
 {
  "角色": "Dareios Kuel",
  "角标": "",
- "名称": "Emeraldbeer[待核]",
- "卡类": "饮品牌(Drink)",
+ "名称": "Emeraldaber",
+ "卡类": "饮品牌",
  "系列": "试炼篇-TRI",
  "效果": [
   {
@@ -18,6 +18,6 @@
  ],
  "数值": {},
  "台词": "“Strength for the body, mind, and soul. Mostly the body though.”",
- "备注": "deck32格64;页脚DAREIOS (DRINK CARD) •TRI;卡名辨读待核",
+ "备注": "deck32格64;页脚DAREIOS (DRINK CARD) •TRI;卡名放大实读EMERALDABER(2026-11-26),原辨读Emeraldbeer作废",
  "来源": "官方实卡(TTS图包)"
 }

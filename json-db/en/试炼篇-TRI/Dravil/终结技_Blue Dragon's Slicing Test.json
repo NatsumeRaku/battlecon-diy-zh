@@ -1,7 +1,7 @@
 {
  "角色": "Dravil Coldwater",
  "角标": "<star8-alpha>",
- "名称": "Blue Dragon's Slong Test[待核]",
+ "名称": "Blue Dragon's Slicing Test",
  "卡类": "终结技",
  "系列": "试炼篇-TRI",
  "效果": [
@@ -22,7 +22,7 @@
   "速度": "1▲",
   "韧性": "2"
  },
- "备注": "deck32格1;彩色立绘+空心八角星角标;页脚DRAVIL •TRI;右下角标β;终结技数值为绝对值;台词在效果首段照录;卡名标题在图包中被裁切,Slong为辨读结果",
+ "备注": "deck32格1;彩色立绘+空心八角星角标;页脚DRAVIL •TRI;右下角标β;终结技数值为绝对值;台词在效果首段照录;卡名标题在图包中被裁切,Slong为辨读结果;2026-11-26用户裁定:标题中间字母被切片裁切,按词典词补读为Slicing,Slong作废",
  "来源": "官方实卡(TTS图包)",
  "台词": "“And then, when victory seemed impossible, the patient dragon struck. Just... like... this!”"
 }
