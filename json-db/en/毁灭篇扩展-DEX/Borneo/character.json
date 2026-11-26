@@ -10,6 +10,7 @@
  "id": "毁灭篇扩展-DEX-Borneo",
  "难度": "Novice",
  "卡牌清单": [
+  "character.json",
   "UA_Oddly_Familiar.json",
   "Style_Slippery.json",
   "Style_Petulant.json",
@@ -21,13 +22,13 @@
   "UniqueBase_Dunder.json",
   "UniqueBase_Claw.json",
   "UniqueBase_Smoke.json",
-  "UniqueBase_Master_Plan.json",
-  "UniqueBase_Scene_Shift.json",
   "Finisher_And_the_Kitchen_Sink_Mama_Mazzaroth.json",
   "Reference_Styles.json",
   "Reference_Bases.json",
   "Reference_Map.json",
-  "Reference_Finishers.json"
+  "Reference_Finishers.json",
+  "UniqueBase_Master Plan.json",
+  "UniqueBase_Scene Shift.json"
  ],
  "机制名": "Borrowed Bases",
  "英文": "Borneo",

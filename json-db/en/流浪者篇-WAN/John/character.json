@@ -7,6 +7,9 @@
  "备注": "deck3_c5专属基底录入时建档;英文全名/称号待补",
  "卡牌清单": [
   "character.json",
-  "基底_Figure.json"
+  "character.json",
+  "基底_Figure.json",
+  "终结技_Blast Mining.json",
+  "终结技_Flesh to Stone.json"
  ]
 }

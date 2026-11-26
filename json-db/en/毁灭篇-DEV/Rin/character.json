@@ -7,6 +7,8 @@
  "备注": "deck3_c8专属基底录入时建档;英文全名/称号待补",
  "卡牌清单": [
   "character.json",
-  "基底_Shard.json"
+  "character.json",
+  "基底_Shard.json",
+  "风格_Frost Art.json"
  ]
 }

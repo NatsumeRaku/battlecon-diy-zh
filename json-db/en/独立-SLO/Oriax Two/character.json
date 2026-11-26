@@ -4,7 +4,14 @@
  "称号": "Godhacker",
  "系列": "独立-SLO",
  "角标": "N/A",
- "卡牌清单": [],
+ "卡牌清单": [
+  "character.json",
+  "神祇牌_Gantzorn.json",
+  "神祇牌_Kaishin.json",
+  "神祇牌_Tamaris.json",
+  "神祇牌_Tridan.json",
+  "终结技_Strike Down.json"
+ ],
  "备注": "deck47格49角色卡;SLO强化版",
  "来源": "官方实卡(TTS图包)"
 }

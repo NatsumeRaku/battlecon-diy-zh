@@ -4,7 +4,16 @@
  "称号": "Bizarre Reflection",
  "系列": "独立-SLO",
  "角标": "N/A",
- "卡牌清单": [],
+ "卡牌清单": [
+  "character.json",
+  "基底_Devastator.json",
+  "终结技_Rage of the Land.json",
+  "风格_Blood Red.json",
+  "风格_Dark Raging.json",
+  "风格_Primordial.json",
+  "风格_Pure Evil.json",
+  "风格_Ultimate Chaos.json"
+ ],
  "备注": "deck47格28角色卡;SLO强化版",
  "来源": "官方实卡(TTS图包)"
 }

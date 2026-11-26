@@ -11,13 +11,13 @@
  "英文全名": "Rheye Cal",
  "称号": "Celestial Sojourner",
  "卡牌清单": [
-  "终结技_Celestial Nova",
-  "基底_[待核]",
-  "风格_Angelic",
-  "风格_Enraptured",
-  "风格_Divine",
-  "风格_Sacrificial",
-  "风格_Faithful",
-  "基底_Smite"
+  "character.json",
+  "基底_Smite.json",
+  "终结技_Celestial Nova.json",
+  "风格_Angelic.json",
+  "风格_Divine.json",
+  "风格_Enraptured.json",
+  "风格_Faithful.json",
+  "风格_Sacrificial.json"
  ]
 }

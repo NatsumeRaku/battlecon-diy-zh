@@ -9,19 +9,20 @@
  "备注": "盒照识别(66050/66052);Victor,SLO[轻待核];骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck46补录风格×4+基底×1;角色称号待deck50角色卡补核;deck50格30角色卡称号Master of Terror;格33专属基底(名[待核])",
  "来源": "官方实卡(TTS图包)",
  "卡牌清单": [
+  "character.json",
   "基底_Lost.json",
   "风格_Confident.json",
   "风格_Ready.json",
   "风格_Safe.json",
   "风格_Spooked.json",
-  "终结技_Thrill of a Lifetime",
-  "基底_[待核]",
-  "越界牌_Transgression",
-  "建议牌_Leaving So Soon?",
-  "建议牌_There's No Escape...",
-  "建议牌_Mind Your Manners!",
-  "建议牌_Tread Carefully...",
-  "建议牌_We're Not So Different..."
+  "基底_[待核].json",
+  "建议牌_Leaving So Soon?.json",
+  "建议牌_Mind Your Manners!.json",
+  "建议牌_There's No Escape....json",
+  "建议牌_Tread Carefully....json",
+  "建议牌_We're Not So Different....json",
+  "终结技_Thrill of a Lifetime.json",
+  "越界牌_Transgression.json"
  ],
  "称号": "Master of Terror"
 }

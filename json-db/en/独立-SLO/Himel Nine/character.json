@@ -7,5 +7,17 @@
  "效果": [],
  "数值": {},
  "备注": "中文名海梅尔九号;套件来自TTS截图,Take the Shot数值存疑;TTS模拟器截图,图糊随缘录入",
- "来源": "官方实卡(2026-11-24用户供图录入)"
+ "来源": "官方实卡(2026-11-24用户供图录入)",
+ "卡牌清单": [
+  "character.json",
+  "状态牌_Exposed.json",
+  "状态牌_Invincible.json",
+  "终结技_IK 38.json",
+  "风格_Decompression.json",
+  "风格_Detonation.json",
+  "风格_Duker.json",
+  "风格_Insurmountable.json",
+  "风格_Sentinel.json",
+  "风格_Take the Shot.json"
+ ]
 }

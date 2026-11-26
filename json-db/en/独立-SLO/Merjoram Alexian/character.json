@@ -9,11 +9,14 @@
  "备注": "盒照录入;定位COUNTERATTACKER/BEGINNER,Crown Princess of Jeffreys;系列=SLO,2026-11-25用户依塑封包装确认(区别于毁灭篇DEV的亚历克希安三十七世);deck45五风格TTS实卡录入(格序按红菱/橙五/黄六/绿倒/蓝圆位次);deck44专属基底TTS实卡录入(灰月角标)",
  "来源": "官方实卡(2026-11-24用户供图录入)",
  "卡牌清单": [
-  "风格_Golden",
-  "风格_Royal",
-  "风格_Questing",
-  "风格_Warrior",
-  "风格_Crown",
-  "基底_Warhammer"
+  "character.json",
+  "基底_Warhammer.json",
+  "战术牌_Ready Defenses.json",
+  "终结技_Foehammer.json",
+  "风格_Crown.json",
+  "风格_Golden.json",
+  "风格_Questing.json",
+  "风格_Royal.json",
+  "风格_Warrior.json"
  ]
 }

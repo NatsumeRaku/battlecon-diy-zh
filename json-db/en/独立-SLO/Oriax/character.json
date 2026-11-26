@@ -10,17 +10,15 @@
  "机制概述": "",
  "机制名": "Deities",
  "卡牌清单": [
+  "character.json",
   "风格_Destructive.json",
   "风格_Swing.json",
   "风格_Fickle.json",
   "风格_Panic.json",
   "风格_Absolute.json",
-  "风格_Destructive",
-  "风格_Smiting",
-  "风格_Fickle",
-  "风格_Painful",
-  "风格_Absolute",
-  "基底_Wrath"
+  "基底_Wrath.json",
+  "风格_Painful.json",
+  "风格_Smiting.json"
  ],
  "id": "独立-SLO-Oriax",
  "英文状态": "脚码 ORIAX·SLO 实读;五风格已据TTS卡面录入;角色卡/UA/终结技模组未含待补;全名[待核]",

@@ -4,7 +4,16 @@
  "称号": "The Dark King",
  "系列": "独立-SLO",
  "角标": "N/A",
- "卡牌清单": [],
+ "卡牌清单": [
+  "character.json",
+  "基底_Reforging.json",
+  "终结技_Siphon.json",
+  "风格_Ambitious.json",
+  "风格_Dimensional.json",
+  "风格_Engineered.json",
+  "风格_Shocking.json",
+  "风格_Split-Second.json"
+ ],
  "备注": "deck47格32角色卡;SLO强化版",
  "来源": "官方实卡(TTS图包)"
 }

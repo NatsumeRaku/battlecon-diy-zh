@@ -4,7 +4,10 @@
  "称号": "Royal Bodyguard",
  "系列": "独立-SLO",
  "角标": "N/A",
- "卡牌清单": [],
+ "卡牌清单": [
+  "character.json",
+  "终结技_Flash Cutter.json"
+ ],
  "备注": "deck47格8角色卡;Andrus强化版(Royal Bodyguard);姓氏字形[待核]",
  "来源": "官方实卡(TTS图包)"
 }
