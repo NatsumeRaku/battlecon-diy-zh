@@ -1,7 +1,7 @@
 {
   "角色": "Marmelee Greyheart",
   "角标": "<star8-alpha>",
-  "名称": "星界屏障",
+  "名称": "星界障壁",
   "卡类": "终结技",
   "系列": "毁灭篇-DEV",
   "数值": {
@@ -23,6 +23,6 @@
       "效果": "<bl-b>After:</bl-b> Regain all <i-sb>Concentration</i-sb>."
     }
   ],
-  "备注": "来源注记:TTS图包;deck48格1;页脚MARMELEE GREYHEART·DEV;右下α标；名称:考据拟译v1[待核](行204)",
+  "备注": "来源注记:TTS图包;deck48格1;页脚MARMELEE GREYHEART·DEV;右下α标；名称:考据拟译v1[待核](行204)；官中直取(zh树实拍,行205)",
   "来源": "官方实卡"
 }
