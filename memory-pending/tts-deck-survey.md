@@ -62,3 +62,13 @@ CardID = deckID*100 + 格序号（行优先）。OCR 主任务按卡表图切片
 - 格27-33 Zaamassal PARADIGM形态7张:Punishing(Damage: Chip 2)/Resilient(Armor 2,After全失)/Hasty(+0 Priority,平局决胜)/Fluid(Before/End各可选移动1)/Distorted(回避距离4+攻击;Before可选距离变3*)/Tranquil(整卡灰调=未激活,无效果)/Gate Opened(每当 stunned/成Paradigm回收全部trashed范式并停用此卡;Reveal:应用全部trashed范式)。
 - 格34 Kallistar HUMAN形态:Armor 1。Kallistar应有Elemental形态,模组此区未见[待核]。
 以上26张已录入(行160),卡类"形态牌"沿用zh树先例(杀戮尖塔1/塞萨尔·格里斯特/沃客·巨星/春丽/绯雪均有形态牌),quote入台词字段(行162)。
+
+## 行241（2026-11-27）全卡表图OCR普查：fXX↔deck对照与新发现
+全量素材：34张唯一面表(f00-f33)+24张唯一背表(b00-b23)已重下至memory-pending/tts-img/full/与full_backs/（bcmod.json再失后重建，URL映射unique_urls.json已移出gitignore区）。PaddleOCR全扫一遍(127秒)，逐表头尾见full_ocr.json（gitignore区，可重生成）。
+
+**deck→系列映射以en树备注字段为准重建，基本完好**（行238前"结论丢失需复核"说法过时）：d01=WAR斗士卡(f09)/d02=WAR形态(f10)/d04=WAR风格Kehrolyn-Heketch-Kallistar(f11)/d05-06=WAR风格Zaamassal-Luc-Sagas-Tatsumi(f12,拆分待细核)/d07=状态牌(f14)/d32-34=TRI/d35=超载模式/d36-39=FAT/d41=DEV套件A(f01)/d42=DEV斗士A(f20,Endrbyt-Byron页脚)/d43=多人模式参考牌(f22,C6已证)/d44=SLO套件(f29,Dolores-Anath-Jin页脚)/d45=SLO斗士/d46=Victor风格(f31)/d47-48=DEV/SLO混合(f23-24-27,Malandrax mecchi页脚)/d49=同卡表/d50=独立推广(f30,Victor-Trash the Suggestion)/d51=多人模式(f33+backs)。d03=Anva(WAN)、d40=未知，仍[待核]。
+
+**f03=8卡模式小表实读（新发现，库内未录）**：格0 ACTIVE PLAYER(金翼#1,"You act first during all Phases")/格1-3 REACTIVE PLAYER(银#2/红#3/黑#4)/格4 POWER UP!(Limited Ante: Trash 2 Force for +1 Power)/格5 DEFENSE UP!(…+2 Guard)/格6 SPEED UP!(…+2 Priority)/格7 STORM REKINDLED[待核](装饰字体目检,"+2 Priority and Armor 2 next beat",归属待定)。同一组UP卡+顺序卡亦出现于f14/f18/f22/f33及其背表=多deck共享格。
+**FAT斗士全名页脚实读(f17)**：Jager Brandtford(DB作Brandford,中间t[待核])/Larimore Burman/SARAFINA VANEDRAN(C5姓氏冲突OCR侧再证Vanedran)/Thessala Three/Welsie Acktern/Baenvier Marlgrove/ALUMIS/BAron Eustace KherDOZA(=Eustace Kherdoza,销K?erdoza[待核]拼写)/IRIALANDRADAYAMORELLA(疑Triallandra全名,连写待拆,标[待核])。
+**f18新状态卡（未录,归属[待核]）**：REFINEMENT/HOUNDED/1 CHARGE/2 CHARGE/3 CHARGE/LIMIT EXCEEDED(Exceed联动词"Facade Exceed"出现,疑跨界促销牌)。
+**C3进展**：亚克萨斯/艾瑞克全名本轮OCR未见，挂账维持；Malandraxis页脚"f24/f27"实读(Malandrax mecchi)。
