@@ -14,7 +14,7 @@
   {
    "时点": "<o-b>",
    "条件": "",
-   "效果": "Spend 2 Energy to add an Endbyt Style from outside the game to your hand."
+   "效果": "Spend 2 Energy to add an Endrbyt Style from outside the game to your hand."
   },
   {
    "时点": "<p-b>",
@@ -23,6 +23,6 @@
   }
  ],
  "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck42_c60;Endbyt模式牌",
+ "备注": "来源注记:TTS图包;deck42_c60;Endrbyt模式牌",
  "台词": "\"I tried to explain how this works, you know...\""
 }
