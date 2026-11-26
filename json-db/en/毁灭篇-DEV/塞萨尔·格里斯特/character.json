@@ -18,7 +18,7 @@
   "必然": "<blue-circle>"
  },
  "卡牌清单": [
-  "UA_威胁等级.json",
+  "特技(UA)_威胁等级.json",
   "风格_堡垒.json",
   "风格_推进.json",
   "风格_方阵.json",
@@ -36,7 +36,7 @@
   "风格_Invulnerable.json",
   "风格_Phalanx.json",
   "风格_Unstoppable.json",
-  "专属_Endless Vigil.json"
+  "专属招式_Endless Vigil.json"
  ],
  "id": "毁灭篇-DEV-塞萨尔·格里斯特",
  "英文状态": "英文卡面未入库，卡文暂存中文原文，待官方英文卡录入覆写",

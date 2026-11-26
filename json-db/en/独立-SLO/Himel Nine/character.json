@@ -10,8 +10,8 @@
  "来源": "官方实卡(2026-11-24用户供图录入)",
  "卡牌清单": [
   "character.json",
-  "状态牌_Exposed.json",
-  "状态牌_Invincible.json",
+  "状态效果牌_Exposed.json",
+  "状态效果牌_Invincible.json",
   "终结技_IK 38.json",
   "风格_Decompression.json",
   "风格_Detonation.json",

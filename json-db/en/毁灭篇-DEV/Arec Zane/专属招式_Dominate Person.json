@@ -1,0 +1,28 @@
+{
+ "卡类": "专属招式",
+ "名称": "Dominate Person",
+ "角色": "Arec Zane",
+ "系列": "毁灭篇-DEV",
+ "角标": "<star8-alpha>",
+ "数值": {
+  "距离": "1~3",
+  "威力": 3,
+  "速度": 4,
+  "韧性": "shield"
+ },
+ "效果": [
+  {
+   "时点": "<i-sb>",
+   "条件": "",
+   "效果": "Ignore Guard. You and the Opponent ignore the effects of Influence."
+  },
+  {
+   "时点": "<r-b>",
+   "条件": "",
+   "效果": "Next beat, you choose the Opponent's attack pair and control all decisions for them."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck42_c19",
+ "台词": "\"You're about to be out-voted!\""
+}

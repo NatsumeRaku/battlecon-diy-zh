@@ -12,8 +12,8 @@
  "称号": "Wolfborn",
  "卡牌清单": [
   "基底_Blood Moon.json",
-  "状态牌_Hounded.json",
-  "状态牌_Refinement.json",
+  "状态效果牌_Hounded.json",
+  "状态效果牌_Refinement.json",
   "终结技_Slicer.json",
   "风格_Fanged.json",
   "风格_Hounding.json",

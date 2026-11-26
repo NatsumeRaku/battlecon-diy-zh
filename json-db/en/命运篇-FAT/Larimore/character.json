@@ -12,9 +12,9 @@
  "称号": "Warmage",
  "卡牌清单": [
   "基底_Incinerating.json",
-  "状态牌_1 Charge.json",
-  "状态牌_2 Charge.json",
-  "状态牌_3 Charge.json",
+  "状态效果牌_1 Charge.json",
+  "状态效果牌_2 Charge.json",
+  "状态效果牌_3 Charge.json",
   "终结技_Might.json",
   "风格_Blistering.json",
   "风格_Dire.json",
