@@ -8,7 +8,7 @@
   {
    "时点": "",
    "条件": "",
-   "效果": "RANGE 3~4 POWER PRORTY 64 GUARD 0 \"No evildoer can outrun the Shadow of Justice!'"
+   "效果": "\"No evildoer can outrun the Shadow of Justice!'"
   },
   {
    "时点": "命中",
