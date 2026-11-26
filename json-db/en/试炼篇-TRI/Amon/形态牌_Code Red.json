@@ -20,9 +20,9 @@
   "距离": "N/A",
   "威力": "+2",
   "速度": "N/A",
-  "韧性": "🛡[待核]"
+  "韧性": "shield"
  },
  "台词": "“Field breach! Initializing emergency response.”",
- "备注": "deck32格61;页脚AMON (DANGER LEVEL FORM) •TRI,LEVEL 3;危险等级形态系列之一;韧性栏为护盾图标",
+ "备注": "deck32格61;页脚AMON (DANGER LEVEL FORM) •TRI,LEVEL 3;危险等级形态系列之一;韧性栏护盾图标已核实(2026-11-26)",
  "来源": "官方实卡(TTS图包)"
 }
