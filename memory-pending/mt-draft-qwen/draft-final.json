@@ -141,7 +141,7 @@
   "名称": "Stunt",
   "时点": "<i-sb>",
   "en": "X is a space the Motorcycle entered during this beat.",
-  "zh": "X是在本回合中摩托车进入的格子。"
+  "zh": "X是在本回合中摩托车进入的格。"
  },
  {
   "角色": "Cionaodh",
@@ -277,7 +277,7 @@
   "名称": "Overpowering",
   "时点": "",
   "en": "Armor 1 You cannot be Pushed or Pulled.",
-  "zh": "装甲1：你不能被推动或拉动。"
+  "zh": "护甲1：你不能被推动或拉动。"
  },
  {
   "角色": "Dajin",
