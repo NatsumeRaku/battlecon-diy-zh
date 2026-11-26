@@ -4,6 +4,12 @@
  "名称": "Mystical",
  "卡类": "风格",
  "系列": "独立-SLO",
+ "数值": {
+  "距离": "+0~1",
+  "威力": "+0",
+  "速度": "+1",
+  "韧性": "+0"
+ },
  "效果": [
   {
    "时点": "开始",
@@ -13,15 +19,9 @@
   {
    "时点": "后置",
    "条件": "",
-   "效果": "<bl-b>After:</bl-b> Switch the positions of 2 Fates in your Spread."
+   "效果": "<bl-b>After:</bl-b> Switch the positions of 2 <i-sb>Fates</i-sb> in your Spread."
   }
  ],
- "数值": {
-  "距离": "+0~1",
-  "威力": "+0",
-  "速度": "+1",
-  "韧性": "+0"
- },
- "备注": "TTS官方模组卡面直录",
+ "备注": "deck45格54;页脚RARITTI·SLO",
  "来源": "官方实卡(TTS图包)"
 }

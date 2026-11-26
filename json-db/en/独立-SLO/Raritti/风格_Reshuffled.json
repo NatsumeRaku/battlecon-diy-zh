@@ -4,6 +4,12 @@
  "名称": "Reshuffled",
  "卡类": "风格",
  "系列": "独立-SLO",
+ "数值": {
+  "距离": "+0~1",
+  "威力": "-1",
+  "速度": "+1",
+  "韧性": "+0"
+ },
  "效果": [
   {
    "时点": "命中",
@@ -13,15 +19,9 @@
   {
    "时点": "后置",
    "条件": "",
-   "效果": "<bl-b>After:</bl-b> Activate Fates until you have 5 active Fates (do not perform their Flip Triggers)."
+   "效果": "<bl-b>After:</bl-b> Activate <i-sb>Fates</i-sb> until you have 5 active <i-sb>Fates</i-sb> (do not perform their Flip Triggers)."
   }
  ],
- "数值": {
-  "距离": "+0~1",
-  "威力": "-1",
-  "速度": "+1",
-  "韧性": "+0"
- },
- "备注": "TTS官方模组卡面直录",
+ "备注": "deck45格52;页脚RARITTI·SLO",
  "来源": "官方实卡(TTS图包)"
 }

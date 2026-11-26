@@ -1,0 +1,32 @@
+{
+ "角色": "Evil Hikaru",
+ "角标": "<green-tri-down>",
+ "名称": "Dark Raging",
+ "卡类": "风格",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "+0",
+  "威力": "+3",
+  "速度": "+0",
+  "韧性": "N/A"
+ },
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>Stun Immunity</i-sb>"
+  },
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> The Opponent has <i-sb>+3 Power</i-sb> and <i-sb>+3 Priority</i-sb> if their Base has a different name from yours."
+  },
+  {
+   "时点": "结束",
+   "条件": "you moved",
+   "效果": "<g-b>End, you moved:</g-b> Regain an <i-sb>Evil Element</i-sb>."
+  }
+ ],
+ "备注": "deck45格28;页脚EVIL HIKARU·SLO;Guard栏为盾图标未印数值",
+ "来源": "官方实卡(TTS图包)"
+}

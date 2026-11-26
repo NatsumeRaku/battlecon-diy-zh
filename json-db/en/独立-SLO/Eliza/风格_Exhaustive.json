@@ -1,0 +1,23 @@
+{
+ "角色": "Eliza",
+ "角标": "<orange-pentagon>",
+ "名称": "Exhaustive",
+ "卡类": "风格",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "-2",
+  "韧性": "+3"
+ },
+ "效果": [
+  {
+   "时点": "前置",
+   "条件": "",
+   "效果": "<bl-b>Before, Optional:</bl-b> Deactivate 2 <i-sb>Genres</i-sb> to gain <i-sb>+2 Power</i-sb> and Pull 2.",
+   "可选": true
+  }
+ ],
+ "备注": "deck45格21;页脚ELIZA·SLO",
+ "来源": "官方实卡(TTS图包)"
+}

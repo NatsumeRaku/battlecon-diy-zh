@@ -24,10 +24,16 @@
   "风格_Reshuffled.json",
   "命运牌_Darkhunter Ymenne",
   "命运牌_Exaltus the Untenable",
-  "命运牌_Deathless Hero Malcombe"
+  "命运牌_Deathless Hero Malcombe",
+  "风格_Karma",
+  "风格_Fused",
+  "风格_Reshuffled",
+  "风格_Numerology",
+  "风格_Mystical"
  ],
  "id": "独立-SLO-Raritti",
  "英文状态": "脚码 RARITTI·SLO 实读;五风格与七Fate牌已据TTS卡面录入;角色卡/UA/终结技模组未含待补;全名[待核]",
  "来源": "官方实卡(TTS图包)",
- "角色": "Raritti"
+ "角色": "Raritti",
+ "备注": ";deck45五风格TTS实卡录入(格序按红菱/橙五/黄六/绿倒/蓝圆位次)"
 }
