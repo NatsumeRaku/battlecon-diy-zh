@@ -1,0 +1,23 @@
+{
+ "角色": "Dolores Malephaise",
+ "角标": "<star8-alpha>",
+ "名称": "Fatal Descent",
+ "卡类": "终结技",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "5",
+  "威力": "8",
+  "速度": "0",
+  "韧性": "0"
+ },
+ "台词": "“The Well of Souls beckons for you!”",
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "Range 5",
+   "效果": "<g-b>Start, Range 5:</g-b> The Opponent cannot Advance or Retreat."
+  }
+ ],
+ "备注": "deck47格17;页脚DOLORES·SLO;右下α标",
+ "来源": "官方实卡(TTS图包)"
+}

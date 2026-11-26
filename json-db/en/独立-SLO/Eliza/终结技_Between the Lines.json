@@ -1,0 +1,23 @@
+{
+ "角色": "Eliza",
+ "角标": "<star8-alpha>",
+ "名称": "Between the Lines",
+ "卡类": "终结技",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "2~4",
+  "威力": "3",
+  "速度": "5",
+  "韧性": "0"
+ },
+ "台词": "“Step into a legend of your own making.”",
+ "效果": [
+  {
+   "时点": "每当",
+   "条件": "you deactivate a Genre",
+   "效果": "<p-b>Whenever</p-b> you deactivate a <i-sb>Genre</i-sb>, <i-sb>+1 Power</i-sb>."
+  }
+ ],
+ "备注": "deck47格21;页脚ELIZA·SLO;右下α标",
+ "来源": "官方实卡(TTS图包)"
+}

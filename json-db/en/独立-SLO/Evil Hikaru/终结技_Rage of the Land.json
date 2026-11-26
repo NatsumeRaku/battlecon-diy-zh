@@ -1,0 +1,23 @@
+{
+ "角色": "Evil Hikaru",
+ "角标": "<star8-alpha>",
+ "名称": "Rage of the Land",
+ "卡类": "终结技",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "1",
+  "威力": "6",
+  "速度": "7",
+  "韧性": "0"
+ },
+ "台词": "“All I need is one evil punch!”",
+ "效果": [
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> Spend all <i-sb>Evil Elements</i-sb> to regain 2 Life for each."
+  }
+ ],
+ "备注": "deck47格29;页脚EVIL·SLO;右下α标",
+ "来源": "官方实卡(TTS图包)"
+}

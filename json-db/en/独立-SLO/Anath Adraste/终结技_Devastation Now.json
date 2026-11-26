@@ -1,0 +1,28 @@
+{
+ "角色": "Anath Adraste",
+ "角标": "<star8-alpha>",
+ "名称": "Devastation Now",
+ "卡类": "终结技",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "1",
+  "韧性": "0"
+ },
+ "台词": "“The world has grown weary. Indines demands rest from the burden of your kind.”",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>Armor 1</i-sb>"
+  },
+  {
+   "时点": "后置",
+   "条件": "",
+   "效果": "<bl-b>After:</bl-b> For the rest of the duel, <i-sb>+4 Power</i-sb> and gain “<g-b>Start:</g-b> Suffer <i-sb>Chip 2</i-sb>.”"
+  }
+ ],
+ "备注": "deck47格1;页脚ANATH·SLO;右下α标",
+ "来源": "官方实卡(TTS图包)"
+}

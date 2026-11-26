@@ -1,0 +1,23 @@
+{
+ "角色": "Raritti Sikhar",
+ "角标": "<star8-alpha>",
+ "名称": "XIII: Death",
+ "卡类": "终结技",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "N/A",
+  "威力": "13",
+  "速度": "8",
+  "韧性": "0"
+ },
+ "台词": "“I cast your fate upon the cards!”",
+ "效果": [
+  {
+   "时点": "前置",
+   "条件": "",
+   "效果": "<bl-b>Before:</bl-b> Name a <i-sb>Fate</i-sb> and reveal a <i-sb>Fate</i-sb> in your <i-sb>Fate Deck</i-sb>. If the card you named was revealed, this attack’s Range becomes 1~4*."
+  }
+ ],
+ "备注": "deck47格60;页脚RARITTI·SLO;右下α标",
+ "来源": "官方实卡(TTS图包)"
+}

@@ -1,0 +1,22 @@
+{
+ "角色": "Oriax Two",
+ "角标": "<gray-moon>",
+ "名称": "Kaishin",
+ "卡类": "神祇牌",
+ "系列": "独立-SLO",
+ "数值": "N/A",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> <i-sb>+1 Power</i-sb> and <i-sb>+1 Priority</i-sb>."
+  },
+  {
+   "时点": "展示",
+   "条件": "Desperation",
+   "效果": "<b>Reveal, <i-sb>Desperation</i-sb>:</b> The Opponent discards a Style."
+  }
+ ],
+ "备注": "deck47格58;页脚ORIAX (DEITY CARD)·SLO;卡类新设\"神祇牌\"",
+ "来源": "官方实卡(TTS图包)"
+}

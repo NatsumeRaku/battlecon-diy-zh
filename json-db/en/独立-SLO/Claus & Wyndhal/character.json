@@ -1,18 +1,10 @@
 {
  "角色": "Claus & Wyndhal",
- "英文全名": "N/A",
- "称号": "N/A",
+ "英文全名": "Claus & Wyndhal",
+ "称号": "Guardians of Autumn",
  "系列": "独立-SLO",
  "角标": "N/A",
- "卡牌清单": [
-  "UA_Gale Force",
-  "风格_Hurricane",
-  "风格_Downdraft",
-  "风格_Blast",
-  "风格_Headwind",
-  "风格_Cyclone",
-  "基底_Tempest"
- ],
- "备注": "deck45格10~14五风格TTS实卡录入;全名/称号[待核];deck44专属基底TTS实卡录入(灰月角标)",
+ "卡牌清单": [],
+ "备注": "deck47格12角色卡;SLO强化版",
  "来源": "官方实卡(TTS图包)"
 }

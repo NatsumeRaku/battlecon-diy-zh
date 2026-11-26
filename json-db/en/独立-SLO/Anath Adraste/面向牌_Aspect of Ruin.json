@@ -1,0 +1,28 @@
+{
+ "角色": "Anath Adraste",
+ "角标": "<gray-moon>",
+ "名称": "Aspect of Ruin",
+ "卡类": "面向牌",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "台词": "“I will bring you to ruin!”",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>Armor 2</i-sb>"
+  },
+  {
+   "时点": "前置",
+   "条件": "Range 3+",
+   "效果": "<bl-b>Before, Range 3+:</bl-b> This attack does not hit."
+  }
+ ],
+ "备注": "deck47格6;页脚ANATH (ASPECT CARD)·SLO;卡类新设\"面向牌\"",
+ "来源": "官方实卡(TTS图包)"
+}

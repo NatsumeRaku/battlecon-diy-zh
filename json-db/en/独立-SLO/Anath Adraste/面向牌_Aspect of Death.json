@@ -1,0 +1,17 @@
+{
+ "角色": "Anath Adraste",
+ "角标": "<gray-moon>",
+ "名称": "Aspect of Death",
+ "卡类": "面向牌",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "+1~3",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "台词": "“Only the chill of death awaits you!”",
+ "效果": [],
+ "备注": "deck47格7;页脚ANATH (ASPECT CARD)·SLO;卡类新设\"面向牌\"",
+ "来源": "官方实卡(TTS图包)"
+}

@@ -1,0 +1,23 @@
+{
+ "角色": "Oriax Two",
+ "角标": "<gray-moon>",
+ "名称": "Tridan",
+ "卡类": "神祇牌",
+ "系列": "独立-SLO",
+ "数值": "N/A",
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start, Optional:</g-b> Advance or Retreat 1.",
+   "可选": true
+  },
+  {
+   "时点": "命中",
+   "条件": "Desperation",
+   "效果": "<r-b>Hit, <i-sb>Desperation</i-sb>:</r-b> Advance or Retreat 1."
+  }
+ ],
+ "备注": "deck47格56;页脚ORIAX (DEITY CARD)·SLO;卡类新设\"神祇牌\"",
+ "来源": "官方实卡(TTS图包)"
+}
