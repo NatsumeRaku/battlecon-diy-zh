@@ -5,10 +5,10 @@
   "类别": "斗士",
   "系列": "战争篇-WAR",
   "称号": "Clockwork Knight",
-  "类型": "",
-  "难度": "",
-  "机制概述": "",
-  "机制名": "Force",
+  "类型": "Slugger",
+  "难度": "Novice",
+  "机制概述": "Cadenza has 3 Shield Tokens he can use to gain 99 Guard or Stun Immunity. Use these along with his already great defenses to strike back at the Opponent with overwhelming force.",
+  "机制名": "Iron Body",
   "卡牌清单": [
     "风格_Hydraulic.json",
     "风格_Mechanical.json",
@@ -17,13 +17,14 @@
     "风格_Gravel.json",
     "专属招式_Press.json",
     "终结技_Rocket Press.json",
-    "状态效果牌_Battery Charged.json"
+    "状态效果牌_Battery Charged.json",
+    "特技（UA)_Iron Body.json"
   ],
   "id": "战争篇-WAR-Cadenza",
-  "英文状态": "角色卡/五风格/专属基底/α终结技已据TTS官方模组卡面核实录入;UA/β终结技模组未含待补",
+  "英文状态": "角色卡/五风格/专属基底/双面终结技/UA已据TTS官方模组卡面+卡背核实录入(2026-11-27卡背补录,行218)",
   "来源": "官方实卡",
   "角色": "Cadenza",
   "英文全名": "Cadenza",
   "称号_en": "Clockwork Knight",
-  "备注": "来源注记:TTS图包;deck1角色卡实读；中文名:考据拟译v1[待核](行202,对照表考据节)"
+  "备注": "来源注记:TTS图包;deck1角色卡实读；中文名:华彩骑士(用户2026-11-26裁定,对照表行376);类型Slugger/难度Novice页脚实读(行218)"
 }
