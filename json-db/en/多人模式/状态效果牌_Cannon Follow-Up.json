@@ -1,6 +1,6 @@
 {
  "卡类": "状态效果牌",
- "名称": "Dwelling Error[待核]",
+ "名称": "Cannon Follow-Up",
  "角色": "多人模式",
  "系列": "多人模式",
  "角标": "",
@@ -14,9 +14,9 @@
   {
    "时点": "<i-sb>",
    "条件": "",
-   "效果": "Next beat, prevent all of the Opponent's Start, Before, Hit, Damage, and After triggers."
+   "效果": "Next beat, you have Before: Advance 1~2."
   }
  ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck43_c20;装饰字体卡名实读"
+ "来源": "官方实卡（TTS图包）",
+ "备注": "来源注记:TTS图包;deck43_c23;PaddleOCR实读;名称据官方卡表[待核]"
 }

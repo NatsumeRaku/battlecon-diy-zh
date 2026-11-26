@@ -1,11 +1,11 @@
 {
  "卡类": "状态效果牌",
- "名称": "Ultimate Range[待核]",
+ "名称": "Arcane Binding",
  "角色": "多人模式",
  "系列": "多人模式",
  "角标": "",
  "数值": {
-  "距离": "+2",
+  "距离": "N/A",
   "威力": "N/A",
   "速度": "N/A",
   "韧性": "N/A"
@@ -14,9 +14,9 @@
   {
    "时点": "<i-sb>",
    "条件": "",
-   "效果": "For the rest of the duel, the Opponent has +2 Range."
+   "效果": "Next beat, the Opponent cannot Advance."
   }
  ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck43_c28;装饰字体卡名实读"
+ "来源": "官方实卡（TTS图包）",
+ "备注": "来源注记:TTS图包;deck43_c21;PaddleOCR实读"
 }
