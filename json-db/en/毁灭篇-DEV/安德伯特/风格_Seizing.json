@@ -1,27 +1,27 @@
 {
- "卡类": "风格",
- "名称": "Seizing",
- "角色": "恩德彼特",
- "系列": "毁灭篇-DEV",
- "角标": "<green-tri-down>",
- "数值": {
-  "距离": "+1~2",
-  "威力": "+1",
-  "速度": "+0",
-  "韧性": "+0"
- },
- "效果": [
-  {
-   "时点": "<r-b>",
-   "条件": "Optional:",
-   "效果": "Spend 5 Energy. If you did, the Opponent cannot Advance or Retreat next beat."
+  "卡类": "风格",
+  "名称": "攫取",
+  "角色": "恩德彼特",
+  "系列": "毁灭篇-DEV",
+  "角标": "<green-tri-down>",
+  "数值": {
+    "距离": "+1~2",
+    "威力": "+1",
+    "速度": "+0",
+    "韧性": "+0"
   },
-  {
-   "时点": "<bl-b>",
-   "条件": "Optional:",
-   "效果": "Spend 1 Energy to Advance or Retreat 1."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck41_c64"
+  "效果": [
+    {
+      "时点": "<r-b>",
+      "条件": "Optional:",
+      "效果": "Spend 5 Energy. If you did, the Opponent cannot Advance or Retreat next beat."
+    },
+    {
+      "时点": "<bl-b>",
+      "条件": "Optional:",
+      "效果": "Spend 1 Energy to Advance or Retreat 1."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck41_c64；风格名考据拟译v1[待核](行203)"
 }

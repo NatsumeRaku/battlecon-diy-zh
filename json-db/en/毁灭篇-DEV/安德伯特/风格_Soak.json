@@ -1,22 +1,22 @@
 {
- "卡类": "风格",
- "名称": "Soak",
- "角色": "恩德彼特",
- "系列": "毁灭篇-DEV",
- "角标": "<yellow-hexagon>",
- "数值": {
-  "距离": "+0",
-  "威力": "+0",
-  "速度": "+2",
-  "韧性": "+0"
- },
- "效果": [
-  {
-   "时点": "<r-b>",
-   "条件": "Optional:",
-   "效果": "Spend 1 Energy. If you did, the Opponent must choose and discard a Base."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck41_c63"
+  "卡类": "风格",
+  "名称": "吸收",
+  "角色": "恩德彼特",
+  "系列": "毁灭篇-DEV",
+  "角标": "<yellow-hexagon>",
+  "数值": {
+    "距离": "+0",
+    "威力": "+0",
+    "速度": "+2",
+    "韧性": "+0"
+  },
+  "效果": [
+    {
+      "时点": "<r-b>",
+      "条件": "Optional:",
+      "效果": "Spend 1 Energy. If you did, the Opponent must choose and discard a Base."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck41_c63；风格名考据拟译v1[待核](行203)"
 }

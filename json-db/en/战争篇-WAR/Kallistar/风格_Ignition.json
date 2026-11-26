@@ -1,27 +1,27 @@
 {
- "角色": "Kallistar Flarechild",
- "角标": "<red-diamond>",
- "名称": "Ignition",
- "卡类": "风格",
- "系列": "战争篇-WAR",
- "效果": [
-  {
-   "时点": "开始",
-   "条件": "Elemental",
-   "效果": "<g-b>Start, Elemental:</g-b> <i-sb>+3 Power</i-sb> and suffer <b>Chip 2</b>."
+  "角色": "Kallistar Flarechild",
+  "角标": "<red-diamond>",
+  "名称": "引燃",
+  "卡类": "风格",
+  "系列": "战争篇-WAR",
+  "效果": [
+    {
+      "时点": "开始",
+      "条件": "Elemental",
+      "效果": "<g-b>Start, Elemental:</g-b> <i-sb>+3 Power</i-sb> and suffer <b>Chip 2</b>."
+    },
+    {
+      "时点": "结束",
+      "条件": "Human",
+      "效果": "<g-b>End, Human:</g-b> Become <i-sb>Elemental</i-sb>."
+    }
+  ],
+  "数值": {
+    "距离": "+0~1",
+    "威力": "+1",
+    "速度": "-1",
+    "韧性": "+0"
   },
-  {
-   "时点": "结束",
-   "条件": "Human",
-   "效果": "<g-b>End, Human:</g-b> Become <i-sb>Elemental</i-sb>."
-  }
- ],
- "数值": {
-  "距离": "+0~1",
-  "威力": "+1",
-  "速度": "-1",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;TTS官方模组卡面直录",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;TTS官方模组卡面直录；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

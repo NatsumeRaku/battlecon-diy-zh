@@ -1,22 +1,22 @@
 {
- "角色": "Dolores Malephaise",
- "角标": "<orange-pentagon>",
- "名称": "Terror",
- "卡类": "风格",
- "系列": "独立-SLO",
- "数值": {
-  "距离": "+0",
-  "威力": "+0",
-  "速度": "-1",
-  "韧性": "+0"
- },
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<i-sb>Ignore Guard, Ignore Armor</i-sb>"
-  }
- ],
- "备注": "来源注记:TTS图包;deck45格16;页脚DOLORES MALEPHAISE·SLO",
- "来源": "官方实卡"
+  "角色": "Dolores Malephaise",
+  "角标": "<orange-pentagon>",
+  "名称": "恐惧",
+  "卡类": "风格",
+  "系列": "独立-SLO",
+  "数值": {
+    "距离": "+0",
+    "威力": "+0",
+    "速度": "-1",
+    "韧性": "+0"
+  },
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<i-sb>Ignore Guard, Ignore Armor</i-sb>"
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck45格16;页脚DOLORES MALEPHAISE·SLO；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

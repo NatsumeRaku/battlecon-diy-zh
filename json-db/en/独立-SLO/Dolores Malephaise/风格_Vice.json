@@ -1,22 +1,22 @@
 {
- "角色": "Dolores Malephaise",
- "角标": "<blue-circle>",
- "名称": "Vice",
- "卡类": "风格",
- "系列": "独立-SLO",
- "数值": {
-  "距离": "+0~1",
-  "威力": "-1",
-  "速度": "+1",
-  "韧性": "+0"
- },
- "效果": [
-  {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit:</r-b> Pull 1~3. <i-sb>+2 Power</i-sb> if you pulled the Opponent past you."
-  }
- ],
- "备注": "来源注记:TTS图包;deck45格19;页脚DOLORES MALEPHAISE·SLO",
- "来源": "官方实卡"
+  "角色": "Dolores Malephaise",
+  "角标": "<blue-circle>",
+  "名称": "恶癖",
+  "卡类": "风格",
+  "系列": "独立-SLO",
+  "数值": {
+    "距离": "+0~1",
+    "威力": "-1",
+    "速度": "+1",
+    "韧性": "+0"
+  },
+  "效果": [
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit:</r-b> Pull 1~3. <i-sb>+2 Power</i-sb> if you pulled the Opponent past you."
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck45格19;页脚DOLORES MALEPHAISE·SLO；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

@@ -1,23 +1,23 @@
 {
- "角色": "Sagas Seities",
- "角标": "<green-tri-down>",
- "名称": "Repelling",
- "卡类": "风格",
- "系列": "战争篇-WAR",
- "效果": [
-  {
-   "时点": "开始",
-   "条件": "",
-   "效果": "<g-b>Start, Optional:</g-b> Spend <i-sb>Mirror</i-sb> for Push 1 and the Opponent cannot enter spaces adjacent to you.",
-   "可选": true
-  }
- ],
- "数值": {
-  "距离": "+1~2",
-  "威力": "-1",
-  "速度": "+1",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;原误录Reflected/威力+1,经d05格18卡面放大核对正名Repelling、威力-1(2026-11-26用户确认)",
- "来源": "官方实卡"
+  "角色": "Sagas Seities",
+  "角标": "<green-tri-down>",
+  "名称": "斥退",
+  "卡类": "风格",
+  "系列": "战争篇-WAR",
+  "效果": [
+    {
+      "时点": "开始",
+      "条件": "",
+      "效果": "<g-b>Start, Optional:</g-b> Spend <i-sb>Mirror</i-sb> for Push 1 and the Opponent cannot enter spaces adjacent to you.",
+      "可选": true
+    }
+  ],
+  "数值": {
+    "距离": "+1~2",
+    "威力": "-1",
+    "速度": "+1",
+    "韧性": "+0"
+  },
+  "备注": "来源注记:TTS图包;原误录Reflected/威力+1,经d05格18卡面放大核对正名Repelling、威力-1(2026-11-26用户确认)；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

@@ -1,29 +1,29 @@
 {
- "角色": "Arec Zane",
- "角标": "<green-tri-down>",
- "名称": "Perceptional",
- "卡类": "风格",
- "系列": "毁灭篇-DEV",
- "效果": [
-  {
-   "时点": "开始",
-   "条件": "",
-   "效果": "<g-b>Start, Optional:</g-b> Use an <i-sb>Influence</i-sb> (even if you anted another Influence this beat). The used Influence cannot be regained this beat.",
-   "可选": true
+  "角色": "Arec Zane",
+  "角标": "<green-tri-down>",
+  "名称": "感知",
+  "卡类": "风格",
+  "系列": "毁灭篇-DEV",
+  "效果": [
+    {
+      "时点": "开始",
+      "条件": "",
+      "效果": "<g-b>Start, Optional:</g-b> Use an <i-sb>Influence</i-sb> (even if you anted another Influence this beat). The used Influence cannot be regained this beat.",
+      "可选": true
+    },
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit, Optional:</r-b> Pull 1.",
+      "可选": true
+    }
+  ],
+  "数值": {
+    "距离": "+1~2",
+    "威力": "-1",
+    "速度": "+0",
+    "韧性": "+0"
   },
-  {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit, Optional:</r-b> Pull 1.",
-   "可选": true
-  }
- ],
- "数值": {
-  "距离": "+1~2",
-  "威力": "-1",
-  "速度": "+0",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;deck41格22;TTS官方模组卡面直录;卡名实读PERCEPTIONAL(2026-11-26裁定确认)",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;deck41格22;TTS官方模组卡面直录;卡名实读PERCEPTIONAL(2026-11-26裁定确认)；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

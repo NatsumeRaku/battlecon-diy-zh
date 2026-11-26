@@ -1,27 +1,27 @@
 {
- "角色": "Lixis Ran Kanda",
- "角标": "<yellow-hexagon>",
- "名称": "Pruning",
- "卡类": "风格",
- "系列": "战争篇-WAR",
- "效果": [
-  {
-   "时点": "展示",
-   "条件": "",
-   "效果": "<b>Reveal:</b> <i-sb>+1 Power</i-sb> and <i-sb>+1 Priority</i-sb> per Base in the Opponent's Discard Piles."
+  "角色": "Lixis Ran Kanda",
+  "角标": "<yellow-hexagon>",
+  "名称": "修剪",
+  "卡类": "风格",
+  "系列": "战争篇-WAR",
+  "效果": [
+    {
+      "时点": "展示",
+      "条件": "",
+      "效果": "<b>Reveal:</b> <i-sb>+1 Power</i-sb> and <i-sb>+1 Priority</i-sb> per Base in the Opponent's Discard Piles."
+    },
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit:</r-b> The Opponent discards a Base."
+    }
+  ],
+  "数值": {
+    "距离": "+0~1",
+    "威力": "-1",
+    "速度": "-2",
+    "韧性": "+0"
   },
-  {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit:</r-b> The Opponent discards a Base."
-  }
- ],
- "数值": {
-  "距离": "+0~1",
-  "威力": "-1",
-  "速度": "-2",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;TTS官方模组卡面直录",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;TTS官方模组卡面直录；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

@@ -1,28 +1,28 @@
 {
- "角色": "Tatsumi & Juto",
- "角标": "<green-tri-down>",
- "名称": "Fearless",
- "卡类": "风格",
- "系列": "战争篇-WAR",
- "效果": [
-  {
-   "时点": "持续",
-   "条件": "",
-   "效果": "Check Range from <i-sb>Juto</i-sb>. <i>(This attack cannot hit if <i-sb>Juto</i-sb> is not in the arena.)</i>"
+  "角色": "Tatsumi & Juto",
+  "角标": "<green-tri-down>",
+  "名称": "无畏",
+  "卡类": "风格",
+  "系列": "战争篇-WAR",
+  "效果": [
+    {
+      "时点": "持续",
+      "条件": "",
+      "效果": "Check Range from <i-sb>Juto</i-sb>. <i>(This attack cannot hit if <i-sb>Juto</i-sb> is not in the arena.)</i>"
+    },
+    {
+      "时点": "结束",
+      "条件": "",
+      "效果": "<g-b>End, Optional:</g-b> Shift <i-sb>Juto</i-sb> to the edge of the arena behind the Opponent.",
+      "可选": true
+    }
+  ],
+  "数值": {
+    "距离": "-1~0",
+    "威力": "+0",
+    "速度": "+1",
+    "韧性": "+0"
   },
-  {
-   "时点": "结束",
-   "条件": "",
-   "效果": "<g-b>End, Optional:</g-b> Shift <i-sb>Juto</i-sb> to the edge of the arena behind the Opponent.",
-   "可选": true
-  }
- ],
- "数值": {
-  "距离": "-1~0",
-  "威力": "+0",
-  "速度": "+1",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;TTS官方模组卡面直录",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;TTS官方模组卡面直录；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

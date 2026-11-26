@@ -1,22 +1,22 @@
 {
- "角色": "Khadath Ahemusei",
- "角标": "<blue-circle>",
- "名称": "Lure",
- "卡类": "风格",
- "系列": "战争篇-WAR",
- "效果": [
-  {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit:</r-b> Pull 1-6, without pulling the Opponent past you. This movement is not stopped by the <i-sb>Gate</i-sb>."
-  }
- ],
- "数值": {
-  "距离": "+0~5",
-  "威力": "+0",
-  "速度": "+0",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;TTS官方模组卡面直录",
- "来源": "官方实卡"
+  "角色": "Khadath Ahemusei",
+  "角标": "<blue-circle>",
+  "名称": "诱饵",
+  "卡类": "风格",
+  "系列": "战争篇-WAR",
+  "效果": [
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit:</r-b> Pull 1-6, without pulling the Opponent past you. This movement is not stopped by the <i-sb>Gate</i-sb>."
+    }
+  ],
+  "数值": {
+    "距离": "+0~5",
+    "威力": "+0",
+    "速度": "+0",
+    "韧性": "+0"
+  },
+  "备注": "来源注记:TTS图包;TTS官方模组卡面直录；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

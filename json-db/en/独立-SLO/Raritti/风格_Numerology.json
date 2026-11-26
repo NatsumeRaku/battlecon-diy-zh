@@ -1,28 +1,28 @@
 {
- "角色": "Raritti",
- "角标": "<green-tri-down>",
- "名称": "Numerology",
- "卡类": "风格",
- "系列": "独立-SLO",
- "数值": {
-  "距离": "+0",
-  "威力": "+0",
-  "速度": "+0",
-  "韧性": "+0"
- },
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<i-sb>Ignore Armor</i-sb>"
+  "角色": "Raritti",
+  "角标": "<green-tri-down>",
+  "名称": "数秘",
+  "卡类": "风格",
+  "系列": "独立-SLO",
+  "数值": {
+    "距离": "+0",
+    "威力": "+0",
+    "速度": "+0",
+    "韧性": "+0"
   },
-  {
-   "时点": "开始",
-   "条件": "",
-   "效果": "<g-b>Start, Optional:</g-b> Perform the Flip Trigger of an active <i-sb>Fate</i-sb>.",
-   "可选": true
-  }
- ],
- "备注": "来源注记:TTS图包;deck45格53;页脚RARITTI·SLO",
- "来源": "官方实卡"
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<i-sb>Ignore Armor</i-sb>"
+    },
+    {
+      "时点": "开始",
+      "条件": "",
+      "效果": "<g-b>Start, Optional:</g-b> Perform the Flip Trigger of an active <i-sb>Fate</i-sb>.",
+      "可选": true
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck45格53;页脚RARITTI·SLO；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

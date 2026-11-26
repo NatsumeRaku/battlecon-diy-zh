@@ -1,32 +1,32 @@
 {
- "角色": "Thessala",
- "角标": "<orange-pentagon>",
- "名称": "Galvanized",
- "卡类": "风格",
- "系列": "命运篇-FAT",
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<b>Armor 1</b>."
+  "角色": "Thessala",
+  "角标": "<orange-pentagon>",
+  "名称": "电锻",
+  "卡类": "风格",
+  "系列": "命运篇-FAT",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<b>Armor 1</b>."
+    },
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit:</r-b> Regain a <i-sb>Tracker</i-sb>, placing it on any <i-sb>Trait</i-sb>."
+    },
+    {
+      "时点": "后置",
+      "条件": "",
+      "效果": "<bl-b>After:</bl-b> Advance or Retreat <i-sb>1</i-sb>."
+    }
+  ],
+  "数值": {
+    "距离": "+0",
+    "威力": "+0",
+    "速度": "-2",
+    "韧性": "+2"
   },
-  {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit:</r-b> Regain a <i-sb>Tracker</i-sb>, placing it on any <i-sb>Trait</i-sb>."
-  },
-  {
-   "时点": "后置",
-   "条件": "",
-   "效果": "<bl-b>After:</bl-b> Advance or Retreat <i-sb>1</i-sb>."
-  }
- ],
- "数值": {
-  "距离": "+0",
-  "威力": "+0",
-  "速度": "-2",
-  "韧性": "+2"
- },
- "备注": "来源注记:TTS图包;deck37格41;页脚THESSALA •FAT;橙色五边形角标",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;deck37格41;页脚THESSALA •FAT;橙色五边形角标；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

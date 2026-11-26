@@ -1,27 +1,27 @@
 {
- "角色": "Welsie",
- "角标": "<yellow-hexagon>",
- "名称": "Discordant",
- "卡类": "风格",
- "系列": "命运篇-FAT",
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<i-sb>Ignore Guard</i-sb>."
+  "角色": "Welsie",
+  "角标": "<yellow-hexagon>",
+  "名称": "失调",
+  "卡类": "风格",
+  "系列": "命运篇-FAT",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<i-sb>Ignore Guard</i-sb>."
+    },
+    {
+      "时点": "展示",
+      "条件": "",
+      "效果": "<b>Reveal:</b> <i-sb>+1 Power</i-sb> and <i-sb>-1 Priority</i-sb> per <i-sb>Recursion</i-sb> on this attack."
+    }
+  ],
+  "数值": {
+    "距离": "+2~5",
+    "威力": "+0",
+    "速度": "+2",
+    "韧性": "+0"
   },
-  {
-   "时点": "展示",
-   "条件": "",
-   "效果": "<b>Reveal:</b> <i-sb>+1 Power</i-sb> and <i-sb>-1 Priority</i-sb> per <i-sb>Recursion</i-sb> on this attack."
-  }
- ],
- "数值": {
-  "距离": "+2~5",
-  "威力": "+0",
-  "速度": "+2",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;deck37格52;页脚WELSIE •FAT;黄色六边形角标",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;deck37格52;页脚WELSIE •FAT;黄色六边形角标；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

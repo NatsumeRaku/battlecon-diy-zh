@@ -1,29 +1,29 @@
 {
- "角色": "Larimore",
- "角标": "<green-tri-down>",
- "名称": "Blistering",
- "卡类": "风格",
- "系列": "命运篇-FAT",
- "效果": [
-  {
-   "时点": "开始",
-   "条件": "",
-   "效果": "<g-b>Start, Optional:</g-b> Spend <i-sb>5 Firepower</i-sb> to become Active Player.",
-   "可选": true
+  "角色": "Larimore",
+  "角标": "<green-tri-down>",
+  "名称": "灼烈",
+  "卡类": "风格",
+  "系列": "命运篇-FAT",
+  "效果": [
+    {
+      "时点": "开始",
+      "条件": "",
+      "效果": "<g-b>Start, Optional:</g-b> Spend <i-sb>5 Firepower</i-sb> to become Active Player.",
+      "可选": true
+    },
+    {
+      "时点": "开始",
+      "条件": "",
+      "效果": "<g-b>Start, Optional:</g-b> Spend <i-sb>2 Firepower</i-sb> for <i-sb>+0~2 Range</i-sb>.",
+      "可选": true
+    }
+  ],
+  "数值": {
+    "距离": "+0",
+    "威力": "+1",
+    "速度": "-1",
+    "韧性": "+0"
   },
-  {
-   "时点": "开始",
-   "条件": "",
-   "效果": "<g-b>Start, Optional:</g-b> Spend <i-sb>2 Firepower</i-sb> for <i-sb>+0~2 Range</i-sb>.",
-   "可选": true
-  }
- ],
- "数值": {
-  "距离": "+0",
-  "威力": "+1",
-  "速度": "-1",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;deck37格33;页脚LARIMORE •FAT;绿色倒三角角标",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;deck37格33;页脚LARIMORE •FAT;绿色倒三角角标；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

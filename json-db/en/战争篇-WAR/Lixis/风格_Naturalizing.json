@@ -1,22 +1,22 @@
 {
- "角色": "Lixis Ran Kanda",
- "角标": "<blue-circle>",
- "名称": "Naturalizing",
- "卡类": "风格",
- "系列": "战争篇-WAR",
- "效果": [
-  {
-   "时点": "展示",
-   "条件": "",
-   "效果": "<b>Reveal:</b> Negate Power, Priority, and Guard bonuses from the Opponent's <i-sb>Force Overloads</i-sb>."
-  }
- ],
- "数值": {
-  "距离": "+0~1",
-  "威力": "+0",
-  "速度": "+1",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;TTS官方模组卡面直录",
- "来源": "官方实卡"
+  "角色": "Lixis Ran Kanda",
+  "角标": "<blue-circle>",
+  "名称": "归野",
+  "卡类": "风格",
+  "系列": "战争篇-WAR",
+  "效果": [
+    {
+      "时点": "展示",
+      "条件": "",
+      "效果": "<b>Reveal:</b> Negate Power, Priority, and Guard bonuses from the Opponent's <i-sb>Force Overloads</i-sb>."
+    }
+  ],
+  "数值": {
+    "距离": "+0~1",
+    "威力": "+0",
+    "速度": "+1",
+    "韧性": "+0"
+  },
+  "备注": "来源注记:TTS图包;TTS官方模组卡面直录；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

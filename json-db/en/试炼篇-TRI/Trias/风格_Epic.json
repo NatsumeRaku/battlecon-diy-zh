@@ -1,28 +1,28 @@
 {
- "角色": "Trias Blackwind",
- "角标": "<green-tri-down>",
- "名称": "Epic",
- "卡类": "风格",
- "系列": "试炼篇-TRI",
- "效果": [
-  {
-   "时点": "展示",
-   "条件": "",
-   "效果": "<b>Reveal:</b> Apply the stats and effects of all active <i-sb>Embellishments</i-sb> again."
+  "角色": "Trias Blackwind",
+  "角标": "<green-tri-down>",
+  "名称": "史诗",
+  "卡类": "风格",
+  "系列": "试炼篇-TRI",
+  "效果": [
+    {
+      "时点": "展示",
+      "条件": "",
+      "效果": "<b>Reveal:</b> Apply the stats and effects of all active <i-sb>Embellishments</i-sb> again."
+    },
+    {
+      "时点": "开始",
+      "条件": "",
+      "效果": "<g-b>Start, Optional:</g-b> Retreat 1.",
+      "可选": true
+    }
+  ],
+  "数值": {
+    "距离": "+2~4",
+    "威力": "-1",
+    "速度": "+0",
+    "韧性": "+0"
   },
-  {
-   "时点": "开始",
-   "条件": "",
-   "效果": "<g-b>Start, Optional:</g-b> Retreat 1.",
-   "可选": true
-  }
- ],
- "数值": {
-  "距离": "+2~4",
-  "威力": "-1",
-  "速度": "+0",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;deck33格48;页脚TRIAS •TRI",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;deck33格48;页脚TRIAS •TRI；风格名考据定案[待核](行200)回填(行203)",
+  "来源": "官方实卡"
 }

@@ -1,23 +1,23 @@
 {
- "角色": "Cherri Seneca",
- "角标": "<yellow-hexagon>",
- "名称": "Dreamscape",
- "卡类": "风格",
- "系列": "战争篇-WAR",
- "效果": [
-  {
-   "时点": "前置",
-   "条件": "",
-   "效果": "<bl-b>Before, Optional:</bl-b> Teleport to any space behind the Opponent.",
-   "可选": true
-  }
- ],
- "数值": {
-  "距离": "+0",
-  "威力": "-1",
-  "速度": "+1",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;TTS官方模组卡面直录",
- "来源": "官方实卡"
+  "角色": "Cherri Seneca",
+  "角标": "<yellow-hexagon>",
+  "名称": "梦境",
+  "卡类": "风格",
+  "系列": "战争篇-WAR",
+  "效果": [
+    {
+      "时点": "前置",
+      "条件": "",
+      "效果": "<bl-b>Before, Optional:</bl-b> Teleport to any space behind the Opponent.",
+      "可选": true
+    }
+  ],
+  "数值": {
+    "距离": "+0",
+    "威力": "-1",
+    "速度": "+1",
+    "韧性": "+0"
+  },
+  "备注": "来源注记:TTS图包;TTS官方模组卡面直录；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

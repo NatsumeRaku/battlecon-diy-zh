@@ -1,27 +1,27 @@
 {
- "角色": "Hayden Morgan",
- "角标": "<yellow-hexagon>",
- "名称": "Reckless",
- "卡类": "风格",
- "系列": "试炼篇-TRI",
- "效果": [
-  {
-   "时点": "展示",
-   "条件": "",
-   "效果": "<b>Reveal:</b> Spend 3 <i-sb>Fury</i-sb> for <i-sb>+4 Power</i-sb> if you have more <i-sb>Fury</i-sb> than <i-sb>Control</i-sb>. Otherwise, spend 3 <i-sb>Control</i-sb> for <i-sb>+4 Priority</i-sb>."
+  "角色": "Hayden Morgan",
+  "角标": "<yellow-hexagon>",
+  "名称": "鲁莽",
+  "卡类": "风格",
+  "系列": "试炼篇-TRI",
+  "效果": [
+    {
+      "时点": "展示",
+      "条件": "",
+      "效果": "<b>Reveal:</b> Spend 3 <i-sb>Fury</i-sb> for <i-sb>+4 Power</i-sb> if you have more <i-sb>Fury</i-sb> than <i-sb>Control</i-sb>. Otherwise, spend 3 <i-sb>Control</i-sb> for <i-sb>+4 Priority</i-sb>."
+    },
+    {
+      "时点": "结束",
+      "条件": "",
+      "效果": "<g-b>End:</g-b> Push or Pull 1."
+    }
+  ],
+  "数值": {
+    "距离": "+0",
+    "威力": "+0",
+    "速度": "+0",
+    "韧性": "+0"
   },
-  {
-   "时点": "结束",
-   "条件": "",
-   "效果": "<g-b>End:</g-b> Push or Pull 1."
-  }
- ],
- "数值": {
-  "距离": "+0",
-  "威力": "+0",
-  "速度": "+0",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;deck33格32;页脚HAYDEN •TRI",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;deck33格32;页脚HAYDEN •TRI；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }

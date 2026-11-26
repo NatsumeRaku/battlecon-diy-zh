@@ -1,28 +1,28 @@
 {
- "角色": "Amon Elcela",
- "角标": "<red-diamond>",
- "名称": "High Alert",
- "卡类": "风格",
- "系列": "试炼篇-TRI",
- "效果": [
-  {
-   "时点": "开始",
-   "条件": "",
-   "效果": "<g-b>Start, Optional:</g-b> Raise your <i-sb>Danger Level</i-sb>.",
-   "可选": true
+  "角色": "Amon Elcela",
+  "角标": "<red-diamond>",
+  "名称": "警备",
+  "卡类": "风格",
+  "系列": "试炼篇-TRI",
+  "效果": [
+    {
+      "时点": "开始",
+      "条件": "",
+      "效果": "<g-b>Start, Optional:</g-b> Raise your <i-sb>Danger Level</i-sb>.",
+      "可选": true
+    },
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit:</r-b> <i-sb>+X Power</i-sb>, where X is your <i-sb>Danger Level</i-sb> value (0, 1, 2, or 3)."
+    }
+  ],
+  "数值": {
+    "距离": "+1~3",
+    "威力": "-1",
+    "速度": "-2",
+    "韧性": "+0"
   },
-  {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit:</r-b> <i-sb>+X Power</i-sb>, where X is your <i-sb>Danger Level</i-sb> value (0, 1, 2, or 3)."
-  }
- ],
- "数值": {
-  "距离": "+1~3",
-  "威力": "-1",
-  "速度": "-2",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;deck33格0;页脚AMON •TRI",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;deck33格0;页脚AMON •TRI；风格名考据拟译v1[待核](行203)",
+  "来源": "官方实卡"
 }
