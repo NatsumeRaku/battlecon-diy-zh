@@ -1,17 +1,17 @@
 {
- "角色": "Anath Adraste",
- "角标": "<gray-moon>",
- "名称": "Aspect of Devastation",
- "卡类": "面向牌",
- "系列": "独立-SLO",
- "数值": {
-  "距离": "+0",
-  "威力": "-1",
-  "速度": "+3",
-  "韧性": "+0"
- },
- "台词": "“Let devastation come and sunder all the pitiful works of men.”",
- "效果": [],
- "备注": "来源注记:TTS图包;deck47格4;页脚ANATH (ASPECT CARD)·SLO;卡类新设\"面向牌\"",
- "来源": "官方实卡"
+  "角色": "Anath Adraste",
+  "角标": "<gray-moon>",
+  "名称": "毁灭面相",
+  "卡类": "面向牌",
+  "系列": "独立-SLO",
+  "数值": {
+    "距离": "+0",
+    "威力": "-1",
+    "速度": "+3",
+    "韧性": "+0"
+  },
+  "台词": "“Let devastation come and sunder all the pitiful works of men.”",
+  "效果": [],
+  "备注": "来源注记:TTS图包;deck47格4;页脚ANATH (ASPECT CARD)·SLO;卡类新设\"面向牌\"；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

@@ -1,27 +1,27 @@
 {
- "卡类": "基底",
- "名称": "Brand",
- "角色": "Shekhtur Lenmorre",
- "系列": "毁灭篇-DEV",
- "角标": "<gray-moon>",
- "数值": {
-  "距离": "1~2",
-  "威力": 3,
-  "速度": 2,
-  "韧性": 0
- },
- "效果": [
-  {
-   "时点": "<g-b>",
-   "条件": "",
-   "效果": "Optional: Ignore Guard."
+  "卡类": "基底",
+  "名称": "烙印",
+  "角色": "Shekhtur Lenmorre",
+  "系列": "毁灭篇-DEV",
+  "角标": "<gray-moon>",
+  "数值": {
+    "距离": "1~2",
+    "威力": 3,
+    "速度": 2,
+    "韧性": 0
   },
-  {
-   "时点": "<r-b>",
-   "条件": "",
-   "效果": "the Opponent: Spend 2 or 4 Malice. For every 2 Malice spent, regain 1 life and Chip 1."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck40_c8"
+  "效果": [
+    {
+      "时点": "<g-b>",
+      "条件": "",
+      "效果": "Optional: Ignore Guard."
+    },
+    {
+      "时点": "<r-b>",
+      "条件": "",
+      "效果": "the Opponent: Spend 2 or 4 Malice. For every 2 Malice spent, regain 1 life and Chip 1."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck40_c8；名称:考据拟译v1[待核](行204)"
 }

@@ -1,32 +1,32 @@
 {
- "角色": "Demitras Denigrande",
- "角标": "<star8-alpha>",
- "名称": "Symphony of Demise",
- "卡类": "终结技",
- "系列": "战争篇-WAR",
- "效果": [
-  {
-   "时点": "开始",
-   "条件": "",
-   "效果": "<g-b>Start:</g-b> Teleport to any space."
+  "角色": "Demitras Denigrande",
+  "角标": "<star8-alpha>",
+  "名称": "终焉交响",
+  "卡类": "终结技",
+  "系列": "战争篇-WAR",
+  "效果": [
+    {
+      "时点": "开始",
+      "条件": "",
+      "效果": "<g-b>Start:</g-b> Teleport to any space."
+    },
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit:</r-b> Regain 3 <i-sb>Crescendo</i-sb>."
+    },
+    {
+      "时点": "后置",
+      "条件": "",
+      "效果": "<bl-b>After:</bl-b> Teleport to any space."
+    }
+  ],
+  "数值": {
+    "距离": "1",
+    "威力": "1",
+    "速度": "6<initiative>",
+    "韧性": "0"
   },
-  {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit:</r-b> Regain 3 <i-sb>Crescendo</i-sb>."
-  },
-  {
-   "时点": "后置",
-   "条件": "",
-   "效果": "<bl-b>After:</bl-b> Teleport to any space."
-  }
- ],
- "数值": {
-  "距离": "1",
-  "威力": "1",
-  "速度": "6<initiative>",
-  "韧性": "0"
- },
- "备注": "来源注记:TTS图包;quote:No hope. No escape.;TTS模组仅含α面,β面[待核]",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;quote:No hope. No escape.;TTS模组仅含α面,β面[待核]；名称:考据定案[待核](行200)回填(行204)",
+  "来源": "官方实卡"
 }

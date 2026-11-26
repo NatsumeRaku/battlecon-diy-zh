@@ -1,18 +1,18 @@
 {
- "角色": "Merjoram Alexian",
- "角标": "<gray-moon>",
- "名称": "Ready Defenses",
- "卡类": "战术牌",
- "系列": "独立-SLO",
- "数值": "N/A",
- "台词": "“It’s going to take more than that to stop me!”",
- "效果": [
-  {
-   "时点": "展示",
-   "条件": "",
-   "效果": "<b>Reveal:</b> <i-sb>Armor 2</i-sb> if your printed Power is less than the Opponent."
-  }
- ],
- "备注": "来源注记:TTS图包;deck47格48;页脚MERJORAM (TACTICS CARD)·SLO;卡类新设\"战术牌\"",
- "来源": "官方实卡"
+  "角色": "Merjoram Alexian",
+  "角标": "<gray-moon>",
+  "名称": "戒备就绪",
+  "卡类": "战术牌",
+  "系列": "独立-SLO",
+  "数值": "N/A",
+  "台词": "“It’s going to take more than that to stop me!”",
+  "效果": [
+    {
+      "时点": "展示",
+      "条件": "",
+      "效果": "<b>Reveal:</b> <i-sb>Armor 2</i-sb> if your printed Power is less than the Opponent."
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck47格48;页脚MERJORAM (TACTICS CARD)·SLO;卡类新设\"战术牌\"；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

@@ -1,18 +1,18 @@
 {
- "卡类": "形态牌",
- "名称": "Human",
- "角色": "Kallistar Flarechild",
- "系列": "战争篇-WAR",
- "角标": "",
- "数值": "N/A",
- "效果": [
-  {
-   "时点": "持续",
-   "条件": "",
-   "效果": "<b>Armor 1</b>."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck2格34;页脚:KALLISTAR (HUMAN FORM)",
- "台词": "“You don't want to see me lose my cool!”"
+  "卡类": "形态牌",
+  "名称": "人形",
+  "角色": "Kallistar Flarechild",
+  "系列": "战争篇-WAR",
+  "角标": "",
+  "数值": "N/A",
+  "效果": [
+    {
+      "时点": "持续",
+      "条件": "",
+      "效果": "<b>Armor 1</b>."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck2格34;页脚:KALLISTAR (HUMAN FORM)；名称:考据拟译v1[待核](行204)",
+  "台词": "“You don't want to see me lose my cool!”"
 }

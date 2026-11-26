@@ -1,23 +1,23 @@
 {
- "角色": "Dareios Kuel",
- "角标": "",
- "名称": "Tea Transcendent",
- "卡类": "饮品牌",
- "系列": "试炼篇-TRI",
- "效果": [
-  {
-   "时点": "每当",
-   "条件": "activated",
-   "效果": "<p-b>When</p-b> activated, trash all <i-sb>Drinks</i-sb> in your Discard Piles. Pick up all cards in Discard Pile 1."
-  },
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "No effect while in your Discard Piles."
-  }
- ],
- "数值": {},
- "台词": "“Time for tea!”",
- "备注": "来源注记:TTS图包;deck32格51;页脚DAREIOS (DRINK CARD) •TRI",
- "来源": "官方实卡"
+  "角色": "Dareios Kuel",
+  "角标": "",
+  "名称": "超凡茗茶",
+  "卡类": "饮品牌",
+  "系列": "试炼篇-TRI",
+  "效果": [
+    {
+      "时点": "每当",
+      "条件": "activated",
+      "效果": "<p-b>When</p-b> activated, trash all <i-sb>Drinks</i-sb> in your Discard Piles. Pick up all cards in Discard Pile 1."
+    },
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "No effect while in your Discard Piles."
+    }
+  ],
+  "数值": {},
+  "台词": "“Time for tea!”",
+  "备注": "来源注记:TTS图包;deck32格51;页脚DAREIOS (DRINK CARD) •TRI；名称:考据定案[待核](行200)回填(行204)",
+  "来源": "官方实卡"
 }

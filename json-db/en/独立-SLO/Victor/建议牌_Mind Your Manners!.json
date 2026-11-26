@@ -1,17 +1,17 @@
 {
- "角色": "Victor",
- "角标": "<gray-moon>",
- "名称": "Mind Your Manners!",
- "卡类": "建议牌",
- "系列": "独立-SLO",
- "数值": "N/A",
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<g-b>Start, the Opponent’s attack has <i-sb>Power 5+</i-sb>:</g-b> Trash this <i-sb>Suggestion</i-sb>."
-  }
- ],
- "备注": "来源注记:TTS图包;deck50格37;页脚VICTOR (SUGGESTION CARD)·SLO;卡类新设\"建议牌\"",
- "来源": "官方实卡"
+  "角色": "Victor",
+  "角标": "<gray-moon>",
+  "名称": "注意礼貌!",
+  "卡类": "建议牌",
+  "系列": "独立-SLO",
+  "数值": "N/A",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<g-b>Start, the Opponent’s attack has <i-sb>Power 5+</i-sb>:</g-b> Trash this <i-sb>Suggestion</i-sb>."
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck50格37;页脚VICTOR (SUGGESTION CARD)·SLO;卡类新设\"建议牌\"；名称:考据定案[待核](行200)回填(行204)",
+  "来源": "官方实卡"
 }

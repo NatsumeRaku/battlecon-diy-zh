@@ -1,27 +1,27 @@
 {
- "角色": "Victor",
- "角标": "<blue-circle>",
- "名称": "Lost",
- "卡类": "基底",
- "系列": "独立-SLO",
- "效果": [
-  {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit:</r-b> Push or Pull <i-sb>1~6</i-sb>. The Opponent's Range becomes <i-sb>1~6*</i-sb> if their attack does not have Range <i-sb>N/A</i-sb>."
+  "角色": "Victor",
+  "角标": "<blue-circle>",
+  "名称": "迷失",
+  "卡类": "基底",
+  "系列": "独立-SLO",
+  "效果": [
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit:</r-b> Push or Pull <i-sb>1~6</i-sb>. The Opponent's Range becomes <i-sb>1~6*</i-sb> if their attack does not have Range <i-sb>N/A</i-sb>."
+    },
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit:</r-b> The Opponent gains <i-sb>Stun Immunity</i-sb>."
+    }
+  ],
+  "数值": {
+    "距离": "+0~6",
+    "威力": "+0",
+    "速度": "+0",
+    "韧性": "+0"
   },
-  {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit:</r-b> The Opponent gains <i-sb>Stun Immunity</i-sb>."
-  }
- ],
- "数值": {
-  "距离": "+0~6",
-  "威力": "+0",
-  "速度": "+0",
-  "韧性": "+0"
- },
- "备注": "来源注记:TTS图包;deck46格04;页脚VICTOR •SLO;蓝色圆形角标;基底牌",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;deck46格04;页脚VICTOR •SLO;蓝色圆形角标;基底牌；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

@@ -1,27 +1,27 @@
 {
- "角色": "Aria",
- "角标": "",
- "名称": "Synchro Merge",
- "卡类": "终结技",
- "系列": "毁灭篇-DEV",
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<b>Armor 3</b>"
+  "角色": "Aria",
+  "角标": "",
+  "名称": "同调合体",
+  "卡类": "终结技",
+  "系列": "毁灭篇-DEV",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<b>Armor 3</b>"
+    },
+    {
+      "时点": "开始",
+      "条件": "",
+      "效果": "<g-b>Start:</g-b> Trash any number of <i-sb>Droids</i-sb> in the Arena or from your Supply for <i-sb>+1 Power</i-sb> and <i-sb>+1 Guard</i-sb> each for the rest of the duel."
+    }
+  ],
+  "数值": {
+    "距离": "2~3",
+    "威力": "3",
+    "速度": "6",
+    "韧性": "0"
   },
-  {
-   "时点": "开始",
-   "条件": "",
-   "效果": "<g-b>Start:</g-b> Trash any number of <i-sb>Droids</i-sb> in the Arena or from your Supply for <i-sb>+1 Power</i-sb> and <i-sb>+1 Guard</i-sb> each for the rest of the duel."
-  }
- ],
- "数值": {
-  "距离": "2~3",
-  "威力": "3",
-  "速度": "6",
-  "韧性": "0"
- },
- "备注": "来源注记:2026-11-24用户供图录入;quote:Upgrade complete!;TTS模拟器截图,图糊随缘录入",
- "来源": "官方实卡"
+  "备注": "来源注记:2026-11-24用户供图录入;quote:Upgrade complete!;TTS模拟器截图,图糊随缘录入；名称:考据定案[待核](行200)回填(行204)",
+  "来源": "官方实卡"
 }

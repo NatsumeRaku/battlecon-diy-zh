@@ -1,32 +1,32 @@
 {
- "卡类": "基底",
- "名称": "Hex",
- "角色": "Arec Zane",
- "系列": "毁灭篇-DEV",
- "角标": "<gray-moon>",
- "数值": {
-  "距离": "1~6",
-  "威力": 5,
-  "优先": 3,
-  "防御": 0
- },
- "效果": [
-  {
-   "时点": "<i-sb>",
-   "条件": "",
-   "效果": "This attack's Range is 1~6 and cannot be modified by any other effect or your Style."
+  "卡类": "基底",
+  "名称": "恶咒",
+  "角色": "Arec Zane",
+  "系列": "毁灭篇-DEV",
+  "角标": "<gray-moon>",
+  "数值": {
+    "距离": "1~6",
+    "威力": 5,
+    "优先": 3,
+    "防御": 0
   },
-  {
-   "时点": "<r-b>",
-   "条件": "",
-   "效果": "the Opponent gains Stun Immunity."
-  },
-  {
-   "时点": "<g-b>",
-   "条件": "",
-   "效果": "Push or Pull 1. Regain an Influence."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck40_c12"
+  "效果": [
+    {
+      "时点": "<i-sb>",
+      "条件": "",
+      "效果": "This attack's Range is 1~6 and cannot be modified by any other effect or your Style."
+    },
+    {
+      "时点": "<r-b>",
+      "条件": "",
+      "效果": "the Opponent gains Stun Immunity."
+    },
+    {
+      "时点": "<g-b>",
+      "条件": "",
+      "效果": "Push or Pull 1. Regain an Influence."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck40_c12；名称:考据拟译v1[待核](行204)"
 }

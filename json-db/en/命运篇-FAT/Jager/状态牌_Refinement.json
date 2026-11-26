@@ -1,21 +1,21 @@
 {
- "卡类": "状态效果牌",
- "名称": "Refinement",
- "角色": "Jager",
- "系列": "命运篇-FAT",
- "角标": "<yellow-hexagon>",
- "数值": "N/A",
- "目标": "自己",
- "公开性": "公开",
- "生成自": "Jager·Refined",
- "移除条件": "Next beat",
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<i>(Next beat, gain “Reveal, Signature Move anted: <i-sb>+1 Power</i-sb> and <i-sb>+1 Priority</i-sb>.”)</i>"
-  }
- ],
- "备注": "来源注记:TTS图包;deck39格10;卡文整体括注;生成自Jager风格Refined的End效果;图标黄六边形=来源风格徽章",
- "来源": "官方实卡"
+  "卡类": "状态效果牌",
+  "名称": "精进",
+  "角色": "Jager",
+  "系列": "命运篇-FAT",
+  "角标": "<yellow-hexagon>",
+  "数值": "N/A",
+  "目标": "自己",
+  "公开性": "公开",
+  "生成自": "Jager·Refined",
+  "移除条件": "Next beat",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<i>(Next beat, gain “Reveal, Signature Move anted: <i-sb>+1 Power</i-sb> and <i-sb>+1 Priority</i-sb>.”)</i>"
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck39格10;卡文整体括注;生成自Jager风格Refined的End效果;图标黄六边形=来源风格徽章；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

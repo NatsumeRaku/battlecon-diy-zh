@@ -1,18 +1,18 @@
 {
- "卡类": "形态牌",
- "名称": "Virus",
- "角色": "Lixis Ran Kanda",
- "系列": "战争篇-WAR",
- "角标": "",
- "数值": "N/A",
- "效果": [
-  {
-   "时点": "限定投注",
-   "条件": "",
-   "效果": "<o-b>Limited Ante:</o-b> <i-sb>+3 Priority</i-sb> if the Opponent has 1 life. Otherwise, <b>Chip 2</b>."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck2格20;页脚:LIXIS (VIRUS CARD)",
- "台词": "“How's my latest formula?”"
+  "卡类": "形态牌",
+  "名称": "病毒",
+  "角色": "Lixis Ran Kanda",
+  "系列": "战争篇-WAR",
+  "角标": "",
+  "数值": "N/A",
+  "效果": [
+    {
+      "时点": "限定投注",
+      "条件": "",
+      "效果": "<o-b>Limited Ante:</o-b> <i-sb>+3 Priority</i-sb> if the Opponent has 1 life. Otherwise, <b>Chip 2</b>."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck2格20;页脚:LIXIS (VIRUS CARD)；名称:考据拟译v1[待核](行204)",
+  "台词": "“How's my latest formula?”"
 }

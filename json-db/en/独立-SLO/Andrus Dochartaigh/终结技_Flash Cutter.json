@@ -1,28 +1,28 @@
 {
- "角色": "Andrus Dochartaigh",
- "角标": "<star8-alpha>",
- "名称": "Flash Cutter",
- "卡类": "终结技",
- "系列": "独立-SLO",
- "数值": {
-  "距离": "1~2",
-  "威力": "5",
-  "速度": "4",
-  "韧性": "4"
- },
- "台词": "“One blink, and you’re dead.”",
- "效果": [
-  {
-   "时点": "后置",
-   "条件": "",
-   "效果": "<bl-b>After:</bl-b> Regain all <i-sb>Blades</i-sb>."
+  "角色": "Andrus Dochartaigh",
+  "角标": "<star8-alpha>",
+  "名称": "闪光斩",
+  "卡类": "终结技",
+  "系列": "独立-SLO",
+  "数值": {
+    "距离": "1~2",
+    "威力": "5",
+    "速度": "4",
+    "韧性": "4"
   },
-  {
-   "时点": "结束",
-   "条件": "",
-   "效果": "<g-b>End:</g-b> Advance or Retreat 1~2."
-  }
- ],
- "备注": "来源注记:TTS图包;deck47格9;页脚ANDRUS·SLO;右下α标",
- "来源": "官方实卡"
+  "台词": "“One blink, and you’re dead.”",
+  "效果": [
+    {
+      "时点": "后置",
+      "条件": "",
+      "效果": "<bl-b>After:</bl-b> Regain all <i-sb>Blades</i-sb>."
+    },
+    {
+      "时点": "结束",
+      "条件": "",
+      "效果": "<g-b>End:</g-b> Advance or Retreat 1~2."
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck47格9;页脚ANDRUS·SLO;右下α标；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

@@ -1,24 +1,24 @@
 {
- "卡类": "状态效果牌",
- "名称": "3 Charge",
- "角色": "Larimore",
- "系列": "命运篇-FAT",
- "角标": "",
- "数值": {
-  "威力": "-2",
-  "速度": "-4"
- },
- "目标": "自己",
- "公开性": "公开",
- "生成自": "Larimore·Charge",
- "移除条件": "N/A [待核]",
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<i>(POWER <i-sb>-2</i-sb>. PRIORITY <i-sb>-4</i-sb>. You cannot Advance, Retreat, Push, or Pull.)</i>"
-  }
- ],
- "备注": "来源注记:TTS图包;deck39格14;Charge计数卡;卡面印刷POWER -2/PRIORITY -4/无法移动与3枚Charge徽记",
- "来源": "官方实卡"
+  "卡类": "状态效果牌",
+  "名称": "充能3",
+  "角色": "Larimore",
+  "系列": "命运篇-FAT",
+  "角标": "",
+  "数值": {
+    "威力": "-2",
+    "速度": "-4"
+  },
+  "目标": "自己",
+  "公开性": "公开",
+  "生成自": "Larimore·Charge",
+  "移除条件": "N/A [待核]",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<i>(POWER <i-sb>-2</i-sb>. PRIORITY <i-sb>-4</i-sb>. You cannot Advance, Retreat, Push, or Pull.)</i>"
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck39格14;Charge计数卡;卡面印刷POWER -2/PRIORITY -4/无法移动与3枚Charge徽记；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

@@ -1,18 +1,18 @@
 {
- "角色": "Trias Blackwind",
- "角标": "",
- "名称": "+ of the Ages!",
- "卡类": "饰品牌(Embellishment)",
- "系列": "试炼篇-TRI",
- "效果": [
-  {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit:</r-b> Push 1. The Opponent discards a Base."
-  }
- ],
- "数值": {},
- "台词": "“There's only room for one star in Indines!”",
- "备注": "来源注记:TTS图包;deck32格56;页脚TRIAS (ENDING EMBELLISHMENT CARD) •TRI;无数值栏",
- "来源": "官方实卡"
+  "角色": "Trias Blackwind",
+  "角标": "",
+  "名称": "万世之+",
+  "卡类": "饰品牌(Embellishment)",
+  "系列": "试炼篇-TRI",
+  "效果": [
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit:</r-b> Push 1. The Opponent discards a Base."
+    }
+  ],
+  "数值": {},
+  "台词": "“There's only room for one star in Indines!”",
+  "备注": "来源注记:TTS图包;deck32格56;页脚TRIAS (ENDING EMBELLISHMENT CARD) •TRI;无数值栏；名称:考据定案[待核](行200)回填(行204)",
+  "来源": "官方实卡"
 }

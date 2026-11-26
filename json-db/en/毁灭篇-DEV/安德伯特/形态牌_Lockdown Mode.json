@@ -1,28 +1,28 @@
 {
- "卡类": "形态牌",
- "名称": "Lockdown Mode",
- "角色": "恩德彼特",
- "系列": "毁灭篇-DEV",
- "角标": "",
- "数值": {
-  "距离": "N/A",
-  "威力": "N/A",
-  "速度": "N/A",
-  "韧性": "N/A"
- },
- "效果": [
-  {
-   "时点": "<o-b>",
-   "条件": "",
-   "效果": "Spend 5 Energy for +2 Power and Stun Immunity."
+  "卡类": "形态牌",
+  "名称": "封锁模式",
+  "角色": "恩德彼特",
+  "系列": "毁灭篇-DEV",
+  "角标": "",
+  "数值": {
+    "距离": "N/A",
+    "威力": "N/A",
+    "速度": "N/A",
+    "韧性": "N/A"
   },
-  {
-   "时点": "伤害",
-   "条件": "",
-   "效果": "Regain 1 Energy per damage dealt."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck42_c63;Endrbyt模式牌",
- "台词": "\"Consistency is my middle name!\""
+  "效果": [
+    {
+      "时点": "<o-b>",
+      "条件": "",
+      "效果": "Spend 5 Energy for +2 Power and Stun Immunity."
+    },
+    {
+      "时点": "伤害",
+      "条件": "",
+      "效果": "Regain 1 Energy per damage dealt."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck42_c63;Endrbyt模式牌；名称:考据拟译v1[待核](行204)",
+  "台词": "\"Consistency is my middle name!\""
 }

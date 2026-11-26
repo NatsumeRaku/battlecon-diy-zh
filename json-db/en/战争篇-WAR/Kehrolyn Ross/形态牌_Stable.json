@@ -1,18 +1,18 @@
 {
- "卡类": "形态牌",
- "名称": "Stable",
- "角色": "Kehrolyn Ross",
- "系列": "战争篇-WAR",
- "角标": "",
- "数值": "N/A",
- "效果": [
-  {
-   "时点": "结束",
-   "条件": "",
-   "效果": "<g-b>End:</g-b> Regain 1 Force."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck2格19;页脚:KEHROLYN (MORPH FORM)",
- "台词": "“A moment of quiet in a sea of turmoil.”"
+  "卡类": "形态牌",
+  "名称": "稳定",
+  "角色": "Kehrolyn Ross",
+  "系列": "战争篇-WAR",
+  "角标": "",
+  "数值": "N/A",
+  "效果": [
+    {
+      "时点": "结束",
+      "条件": "",
+      "效果": "<g-b>End:</g-b> Regain 1 Force."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck2格19;页脚:KEHROLYN (MORPH FORM)；名称:考据拟译v1[待核](行204)",
+  "台词": "“A moment of quiet in a sea of turmoil.”"
 }

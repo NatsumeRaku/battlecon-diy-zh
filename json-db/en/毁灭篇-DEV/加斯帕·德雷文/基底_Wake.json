@@ -1,27 +1,27 @@
 {
- "卡类": "基底",
- "名称": "Wake",
- "角色": "Gaspar",
- "系列": "毁灭篇-DEV",
- "角标": "<gray-moon>",
- "数值": {
-  "距离": "N/A",
-  "威力": "N/A",
-  "速度": 5,
-  "韧性": 0
- },
- "效果": [
-  {
-   "时点": "<g-b>",
-   "条件": "",
-   "效果": "Duplicated (inactive): Teleport to Clone's space. If you did, place Clone in the space you left. If you moved past the Opponent, actual attacks."
+  "卡类": "基底",
+  "名称": "尾流",
+  "角色": "Gaspar",
+  "系列": "毁灭篇-DEV",
+  "角标": "<gray-moon>",
+  "数值": {
+    "距离": "N/A",
+    "威力": "N/A",
+    "速度": 5,
+    "韧性": 0
   },
-  {
-   "时点": "<bl-b>",
-   "条件": "",
-   "效果": "Duplicated (active): Advance or Retreat Gaspar 1~2. Advance or Retreat Clone 1~2."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck40_c24"
+  "效果": [
+    {
+      "时点": "<g-b>",
+      "条件": "",
+      "效果": "Duplicated (inactive): Teleport to Clone's space. If you did, place Clone in the space you left. If you moved past the Opponent, actual attacks."
+    },
+    {
+      "时点": "<bl-b>",
+      "条件": "",
+      "效果": "Duplicated (active): Advance or Retreat Gaspar 1~2. Advance or Retreat Clone 1~2."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck40_c24；名称:考据拟译v1[待核](行204)"
 }

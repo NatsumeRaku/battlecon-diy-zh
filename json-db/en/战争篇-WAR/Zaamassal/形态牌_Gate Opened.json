@@ -1,23 +1,23 @@
 {
- "卡类": "形态牌",
- "名称": "Gate Opened",
- "角色": "Zaamassal Kett",
- "系列": "战争篇-WAR",
- "角标": "",
- "数值": "N/A",
- "效果": [
-  {
-   "时点": "每当",
-   "条件": "you are stunned or become a Paradigm",
-   "效果": "When you are stunned or become a <i-sb>Paradigm</i-sb>, recover all trashed <i-sb>Paradigms</i-sb> and deactivate this card."
-  },
-  {
-   "时点": "展示",
-   "条件": "",
-   "效果": "<b>Reveal:</b> Apply the stats and effects of all trashed <i-sb>Paradigms</i-sb> to your attack."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck2格33;页脚:ZAAMASSAL (GATE OPENED FORM)",
- "台词": "“Lend me your power, origin of all!”"
+  "卡类": "形态牌",
+  "名称": "敞门",
+  "角色": "Zaamassal Kett",
+  "系列": "战争篇-WAR",
+  "角标": "",
+  "数值": "N/A",
+  "效果": [
+    {
+      "时点": "每当",
+      "条件": "you are stunned or become a Paradigm",
+      "效果": "When you are stunned or become a <i-sb>Paradigm</i-sb>, recover all trashed <i-sb>Paradigms</i-sb> and deactivate this card."
+    },
+    {
+      "时点": "展示",
+      "条件": "",
+      "效果": "<b>Reveal:</b> Apply the stats and effects of all trashed <i-sb>Paradigms</i-sb> to your attack."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck2格33;页脚:ZAAMASSAL (GATE OPENED FORM)；名称:考据拟译v1[待核](行204)",
+  "台词": "“Lend me your power, origin of all!”"
 }

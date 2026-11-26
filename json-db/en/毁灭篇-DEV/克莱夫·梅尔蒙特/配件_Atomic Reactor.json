@@ -1,17 +1,17 @@
 {
- "卡类": "配件",
- "名称": "Atomic Reactor",
- "角色": "克莱夫·梅尔蒙特",
- "系列": "毁灭篇-DEV",
- "角标": "",
- "数值": {
-  "距离": "N/A",
-  "威力": "+1",
-  "速度": "N/A",
-  "韧性": "N/A"
- },
- "效果": [],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck42_c47;Clive模块牌;",
- "台词": "\"It takes heart, and a little bit of luck to come out ahead. The atomic reactor is a big help too!\""
+  "卡类": "配件",
+  "名称": "原子炉",
+  "角色": "克莱夫·梅尔蒙特",
+  "系列": "毁灭篇-DEV",
+  "角标": "",
+  "数值": {
+    "距离": "N/A",
+    "威力": "+1",
+    "速度": "N/A",
+    "韧性": "N/A"
+  },
+  "效果": [],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck42_c47;Clive模块牌;；名称:考据拟译v1[待核](行204)",
+  "台词": "\"It takes heart, and a little bit of luck to come out ahead. The atomic reactor is a big help too!\""
 }

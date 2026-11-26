@@ -1,28 +1,28 @@
 {
- "卡类": "专属招式",
- "名称": "Endless Vigil",
- "角色": "塞萨尔·格里斯特",
- "系列": "毁灭篇-DEV",
- "角标": "<star8-alpha>",
- "数值": {
-  "距离": "N/A",
-  "威力": "N/A",
-  "速度": 0,
-  "韧性": 4
- },
- "效果": [
-  {
-   "时点": "<i-sb>",
-   "条件": "",
-   "效果": "Armor 4"
+  "卡类": "专属招式",
+  "名称": "无尽守夜",
+  "角色": "塞萨尔·格里斯特",
+  "系列": "毁灭篇-DEV",
+  "角标": "<star8-alpha>",
+  "数值": {
+    "距离": "N/A",
+    "威力": "N/A",
+    "速度": 0,
+    "韧性": 4
   },
-  {
-   "时点": "<g-b>",
-   "条件": "",
-   "效果": "Deplete all Threat. For the rest of the duel, double Threat bonuses from your UA. The next time you have +4 Threat, you are eliminated."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck42_c31",
- "台词": "\"Not for the wicked, not yet for me.\""
+  "效果": [
+    {
+      "时点": "<i-sb>",
+      "条件": "",
+      "效果": "Armor 4"
+    },
+    {
+      "时点": "<g-b>",
+      "条件": "",
+      "效果": "Deplete all Threat. For the rest of the duel, double Threat bonuses from your UA. The next time you have +4 Threat, you are eliminated."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck42_c31；名称:考据拟译v1[待核](行204)",
+  "台词": "\"Not for the wicked, not yet for me.\""
 }

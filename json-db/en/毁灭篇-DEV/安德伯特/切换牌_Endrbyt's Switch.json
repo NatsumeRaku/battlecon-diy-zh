@@ -1,27 +1,27 @@
 {
- "卡类": "切换牌",
- "名称": "Endrbyt's Switch",
- "角色": "恩德彼特",
- "系列": "毁灭篇-DEV",
- "角标": "<purple-star>",
- "数值": {
-  "距离": "+0",
-  "威力": "+0",
-  "速度": "+0",
-  "韧性": "+0"
- },
- "效果": [
-  {
-   "时点": "<b>",
-   "条件": "",
-   "效果": "Spend Force equal to your life to replace your attack with your Finisher, remove this card from play and pick up your Base."
+  "卡类": "切换牌",
+  "名称": "安德伯特之切换",
+  "角色": "恩德彼特",
+  "系列": "毁灭篇-DEV",
+  "角标": "<purple-star>",
+  "数值": {
+    "距离": "+0",
+    "威力": "+0",
+    "速度": "+0",
+    "韧性": "+0"
   },
-  {
-   "时点": "<g-b>",
-   "条件": "",
-   "效果": "Regain a Force. You may flip both your Finisher and Mode to their reverse sides."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck41_c58;卡名装饰字体放大实读ENDBYTS SWITCH(2026-11-26用户裁定角色名Endrbyt),原辨读Barons Switch作废"
+  "效果": [
+    {
+      "时点": "<b>",
+      "条件": "",
+      "效果": "Spend Force equal to your life to replace your attack with your Finisher, remove this card from play and pick up your Base."
+    },
+    {
+      "时点": "<g-b>",
+      "条件": "",
+      "效果": "Regain a Force. You may flip both your Finisher and Mode to their reverse sides."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck41_c58;卡名装饰字体放大实读ENDBYTS SWITCH(2026-11-26用户裁定角色名Endrbyt),原辨读Barons Switch作废；名称:考据拟译v1[待核](行204)"
 }

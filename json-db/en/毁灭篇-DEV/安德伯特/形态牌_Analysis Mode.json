@@ -1,28 +1,28 @@
 {
- "卡类": "形态牌",
- "名称": "Analysis Mode",
- "角色": "恩德彼特",
- "系列": "毁灭篇-DEV",
- "角标": "",
- "数值": {
-  "距离": "N/A",
-  "威力": "N/A",
-  "速度": "N/A",
-  "韧性": "N/A"
- },
- "效果": [
-  {
-   "时点": "<o-b>",
-   "条件": "",
-   "效果": "Spend 2 Energy to add an Endrbyt Style from outside the game to your hand."
+  "卡类": "形态牌",
+  "名称": "分析模式",
+  "角色": "恩德彼特",
+  "系列": "毁灭篇-DEV",
+  "角标": "",
+  "数值": {
+    "距离": "N/A",
+    "威力": "N/A",
+    "速度": "N/A",
+    "韧性": "N/A"
   },
-  {
-   "时点": "<p-b>",
-   "条件": "",
-   "效果": "When you take damage, regain 1 Energy per damage taken."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck42_c60;Endrbyt模式牌",
- "台词": "\"I tried to explain how this works, you know...\""
+  "效果": [
+    {
+      "时点": "<o-b>",
+      "条件": "",
+      "效果": "Spend 2 Energy to add an Endrbyt Style from outside the game to your hand."
+    },
+    {
+      "时点": "<p-b>",
+      "条件": "",
+      "效果": "When you take damage, regain 1 Energy per damage taken."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck42_c60;Endrbyt模式牌；名称:考据拟译v1[待核](行204)",
+  "台词": "\"I tried to explain how this works, you know...\""
 }

@@ -1,23 +1,23 @@
 {
- "角色": "Ottavia Six",
- "角标": "<star8-alpha>",
- "名称": "Extreme Prejudice",
- "卡类": "终结技",
- "系列": "毁灭篇-DEV",
- "数值": {
-  "距离": "N/A",
-  "威力": "10",
-  "速度": "9",
-  "韧性": "0"
- },
- "台词": "“You’re already dead.”",
- "效果": [
-  {
-   "时点": "前置",
-   "条件": "Locked On",
-   "效果": "<bl-b>Before, <i-sb>Locked On</i-sb>:</bl-b> Your Range becomes 1~6*."
-  }
- ],
- "备注": "来源注记:TTS图包;deck48格13;页脚OTTAVIA SIX·DEV;右下α标",
- "来源": "官方实卡"
+  "角色": "Ottavia Six",
+  "角标": "<star8-alpha>",
+  "名称": "格杀勿论",
+  "卡类": "终结技",
+  "系列": "毁灭篇-DEV",
+  "数值": {
+    "距离": "N/A",
+    "威力": "10",
+    "速度": "9",
+    "韧性": "0"
+  },
+  "台词": "“You’re already dead.”",
+  "效果": [
+    {
+      "时点": "前置",
+      "条件": "Locked On",
+      "效果": "<bl-b>Before, <i-sb>Locked On</i-sb>:</bl-b> Your Range becomes 1~6*."
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck48格13;页脚OTTAVIA SIX·DEV;右下α标；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

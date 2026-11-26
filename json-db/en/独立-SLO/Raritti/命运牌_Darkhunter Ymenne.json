@@ -1,18 +1,18 @@
 {
- "卡类": "命运牌",
- "名称": "Darkhunter Ymenne",
- "角色": "Raritti",
- "系列": "独立-SLO",
- "角标": "<star8-beta>",
- "数值": "N/A",
- "台词": "“I attack that darkness!”",
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<b>Flip:</b> The Opponent discards a <i-sb>Base</i-sb> per adjacent active <i-sb>Fate</i-sb>."
-  }
- ],
- "备注": "来源注记:TTS图包;deck50格10;页脚RARITTI (FATE CARD)·SLO",
- "来源": "官方实卡"
+  "卡类": "命运牌",
+  "名称": "暗猎者伊门",
+  "角色": "Raritti",
+  "系列": "独立-SLO",
+  "角标": "<star8-beta>",
+  "数值": "N/A",
+  "台词": "“I attack that darkness!”",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<b>Flip:</b> The Opponent discards a <i-sb>Base</i-sb> per adjacent active <i-sb>Fate</i-sb>."
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck50格10;页脚RARITTI (FATE CARD)·SLO；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

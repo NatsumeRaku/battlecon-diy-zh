@@ -1,20 +1,20 @@
 {
- "卡类": "形态牌",
- "名称": "Quickness",
- "角色": "Kehrolyn Ross",
- "系列": "战争篇-WAR",
- "角标": "",
- "数值": {
-  "速度": "+2"
- },
- "效果": [
-  {
-   "时点": "后置",
-   "条件": "",
-   "效果": "<bl-b>After:</bl-b> Advance or Retreat 1."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck2格15;页脚:KEHROLYN (MORPH FORM)",
- "台词": "“Let us dance, then.”"
+  "卡类": "形态牌",
+  "名称": "迅捷",
+  "角色": "Kehrolyn Ross",
+  "系列": "战争篇-WAR",
+  "角标": "",
+  "数值": {
+    "速度": "+2"
+  },
+  "效果": [
+    {
+      "时点": "后置",
+      "条件": "",
+      "效果": "<bl-b>After:</bl-b> Advance or Retreat 1."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck2格15;页脚:KEHROLYN (MORPH FORM)；名称:考据拟译v1[待核](行204)",
+  "台词": "“Let us dance, then.”"
 }

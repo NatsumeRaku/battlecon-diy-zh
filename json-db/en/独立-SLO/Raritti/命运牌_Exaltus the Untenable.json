@@ -1,18 +1,18 @@
 {
- "卡类": "命运牌",
- "名称": "Exaltus the Untenable",
- "角色": "Raritti",
- "系列": "独立-SLO",
- "角标": "<star8-beta>",
- "数值": "N/A",
- "台词": "“Prepare yourself for obliteration, mortal!”",
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<b>Flip:</b> <i-sb>+5 Power</i-sb> next beat if you have 6 active <i-sb>Fates</i-sb>. Otherwise, <i-sb>+2 Power</i-sb> next beat."
-  }
- ],
- "备注": "来源注记:TTS图包;deck50格11;页脚RARITTI (FATE CARD)·SLO",
- "来源": "官方实卡"
+  "卡类": "命运牌",
+  "名称": "崇高者埃克萨图斯",
+  "角色": "Raritti",
+  "系列": "独立-SLO",
+  "角标": "<star8-beta>",
+  "数值": "N/A",
+  "台词": "“Prepare yourself for obliteration, mortal!”",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<b>Flip:</b> <i-sb>+5 Power</i-sb> next beat if you have 6 active <i-sb>Fates</i-sb>. Otherwise, <i-sb>+2 Power</i-sb> next beat."
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck50格11;页脚RARITTI (FATE CARD)·SLO；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

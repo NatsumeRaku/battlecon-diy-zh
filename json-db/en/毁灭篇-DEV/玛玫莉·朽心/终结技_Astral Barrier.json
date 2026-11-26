@@ -1,28 +1,28 @@
 {
- "角色": "Marmelee Greyheart",
- "角标": "<star8-alpha>",
- "名称": "Astral Barrier",
- "卡类": "终结技",
- "系列": "毁灭篇-DEV",
- "数值": {
-  "距离": "1",
-  "威力": "1",
-  "速度": "7",
-  "韧性": "3"
- },
- "台词": "“Focus, Marmelee, focus!”",
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<i-sb>Armor 2, Ignore Guard</i-sb>"
+  "角色": "Marmelee Greyheart",
+  "角标": "<star8-alpha>",
+  "名称": "星界屏障",
+  "卡类": "终结技",
+  "系列": "毁灭篇-DEV",
+  "数值": {
+    "距离": "1",
+    "威力": "1",
+    "速度": "7",
+    "韧性": "3"
   },
-  {
-   "时点": "后置",
-   "条件": "",
-   "效果": "<bl-b>After:</bl-b> Regain all <i-sb>Concentration</i-sb>."
-  }
- ],
- "备注": "来源注记:TTS图包;deck48格1;页脚MARMELEE GREYHEART·DEV;右下α标",
- "来源": "官方实卡"
+  "台词": "“Focus, Marmelee, focus!”",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<i-sb>Armor 2, Ignore Guard</i-sb>"
+    },
+    {
+      "时点": "后置",
+      "条件": "",
+      "效果": "<bl-b>After:</bl-b> Regain all <i-sb>Concentration</i-sb>."
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck48格1;页脚MARMELEE GREYHEART·DEV;右下α标；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

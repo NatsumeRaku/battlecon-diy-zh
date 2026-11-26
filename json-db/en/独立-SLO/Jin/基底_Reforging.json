@@ -1,27 +1,27 @@
 {
- "角色": "Jin",
- "角标": "<gray-moon>",
- "名称": "Reforging",
- "卡类": "基底",
- "系列": "独立-SLO",
- "数值": {
-  "距离": "1~2",
-  "威力": "2",
-  "速度": "4",
-  "韧性": "0"
- },
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<i-sb>Armor 1</i-sb> If a <i-sb>Scouter</i-sb> would be withdrawn, instead it remains on the board (you still gain <i-sb>Armor</i-sb>)."
+  "角色": "Jin",
+  "角标": "<gray-moon>",
+  "名称": "重铸",
+  "卡类": "基底",
+  "系列": "独立-SLO",
+  "数值": {
+    "距离": "1~2",
+    "威力": "2",
+    "速度": "4",
+    "韧性": "0"
   },
-  {
-   "时点": "结束",
-   "条件": "",
-   "效果": "<g-b>End:</g-b> Place a <i-sb>Scouter</i-sb> in any space."
-  }
- ],
- "备注": "来源注记:TTS图包;deck44格16;页脚JIN·SLO",
- "来源": "官方实卡"
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<i-sb>Armor 1</i-sb> If a <i-sb>Scouter</i-sb> would be withdrawn, instead it remains on the board (you still gain <i-sb>Armor</i-sb>)."
+    },
+    {
+      "时点": "结束",
+      "条件": "",
+      "效果": "<g-b>End:</g-b> Place a <i-sb>Scouter</i-sb> in any space."
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck44格16;页脚JIN·SLO；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

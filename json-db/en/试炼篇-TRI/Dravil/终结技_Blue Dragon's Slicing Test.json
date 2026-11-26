@@ -1,28 +1,28 @@
 {
- "角色": "Dravil Coldwater",
- "角标": "<star8-alpha>",
- "名称": "Blue Dragon's Slicing Test",
- "卡类": "终结技",
- "系列": "试炼篇-TRI",
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<b>Armor 4</b>"
+  "角色": "Dravil Coldwater",
+  "角标": "<star8-alpha>",
+  "名称": "蓝龙斩·试炼",
+  "卡类": "终结技",
+  "系列": "试炼篇-TRI",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<b>Armor 4</b>"
+    },
+    {
+      "时点": "展示",
+      "条件": "Steam",
+      "效果": "<b>Reveal, <i-sb>Steam</i-sb>:</b> You are stunned."
+    }
+  ],
+  "数值": {
+    "距离": "1~2",
+    "威力": "7",
+    "速度": "1▲",
+    "韧性": "2"
   },
-  {
-   "时点": "展示",
-   "条件": "Steam",
-   "效果": "<b>Reveal, <i-sb>Steam</i-sb>:</b> You are stunned."
-  }
- ],
- "数值": {
-  "距离": "1~2",
-  "威力": "7",
-  "速度": "1▲",
-  "韧性": "2"
- },
- "备注": "来源注记:TTS图包;deck32格1;彩色立绘+空心八角星角标;页脚DRAVIL •TRI;右下角标β;终结技数值为绝对值;台词在效果首段照录;卡名标题在图包中被裁切,Slong为辨读结果;2026-11-26用户裁定:标题中间字母被切片裁切,按词典词补读为Slicing,Slong作废",
- "来源": "官方实卡",
- "台词": "“And then, when victory seemed impossible, the patient dragon struck. Just... like... this!”"
+  "备注": "来源注记:TTS图包;deck32格1;彩色立绘+空心八角星角标;页脚DRAVIL •TRI;右下角标β;终结技数值为绝对值;台词在效果首段照录;卡名标题在图包中被裁切,Slong为辨读结果;2026-11-26用户裁定:标题中间字母被切片裁切,按词典词补读为Slicing,Slong作废；名称:考据定案[待核](行200)回填(行204)",
+  "来源": "官方实卡",
+  "台词": "“And then, when victory seemed impossible, the patient dragon struck. Just... like... this!”"
 }

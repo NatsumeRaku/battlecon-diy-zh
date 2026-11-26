@@ -1,22 +1,22 @@
 {
- "角色": "Hikaru Soryama",
- "角标": "<star8-alpha>",
- "名称": "Wrath of the Elements",
- "卡类": "终结技",
- "系列": "战争篇-WAR",
- "效果": [
-  {
-   "时点": "展示",
-   "条件": "",
-   "效果": "<b>Reveal:</b> Use all <i-sb>Elements</i-sb>."
-  }
- ],
- "数值": {
-  "距离": "1",
-  "威力": "7",
-  "速度": "8<initiative>",
-  "韧性": "0"
- },
- "备注": "来源注记:TTS图包;quote:All I need is one good punch!;TTS模组仅含α面,β面[待核]",
- "来源": "官方实卡"
+  "角色": "Hikaru Soryama",
+  "角标": "<star8-alpha>",
+  "名称": "元素之怒",
+  "卡类": "终结技",
+  "系列": "战争篇-WAR",
+  "效果": [
+    {
+      "时点": "展示",
+      "条件": "",
+      "效果": "<b>Reveal:</b> Use all <i-sb>Elements</i-sb>."
+    }
+  ],
+  "数值": {
+    "距离": "1",
+    "威力": "7",
+    "速度": "8<initiative>",
+    "韧性": "0"
+  },
+  "备注": "来源注记:TTS图包;quote:All I need is one good punch!;TTS模组仅含α面,β面[待核]；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

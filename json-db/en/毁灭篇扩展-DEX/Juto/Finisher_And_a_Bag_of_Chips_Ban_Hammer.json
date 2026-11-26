@@ -1,52 +1,52 @@
 {
- "角色": "Juto",
- "卡类": "终结技(双面)",
- "系列": "毁灭篇扩展-DEX",
- "名称": {
-  "α面": "And a Bag of Chips",
-  "β面": "Ban Hammer"
- },
- "台词": {
-  "α面": "\"Gruuu!\"",
-  "β面": "\"Bru-brip!\""
- },
- "效果": {
-  "α面": [
-   {
-    "时点": "命中",
-    "条件": "",
-    "效果": "Hit: Trash a Base from your hand face-down. The Opponent must guess that Base's name. Afterwards, reveal it. +4 Power if they guessed wrong."
-   },
-   {
-    "时点": "后置",
-    "条件": "",
-    "效果": "After: Recover all trashed Bases."
-   }
-  ],
-  "β面": [
-   {
-    "时点": "命中",
-    "条件": "",
-    "效果": "Hit: Name a Base and a Style in the Opponent's hand. The Opponent trashes those cards."
-   }
-  ]
- },
- "数值": {
-  "α面": {
-   "距离": "1~4",
-   "威力": 2,
-   "速度": "6<initiative>",
-   "韧性": 0
+  "角色": "Juto",
+  "卡类": "终结技(双面)",
+  "系列": "毁灭篇扩展-DEX",
+  "名称": {
+    "α面": "再来袋薯片",
+    "β面": "封禁锤"
   },
-  "β面": {
-   "距离": 1,
-   "威力": 5,
-   "速度": "4<initiative>",
-   "韧性": 0
-  }
- },
- "α面": "<star8-alpha>",
- "β面": "<star8-beta>",
- "备注": "2026-11-24用户拍照录入(Scanned_7x10_split扫描件);画面模糊处以占位符标出;官方实卡(2026-11-25用户盒照凭证,行138/140删除后平反,仅限en树)",
- "来源": "官方实卡"
+  "台词": {
+    "α面": "\"Gruuu!\"",
+    "β面": "\"Bru-brip!\""
+  },
+  "效果": {
+    "α面": [
+      {
+        "时点": "命中",
+        "条件": "",
+        "效果": "Hit: Trash a Base from your hand face-down. The Opponent must guess that Base's name. Afterwards, reveal it. +4 Power if they guessed wrong."
+      },
+      {
+        "时点": "后置",
+        "条件": "",
+        "效果": "After: Recover all trashed Bases."
+      }
+    ],
+    "β面": [
+      {
+        "时点": "命中",
+        "条件": "",
+        "效果": "Hit: Name a Base and a Style in the Opponent's hand. The Opponent trashes those cards."
+      }
+    ]
+  },
+  "数值": {
+    "α面": {
+      "距离": "1~4",
+      "威力": 2,
+      "速度": "6<initiative>",
+      "韧性": 0
+    },
+    "β面": {
+      "距离": 1,
+      "威力": 5,
+      "速度": "4<initiative>",
+      "韧性": 0
+    }
+  },
+  "α面": "<star8-alpha>",
+  "β面": "<star8-beta>",
+  "备注": "2026-11-24用户拍照录入(Scanned_7x10_split扫描件);画面模糊处以占位符标出;官方实卡(2026-11-25用户盒照凭证,行138/140删除后平反,仅限en树)；名称:考据拟译v1[待核](行204)",
+  "来源": "官方实卡"
 }

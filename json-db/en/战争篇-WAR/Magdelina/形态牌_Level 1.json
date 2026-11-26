@@ -1,22 +1,22 @@
 {
- "卡类": "形态牌",
- "名称": "Level 1",
- "角色": "Magdelina Larington",
- "系列": "战争篇-WAR",
- "角标": "",
- "数值": {
-  "威力": "+1",
-  "速度": "+1",
-  "韧性": "+1"
- },
- "效果": [
-  {
-   "时点": "循环",
-   "条件": "",
-   "效果": "Recycle: Spend 2 <i-sb>Trance</i-sb> to <i-sb>Level Up</i-sb>."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck2格22;页脚:MAGDELINA (LEVEL FORM)",
- "台词": "“Beckon the Lady of light to guide my hands...”"
+  "卡类": "形态牌",
+  "名称": "等级1",
+  "角色": "Magdelina Larington",
+  "系列": "战争篇-WAR",
+  "角标": "",
+  "数值": {
+    "威力": "+1",
+    "速度": "+1",
+    "韧性": "+1"
+  },
+  "效果": [
+    {
+      "时点": "循环",
+      "条件": "",
+      "效果": "Recycle: Spend 2 <i-sb>Trance</i-sb> to <i-sb>Level Up</i-sb>."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck2格22;页脚:MAGDELINA (LEVEL FORM)；名称:考据拟译v1[待核](行204)",
+  "台词": "“Beckon the Lady of light to guide my hands...”"
 }

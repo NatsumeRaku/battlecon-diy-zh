@@ -1,22 +1,22 @@
 {
- "角色": "Takeshi",
- "角标": "<purple-star>",
- "名称": "Chili Dispenser",
- "卡类": "武器牌",
- "系列": "独立-SLO",
- "数值": {
-  "距离": "+0~1",
-  "威力": "+2",
-  "速度": "-2",
-  "韧性": "+0"
- },
- "效果": [
-  {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit:</r-b> The Opponent is <i-sb>Vulnerable</i-sb> next beat (ignore their Guard and Armor)."
-  }
- ],
- "备注": "来源注记:TTS图包;deck50格23;页脚TAKESHI (WEAPON CARD)·SLO",
- "来源": "官方实卡"
+  "角色": "Takeshi",
+  "角标": "<purple-star>",
+  "名称": "辣椒喷射器",
+  "卡类": "武器牌",
+  "系列": "独立-SLO",
+  "数值": {
+    "距离": "+0~1",
+    "威力": "+2",
+    "速度": "-2",
+    "韧性": "+0"
+  },
+  "效果": [
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit:</r-b> The Opponent is <i-sb>Vulnerable</i-sb> next beat (ignore their Guard and Armor)."
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck50格23;页脚TAKESHI (WEAPON CARD)·SLO；名称:考据定案[待核](行200)回填(行204)",
+  "来源": "官方实卡"
 }

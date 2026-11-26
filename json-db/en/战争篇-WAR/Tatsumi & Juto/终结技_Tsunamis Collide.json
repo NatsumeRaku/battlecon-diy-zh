@@ -1,27 +1,27 @@
 {
- "角色": "Tatsumi & Juto",
- "角标": "<star8-alpha>",
- "名称": "Tsunamis Collide",
- "卡类": "终结技",
- "系列": "战争篇-WAR",
- "效果": [
-  {
-   "时点": "持续",
-   "条件": "",
-   "效果": "This attack does not hit Opponents Adjacent to <i-sb>Juto</i-sb>."
+  "角色": "Tatsumi & Juto",
+  "角标": "<star8-alpha>",
+  "名称": "海啸相撞",
+  "卡类": "终结技",
+  "系列": "战争篇-WAR",
+  "效果": [
+    {
+      "时点": "持续",
+      "条件": "",
+      "效果": "This attack does not hit Opponents Adjacent to <i-sb>Juto</i-sb>."
+    },
+    {
+      "时点": "展示",
+      "条件": "the Opponent between Tatsumi and Juto",
+      "效果": "<b>Reveal, the Opponent between Tatsumi and Juto:</b> <i-sb>+3 Power</i-sb> and <i-sb>+2 Priority</i-sb> per space between you and Juto."
+    }
+  ],
+  "数值": {
+    "距离": "2~4",
+    "威力": "0",
+    "速度": "0<initiative>",
+    "韧性": "0"
   },
-  {
-   "时点": "展示",
-   "条件": "the Opponent between Tatsumi and Juto",
-   "效果": "<b>Reveal, the Opponent between Tatsumi and Juto:</b> <i-sb>+3 Power</i-sb> and <i-sb>+2 Priority</i-sb> per space between you and Juto."
-  }
- ],
- "数值": {
-  "距离": "2~4",
-  "威力": "0",
-  "速度": "0<initiative>",
-  "韧性": "0"
- },
- "备注": "来源注记:TTS图包;quote:Together now, Juto! Ready?;Brurp~Bir, Gru-ru!;TTS模组仅含α面,β面[待核]",
- "来源": "官方实卡"
+  "备注": "来源注记:TTS图包;quote:Together now, Juto! Ready?;Brurp~Bir, Gru-ru!;TTS模组仅含α面,β面[待核]；名称:考据定案[待核](行200)回填(行204)",
+  "来源": "官方实卡"
 }

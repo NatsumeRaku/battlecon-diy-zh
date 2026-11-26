@@ -1,22 +1,22 @@
 {
- "卡类": "基底",
- "名称": "Verdict",
- "角色": "Feylana",
- "系列": "流浪者篇-WAN",
- "角标": "<gray-moon>",
- "数值": {
-  "距离": "2~3",
-  "威力": 2,
-  "速度": 5,
-  "韧性": 0
- },
- "效果": [
-  {
-   "时点": "<r-b>",
-   "条件": "",
-   "效果": "The opponent discards a Base. Pick up any number of Bases from the Geas Pile."
-  }
- ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck3_c4"
+  "卡类": "基底",
+  "名称": "裁决",
+  "角色": "Feylana",
+  "系列": "流浪者篇-WAN",
+  "角标": "<gray-moon>",
+  "数值": {
+    "距离": "2~3",
+    "威力": 2,
+    "速度": 5,
+    "韧性": 0
+  },
+  "效果": [
+    {
+      "时点": "<r-b>",
+      "条件": "",
+      "效果": "The opponent discards a Base. Pick up any number of Bases from the Geas Pile."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck3_c4；名称:考据定案[待核](行200)回填(行204)"
 }

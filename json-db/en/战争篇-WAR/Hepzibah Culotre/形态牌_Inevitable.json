@@ -1,14 +1,14 @@
 {
- "卡类": "形态牌",
- "名称": "Inevitable",
- "角色": "Hepzibah Culotre",
- "系列": "战争篇-WAR",
- "角标": "",
- "数值": {
-  "距离": "+0~1"
- },
- "效果": [],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck2格10;页脚:HEPZIBAH (PACT CARDS)",
- "台词": "“What has been revealed can no longer be escaped.”"
+  "卡类": "形态牌",
+  "名称": "必然",
+  "角色": "Hepzibah Culotre",
+  "系列": "战争篇-WAR",
+  "角标": "",
+  "数值": {
+    "距离": "+0~1"
+  },
+  "效果": [],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck2格10;页脚:HEPZIBAH (PACT CARDS)；名称:考据拟译v1[待核](行204)",
+  "台词": "“What has been revealed can no longer be escaped.”"
 }

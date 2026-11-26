@@ -1,21 +1,21 @@
 {
- "卡类": "状态效果牌",
- "名称": "Watched",
- "角色": "Cherri Seneca",
- "系列": "战争篇-WAR",
- "角标": "<star8-beta>",
- "数值": "N/A",
- "目标": "自己",
- "公开性": "公开",
- "生成自": "Cherri Seneca·[待核]",
- "移除条件": "Rest of the duel",
- "效果": [
-  {
-   "时点": "",
-   "条件": "",
-   "效果": "<i>(For the rest of the duel, gain \"End: Regain <i-sb>Insight</i-sb>.\")</i>"
-  }
- ],
- "备注": "来源注记:TTS图包;deck7格11;立绘与Cherri角色卡同源;无卡类页脚;图标灰八芒星,中心色[120,120,120],按空心化规则灰=背/已激活,对应β终结技;二次核验:效果\"End: Regain Insight\"与Cherri体系吻合(专属Stare/终结技Soul Gaze\"Hit: Regain Insight\",风格Catatonic\"End, you were hit: Regain Insight\"),无逐字源,生成终结技名[待核]",
- "来源": "官方实卡"
+  "卡类": "状态效果牌",
+  "名称": "被注视",
+  "角色": "Cherri Seneca",
+  "系列": "战争篇-WAR",
+  "角标": "<star8-beta>",
+  "数值": "N/A",
+  "目标": "自己",
+  "公开性": "公开",
+  "生成自": "Cherri Seneca·[待核]",
+  "移除条件": "Rest of the duel",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "<i>(For the rest of the duel, gain \"End: Regain <i-sb>Insight</i-sb>.\")</i>"
+    }
+  ],
+  "备注": "来源注记:TTS图包;deck7格11;立绘与Cherri角色卡同源;无卡类页脚;图标灰八芒星,中心色[120,120,120],按空心化规则灰=背/已激活,对应β终结技;二次核验:效果\"End: Regain Insight\"与Cherri体系吻合(专属Stare/终结技Soul Gaze\"Hit: Regain Insight\",风格Catatonic\"End, you were hit: Regain Insight\"),无逐字源,生成终结技名[待核]；名称:考据定案[待核](行200)回填(行204)",
+  "来源": "官方实卡"
 }
