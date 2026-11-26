@@ -1,0 +1,27 @@
+{
+ "角色": "Raritti",
+ "角标": "<gray-moon>",
+ "名称": "Reading",
+ "卡类": "基底",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "1~2",
+  "威力": "1",
+  "速度": "5",
+  "韧性": "0"
+ },
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>Ignore Guard</i-sb>"
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> Look at the face side of an inactive <i-sb>Fate</i-sb> in your Spread."
+  }
+ ],
+ "备注": "deck44格20;页脚RARITTI·SLO",
+ "来源": "官方实卡(TTS图包)"
+}

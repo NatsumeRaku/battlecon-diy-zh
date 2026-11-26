@@ -1,0 +1,27 @@
+{
+ "角色": "Evil Hikaru",
+ "角标": "<gray-moon>",
+ "名称": "Devastator",
+ "卡类": "基底",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "1",
+  "威力": "5",
+  "速度": "4",
+  "韧性": "0"
+ },
+ "效果": [
+  {
+   "时点": "每当",
+   "条件": "the Opponent Advances past you",
+   "效果": "<p-b>When</p-b> the Opponent Advances past you, this attack does not hit."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "You cannot Advance or Retreat. You cannot be Pushed or Pulled. This attack’s Range includes Range 4."
+  }
+ ],
+ "备注": "deck44格15;页脚EVIL HIKARU·SLO",
+ "来源": "官方实卡(TTS图包)"
+}

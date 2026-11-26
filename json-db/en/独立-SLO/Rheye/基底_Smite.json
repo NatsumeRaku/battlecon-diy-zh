@@ -1,7 +1,7 @@
 {
- "角色": "Rheye Cal",
- "角标": "<blue-circle>",
- "名称": "[待核]",
+ "角色": "Rheye",
+ "角标": "<gray-moon>",
+ "名称": "Smite",
  "卡类": "基底",
  "系列": "独立-SLO",
  "数值": {
@@ -14,7 +14,7 @@
   {
    "时点": "每当",
    "条件": "an Opponent enters a Talisman’s space",
-   "效果": "<p-b>When an Opponent enters a <i-sb>Talisman</i-sb>’s space, your Range becomes 1~6*.</p-b>"
+   "效果": "<p-b>When</p-b> an Opponent enters a <i-sb>Talisman</i-sb>’s space, your Range becomes 1~6*."
   },
   {
    "时点": "",
@@ -27,6 +27,6 @@
    "效果": "<g-b>End:</g-b> Recover a <i-sb>Talisman</i-sb>."
   }
  ],
- "备注": "deck50格16;页脚RHEYE·SLO;BASES参考面板实读;Guard栏为盾图标未印数值;专属基底卡名此面板未印[待核];面板下半为通用Dodge(略)",
+ "备注": "deck44格21;页脚RHEYE·SLO;deck50格16面板数据一致;Guard栏为盾图标未印数值",
  "来源": "官方实卡(TTS图包)"
 }
