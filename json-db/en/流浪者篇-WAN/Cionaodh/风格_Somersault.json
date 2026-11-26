@@ -1,0 +1,27 @@
+{
+ "角色": "Cionaodh O'Ciaominh",
+ "角标": "",
+ "名称": "Somersault",
+ "卡类": "风格",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "SONERSAULT RANGE +0~1 POWER PRIORITY +2 GYARP 0+"
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "Hit, Optional: Advance or Retreat 1-2 towards the Motorcycle. If you are on the Motorcycle, Advance or Retreat 1 instead CIONAODH"
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "N/A"
+ },
+ "备注": "来源注记:TTS图包;WAN卡表B(f05)格9;页脚CIONAO·WAN;PaddleOCR照录,装饰字体卡名无疑;行239录入",
+ "来源": "官方实卡（TTS图包）"
+}

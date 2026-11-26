@@ -1,0 +1,20 @@
+{
+ "卡类": "角色",
+ "名称": "Anya",
+ "角色": "Anya Southwind",
+ "英文全名": "Anya Southwind",
+ "称号": "Defender of Justice",
+ "机制名": "Flying/Grounded",
+ "系列": "流浪者篇-WAN",
+ "来源": "官方实卡（TTS图包）",
+ "卡牌清单": [
+  "character.json",
+  "特技(UA)_名称OCR未识读[待核].json",
+  "风格_Alwnd.json",
+  "风格_Diving.json",
+  "风格_Justice.json",
+  "风格_Kajari.json",
+  "风格_Roundhouse.json"
+ ],
+ "备注": "；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格0空、f05格1空、f05格2空、f05格3空、f05格4空"
+}

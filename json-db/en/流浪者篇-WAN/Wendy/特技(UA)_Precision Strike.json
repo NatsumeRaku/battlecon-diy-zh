@@ -1,0 +1,27 @@
+{
+ "角色": "Wendy Thrystle",
+ "角标": "",
+ "名称": "Precision Strike",
+ "卡类": "特技(UA)",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "degrees left, and fire!' Stun Immunity, X is a space containing 2 Targets."
+  },
+  {
+   "时点": "前置",
+   "条件": "",
+   "效果": "Before: The opponent cannot Advance or Retreat. a Shift a Target 0-1. WENDY"
+  }
+ ],
+ "数值": {
+  "距离": "x",
+  "威力": "9",
+  "速度": "4",
+  "韧性": "'Three"
+ },
+ "备注": "来源注记:TTS图包;WAN卡表A(f04)格37;PaddleOCR照录;UA卡名识读;行239录入",
+ "来源": "官方实卡（TTS图包）"
+}

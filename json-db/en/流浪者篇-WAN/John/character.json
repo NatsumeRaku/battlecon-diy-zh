@@ -1,16 +1,24 @@
 {
-  "卡类": "角色",
-  "名称": "John",
-  "角色": "John",
-  "系列": "流浪者篇-WAN",
-  "来源": "待核验",
-  "备注": "deck3_c5专属基底录入时建档;英文全名/称号待补；中文名:考据拟译v1[待核](行202,对照表考据节)",
-  "卡牌清单": [
-    "character.json",
-    "character.json",
-    "基底_Figure.json",
-    "终结技_Blast Mining.json",
-    "终结技_Flesh to Stone.json"
-  ],
-  "中文名": "约翰·斯特朗·史蒂文森"
+ "卡类": "角色",
+ "名称": "John",
+ "角色": "John Strong Stevenson",
+ "系列": "流浪者篇-WAN",
+ "来源": "官方实卡（TTS图包）",
+ "备注": "deck3_c5专属基底录入时建档;英文全名/称号待补；中文名:考据拟译v1[待核](行202,对照表考据节)；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格20空、f05格21空、f05格22空、f05格23空、f05格24空",
+ "卡牌清单": [
+  "character.json",
+  "基底_Figure.json",
+  "特技(UA)_名称OCR未识读[待核].json",
+  "终结技_Blast Mining.json",
+  "终结技_Flesh to Stone.json",
+  "风格_Hammering.json",
+  "风格_Landslide.json",
+  "风格_Reactyrng[待核].json",
+  "风格_Searing.json",
+  "风格_Solid.json"
+ ],
+ "中文名": "约翰·斯特朗·史蒂文森",
+ "英文全名": "John Strong Stevenson",
+ "称号": "Adventurer, Explorer, Scholar",
+ "机制名": "Time"
 }

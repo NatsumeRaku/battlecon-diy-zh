@@ -1,0 +1,19 @@
+{
+ "卡类": "角色",
+ "名称": "Rin",
+ "角色": "Rin Coldwater",
+ "英文全名": "Rin Coldwater",
+ "称号": "Northlands Ninja",
+ "机制名": "Frost",
+ "系列": "流浪者篇-WAN",
+ "来源": "官方实卡（TTS图包）",
+ "卡牌清单": [
+  "character.json",
+  "特技(UA)_Deep Freeze.json",
+  "风格_Freezing.json",
+  "风格_Frost[待核].json",
+  "风格_Nimblest.json",
+  "风格_Stealthiest.json"
+ ],
+ "备注": "；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格35空、f05格36空、f05格37空、f05格38空、f05格39空"
+}

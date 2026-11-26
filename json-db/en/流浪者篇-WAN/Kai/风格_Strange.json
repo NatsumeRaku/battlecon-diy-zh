@@ -1,0 +1,32 @@
+{
+ "角色": "Kalo Mekai",
+ "角标": "",
+ "名称": "Strange",
+ "卡类": "风格",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "STBANGE RANGE +1~2 POWER PRORTY -1 GYARD 0+"
+  },
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "Reveal, 2+ Functions active: Swap your active and inactive Functions."
+  },
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "Reveal,Perplexed:Your Priority penalties become bonuses instead (all -X Priority. becomes +X Priority). KAI"
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "N/A"
+ },
+ "备注": "来源注记:TTS图包;WAN卡表B(f05)格29;页脚KAI·WAN;PaddleOCR照录,装饰字体卡名无疑;行239录入",
+ "来源": "官方实卡（TTS图包）"
+}

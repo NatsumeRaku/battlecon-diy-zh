@@ -1,13 +1,22 @@
 {
-  "卡类": "角色",
-  "名称": "Kai",
-  "角色": "Kai",
-  "系列": "流浪者篇-WAN",
-  "来源": "待核验",
-  "备注": "deck3_c6专属基底录入时建档;英文全名/称号待补；中文名:考据拟译v1[待核](行202,对照表考据节)",
-  "卡牌清单": [
-    "character.json",
-    "基底_Master Key.json"
-  ],
-  "中文名": "凯·欧梅凯"
+ "卡类": "角色",
+ "名称": "Kai",
+ "角色": "Kalo Mekai",
+ "系列": "流浪者篇-WAN",
+ "来源": "官方实卡（TTS图包）",
+ "备注": "deck3_c6专属基底录入时建档;英文全名/称号待补；中文名:考据拟译v1[待核](行202,对照表考据节)；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格25空、f05格26空、f05格27空、f05格28空、f05格29空",
+ "卡牌清单": [
+  "character.json",
+  "基底_Master Key.json",
+  "特技(UA)_Collapsible Box.json",
+  "风格_Complex.json",
+  "风格_Flippen[待核].json",
+  "风格_Mysterious.json",
+  "风格_Secret.json",
+  "风格_Strange.json"
+ ],
+ "中文名": "凯·欧梅凯",
+ "英文全名": "Kalo Mekai",
+ "称号": "Puzzle Box Maker",
+ "机制名": "Functions"
 }

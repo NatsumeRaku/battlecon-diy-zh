@@ -1,0 +1,22 @@
+{
+ "角色": "John Strong Stevenson",
+ "角标": "",
+ "名称": "Solid",
+ "卡类": "风格",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "Reveal, Active Player Ignore Armor. Reveal, Reactive Player +2 Power and +2 Guard. JOHN"
+  }
+ ],
+ "数值": {
+  "距离": "0+",
+  "威力": "O+",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "来源注记:TTS图包;WAN卡表B(f05)格23;页脚JOHN·WAN;PaddleOCR照录,装饰字体卡名无疑;行239录入",
+ "来源": "官方实卡（TTS图包）"
+}
