@@ -1,0 +1,18 @@
+{
+ "角色": "Raritti",
+ "角标": "",
+ "名称": "Gale Summoner Haley",
+ "卡类": "命运牌",
+ "系列": "独立-SLO",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Flip: <i-sb>+0~1 Range</i-sb> next beat per adjacent active <i-sb>Fate</i-sb>."
+  }
+ ],
+ "数值": "N/A",
+ "台词": "“The winds move at my command!”",
+ "备注": "deck49格64;页脚RARITI OF INDINES •SLO;Fate牌,Flip Trigger照录",
+ "来源": "官方实卡(TTS图包)"
+}

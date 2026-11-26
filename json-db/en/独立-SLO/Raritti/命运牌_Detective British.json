@@ -1,0 +1,18 @@
+{
+ "角色": "Raritti",
+ "角标": "",
+ "名称": "Detective British",
+ "卡类": "命运牌",
+ "系列": "独立-SLO",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Flip: Look at the face side of two inactive <i-sb>Fates</i-sb> in your Spread."
+  }
+ ],
+ "数值": "N/A",
+ "台词": "“Cheerio, old boy!”",
+ "备注": "deck49格63;页脚RARITI OF INDINES •SLO;Fate牌,Flip Trigger照录",
+ "来源": "官方实卡(TTS图包)"
+}

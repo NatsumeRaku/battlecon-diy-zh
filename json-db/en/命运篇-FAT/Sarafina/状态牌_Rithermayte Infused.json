@@ -1,0 +1,21 @@
+{
+ "卡类": "状态效果牌",
+ "名称": "Rithermayte Infused",
+ "角色": "Sarafina",
+ "系列": "命运篇-FAT",
+ "角标": "<star8-alpha>",
+ "数值": "N/A",
+ "目标": "自己",
+ "公开性": "公开",
+ "生成自": "Sarafina·[待核]",
+ "移除条件": "Rest of the duel",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i>(For the rest of the duel, <i-sb>+0~2 Range</i-sb> and gain “End: Suffer <b>Chip 1</b>.”)</i>"
+  }
+ ],
+ "备注": "deck39格16;卡名装饰字体读作Rithermayte Infused[待核];白色星形角标",
+ "来源": "官方实卡(TTS图包)"
+}

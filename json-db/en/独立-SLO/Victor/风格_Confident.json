@@ -1,0 +1,22 @@
+{
+ "角色": "Victor",
+ "角标": "<green-tri-down>",
+ "名称": "Confident",
+ "卡类": "风格",
+ "系列": "独立-SLO",
+ "效果": [
+  {
+   "时点": "每当",
+   "条件": "The Opponent Advances or Retreats",
+   "效果": "<p-b>When the Opponent Advances or Retreats,</p-b> <i-sb>-2 Power</i-sb> and <i-sb>+0~1 Range</i-sb>."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+2",
+  "速度": "+1",
+  "韧性": "+0"
+ },
+ "备注": "deck46格03;页脚VICTOR •SLO;绿色倒三角角标",
+ "来源": "官方实卡(TTS图包)"
+}
