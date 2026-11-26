@@ -1,0 +1,20 @@
+{
+ "角色": "Runika Zenanen",
+ "角标": "<red-diamond>",
+ "名称": "Battlefist",
+ "卡类": "神器牌",
+ "系列": "毁灭篇-DEV",
+ "数值": {
+  "威力": "+1"
+ },
+ "台词": "“It packs a lot of punch!”",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>POWER +1</i-sb>\n<i-sb>◆Overcharge:</i-sb> <i-sb>+2 Power</i-sb>, <i-sb>Ignore Armor</i-sb>."
+  }
+ ],
+ "备注": "deck48格29;页脚RUNIKA ZENANEN (ARTIFACT CARD)·DEV;卡类新设\"神器牌\"",
+ "来源": "官方实卡(TTS图包)"
+}

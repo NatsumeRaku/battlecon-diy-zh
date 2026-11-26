@@ -1,0 +1,23 @@
+{
+ "角色": "Pendros Schalla",
+ "角标": "<star8-alpha>",
+ "名称": "Landslide Punch",
+ "卡类": "终结技",
+ "系列": "毁灭篇-DEV",
+ "数值": {
+  "距离": "3~4",
+  "威力": "7",
+  "速度": "7",
+  "韧性": "0"
+ },
+ "台词": "“Ready to eat dirt!?”",
+ "效果": [
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> Close 6. Push as far as possible."
+  }
+ ],
+ "备注": "deck48格17;页脚PENDROS SCHALLA·DEV;右下α标",
+ "来源": "官方实卡(TTS图包)"
+}

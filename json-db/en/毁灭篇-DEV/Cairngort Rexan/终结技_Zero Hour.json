@@ -1,0 +1,28 @@
+{
+ "角色": "Cairngort Rexan",
+ "角标": "<star8-alpha>",
+ "名称": "Zero Hour",
+ "卡类": "终结技",
+ "系列": "毁灭篇-DEV",
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "0",
+  "韧性": "0"
+ },
+ "台词": "“My curse will consume you!”",
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start:</g-b> Inflict 3 damage per held <i-sb>Curse</i-sb>."
+  },
+  {
+   "时点": "结束",
+   "条件": "3 held Curses",
+   "效果": "<g-b>End, 3 held <i-sb>Curses</i-sb>:</g-b> Eliminate the Opponent."
+  }
+ ],
+ "备注": "deck48格21;页脚CAIRNGORT REXAN·DEV;右下α标",
+ "来源": "官方实卡(TTS图包)"
+}

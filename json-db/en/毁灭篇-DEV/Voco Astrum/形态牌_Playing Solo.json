@@ -1,0 +1,23 @@
+{
+ "角色": "Voco Astrum",
+ "角标": "<gray-moon>",
+ "名称": "Playing Solo",
+ "卡类": "形态牌",
+ "系列": "毁灭篇-DEV",
+ "数值": "N/A",
+ "效果": [
+  {
+   "时点": "前置",
+   "条件": "",
+   "效果": "<bl-b>Before, Optional:</bl-b> Activate the <i-sb>Chorus</i-sb>.",
+   "可选": true
+  },
+  {
+   "时点": "后置",
+   "条件": "",
+   "效果": "<bl-b>After:</bl-b> Place a <i-sb>Zombie</i-sb> in each space in your attack’s Range that doesn’t contain one. (Range is only counted towards the Opponent)"
+  }
+ ],
+ "备注": "deck48格45;页脚VOCO (FORM CARD)·DEV",
+ "来源": "官方实卡(TTS图包)"
+}

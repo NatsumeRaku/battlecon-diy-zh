@@ -1,0 +1,29 @@
+{
+ "角色": "Runika Zenanen",
+ "角标": "<star8-alpha>",
+ "名称": "Upstad Beam",
+ "卡类": "终结技",
+ "系列": "毁灭篇-DEV",
+ "数值": {
+  "距离": "4~5",
+  "威力": "7",
+  "速度": "3",
+  "韧性": "N/A"
+ },
+ "台词": "“Let’s see how you stand up against my latest invention!”",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>Stun Immunity</i-sb>, <i-sb>Artifacts</i-sb> do not apply to this attack."
+  },
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start, Optional:</g-b> Retreat 1~2.",
+   "可选": true
+  }
+ ],
+ "备注": "deck48格25;页脚RUNIKA ZENANEN·DEV;右下α标;Guard栏为盾图标未印数值",
+ "来源": "官方实卡(TTS图包)"
+}

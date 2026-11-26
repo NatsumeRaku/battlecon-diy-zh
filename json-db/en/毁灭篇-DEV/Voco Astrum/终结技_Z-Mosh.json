@@ -1,0 +1,28 @@
+{
+ "角色": "Voco Astrum",
+ "角标": "<star8-alpha>",
+ "名称": "Z-Mosh",
+ "卡类": "终结技",
+ "系列": "毁灭篇-DEV",
+ "数值": {
+  "距离": "N/A",
+  "威力": "0",
+  "速度": "0",
+  "韧性": "4"
+ },
+ "台词": "“Come on, everybody get in here!”",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>Armor 2</i-sb>"
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> <i-sb>+3 Power</i-sb> per <i-sb>Zombie</i-sb> on or adjacent to the Opponent."
+  }
+ ],
+ "备注": "deck48格42;页脚VOCO·DEV;右下α标",
+ "来源": "官方实卡(TTS图包)"
+}

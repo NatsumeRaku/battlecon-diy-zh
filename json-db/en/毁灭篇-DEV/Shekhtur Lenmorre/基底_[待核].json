@@ -1,0 +1,28 @@
+{
+ "角色": "Shekhtur Lenmorre",
+ "角标": "<gray-moon>",
+ "名称": "[待核]",
+ "卡类": "基底",
+ "系列": "毁灭篇-DEV",
+ "数值": {
+  "距离": "1~2",
+  "威力": "3",
+  "速度": "2",
+  "韧性": "0"
+ },
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "Priority 6+",
+   "效果": "<g-b>Start, <i-sb>Priority 6+</i-sb>:</g-b> <i-sb>Ignore Guard</i-sb>."
+  },
+  {
+   "时点": "后置",
+   "条件": "hit the Opponent",
+   "效果": "<bl-b>After, Optional, hit the Opponent:</bl-b> Spend 2 or 4 <i-sb>Malice</i-sb>. For every 2 <i-sb>Malice</i-sb> spent, regain 1 life and <i-sb>Chip 1</i-sb>.",
+   "可选": true
+  }
+ ],
+ "备注": "deck48格36;页脚SHEKHTUR LENMORRE·DEV;BASES参考面板实读,专属基底卡名未印",
+ "来源": "官方实卡(TTS图包)"
+}

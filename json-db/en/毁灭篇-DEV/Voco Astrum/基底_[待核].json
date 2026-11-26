@@ -1,0 +1,27 @@
+{
+ "角色": "Voco Astrum",
+ "角标": "<gray-moon>",
+ "名称": "[待核]",
+ "卡类": "基底",
+ "系列": "毁灭篇-DEV",
+ "数值": {
+  "距离": "N/A",
+  "威力": "3",
+  "速度": "4",
+  "韧性": "0"
+ },
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "5+ Zombies in the arena",
+   "效果": "<g-b>Start, 5+ <i-sb>Zombies</i-sb> in the arena:</g-b> <i-sb>+2 Power</i-sb>."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "<g-b>End:</g-b> Place 3 <i-sb>Zombies</i-sb> in 3 different spaces."
+  }
+ ],
+ "备注": "deck48格44;页脚VOCO ASTRUM·DEV;BASES参考面板实读,专属基底卡名未印[待核]",
+ "来源": "官方实卡(TTS图包)"
+}

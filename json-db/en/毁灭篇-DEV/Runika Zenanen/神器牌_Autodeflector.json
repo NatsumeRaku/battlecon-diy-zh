@@ -1,0 +1,18 @@
+{
+ "角色": "Runika Zenanen",
+ "角标": "<red-diamond>",
+ "名称": "Autodeflector",
+ "卡类": "神器牌",
+ "系列": "毁灭篇-DEV",
+ "数值": "N/A",
+ "台词": "“Get through this!”",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<g-b>End, 2+ damage taken:</g-b> Regain 2 life.\n<i-sb>◆Overcharge:</i-sb> <i-sb>Armor 4</i-sb>, and prevent incoming <i-sb>Chip</i-sb>."
+  }
+ ],
+ "备注": "deck48格28;页脚RUNIKA ZENANEN (ARTIFACT CARD)·DEV;卡类新设\"神器牌\"",
+ "来源": "官方实卡(TTS图包)"
+}
