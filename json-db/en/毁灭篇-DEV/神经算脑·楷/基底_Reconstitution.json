@@ -1,0 +1,27 @@
+{
+ "卡类": "基底牌",
+ "名称": "Reconstitution",
+ "角色": "Kei",
+ "系列": "毁灭篇-DEV",
+ "角标": "<gray-moon>",
+ "数值": {
+  "距离": "2~4",
+  "威力": 4,
+  "速度": 1,
+  "韧性": 4
+ },
+ "效果": [
+  {
+   "时点": "<bl-b>",
+   "条件": "",
+   "效果": "Withdraw all Go on and adjacent to the Opponent. +2 Power if any Go was withdrawn."
+  },
+  {
+   "时点": "<g-b>",
+   "条件": "",
+   "效果": "Teleport to a space within Range."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck40_c35"
+}

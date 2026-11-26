@@ -1,0 +1,27 @@
+{
+ "卡类": "基底牌",
+ "名称": "Transposition",
+ "角色": "Joal",
+ "系列": "毁灭篇-DEV",
+ "角标": "<gray-moon>",
+ "数值": {
+  "距离": 0,
+  "威力": 3,
+  "速度": 4,
+  "韧性": 0
+ },
+ "效果": [
+  {
+   "时点": "<i-sb>",
+   "条件": "",
+   "效果": "This attack's damage does not stun the Opponent."
+  },
+  {
+   "时点": "<r-b>",
+   "条件": "",
+   "效果": "Push or Pull 3. +2 Power if a Wormhole was withdrawn due to this movement."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck40_c32"
+}

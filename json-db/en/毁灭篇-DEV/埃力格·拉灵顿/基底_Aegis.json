@@ -1,0 +1,27 @@
+{
+ "卡类": "基底牌",
+ "名称": "Aegis",
+ "角色": "Eligor Larington",
+ "系列": "毁灭篇-DEV",
+ "角标": "<gray-moon>",
+ "数值": {
+  "距离": 1,
+  "威力": "X",
+  "速度": 0,
+  "韧性": 0
+ },
+ "效果": [
+  {
+   "时点": "<g-b>",
+   "条件": "",
+   "效果": "+X Power. X is the printed Power of the Opponent's Style and Base. (It does not copy a Finisher's Power.)"
+  },
+  {
+   "时点": "<g-b>",
+   "条件": "",
+   "效果": "Armor 1 per Vengeance anted."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck40_c18"
+}

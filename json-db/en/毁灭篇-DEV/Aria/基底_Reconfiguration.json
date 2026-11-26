@@ -1,0 +1,27 @@
+{
+ "卡类": "基底牌",
+ "名称": "Reconfiguration",
+ "角色": "Aria",
+ "系列": "毁灭篇-DEV",
+ "角标": "<gray-moon>",
+ "数值": {
+  "距离": "X",
+  "威力": "X",
+  "优先": 4,
+  "防御": 0
+ },
+ "效果": [
+  {
+   "时点": "<i-sb>",
+   "条件": "",
+   "效果": "X is all spaces containing a Droid."
+  },
+  {
+   "时点": "<bl-b>",
+   "条件": "",
+   "效果": "Advance 1 or Retreat 1~3. Place a Droid in any unoccupied space."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck40_c13"
+}
