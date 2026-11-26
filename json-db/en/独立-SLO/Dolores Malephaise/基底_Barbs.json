@@ -1,27 +1,27 @@
 {
-  "角色": "Dolores Malephaise",
-  "角标": "<gray-moon>",
-  "名称": "Barbs",
-  "卡类": "基底",
-  "系列": "独立-SLO",
-  "数值": {
-    "距离": "1~6",
-    "威力": "1",
-    "速度": "3",
-    "韧性": "3"
+ "角色": "Dolores Malephaise",
+ "角标": "<gray-moon>",
+ "名称": "Barbs",
+ "卡类": "基底",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "1~6",
+  "威力": "1",
+  "速度": "3",
+  "韧性": "3"
+ },
+ "效果": [
+  {
+   "时点": "当",
+   "条件": "the Opponent is Pushed or Pulled",
+   "效果": "<p-b>When</p-b> the Opponent is Pushed or Pulled, <i-sb>+2 Power</i-sb>."
   },
-  "效果": [
-    {
-      "时点": "每当",
-      "条件": "the Opponent is Pushed or Pulled",
-      "效果": "<p-b>When</p-b> the Opponent is Pushed or Pulled, <i-sb>+2 Power</i-sb>."
-    },
-    {
-      "时点": "每当",
-      "条件": "the Opponent Advances or Retreats",
-      "效果": "<p-b>When</p-b> the Opponent Advances or Retreats, <i-sb>Chip 1</i-sb> (regardless of how many spaces moved)."
-    }
-  ],
-  "备注": "来源注记:TTS图包;deck44格13;页脚DOLORES MALEPHAISE·SLO；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
-  "来源": "官方实卡"
+  {
+   "时点": "当",
+   "条件": "the Opponent Advances or Retreats",
+   "效果": "<p-b>When</p-b> the Opponent Advances or Retreats, <i-sb>Chip 1</i-sb> (regardless of how many spaces moved)."
+  }
+ ],
+ "备注": "来源注记:TTS图包;deck44格13;页脚DOLORES MALEPHAISE·SLO；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
+ "来源": "官方实卡"
 }

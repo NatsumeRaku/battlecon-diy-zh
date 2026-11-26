@@ -1,28 +1,28 @@
 {
-  "角色": "Dolores Malephaise",
-  "名称": "Attack_Barbs",
-  "卡类": "专属招式",
-  "系列": "独立-SLO",
-  "效果": [
-    {
-      "时点": "每当",
-      "条件": "the Opponent is Pushed or Pulled",
-      "效果": "<i-sb>+2 Power</i-sb>.",
-      "背景": "灰底"
-    },
-    {
-      "时点": "每当",
-      "条件": "the Opponent Advances or Retreats",
-      "效果": "<b>Chip 1</b>.",
-      "背景": "灰底"
-    }
-  ],
-  "数值": {
-    "距离": "1~6",
-    "威力": 1,
-    "速度": 3,
-    "韧性": 3
+ "角色": "Dolores Malephaise",
+ "名称": "Attack_Barbs",
+ "卡类": "专属招式",
+ "系列": "独立-SLO",
+ "效果": [
+  {
+   "时点": "当",
+   "条件": "the Opponent is Pushed or Pulled",
+   "效果": "<i-sb>+2 Power</i-sb>.",
+   "背景": "灰底"
   },
-  "备注": "来源注记:2026-11-24用户拍照录入;画面模糊处以占位符标出;User 2026-11-24:Dolores has ONE Unique Attack,Barbs (1~6/1/3/3);the two \"bases\" were a misread and are deleted.Card text reads \"When\" (not \"Whenever\").；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
-  "来源": "官方实卡"
+  {
+   "时点": "当",
+   "条件": "the Opponent Advances or Retreats",
+   "效果": "<b>Chip 1</b>.",
+   "背景": "灰底"
+  }
+ ],
+ "数值": {
+  "距离": "1~6",
+  "威力": 1,
+  "速度": 3,
+  "韧性": 3
+ },
+ "备注": "来源注记:2026-11-24用户拍照录入;画面模糊处以占位符标出;User 2026-11-24:Dolores has ONE Unique Attack,Barbs (1~6/1/3/3);the two \"bases\" were a misread and are deleted.Card text reads \"When\" (not \"Whenever\").；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
+ "来源": "官方实卡"
 }
