@@ -35,7 +35,16 @@
   "风格_Megaton.json",
   "风格_Rocket.json",
   "风格_Upgradable.json",
-  "风格_Upgradeable.json"
+  "风格_Upgradeable.json",
+  "专属_System Reboot.json",
+  "配件_Afterburner.json",
+  "配件_Atomic Reactor.json",
+  "配件_Auto-Repair.json",
+  "配件_Barrier Co..json",
+  "配件_Extending Arms.json",
+  "配件_Force Gloves.json",
+  "配件_Rocket Boots.json",
+  "配件_Swarm Boost.json"
  ],
  "角标分配": {
   "兆吨": "<red-diamond>",
@@ -44,9 +53,10 @@
   "火箭": "<green-triangle>",
   "耗竭": "<orange-pentagon>"
  },
- "备注": "卡脚页印XLCG0113“克莱夫(模块牌)·毁灭”;角标按实拍辨认,升级/耗竭圆形系配色区分[待核]。模块牌共8张,卡类照录页脚“克莱夫(模块牌)”。;",
+ "备注": "卡脚页印XLCG0113“克莱夫(模块牌)·毁灭”;角标按实拍辨认,升级/耗竭圆形系配色区分[待核]。模块牌共8张,卡类照录页脚“克莱夫(模块牌)”。;;deck42角色卡实读",
  "来源": "官方实卡(2026-11-26用户拍照录入)",
  "角色": "克莱夫·梅尔蒙特",
- "英文全名": "",
- "称号_en": "The Hero's Apprentice"
+ "英文全名": "Clive Melmont",
+ "称号_en": "The Hero's Apprentice",
+ "台词": "I can fix that!"
 }

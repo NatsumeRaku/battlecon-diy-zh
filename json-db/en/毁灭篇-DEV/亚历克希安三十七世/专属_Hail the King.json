@@ -1,0 +1,28 @@
+{
+ "卡类": "专属",
+ "名称": "Hail the King",
+ "角色": "亚历克希安三十七世",
+ "系列": "毁灭篇-DEV",
+ "角标": "<star8-alpha>",
+ "数值": {
+  "距离": 1,
+  "威力": 0,
+  "速度": 4,
+  "韧性": 4
+ },
+ "效果": [
+  {
+   "时点": "<i-sb>",
+   "条件": "",
+   "效果": "Armor 6"
+  },
+  {
+   "时点": "<bl-b>",
+   "条件": "",
+   "效果": "Advance 1~5. +1 Power per damage prevented by your Armor."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck42_c15",
+ "台词": "\"There will be no retreat! Now is our time!\""
+}

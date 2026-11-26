@@ -1,0 +1,28 @@
+{
+ "卡类": "专属",
+ "名称": "Vital Silencer Infusion",
+ "角色": "克林海德·八",
+ "系列": "毁灭篇-DEV",
+ "角标": "<star8-alpha>",
+ "数值": {
+  "距离": "1~3",
+  "威力": 3,
+  "速度": "3",
+  "韧性": "0"
+ },
+ "效果": [
+  {
+   "时点": "<i-sb>",
+   "条件": "",
+   "效果": "Stun Immunity, Ignore Guard"
+  },
+  {
+   "时点": "<g-b>",
+   "条件": "",
+   "效果": "Your life becomes 1. Deactivate all Stims. For the rest of the duel, you have Armor 3."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck42_c35;速度值含先攻标记▲[待核]",
+ "台词": "\"It's only a half-life, but I'll take what I can get!\""
+}

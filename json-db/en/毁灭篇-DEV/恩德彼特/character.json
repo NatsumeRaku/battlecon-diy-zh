@@ -32,11 +32,18 @@
   "风格_Levitation.json",
   "风格_Seizing.json",
   "风格_Soak.json",
-  "风格_Terrifying.json"
+  "风格_Terrifying.json",
+  "形态_Acquisition Mode.json",
+  "形态_Analysis Mode.json",
+  "形态_Balance Mode.json",
+  "形态_Lockdown Mode.json",
+  "形态_Reactor Mode.json"
  ],
  "id": "毁灭篇-DEV-恩德彼特",
  "英文状态": "名称已核实;称号/机制概述/机制名待补官方原文",
  "来源": "官方实卡(仅名称源自中文实卡);其余待核验",
  "角色": "恩德彼特",
- "备注": "官方实卡(2026-11-25用户盒照凭证,行138/140删除后平反,仅限en树);恩德彼特=ENDRBYT系按盒照推定,身份映射[轻待核]"
+ "备注": "官方实卡(2026-11-25用户盒照凭证,行138/140删除后平反,仅限en树);恩德彼特=ENDRBYT系按盒照推定,身份映射[轻待核];deck42角色卡实读",
+ "英文全名": "Endbyt",
+ "称号_en": "The Collector"
 }
