@@ -1,0 +1,986 @@
+[
+ {
+  "角色": "Anva",
+  "卡类": "基底",
+  "名称": "Kick!",
+  "时点": "<g-b>",
+  "en": "Advance or Retreat 1.",
+  "zh": "ERR timed out"
+ },
+ {
+  "角色": "Anva",
+  "卡类": "基底",
+  "名称": "Kick!",
+  "时点": "<r-b>",
+  "en": "Push 1. Become Grounded. If you did, +2 Power.",
+  "zh": "推1。接地。若成功，+2力量。"
+ },
+ {
+  "角色": "Anva",
+  "卡类": "基底",
+  "名称": "Kick!",
+  "时点": "<bl-b>",
+  "en": "Advance or Retreat 1.",
+  "zh": "前进或后退 1"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "特技(UA)",
+  "名称": "名称OCR未识读[待核]",
+  "时点": "",
+  "en": "\"No evildoer can outrun the Shadow of Justice!'",
+  "zh": "\"没有罪恶之人能逃脱正义之影!\""
+ },
+ {
+  "角色": "Anya",
+  "卡类": "特技(UA)",
+  "名称": "名称OCR未识读[待核]",
+  "时点": "命中",
+  "en": "Hit: Push as far as possible Close as far as possible",
+  "zh": "击中：尽可能推远  \n击中：尽可能拉近  \n\n根据上下文，可以进一步细化为：\n击中：尽可能进行推远  \n击中：尽可能进行拉近  \n\n这样更明确地表达了“尽可能推远”和“尽可能拉近”的意思。"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Alwnd",
+  "时点": "命中",
+  "en": "Hit, you moved: +2 Power.",
+  "zh": "击中，你移动了：+2 力量。"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Alwnd",
+  "时点": "命中",
+  "en": "Hit: Push or Pull 1 ANYA",
+  "zh": "击中：推或拉 1ANYA"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Diving",
+  "时点": "命中",
+  "en": "<r-b>Hit, Flying:</r-b> <b>Ignore Guard</b>.",
+  "zh": "翻译结果：\n<r-b>Hit, Flying:</r-b> <b>忽略防护</b>."
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Diving",
+  "时点": "命中",
+  "en": "<r-b>Hit, Grounded:</r-b> <i-sb>+2 Power</i-sb>.",
+  "zh": "翻译结果如下：\n\n```plaintext\n<r-b>Hit, Grounded:</r-b> <i-sb>+2 Power</i-sb>.\n```\n\n解释：\n- `<r-b>` 是一个标签，表示某种格式或背景。\n- `Hit, Grounded` 是一个描述动作的状态或效果。\n- `<i-sb>` 是另一个标签，表示另一种格式或背景。\n- `+2 Power` 是具体的效果描述，表示增加2点力量。\n\n完整翻译：\n```plaintext\n<r-b>命中，落地:</r-b> <i-sb>力量+2</i-sb>.\n```"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Diving",
+  "时点": "",
+  "en": "Push 0~2, as far as possible.",
+  "zh": "推 0~2，尽可能远。"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Justice",
+  "时点": "展示",
+  "en": "Reveal, Flying:+2 Priority",
+  "zh": "揭露，飞行：+2优先级"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Justice",
+  "时点": "展示",
+  "en": "Reveal, Grounded +3 Guard and Armor 1",
+  "zh": "揭露，地面强化+3防御和护甲1"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Justice",
+  "时点": "前置",
+  "en": "Before: Advance 1-2 ANYA",
+  "zh": "Before: 前进 1-2 ANYA"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Kajari",
+  "时点": "开始",
+  "en": "<g-b>Start, Optional, Flying:</g-b> Advance or Retreat 1.",
+  "zh": "翻译结果：<g-b>开始，可选，飞行：</g-b>前进或后退1。"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Kajari",
+  "时点": "命中",
+  "en": "<r-b>Hit, Optional:</r-b> Push 1. Become <i-sb>Grounded</i-sb>. If you did, <i-sb>+2 Power</i-sb>.",
+  "zh": "翻译结果如下：\n\n```plaintext\n<r-b>Hit, Optional:</r-b> 推进 1。变为 <i-sb>接地</i-sb>。如果变为接地，则 <i-sb>+2 力量</i-sb>。\n```\n\n解释：\n- `<r-b>` 保留为 `<r-b>`，表示某种格式或标签。\n- `Hit, Optional:` 保留为 `Hit, Optional:`。\n- `Push 1.` 保留为 `推进 1`。\n- `Become <i-sb>Grounded</i-sb>.` 保留为 `变为 <i-sb>接地</i-sb>`。\n- `If you did, <i-sb>+2 Power</i-sb>.` 保留为 `如果变为接地，则 <i-sb>+2 力量</i-sb>`。"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Kajari",
+  "时点": "后置",
+  "en": "<r-b>After, Optional Flying:</r-b> Advance or Retreat 1.",
+  "zh": "翻译结果：<r-b>之后，可选飞行：</r-b> 前进或后退 1。"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "风格",
+  "名称": "Roundhouse",
+  "时点": "命中",
+  "en": "Hit: Push 1-2. If the opponent is on an edge of the arena, +2 Power. End, Optional, Flying Advance or Retreat 1. ANYA",
+  "zh": "击中：推离1-2格。若对手位于竞技场边缘，则+2力量。结束，可选，飞行前进或后退1格。——ANYA"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "基底",
+  "名称": "Stunt",
+  "时点": "<i-sb>",
+  "en": "X is a space the Motorcycle entered during this beat.",
+  "zh": "X是在这个节拍中摩托车进入的一个空间。"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "基底",
+  "名称": "Stunt",
+  "时点": "<r-b>",
+  "en": "Push 1~2.",
+  "zh": "推1~2。"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "特技(UA)",
+  "名称": "名称OCR未识读[待核]",
+  "时点": "",
+  "en": "'They'll never see it coming... Ignore Guard, Ignore Armor",
+  "zh": "他们永远想不到……无视防护，无视装甲"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "特技(UA)",
+  "名称": "名称OCR未识读[待核]",
+  "时点": "伤害",
+  "en": "Damage: The opponent's. Life becomes 2. a CIONAODH",
+  "zh": "伤害：对方的生命值变为2。一个CIONAODH。 \n\n这里的“一个CIONAODH”可能是指一张名为CIONAODH的卡牌，但需要根据具体游戏规则来确定。如果CIONAODH是一个角色或单位，那么可以翻译为“一个CIONAODH角色”或“一张CIONAODH卡牌”。请根据实际情况进行调整。"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "风格",
+  "名称": "Daring",
+  "时点": "后置",
+  "en": "After: Your opponent chooses a Style in your hand. If you reveaI that Style next beat, +2 Power and +1 Priority CIONAODH",
+  "zh": "翻译：触发后：对手从你手牌中选择一种风格。如果你在下个回合揭示那种风格，+2 力量和+1 优先级。\n\n注：优先级（Priority）在游戏中的含义是行动顺序的优先权，数值越大，行动越优先。"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "风格",
+  "名称": "Escape",
+  "时点": "前置",
+  "en": "Before, Reactive Player: Teleport to any space. CIONAODH",
+  "zh": "之前，反应方：传送至任意空间。CIONAODH"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "风格",
+  "名称": "Rocky",
+  "时点": "命中",
+  "en": "Hit: The opponent discards a Base to Discard Pile 1. The opponent loses Guard, Armor, and Stun Immunity. The opponent gains any of those effects on the discarded Base CIONAODH",
+  "zh": "击中：对手将一张基底牌弃置到弃牌堆1。对手失去护甲、防御和 stun 免疫。对手在弃置的基底牌上获得上述任一效果。\n\n注：stun 免疫在英文中是 \"Stun Immunity\"，直译为“stun 免疫”。在游戏规则中，通常会有一个对应的中文术语，但如果没有明确的官方翻译，可以保留直译。这里根据上下文，将其翻译为“stun 免疫”。"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "风格",
+  "名称": "Somersault",
+  "时点": "命中",
+  "en": "Hit, Optional: Advance or Retreat 1-2 towards the Motorcycle. If you are on the Motorcycle, Advance or Retreat 1 instead CIONAODH",
+  "zh": "击中，可选：向前或向后移动1-2格至摩托车。如果你已经在摩托车上了，则向前或向后移动1格。——Cionaodh\n\n请注意，Cionaodh是角色名，保持不变。如果有更多上下文或特定规则需要解释，请告知。"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "基底",
+  "名称": "Boon",
+  "时点": "<bl-b>",
+  "en": "Push 1.",
+  "zh": "Push 1. 可以翻译为“推1”或“推送1”。具体取决于上下文和使用场景。\n\n例如：\n- 在游戏指令中：推1\n- 在说明文本中：推送1次\n\n请根据具体语境选择合适的翻译。"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "基底",
+  "名称": "Boon",
+  "时点": "<r-b>",
+  "en": "You and the opponent regain 2 life.",
+  "zh": "你和对手各恢复2点生命。"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "特技(UA)",
+  "名称": "Wish Granted",
+  "时点": "",
+  "en": "Such a frail and ill-considered desire Reveal, Wish anted Stun Immunity. Your life. cannot fall below 1..",
+  "zh": "这样脆弱且未经深思的愿望\n揭示，愿望先于震惊免疫。\n你的生命值不能低于1。"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "特技(UA)",
+  "名称": "Wish Granted",
+  "时点": "展示",
+  "en": "Reveal, Powerless: +4 Priority. DAJIIN",
+  "zh": "揭露，无力：+4优先级。达吉因"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "风格",
+  "名称": "Duplicitous",
+  "时点": "展示",
+  "en": "Reveal,Wish anted: Stun Immunity and +2 Power",
+  "zh": "揭露，愿望： stun 免疫和 +2 力量\n\n解释：\n- Reveal: 揭露\n- Wish: 愿望\n- Stun Immunity: stun 免疫\n- +2 Power: +2 力量"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "风格",
+  "名称": "Duplicitous",
+  "时点": "展示",
+  "en": "Reveal, Powerless: +3 Guard",
+  "zh": "揭露，无力：+3 防御"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "风格",
+  "名称": "Duplicitous",
+  "时点": "命中",
+  "en": "Hit: Push or Pull 1 2 DAJIIN",
+  "zh": "击中：推或拉 1/2 - 大吉因"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "风格",
+  "名称": "Masterful",
+  "时点": "开始",
+  "en": "Start: Retreat 1..",
+  "zh": "开始：撤退1步.."
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "风格",
+  "名称": "Masterful",
+  "时点": "结束",
+  "en": "End, Optional: Advance or Retreat 1-2 DAJIIN",
+  "zh": "结束，可选：前进或后退 1-2 DAJIIN\n\n解释：\n- End: 结束\n- Optional: 可选\n- Advance: 前进\n- Retreat: 后退\n- 1-2: 1到2点\n- DAJIIN: 丹吉（Dajin的音译）"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "风格",
+  "名称": "Overpowering",
+  "时点": "",
+  "en": "Armor 1 You cannot be Pushed or Pulled.",
+  "zh": "护甲 1 你无法被推或拉。"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "风格",
+  "名称": "Overpowering",
+  "时点": "展示",
+  "en": "Reveal, Wish anted: The opponent cannot Advance or Retreat. DAJIIN",
+  "zh": "揭露，愿望：对方无法前进或后退。——约翰（Dajin）\n\n翻译：\n揭露，愿望：对方无法前进或后退。——约翰（Dajin）"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "风格",
+  "名称": "Wishful",
+  "时点": "命中",
+  "en": "Hit: Activate a Wish ( flip it back to its active side, it is not Granted)",
+  "zh": "触发：激活一个愿望（翻转回激活面，不会实现）"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "风格",
+  "名称": "Wishful",
+  "时点": "结束",
+  "en": "End, Optional: Advance. or Retreat 1. DAJIIN",
+  "zh": "结束，可选：前进 1 或 退后 1。-DAJIIN\n\n解释：\n- End: 结束\n- Optional: 可选\n- Advance: 前进\n- Retreat: 退后\n- 1: 1步\n\n希望这个翻译符合你的需求！如果有任何修改意见，请告诉我。"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "基底",
+  "名称": "Objection",
+  "时点": "<g-b>",
+  "en": "Become Active Player.",
+  "zh": "成为活跃玩家。"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "基底",
+  "名称": "Verdict",
+  "时点": "<r-b>",
+  "en": "The opponent discards a Base. Pick up any number of Bases from the Geas Pile.",
+  "zh": "对手弃除一张基底。从诅咒堆中选取任意数量的基底。"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "特技(UA)",
+  "名称": "Appeal",
+  "时点": "",
+  "en": "conviction won't waver!\" Stun Immunity",
+  "zh": "\"信念不会动摇！\" 震惊免疫"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "特技(UA)",
+  "名称": "Appeal",
+  "时点": "开始",
+  "en": "Start, Conviction: +5 Power. a FEYLANA -",
+  "zh": "启动，坚定：+5 力量。——费尔娜娅\n\n解释：\n- \"Start\" 翻译为 \"启动\"\n- \"Conviction\" 翻译为 \"坚定\"\n- \"+5 Power\" 翻译为 \"+5 力量\"\n- \"a FEYLANA\" 翻译为 \"——费尔娜娅\"，注意大写首字母以表示角色名。"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "风格",
+  "名称": "Awry",
+  "时点": "展示",
+  "en": "Reveal,Conviction +1 Power and +1 Priority.",
+  "zh": "揭露，坚定信念：+1 力量和+1 优先级。"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "风格",
+  "名称": "Awry",
+  "时点": "展示",
+  "en": "Reveal, no Conviction: +0~2 Range. 2 FEYLANA -",
+  "zh": "揭露，无确信：+0~2 范围。2 法莉娜"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "风格",
+  "名称": "Serious",
+  "时点": "后置",
+  "en": "After: The opponent chooses a Base from your hand. Put that Base into the Geas Pile You cannot pick up Bases from the Geas Pile this beat FEYLANA -",
+  "zh": "翻译：之后：对手从你的手牌中选择一个基底。将这个基底放入禁制堆。你不能从禁制堆中抽取基底。\n\n注：FEYLANA是角色名，保持不变。"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "风格",
+  "名称": "Showy",
+  "时点": "命中",
+  "en": "Hit: Perform a triggered effect on a card in the Geas Pile. You cannot Advance past the opponent..",
+  "zh": "击中：对鬼影堆中的任意一张卡牌触发一个效果。你无法超越对手。"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "风格",
+  "名称": "Showy",
+  "时点": "结束",
+  "en": "End, Optional: Pick up a Base from the Geas Pile. Put. a Base into the Geas Pile. FEYLANA -",
+  "zh": "结束，可选：从【契缚堆】抽取一个基底。将一个基底放入【契缚堆】。\n\n注：【契缚堆】是游戏中的一个术语，表示可以抽取基底的区域。如果需要更准确的翻译或解释，请告知。"
+ },
+ {
+  "角色": "John",
+  "卡类": "基底",
+  "名称": "Figure",
+  "时点": "<i-sb>",
+  "en": "The opponent cannot Advance past you.",
+  "zh": "对手无法超越你前进。"
+ },
+ {
+  "角色": "John",
+  "卡类": "基底",
+  "名称": "Figure",
+  "时点": "<g-b>",
+  "en": "Close 2.",
+  "zh": "\"Close 2.\" 可以翻译为：\n\n**靠近2.**\n\n具体翻译可以根据上下文进行调整。如果有更多背景信息，可以进一步优化翻译。"
+ },
+ {
+  "角色": "John",
+  "卡类": "特技(UA)",
+  "名称": "名称OCR未识读[待核]",
+  "时点": "",
+  "en": "'This blasted curse will not have me yet!'",
+  "zh": "“这个该死的诅咒还不打算让我屈服！”"
+ },
+ {
+  "角色": "John",
+  "卡类": "特技(UA)",
+  "名称": "名称OCR未识读[待核]",
+  "时点": "命中",
+  "en": "Hit: For the rest of the duel Stoneskin provides you Armor 3",
+  "zh": "击中：在整场对局中，Stoneskin 为你提供护甲 3。"
+ },
+ {
+  "角色": "John",
+  "卡类": "特技(UA)",
+  "名称": "名称OCR未识读[待核]",
+  "时点": "后置",
+  "en": "After: For the rest of the. duel, Stoneskin provides no. Armor to the opponent",
+  "zh": "翻译：After: 在剩下的对局中，Stoneskin 不再为对方提供护甲。"
+ },
+ {
+  "角色": "John",
+  "卡类": "终结技",
+  "名称": "Blast Mining",
+  "时点": "",
+  "en": "Stun Immunity, <b>Ignore Armor</b>",
+  "zh": "眩晕免疫，<b>无视护甲</b>"
+ },
+ {
+  "角色": "John",
+  "卡类": "终结技",
+  "名称": "Flesh to Stone",
+  "时点": "命中",
+  "en": "<r-b>Hit:</r-b> For the rest of the duel, <i-sb>Stoneskin</i-sb> provides you <b>Armor 3</b>.",
+  "zh": "<translation>\n<r-b>Hit:</r-b> 在整个对局中，<i-sb>石头之肤</i-sb>为你提供<b>护甲3</b>。\n</translation>"
+ },
+ {
+  "角色": "John",
+  "卡类": "终结技",
+  "名称": "Flesh to Stone",
+  "时点": "后置",
+  "en": "<r-b>After:</r-b> For the rest of the duel, <i-sb>Stoneskin</i-sb> provides no Armor to the opponent.",
+  "zh": "<ر-ب>بعد ذلك:</ر-ب> خلال باقي معركة ال Duel، <i-س-ب>Stoneskin</i-س-ب> لا تقدم أي حماية (Armor) للخصم."
+ },
+ {
+  "角色": "John",
+  "卡类": "风格",
+  "名称": "Hammering",
+  "时点": "",
+  "en": "+",
+  "zh": "\"+”可以翻译为“加号”或直接保留“+”，具体取决于上下文和语境。例如：\n\n- 行200定案回填：+FromtheHeavens 可以翻译为“天降之+”\n- 行200定案回填：+WithStyle 可以翻译为“华丽之+”\n- 行200定案回填：+oftheAges 可以翻译为“万世之+”\n- 行200定案回填：Perfectly+ 可以翻译为“完美+”\n- 行200定案回填：Super+ 可以翻译为“超强+”\n- 行200定案回填：Truly+ 可以翻译为“真·+”\n\n如果需要更具体的翻译建议，请提供更多的上下文信息。"
+ },
+ {
+  "角色": "John",
+  "卡类": "风格",
+  "名称": "Hammering",
+  "时点": "前置",
+  "en": "Before: Advance 1-2. +2 Power if you did not move. JOHN",
+  "zh": "翻译：之前：前进 1-2 格。如果没有移动，+2 力量。JOHN\n\n解释：\n- \"Before: Advance 1-2.\" 表示之前的行动是前进 1-2 格。\n- \"+2 Power if you did not move.\" 如果没有移动，则 +2 力量。\n- \"JOHN\" 保持不变，因为这是角色的名字。"
+ },
+ {
+  "角色": "John",
+  "卡类": "风格",
+  "名称": "Landslide",
+  "时点": "开始",
+  "en": "Start: Advance 1. JOHN",
+  "zh": "开始: 前进 1. 约翰"
+ },
+ {
+  "角色": "John",
+  "卡类": "风格",
+  "名称": "Reactyrng[待核]",
+  "时点": "命中",
+  "en": "Hit: Push 0-3, as far as possible. -1 Power per space pushed.. 2 JOHN",
+  "zh": "击中：推倒 0-3 格，尽可能远。每次推倒减少 1 力量值。-2 约翰\n\n解释：\n- \"Hit: Push 0-3, as far as possible.\"：击中时，推倒 0 到 3 格，尽可能远。\n- \"as far as possible.\"：尽可能远。\n- \"–1 Power per space pushed.\"：每次推倒减少 1 力量值。\n- \"2 JOHN\"：-2 约翰（可能是指约翰的力场值或其他相关数值）。\n\n希望这能帮到你！如果有更多需要翻译的内容或其他问题，请告诉我。"
+ },
+ {
+  "角色": "John",
+  "卡类": "风格",
+  "名称": "Searing",
+  "时点": "",
+  "en": "When you are hit, Stun Immunity if you have not moved this beat.",
+  "zh": "当你被击中时，如果这一拍你还没有移动，获得眩晕免疫。"
+ },
+ {
+  "角色": "John",
+  "卡类": "风格",
+  "名称": "Searing",
+  "时点": "后置",
+  "en": "After: Advance 1 JOHN",
+  "zh": "翻译：After: 进行1 JOHN\n\n解释：\n- \"After\" 表示后续效果或行动。\n- \"Advance 1\" 表示前进1步。\n- \"JOHN\" 保持不变，通常代表角色名或单位名。"
+ },
+ {
+  "角色": "John",
+  "卡类": "风格",
+  "名称": "Solid",
+  "时点": "展示",
+  "en": "Reveal, Active Player Ignore Armor. Reveal, Reactive Player +2 Power and +2 Guard. JOHN",
+  "zh": "揭露，主动玩家忽略护甲。揭露，反应玩家获得+2力量和+2防御。JOHN"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "基底",
+  "名称": "Master Key",
+  "时点": "<b>",
+  "en": "Your Priority becomes 4.",
+  "zh": "你的优先级变为4。"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "基底",
+  "名称": "Master Key",
+  "时点": "<g-b>",
+  "en": "Activate a Function.",
+  "zh": "激活一个功能。"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "特技(UA)",
+  "名称": "Collapsible Box",
+  "时点": "",
+  "en": "secret is all in the construction.. Stun Immunity, Armor 2 Functions provide +0~1 Range and. +2 Power instead of printed effects.",
+  "zh": "秘密在于构造细节……眩晕免疫、护甲2功能提供+0~1范围和+2攻击力，而不是印刷的效果。"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "特技(UA)",
+  "名称": "Collapsible Box",
+  "时点": "命中",
+  "en": "Hit: Pull the opponent to a. a space adjacent to you. KAI",
+  "zh": "击中：将对手拉到 a。你旁边的一个空间。KAI\n\n这里的“a”可能需要根据具体上下文进行调整，确保它在句子中是明确的。如果“a”是某个特定的代词或名词，需要替换为合适的词语。"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "风格",
+  "名称": "Complex",
+  "时点": "开始",
+  "en": "Start: Advance or Retreat 1",
+  "zh": "开始：前进或后退1步"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "风格",
+  "名称": "Complex",
+  "时点": "前置",
+  "en": "Before: Advance or Retreat 1..",
+  "zh": "翻译：Before: 前进或后退 1.."
+ },
+ {
+  "角色": "Kai",
+  "卡类": "风格",
+  "名称": "Complex",
+  "时点": "后置",
+  "en": "After: Advance or Retreat 1.",
+  "zh": "翻译：After: 进攻或撤退 1."
+ },
+ {
+  "角色": "Kai",
+  "卡类": "风格",
+  "名称": "Complex",
+  "时点": "结束",
+  "en": "End: Advance or Retreat 1.. KAI",
+  "zh": "结束：前进或后退 1... 凯"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "风格",
+  "名称": "Flippen[待核]",
+  "时点": "前置",
+  "en": "Before: Advance or Retreat 0-X X is the number of active. Functions, up to 3.. 2 KAI",
+  "zh": "翻译：之前：前进或后退 0-X，X 是活跃的功能数量。最多 3 个功能。\n\n注释：这里的“2 KAI”可能是指某个角色或单位的特定情况，表示这个角色或单位最多可以有 2 个功能。"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "风格",
+  "名称": "Mysterious",
+  "时点": "",
+  "en": "Ignore Guard, Ignore Armor",
+  "zh": "忽略防护，忽略装甲"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "风格",
+  "名称": "Mysterious",
+  "时点": "展示",
+  "en": "Reveal, Perplexed: +3 Guard KAI",
+  "zh": "揭露，困惑：+3防御 KAI"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "风格",
+  "名称": "Secret",
+  "时点": "开始",
+  "en": "Start,1+ Functions active Activate another Function",
+  "zh": "启动，1个功能激活。激活另一个功能。"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "风格",
+  "名称": "Secret",
+  "时点": "命中",
+  "en": "Hit, 5 Functions active: +5 Power KAI",
+  "zh": "击中，5种功能激活：+5力量 KAI"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "风格",
+  "名称": "Strange",
+  "时点": "展示",
+  "en": "Reveal, 2+ Functions active: Swap your active and inactive Functions.",
+  "zh": "揭露，当2个及以上功能激活时：交换你的激活状态和未激活状态的功能。"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "风格",
+  "名称": "Strange",
+  "时点": "展示",
+  "en": "Reveal,Perplexed:Your Priority penalties become bonuses instead (all -X Priority. becomes +X Priority). KAI",
+  "zh": "揭露，困惑：你的优先级惩罚变为奖励（所有 -X 优先级变为 +X 优先级）。KAI"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "基底",
+  "名称": "Japes",
+  "时点": "<i-sb>",
+  "en": "Armor 1, Ignore Armor",
+  "zh": "护甲 1，无视护甲"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "基底",
+  "名称": "Japes",
+  "时点": "<g-b>",
+  "en": "Regain a Thorn.",
+  "zh": "恢复一根刺。"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "特技(UA)",
+  "名称": "Desert[待核]",
+  "时点": "",
+  "en": "'Feel the desert's embrace...",
+  "zh": "感受沙漠的拥抱……"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "特技(UA)",
+  "名称": "Desert[待核]",
+  "时点": "展示",
+  "en": "Reveal: Avoid attacks with Priority 5+",
+  "zh": "揭露：避免优先级为5及以上的攻击"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "特技(UA)",
+  "名称": "Desert[待核]",
+  "时点": "伤害",
+  "en": "Damage: Regain all Thorns a KORA",
+  "zh": "伤害：恢复所有荆棘。"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "风格",
+  "名称": "Barbed",
+  "时点": "展示",
+  "en": "Reveal: +1 Power per Thorn depleted this beat.",
+  "zh": "揭露：每消耗一个荆棘，获得+1力量。"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "风格",
+  "名称": "Barbed",
+  "时点": "开始",
+  "en": "Start: Pull 1. KORA",
+  "zh": "开始：抽取1张。科拉"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "风格",
+  "名称": "Bristling[待核]",
+  "时点": "",
+  "en": "When the opponent enters a space adjacent to you, regain a Thorn.. Armor 2",
+  "zh": "当对手进入与你相邻的空间时，恢复一个荆棘... 防具2"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "风格",
+  "名称": "Bristling[待核]",
+  "时点": "前置",
+  "en": "Before: Pull 1. KORA",
+  "zh": "翻译：Before: 拔 1. KORA\n\n解释：\n- \"Pull\" 翻译为 \"拔\"，适用于从牌组中抽取一张牌的情况。\n- \"1\" 表示抽取一张牌。\n- \"KORA\" 是角色名或卡名，保持不变。"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "风格",
+  "名称": "Poisonous",
+  "时点": "展示",
+  "en": "Reveal: +2 Priority per held Thorn. KORA",
+  "zh": "揭露：每持有一枚荆棘，优先级+2。KORA"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "风格",
+  "名称": "Sandstorm",
+  "时点": "展示",
+  "en": "Reveal: Armor 1 per Thorn depleted this beat.",
+  "zh": "揭露：每消耗一个荆棘，获得1点护甲。"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "风格",
+  "名称": "Sandstorm",
+  "时点": "后置",
+  "en": "After: Teleport to any space. KORA",
+  "zh": "翻译：After: 传送至任意空间。KORA\n\n解释：\n- \"After\" 表示这是一个触发效果。\n- \"Teleport to any space\" 表示可以传送至任意位置。\n- \"KORA\" 保持不变，可能是角色名或特定标识。"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "风格",
+  "名称": "Splintering",
+  "时点": "展示",
+  "en": "Reveal, 1+ Thorns depleted this beat: +1 Power and +2 Priority.",
+  "zh": "揭露，1+棘刺被此回合消耗：+1力量和+2优先级。"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "风格",
+  "名称": "Splintering",
+  "时点": "命中",
+  "en": "Hit, Choose One:. .Push 0-2, as far as possible. Regain a Thorn. 2 KORA",
+  "zh": "击中，选择一项：. .推 0-2，尽可能远。恢复一根棘刺。2 KORA\n\n解释：\n- Hit: 击中\n- Choose One: 选择一项\n- . .: 表示空格或省略号\n- Push 0-2: 推 0-2\n- as far as possible: 尽可能远\n- Regain a Thorn: 恢复一根棘刺\n- 2 KORA: 2 KORA（KORA 是角色名或某种计量单位）"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "特技(UA)",
+  "名称": "Deep Freeze",
+  "时点": "",
+  "en": "\"'Coldwater bloodline secret arts. Frost Prison, Activate!' Ignore Guard",
+  "zh": "\"‘冷水家族秘术。霜狱，启动！’无视守卫\""
+ },
+ {
+  "角色": "Rin",
+  "卡类": "特技(UA)",
+  "名称": "Deep Freeze",
+  "时点": "命中",
+  "en": "Hit: Regain all Frost",
+  "zh": "击中：恢复所有霜冻效果"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "风格",
+  "名称": "Freezing",
+  "时点": "",
+  "en": "Reveal,3+ Frost held The opponent cannot Advance or Retreat.",
+  "zh": "揭露，3+ 冰霜束缚\n对手无法前进或后退。"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "风格",
+  "名称": "Freezing",
+  "时点": "开始",
+  "en": "Start: Retreat 1 RIN",
+  "zh": "开始: 后退1 RIN"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "风格",
+  "名称": "Frost[待核]",
+  "时点": "展示",
+  "en": "Reveal: +1 Priority per Frost in your supply.",
+  "zh": "揭露：每有一个霜元素在你的补给中，获得+1优先级。"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "风格",
+  "名称": "Frost[待核]",
+  "时点": "命中",
+  "en": "Hit, 3+ Frost held: Spend all Frost for +3 Power. Do not regain Frost this beat. 2 RIN",
+  "zh": "击打，3+ 冰霜持有：花费所有冰霜获得+3力量。本回合不再恢复冰霜。2 RIN\n\n解释：\n- Hit: 击打\n- 3+ 冰霜持有：3点或更多冰霜持有\n- 花费所有冰霜获得+3力量：花费所有的冰霜来获得+3力量\n- 本回合不再恢复冰霜：本回合不再恢复冰霜\n- 2 RIN：2个 RIN 卡牌（RIN 是角色名或某种计量单位）"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "风格",
+  "名称": "Nimblest",
+  "时点": "前置",
+  "en": "Before: Close 2",
+  "zh": "翻译：Before: 近战2次"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "风格",
+  "名称": "Nimblest",
+  "时点": "命中",
+  "en": "Hit: Spend 0-2 Frost for +1 Power each",
+  "zh": "击中：消耗0-2霜冻，获得+1力量每点。"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "风格",
+  "名称": "Nimblest",
+  "时点": "后置",
+  "en": "After: Advance or Retreat 1 RIN",
+  "zh": "翻译：After: 前进或后退 1 RIN\n\n解释：\n- \"After\" 表示后续效果或触发条件。\n- \"Advance or Retreat 1\" 表示前进或后退 1 格。\n- \"RIN\" 是角色名或单位名。"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "风格",
+  "名称": "Stealthiest",
+  "时点": "开始",
+  "en": "Start: Teleport to the nearest space behind the opponent",
+  "zh": "开始：传送至对手背后的最近空位"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "风格",
+  "名称": "Stealthiest",
+  "时点": "命中",
+  "en": "Hit, Optional: Retreat 1-2",
+  "zh": "击中，可选择后退1-2步。"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "风格",
+  "名称": "Stealthiest",
+  "时点": "命中",
+  "en": "Hit, Frost 2+: Armor 2 RIN",
+  "zh": "击中，冰冻2+：护甲2 RIN"
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "基底",
+  "名称": "Doom Blade",
+  "时点": "<i-sb>",
+  "en": "Armor 1",
+  "zh": "Armor 1 可以翻译为“护甲 1”或“甲片 1”。根据上下文，可以选择更合适的翻译：\n\n- 护甲 1：适用于角色或单位的护甲值。\n- 甲片 1：适用于特定装备或附加的甲片。\n\n请根据具体上下文选择合适的翻译。"
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "基底",
+  "名称": "Doom Blade",
+  "时点": "<r-b>",
+  "en": "Place a Wisp in the nearest space behind the opponent. If the opponent is on an edge of the arena, Chip 2.",
+  "zh": "将一个灵火放置在对手最近的后方空位上。如果对手位于竞技场边缘，则削除2点生命值。"
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "特技(UA)",
+  "名称": "名称OCR未识读[待核]",
+  "时点": "",
+  "en": "In time, you'll serve too.... X is on a Wisp's space.",
+  "zh": "随着时间的推移，你也会为他服务……X位于飘浮物的空间。"
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "特技(UA)",
+  "名称": "名称OCR未识读[待核]",
+  "时点": "命中",
+  "en": "Hit: Push or Pull 0-4. +2 Power per Wisp's space the opponent. left during this movement. a VEKYL",
+  "zh": "击中：推或拉 0-4。每有一个 Wisps 的空间，对手在本次移动过程中获得 +2 力量。"
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "风格",
+  "名称": "Ghostorm[待核]",
+  "时点": "命中",
+  "en": "Hit: Armor 2",
+  "zh": "击中：护甲+2"
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "风格",
+  "名称": "Ghostorm[待核]",
+  "时点": "结束",
+  "en": "End: Advance 1-2 VEKYL",
+  "zh": "翻译：End: 1-2步前进 VEKYL\n\n解释：\n- \"End\" 表示结束或终结。\n- \"Advance 1-2\" 表示前进1步或2步。\n- \"VEKYL\" 是角色名。\n\n所以，完整的翻译是：“结束：前进1步或2步 VEKYL”。"
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "风格",
+  "名称": "Haunted",
+  "时点": "前置",
+  "en": "Before, Choose One .Teleport to a Wisp, withdraw it and gain +1 Power.. .Retreat 1. 2 VEKYL",
+  "zh": "之前，选择一个效果：\n1. 传送至一个灵光，抽取它并获得+1力量。\n2. 撤退1，2 VEKYL。\n\n注：VEKYL在这里可能是指VEKYL的VE值，表示VEKYL消耗的资源。如果VEKYL是指某个角色或单位，则需要进一步明确。"
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "风格",
+  "名称": "Undead[待核]",
+  "时点": "伤害",
+  "en": "Damage: Push 1 per damage dealt, as far as possible. Chip 1 for each Wisp's space the Opponent enters during this movement. VEKYL",
+  "zh": "伤害：每次造成伤害时，推退1格，尽可能远。对手在此移动过程中每进入一个灵火（Wisp）的空间，消耗1点碎片（Chip）。VEKYL"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "基底",
+  "名称": "Spanner",
+  "时点": "<r-b>",
+  "en": "Push or Pull 1. The opponent cannot Advance or Retreat.",
+  "zh": "推或拉 1。对方不能前进或后退。"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "基底",
+  "名称": "Spanner",
+  "时点": "<g-b>",
+  "en": "Shift a Target 1~6.",
+  "zh": "移动目标 1~6次。"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "特技(UA)",
+  "名称": "Precision Strike",
+  "时点": "",
+  "en": "degrees left, and fire!' Stun Immunity, X is a space containing 2 Targets.",
+  "zh": "剩余角度，然后开火！' 麻痹免疫，X 是包含 2 个目标的空间。"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "特技(UA)",
+  "名称": "Precision Strike",
+  "时点": "前置",
+  "en": "Before: The opponent cannot Advance or Retreat. a Shift a Target 0-1. WENDY",
+  "zh": "翻译：在发动此技能前：对方无法前进或后退。你可以将目标调整1次（0-1）。WENDY"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "风格",
+  "名称": "Airship[待核]",
+  "时点": "命中",
+  "en": "Hit: Shift a Target 1. Shift a Target 1. Shift a Target 1.",
+  "zh": "击中：目标位移1。目标位移1。目标位移1。"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "风格",
+  "名称": "Airship[待核]",
+  "时点": "后置",
+  "en": "After, Optional: Advance orRetreat 1. 2 WENDY",
+  "zh": "之后，可选：前进或后退 1. 2 芬迪娅\n\n注：WENDY在游戏中的角色名是芬迪娅（Fendia），所以这里将WENDY替换为芬迪娅。"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "风格",
+  "名称": "Mortar[待核]",
+  "时点": "命中",
+  "en": "Hit: +3 Power if the opponent is on a Target. +2 Power if the opponent is adjacent to a Target.",
+  "zh": "击中：如果对方位于目标上，+3力量。如果对方紧邻目标，+2力量。"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "风格",
+  "名称": "Mortar[待核]",
+  "时点": "伤害",
+  "en": "Damage: Shift a Target 1-2. WENDY",
+  "zh": "伤害：将目标位移1-2。WENDY"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "风格",
+  "名称": "Suppressing",
+  "时点": "",
+  "en": "When the opponent enters a Target's space, Chip 2.. Targets do not Chip when shifting or being placed..",
+  "zh": "当对手进入目标的区域时，消耗2芯片。目标在移动或放置时不会消耗芯片。"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "风格",
+  "名称": "Suppressing",
+  "时点": "结束",
+  "en": "End: Place a Target. WENDY",
+  "zh": "结束：放置一个目标。温迪"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "风格",
+  "名称": "Warning",
+  "时点": "",
+  "en": "You and the opponent cannot end movement in a space with a Target.",
+  "zh": "你和对手不能在带有目标标记的空间结束移动。"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "风格",
+  "名称": "Warning",
+  "时点": "结束",
+  "en": "End: Advance or Retreat 1. Shift a Target 1-2 WENDY",
+  "zh": "结束：前进或后退 1。目标位移 1-2 - 温迪"
+ }
+]
