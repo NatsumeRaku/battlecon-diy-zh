@@ -1,22 +1,23 @@
 {
- "卡类": "角色",
- "名称": "Aria",
- "角色": "Aria",
- "系列": "毁灭篇-DEV",
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck40专属基底录入时建档,角色卡待deck42录入",
- "卡牌清单": [
-  "character.json",
-  "基底_Reconfiguration.json",
-  "终结技_Synchro Merge.json",
-  "风格_Catalyst.json",
-  "风格_Dimensional.json",
-  "风格_Laser.json",
-  "风格_Loci.json",
-  "风格_Photovoltaic.json",
-  "专属招式_Laser Lattice.json"
- ],
- "英文全名": "Aria",
- "称号_en": "Prototype Planestalker",
- "台词": "\"As it turns out, they all have lasers too!\""
+  "卡类": "角色",
+  "名称": "Aria",
+  "角色": "Aria",
+  "系列": "毁灭篇-DEV",
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck40专属基底录入时建档,角色卡待deck42录入；中文名:考据拟译v1[待核](行202,对照表考据节)",
+  "卡牌清单": [
+    "character.json",
+    "基底_Reconfiguration.json",
+    "终结技_Synchro Merge.json",
+    "风格_Catalyst.json",
+    "风格_Dimensional.json",
+    "风格_Laser.json",
+    "风格_Loci.json",
+    "风格_Photovoltaic.json",
+    "专属招式_Laser Lattice.json"
+  ],
+  "英文全名": "Aria",
+  "称号_en": "Prototype Planestalker",
+  "台词": "\"As it turns out, they all have lasers too!\"",
+  "中文名": "阿莉娅"
 }

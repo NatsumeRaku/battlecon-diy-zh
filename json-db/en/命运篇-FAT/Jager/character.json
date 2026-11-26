@@ -1,23 +1,24 @@
 {
- "角色": "Jager",
- "角标": "",
- "名称": "Jager",
- "卡类": "角色",
- "系列": "命运篇-FAT",
- "效果": [],
- "数值": {},
- "备注": "来源注记:TTS图包;卡面已自TTS补录,骨架备注失效;2026-11-26 TTS deck38格61角色卡补全英文/称号;deck37格10-59补录风格/基底;2026-11-26 TTS deck39补录状态效果牌/Charge计数卡",
- "来源": "官方实卡",
- "英文": "Jager Brandford",
- "称号": "Wolfborn",
- "卡牌清单": [
-  "基底_Blood Moon.json",
-  "状态效果牌_Hounded.json",
-  "状态效果牌_Refinement.json",
-  "终结技_Slicer.json",
-  "风格_Fanged.json",
-  "风格_Hounding.json",
-  "风格_Menacing.json",
-  "风格_Refined.json"
- ]
+  "角色": "Jager",
+  "角标": "",
+  "名称": "Jager",
+  "卡类": "角色",
+  "系列": "命运篇-FAT",
+  "效果": [],
+  "数值": {},
+  "备注": "来源注记:TTS图包;卡面已自TTS补录,骨架备注失效;2026-11-26 TTS deck38格61角色卡补全英文/称号;deck37格10-59补录风格/基底;2026-11-26 TTS deck39补录状态效果牌/Charge计数卡；中文名:考据拟译v1[待核](行202,对照表考据节)",
+  "来源": "官方实卡",
+  "英文": "Jager Brandford",
+  "称号": "Wolfborn",
+  "卡牌清单": [
+    "基底_Blood Moon.json",
+    "状态效果牌_Hounded.json",
+    "状态效果牌_Refinement.json",
+    "终结技_Slicer.json",
+    "风格_Fanged.json",
+    "风格_Hounding.json",
+    "风格_Menacing.json",
+    "风格_Refined.json"
+  ],
+  "中文名": "雅格·布兰德福德"
 }

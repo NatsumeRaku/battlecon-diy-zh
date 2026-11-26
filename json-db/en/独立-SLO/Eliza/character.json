@@ -1,21 +1,22 @@
 {
- "角色": "Eliza",
- "英文全名": "Eliza",
- "称号": "Storyteller",
- "系列": "独立-SLO",
- "角标": "N/A",
- "卡牌清单": [
-  "character.json",
-  "基底_Worldbook.json",
-  "流派牌_The Beyond.json",
-  "流派牌_The Grim.json",
-  "终结技_Between the Lines.json",
-  "风格_Anthology.json",
-  "风格_Exhaustive.json",
-  "风格_Indexing.json",
-  "风格_Literary.json",
-  "风格_Serial.json"
- ],
- "备注": "来源注记:TTS图包;deck47格20角色卡;SLO强化版",
- "来源": "官方实卡"
+  "角色": "Eliza",
+  "英文全名": "Eliza",
+  "称号": "Storyteller",
+  "系列": "独立-SLO",
+  "角标": "N/A",
+  "卡牌清单": [
+    "character.json",
+    "基底_Worldbook.json",
+    "流派牌_The Beyond.json",
+    "流派牌_The Grim.json",
+    "终结技_Between the Lines.json",
+    "风格_Anthology.json",
+    "风格_Exhaustive.json",
+    "风格_Indexing.json",
+    "风格_Literary.json",
+    "风格_Serial.json"
+  ],
+  "备注": "来源注记:TTS图包;deck47格20角色卡;SLO强化版；中文名:考据拟译v1[待核](行202,对照表考据节)",
+  "来源": "官方实卡",
+  "中文名": "伊丽莎"
 }

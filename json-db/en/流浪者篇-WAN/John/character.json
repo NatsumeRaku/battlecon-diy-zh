@@ -1,15 +1,16 @@
 {
- "卡类": "角色",
- "名称": "John",
- "角色": "John",
- "系列": "流浪者篇-WAN",
- "来源": "待核验",
- "备注": "deck3_c5专属基底录入时建档;英文全名/称号待补",
- "卡牌清单": [
-  "character.json",
-  "character.json",
-  "基底_Figure.json",
-  "终结技_Blast Mining.json",
-  "终结技_Flesh to Stone.json"
- ]
+  "卡类": "角色",
+  "名称": "John",
+  "角色": "John",
+  "系列": "流浪者篇-WAN",
+  "来源": "待核验",
+  "备注": "deck3_c5专属基底录入时建档;英文全名/称号待补；中文名:考据拟译v1[待核](行202,对照表考据节)",
+  "卡牌清单": [
+    "character.json",
+    "character.json",
+    "基底_Figure.json",
+    "终结技_Blast Mining.json",
+    "终结技_Flesh to Stone.json"
+  ],
+  "中文名": "约翰·斯特朗·史蒂文森"
 }

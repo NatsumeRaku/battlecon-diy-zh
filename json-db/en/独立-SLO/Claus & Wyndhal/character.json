@@ -1,20 +1,21 @@
 {
- "角色": "Claus & Wyndhal",
- "英文全名": "Claus & Wyndhal",
- "称号": "Guardians of Autumn",
- "系列": "独立-SLO",
- "角标": "N/A",
- "卡牌清单": [
-  "character.json",
-  "特技(UA)_Gale Force.json",
-  "基底_Tempest.json",
-  "终结技_Autumn's Advance.json",
-  "风格_Blast.json",
-  "风格_Cyclone.json",
-  "风格_Downdraft.json",
-  "风格_Headwind.json",
-  "风格_Hurricane.json"
- ],
- "备注": "来源注记:TTS图包;deck47格12角色卡;SLO强化版",
- "来源": "官方实卡"
+  "角色": "Claus & Wyndhal",
+  "英文全名": "Claus & Wyndhal",
+  "称号": "Guardians of Autumn",
+  "系列": "独立-SLO",
+  "角标": "N/A",
+  "卡牌清单": [
+    "character.json",
+    "特技(UA)_Gale Force.json",
+    "基底_Tempest.json",
+    "终结技_Autumn's Advance.json",
+    "风格_Blast.json",
+    "风格_Cyclone.json",
+    "风格_Downdraft.json",
+    "风格_Headwind.json",
+    "风格_Hurricane.json"
+  ],
+  "备注": "来源注记:TTS图包;deck47格12角色卡;SLO强化版；中文名:考据拟译v1[待核](行202,对照表考据节)",
+  "来源": "官方实卡",
+  "中文名": "克劳斯与温德尔"
 }

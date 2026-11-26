@@ -1,22 +1,23 @@
 {
- "角色": "Lucida Malephaise",
- "角标": "",
- "名称": "Lucida Malephaise",
- "卡类": "角色",
- "系列": "试炼篇-TRI",
- "效果": [],
- "数值": {},
- "备注": "来源注记:TTS图包;盒照识别(66050/66052);Lucida Malephaise,TVTropes Trials名单[轻待核:与SLO Dolores Malephaise区分];骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck33/34录入:风格×4+基底×1+终结技×1(Cindra另有凤凰形态套5张);deck32格44角色卡补全称号",
- "来源": "官方实卡",
- "卡牌清单": [
-  "基底_Insatiable.json",
-  "终结技_Teeth.json",
-  "终结技_Wet the Jaws.json",
-  "风格_Corrosive.json",
-  "风格_Devouring.json",
-  "风格_Sharpened.json",
-  "风格_Voracious.json"
- ],
- "英文": "Lucida Malephaise",
- "称号": "The Devourer"
+  "角色": "Lucida Malephaise",
+  "角标": "",
+  "名称": "Lucida Malephaise",
+  "卡类": "角色",
+  "系列": "试炼篇-TRI",
+  "效果": [],
+  "数值": {},
+  "备注": "来源注记:TTS图包;盒照识别(66050/66052);Lucida Malephaise,TVTropes Trials名单[轻待核:与SLO Dolores Malephaise区分];骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck33/34录入:风格×4+基底×1+终结技×1(Cindra另有凤凰形态套5张);deck32格44角色卡补全称号；中文名:考据拟译v1[待核](行202,对照表考据节)",
+  "来源": "官方实卡",
+  "卡牌清单": [
+    "基底_Insatiable.json",
+    "终结技_Teeth.json",
+    "终结技_Wet the Jaws.json",
+    "风格_Corrosive.json",
+    "风格_Devouring.json",
+    "风格_Sharpened.json",
+    "风格_Voracious.json"
+  ],
+  "英文": "Lucida Malephaise",
+  "称号": "The Devourer",
+  "中文名": "露西达·玛勒菲斯"
 }

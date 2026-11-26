@@ -1,21 +1,22 @@
 {
- "角色": "Lucius",
- "英文全名": "Lucius",
- "称号": "The Trickster",
- "系列": "独立-SLO",
- "角标": "N/A",
- "卡牌清单": [
-  "character.json",
-  "基底_Somersault.json",
-  "灵铐牌_Emerald Shackle.json",
-  "灵铐牌_Sapphire Shackle.json",
-  "终结技_Skyfall Strike.json",
-  "风格_Agile.json",
-  "风格_Dancing.json",
-  "风格_Deft.json",
-  "风格_Lightning.json",
-  "风格_Sliding.json"
- ],
- "备注": "来源注记:TTS图包;deck47格36角色卡;SLO强化版",
- "来源": "官方实卡"
+  "角色": "Lucius",
+  "英文全名": "Lucius",
+  "称号": "The Trickster",
+  "系列": "独立-SLO",
+  "角标": "N/A",
+  "卡牌清单": [
+    "character.json",
+    "基底_Somersault.json",
+    "灵铐牌_Emerald Shackle.json",
+    "灵铐牌_Sapphire Shackle.json",
+    "终结技_Skyfall Strike.json",
+    "风格_Agile.json",
+    "风格_Dancing.json",
+    "风格_Deft.json",
+    "风格_Lightning.json",
+    "风格_Sliding.json"
+  ],
+  "备注": "来源注记:TTS图包;deck47格36角色卡;SLO强化版；中文名:考据拟译v1[待核](行202,对照表考据节)",
+  "来源": "官方实卡",
+  "中文名": "卢修斯"
 }
