@@ -1,0 +1,17 @@
+{
+ "角色": "Kallistar",
+ "卡类": "特技(UA)",
+ "名称": "Form of Disaster",
+ "系列": "战争篇-WAR",
+ "机制概述": "Kallistar switches between Human and Elemental Form. In Human form she is more defensive and in Elemental form she is faster and more offensive, but loses life.",
+ "效果": [
+  {
+   "时点": "初始设置",
+   "条件": "",
+   "效果": "You are Human."
+  }
+ ],
+ "台词": "",
+ "来源": "官方实卡",
+ "备注": "来源注记:TTS图包卡背;deck1_back格46卡背实读(2026-11-27卡背图切片,OCR+目识双核);本卡OCR效果区大面积乱码,仅概述与初始设置可录;人形/元素形转换规则待视觉识读补录[挂账]"
+}

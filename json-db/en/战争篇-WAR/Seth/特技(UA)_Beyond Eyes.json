@@ -1,0 +1,22 @@
+{
+ "角色": "Seth",
+ "卡类": "特技(UA)",
+ "名称": "Beyond Eyes",
+ "系列": "战争篇-WAR",
+ "机制概述": "Seth can guess the Opponent's Bases and gains bonuses if he guesses correctly.",
+ "效果": [
+  {
+   "时点": "限定投注",
+   "条件": "",
+   "效果": "Name a Base. (Foresight: While the Opponent's Base is the one you named with your ante, you have Foresight.)"
+  },
+  {
+   "时点": "展示",
+   "条件": "Foresight",
+   "效果": "+2 Power and +2 Priority. Lose these bonuses if the Opponent's attack is replaced with a Finisher."
+  }
+ ],
+ "台词": "",
+ "来源": "官方实卡",
+ "备注": "来源注记:TTS图包卡背;deck1_back格54卡背实读(2026-11-27卡背图切片,OCR+目识双核);页脚全名ETH CREMMUL(OCR),角色目录名Seth;全名拼写待核"
+}

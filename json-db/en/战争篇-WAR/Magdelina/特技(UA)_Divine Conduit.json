@@ -1,0 +1,27 @@
+{
+ "角色": "Magdelina",
+ "卡类": "特技(UA)",
+ "名称": "Divine Conduit",
+ "系列": "战争篇-WAR",
+ "机制概述": "Magdelina gains Trance Counters over time. She can spend Trance to Level Up, growing permanently more powerful.",
+ "效果": [
+  {
+   "时点": "初始设置",
+   "条件": "",
+   "效果": "Activate Level 0. Your other Levels are inactive. Deplete all Trance."
+  },
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "Level Up: Level Up by activating the next Level in sequence (0 > 1 > 2 > 3 > 4 > 5). Only one Level can be active at a time. Deactivate any older Level when activating a new one."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "Regain a Trance."
+  }
+ ],
+ "台词": "",
+ "来源": "官方实卡",
+ "备注": "来源注记:TTS图包卡背;deck1_back格51卡背实读(2026-11-27卡背图切片,OCR+目识双核);Level Up为卡面自定义术语,时点挂持续[待规范];升级箭头链OCR作0 1 > 293 54> 5,按0~5序列照录"
+}

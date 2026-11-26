@@ -1,0 +1,22 @@
+{
+ "角色": "Zaamassal",
+ "卡类": "特技(UA)",
+ "名称": "Subjective Reality",
+ "系列": "战争篇-WAR",
+ "机制概述": "Zaamassal has 5 Paradigm Cards. His active Paradigm gives him bonuses, but he loses it if he is stunned.",
+ "效果": [
+  {
+   "时点": "初始设置",
+   "条件": "",
+   "效果": "You are Tranquil (other Paradigms remain inactive). Gate Opened is inactive."
+  },
+  {
+   "时点": "当",
+   "条件": "you are stunned",
+   "效果": "become Tranquil."
+  }
+ ],
+ "台词": "",
+ "来源": "官方实卡",
+ "备注": "来源注记:TTS图包卡背;deck1_back格57卡背实读(2026-11-27卡背图切片,OCR+目识双核);页脚姓名OCR缺,角色目录名Zaamassal;Paradigm卡面文本随风格牌,UA仅录 Paradigm 概览"
+}

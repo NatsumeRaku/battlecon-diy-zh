@@ -1,0 +1,27 @@
+{
+ "角色": "Hepzibah",
+ "卡类": "特技(UA)",
+ "名称": "Dark Pact",
+ "系列": "战争篇-WAR",
+ "机制概述": "Hepzibah has 5 Pact Cards. She can spend life each turn to gain their benefits. While they are powerful, she must be careful to keep an eye on her life as missing attacks can be costly.",
+ "效果": [
+  {
+   "时点": "初始设置",
+   "条件": "",
+   "效果": "You have 5 inactive Pacts."
+  },
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "Spend 1 life to activate a Pact."
+  },
+  {
+   "时点": "循环",
+   "条件": "",
+   "效果": "Deactivate all Pacts."
+  }
+ ],
+ "台词": "",
+ "来源": "官方实卡",
+ "备注": "来源注记:TTS图包卡背;deck1_back格44卡背实读(2026-11-27卡背图切片,OCR+目识双核);激活Pact行时点前缀OCR缺,拟开始[待核]"
+}
