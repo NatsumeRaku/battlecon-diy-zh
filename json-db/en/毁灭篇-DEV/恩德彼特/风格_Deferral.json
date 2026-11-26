@@ -1,0 +1,22 @@
+{
+ "卡类": "风格牌",
+ "名称": "Deferral",
+ "角色": "恩德彼特",
+ "系列": "毁灭篇-DEV",
+ "角标": "<orange-pentagon>",
+ "数值": {
+  "距离": "+1~3",
+  "威力": "+0",
+  "速度": "+1",
+  "韧性": "+3"
+ },
+ "效果": [
+  {
+   "时点": "<i-sb>",
+   "条件": "",
+   "效果": "If you would move, regain 1 Energy instead. (Regain 1 Energy per movement effect, not per space moved.)"
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck41_c62"
+}

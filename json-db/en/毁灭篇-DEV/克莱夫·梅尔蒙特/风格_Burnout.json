@@ -1,28 +1,27 @@
 {
- "角色": "Clive Melmont",
- "角标": "<blue-circle>",
+ "卡类": "风格牌",
  "名称": "Burnout",
- "卡类": "风格",
+ "角色": "克莱夫·梅尔蒙特",
  "系列": "毁灭篇-DEV",
+ "角标": "<blue-circle>",
+ "数值": {
+  "距离": "+1~2",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
  "效果": [
   {
-   "时点": "持续",
+   "时点": "<i-sb>",
    "条件": "",
    "效果": "When you are stunned, for each active Module you may spend 3 Force instead of trashing that Module."
   },
   {
-   "时点": "命中",
-   "条件": "",
-   "效果": "<r-b>Hit, Optional:</r-b> Trash an active Module for <i-sb>+2 Power</i-sb>.",
-   "可选": true
+   "时点": "<r-b>",
+   "条件": "Optional:",
+   "效果": "Trash an active Module for +2 Power."
   }
  ],
- "数值": {
-  "距离": "+1~2",
-  "威力": "-1",
-  "速度": "+0",
-  "韧性": "+0"
- },
- "备注": "TTS官方模组卡面直录",
- "来源": "官方实卡(TTS图包)"
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck41_c49"
 }

@@ -1,0 +1,32 @@
+{
+ "卡类": "风格牌",
+ "名称": "Soulless",
+ "角色": "拜伦·克兰",
+ "系列": "毁灭篇-DEV",
+ "角标": "<yellow-hexagon>",
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "效果": [
+  {
+   "时点": "<i-sb>",
+   "条件": "",
+   "效果": "Stun Immunity, Prevent all incoming damage."
+  },
+  {
+   "时点": "<b>",
+   "条件": "Range 1+:",
+   "效果": "+2 Power, Chip 2."
+  },
+  {
+   "时点": "<g-b>",
+   "条件": "",
+   "效果": "Deplete a Mask. You are eliminated if you could not."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck41_c32"
+}

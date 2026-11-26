@@ -32,7 +32,12 @@
   "刺激剂牌_海拉汀注射.json",
   "状态牌_活化银急涌.json",
   "状态牌_瑞泽怀特急涌.json",
-  "基底_Frenzy.json"
+  "基底_Frenzy.json",
+  "风格_Diffusion.json",
+  "风格_Gravity.json",
+  "风格_Pulse.json",
+  "风格_Shock.json",
+  "风格_Toxic.json"
  ],
  "id": "毁灭篇-DEV-克林海德·八",
  "来源": "官方实卡(2026-11-24用户拍照录入)",

@@ -28,7 +28,14 @@
   "模块牌_加量拳击.json",
   "模块牌_加力燃烧室.json",
   "模块牌_自动修复.json",
-  "基底_Wrench.json"
+  "基底_Wrench.json",
+  "终结技_System Reset.json",
+  "风格_Burnout.json",
+  "风格_Leaping.json",
+  "风格_Megaton.json",
+  "风格_Rocket.json",
+  "风格_Upgradable.json",
+  "风格_Upgradeable.json"
  ],
  "角标分配": {
   "兆吨": "<red-diamond>",

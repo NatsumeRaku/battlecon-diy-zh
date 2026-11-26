@@ -30,7 +30,12 @@
   "形态牌_垂危.json",
   "参考牌_不休守夜.json",
   "配件_威胁.json",
-  "基底_Suppression.json"
+  "基底_Suppression.json",
+  "风格_Bulwark.json",
+  "风格_Fueled.json",
+  "风格_Invulnerable.json",
+  "风格_Phalanx.json",
+  "风格_Unstoppable.json"
  ],
  "id": "毁灭篇-DEV-塞萨尔·格里斯特",
  "英文状态": "英文卡面未入库，卡文暂存中文原文，待官方英文卡录入覆写",

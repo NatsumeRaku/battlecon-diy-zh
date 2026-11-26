@@ -1,0 +1,27 @@
+{
+ "卡类": "切换牌",
+ "名称": "Switch (Force Style)",
+ "角色": "通用",
+ "系列": "毁灭篇-DEV",
+ "角标": "<purple-star>",
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "效果": [
+  {
+   "时点": "<b>",
+   "条件": "",
+   "效果": "Spend Force equal to your life to replace your attack with your Finisher, trash this card, and pick up your Base."
+  },
+  {
+   "时点": "<g-b>",
+   "条件": "",
+   "效果": "Regain a Force. You may switch your Finisher."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck41_c00;FORCE STYLE通用切换牌"
+}

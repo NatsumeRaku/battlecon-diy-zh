@@ -1,0 +1,27 @@
+{
+ "卡类": "风格牌",
+ "名称": "Deathless",
+ "角色": "拜伦·克兰",
+ "系列": "毁灭篇-DEV",
+ "角标": "<green-tri-down>",
+ "数值": {
+  "距离": "+1~3",
+  "威力": "+0",
+  "速度": "-1",
+  "韧性": "+0"
+ },
+ "效果": [
+  {
+   "时点": "<p-b>",
+   "条件": "",
+   "效果": "Whenever you would take more than 1 damage, take 1 damage instead."
+  },
+  {
+   "时点": "<r-b>",
+   "条件": "Optional: Range 4:",
+   "效果": "Push or Pull the opponent 1~3."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck41_c33"
+}

@@ -1,0 +1,32 @@
+{
+ "卡类": "风格牌",
+ "名称": "Loci",
+ "角色": "Aria",
+ "系列": "毁灭篇-DEV",
+ "角标": "<blue-circle>",
+ "数值": {
+  "距离": "+0~1",
+  "威力": "+0",
+  "速度": "-1",
+  "韧性": "+1"
+ },
+ "效果": [
+  {
+   "时点": "<b>",
+   "条件": "",
+   "效果": "Reveal: you are on Turret: +2 Power."
+  },
+  {
+   "时点": "<g-b>",
+   "条件": "",
+   "效果": "Push or Pull 1 toward Magnetron. Otherwise, Push or Pull 1~2 if the Opponent is on Magnetron."
+  },
+  {
+   "时点": "<bl-b>",
+   "条件": "Optional:",
+   "效果": "Shift a Droid 1."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck41_c29"
+}

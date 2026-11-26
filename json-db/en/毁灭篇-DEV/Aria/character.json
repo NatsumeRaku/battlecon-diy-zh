@@ -7,6 +7,12 @@
  "备注": "deck40专属基底录入时建档,角色卡待deck42录入",
  "卡牌清单": [
   "character.json",
-  "基底_Reconfiguration.json"
+  "基底_Reconfiguration.json",
+  "终结技_Synchro Merge.json",
+  "风格_Catalyst.json",
+  "风格_Dimensional.json",
+  "风格_Laser.json",
+  "风格_Loci.json",
+  "风格_Photololic.json"
  ]
 }

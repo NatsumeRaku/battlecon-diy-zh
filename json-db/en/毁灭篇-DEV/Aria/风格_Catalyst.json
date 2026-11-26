@@ -1,0 +1,27 @@
+{
+ "卡类": "风格牌",
+ "名称": "Catalyst",
+ "角色": "Aria",
+ "系列": "毁灭篇-DEV",
+ "角标": "<red-diamond>",
+ "数值": {
+  "距离": "+1~2",
+  "威力": "+0",
+  "速度": "+1",
+  "韧性": "+0"
+ },
+ "效果": [
+  {
+   "时点": "<r-b>",
+   "条件": "",
+   "效果": "If the Dampening Droid is between you and the Opponent, Armor 3."
+  },
+  {
+   "时点": "<b>",
+   "条件": "",
+   "效果": "you are on Magnetron Droid: +4 Priority."
+  }
+ ],
+ "来源": "官方实卡(TTS图包)",
+ "备注": "deck41_c25"
+}

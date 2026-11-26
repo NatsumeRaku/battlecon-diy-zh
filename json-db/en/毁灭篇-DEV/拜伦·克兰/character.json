@@ -19,7 +19,12 @@
   "专属_烟幕.json",
   "终结技_灵魂陷阱_灵魂之门.json",
   "配件_假面.json",
-  "基底_Smoke.json"
+  "基底_Smoke.json",
+  "风格_Breathless.json",
+  "风格_Deathless.json",
+  "风格_Faceless.json",
+  "风格_Heartless.json",
+  "风格_Soulless.json"
  ],
  "id": "毁灭篇-DEV-拜伦·克兰",
  "英文状态": "名称已核实;称号/机制概述/机制名待补官方原文",
