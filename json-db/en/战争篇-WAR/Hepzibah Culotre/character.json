@@ -10,12 +10,19 @@
  "机制概述": "",
  "机制名": "Pacts",
  "卡牌清单": [
-  "形态牌_Inevitable.json",
-  "形态牌_Immortality.json",
+  "专属招式_Bloodlight.json",
   "形态牌_Almighty.json",
-  "形态牌_Endless.json",
   "形态牌_Corruption.json",
-  "状态效果牌_Pact Sealed.json"
+  "形态牌_Endless.json",
+  "形态牌_Immortality.json",
+  "形态牌_Inevitable.json",
+  "状态效果牌_Pact Sealed.json",
+  "终结技_Seal the Past.json",
+  "风格_Anathema.json",
+  "风格_Assured.json",
+  "风格_Darkheart.json",
+  "风格_Necrotizing.json",
+  "风格_Pactbound.json"
  ],
  "id": "战争篇-WAR-Hepzibah Culotre",
  "英文状态": "角色卡/五风格/专属/终结技本体未录,仅录入契约形态卡与状态牌;TTS模组本体卡待补",
