@@ -1,7 +1,7 @@
 {
   "角色": "Amon Elcela",
   "角标": "",
-  "名称": "黄色代码",
+  "名称": "Code Yellow",
   "卡类": "形态牌",
   "系列": "试炼篇-TRI",
   "效果": [],
@@ -12,6 +12,6 @@
     "韧性": "+4"
   },
   "台词": "“Activating high-power shields!”",
-  "备注": "来源注记:TTS图包;deck32格60;页脚AMON (DANGER LEVEL FORM) •TRI,LEVEL 2;危险等级形态系列之一;Code Black终结技可激活；名称:考据拟译v1[待核](行204)",
+  "备注": "来源注记:TTS图包;deck32格60;页脚AMON (DANGER LEVEL FORM) •TRI,LEVEL 2;危险等级形态系列之一;Code Black终结技可激活；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
   "来源": "官方实卡"
 }

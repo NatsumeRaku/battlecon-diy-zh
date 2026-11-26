@@ -1,7 +1,7 @@
 {
   "角色": "Raritti",
   "角标": "<gray-moon>",
-  "名称": "占卜",
+  "名称": "Reading",
   "卡类": "基底",
   "系列": "独立-SLO",
   "数值": {
@@ -22,6 +22,6 @@
       "效果": "<r-b>Hit:</r-b> Look at the face side of an inactive <i-sb>Fate</i-sb> in your Spread."
     }
   ],
-  "备注": "来源注记:TTS图包;deck44格20;页脚RARITTI·SLO；名称:考据拟译v1[待核](行204)",
+  "备注": "来源注记:TTS图包;deck44格20;页脚RARITTI·SLO；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
   "来源": "官方实卡"
 }

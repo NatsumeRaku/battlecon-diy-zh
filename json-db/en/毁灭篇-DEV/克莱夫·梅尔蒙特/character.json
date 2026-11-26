@@ -34,8 +34,6 @@
     "风格_Leaping.json",
     "风格_Megaton.json",
     "风格_Rocket.json",
-    "风格_Upgradable.json",
-    "风格_Upgradeable.json",
     "专属招式_System Reboot.json",
     "配件_Afterburner.json",
     "配件_Atomic Reactor.json",
@@ -44,7 +42,8 @@
     "配件_Extending Arms.json",
     "配件_Force Gloves.json",
     "配件_Rocket Boots.json",
-    "配件_Swarm Boost.json"
+    "配件_Swarm Boost.json",
+    "模块牌_升级.json"
   ],
   "角标分配": {
     "兆吨": "<red-diamond>",

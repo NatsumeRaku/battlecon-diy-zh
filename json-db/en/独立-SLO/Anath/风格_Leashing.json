@@ -1,7 +1,7 @@
 {
   "角色": "Anath",
   "角标": "<blue-circle>",
-  "名称": "缚链",
+  "名称": "Leashing",
   "卡类": "风格",
   "系列": "独立-SLO",
   "数值": {
@@ -17,6 +17,6 @@
       "效果": "<r-b>Hit:</r-b> Pull 2. <i-sb>+1 Power</i-sb> if you pulled the Opponent past you."
     }
   ],
-  "备注": "来源注记:TTS图包;deck45格4;页脚ANATH·SLO；风格名考据拟译v1[待核](行203)",
+  "备注": "来源注记:TTS图包;deck45格4;页脚ANATH·SLO；风格名考据拟译v1[待核](行203)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
   "来源": "官方实卡"
 }
