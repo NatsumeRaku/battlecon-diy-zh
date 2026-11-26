@@ -6,9 +6,19 @@
   "角标": "N/A",
   "卡牌清单": [
     "character.json",
-    "终结技_Flash Cutter.json"
+    "基底_Slash.json",
+    "终结技_Flash Cutter.json",
+    "风格_Falling.json",
+    "风格_Flourishing.json",
+    "风格_Hacking.json",
+    "风格_Retrieval.json",
+    "风格_Twin.json"
   ],
-  "备注": "来源注记:TTS图包;deck47格8角色卡;Andrus强化版(Royal Bodyguard);姓氏字形[待核]；中文名:考据拟译v1[待核](行202,对照表考据节)",
+  "备注": "来源注记:TTS图包;deck47格8角色卡;Andrus强化版(Royal Bodyguard);姓氏字形[待核]；中文名:考据拟译v1[待核](行202,对照表考据节)；行209合并:原\"Andrus\"夹并入,character.json两夹并集",
   "来源": "官方实卡",
-  "中文名": "安德鲁斯·多尔卡泰"
+  "中文名": "安德鲁斯·多尔卡泰",
+  "名称": "Andrus",
+  "卡类": "角色",
+  "效果": [],
+  "数值": {}
 }

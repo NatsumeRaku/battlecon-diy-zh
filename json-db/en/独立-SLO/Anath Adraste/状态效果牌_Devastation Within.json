@@ -1,0 +1,22 @@
+{
+  "卡类": "状态效果牌",
+  "名称": "Devastation Within[待核]",
+  "角色": "Anath Adraste",
+  "系列": "多人模式",
+  "角标": "",
+  "数值": {
+    "距离": "N/A",
+    "威力": "+4",
+    "速度": "N/A",
+    "韧性": "N/A"
+  },
+  "效果": [
+    {
+      "时点": "<i-sb>",
+      "条件": "",
+      "效果": "After: For the rest of the duel, gain +4 Power and \"Start: Suffer Chip 2.\""
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck51_c11;装饰字体卡名实读；行209:多人模式状态牌按立绘/卡名归入角色夹(名证:其终结技Devastation Now/面向牌Aspect of Devastation;立绘(d51_c11))"
+}
