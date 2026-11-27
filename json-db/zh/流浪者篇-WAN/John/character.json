@@ -1,19 +1,19 @@
 {
  "卡类": "角色",
- "名称": "约翰·斯特朗·史蒂文森",
- "角色": "约翰·斯特朗·史蒂文森",
+ "名称": "约翰",
+ "角色": "约翰",
  "系列": "流浪者篇-WAN",
  "来源": "官方实卡（TTS图包）",
- "备注": "行249 zh建档;英文:John Strong Stevenson;称号:Adventurer, Explorer, Scholar;机制:Time;中文名缺者考据拟译[待核]",
+ "备注": "行249 zh建档;英文:John Strong Stevenson;称号:Adventurer, Explorer, Scholar;机制:Time;中文名缺者考据拟译[待核];行252官方中文实卡修正中文名:约翰·斯特朗·史蒂文森",
  "卡牌清单": [
   "基底_身影.json",
-  "特技(UA)_血肉石化.json",
+  "特技(UA)_血肉成石.json",
   "终结技_Blast Mining.json",
-  "终结技_血肉石化.json",
+  "终结技_血肉成石.json",
   "风格_坚实.json",
-  "风格_山崩.json",
+  "风格_塌方.json",
   "风格_灼烫.json",
-  "风格_碎裂.json",
+  "风格_碎压.json",
   "风格_锤击.json"
  ]
 }
