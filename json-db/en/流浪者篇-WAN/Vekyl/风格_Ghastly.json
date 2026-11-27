@@ -1,0 +1,22 @@
+{
+ "角色": "Ser Vekyl Voroos",
+ "角标": "",
+ "名称": "Ghastly",
+ "卡类": "风格",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "前置",
+   "条件": "",
+   "效果": "Before: Pull 1-2 if the opponent is on a Wisp. Pull 1 if the opponent is adjacent to a Wisp."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+1",
+  "速度": "-1",
+  "韧性": "+3"
+ },
+ "备注": "来源注记:TTS图包;deck2(F_16)格c40;页脚VEKYL;实卡照录;行269补录[待核:角标未辨]",
+ "来源": "官方实卡(TTS图包)"
+}
