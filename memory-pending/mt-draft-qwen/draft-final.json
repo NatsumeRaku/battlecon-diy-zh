@@ -213,15 +213,15 @@
   "名称": "Boon",
   "时点": "<r-b>",
   "en": "You and the opponent regain 2 life.",
-  "zh": "开始,可选:你和对手回收2生命。"
+  "zh": "你和对手回收2生命。"
  },
  {
   "角色": "Dajin",
   "卡类": "特技(UA)",
   "名称": "Wish Granted",
   "时点": "",
-  "en": "Such a frail and ill-considered desire Reveal, Wish granted Stun Immunity. Your life. cannot fall below 1..",
-  "zh": "如此脆弱而欠考虑的愿望。展示,愿望已实现:眩晕免疫。你的生命值不能低于1。"
+  "en": "Such a frail and ill-considered desire Reveal, Wish anted Stun Immunity. Your life. cannot fall below 1..",
+  "zh": "如此脆弱而欠考虑的愿望。展示,愿望已投注:眩晕免疫。你的生命值不能低于1。"
  },
  {
   "角色": "Dajin",
@@ -229,15 +229,15 @@
   "名称": "Wish Granted",
   "时点": "展示",
   "en": "Reveal, Powerless: +4 Priority. DAJIIN",
-  "zh": "展示,无威力:+4速度。达吉因"
+  "zh": "展示,无威力:+4速度。达金"
  },
  {
   "角色": "Dajin",
   "卡类": "风格",
   "名称": "Duplicitous",
   "时点": "展示",
-  "en": "Reveal,Wish granted: Stun Immunity and +2 Power",
-  "zh": "展示,愿望已实现:眩晕免疫和+2威力"
+  "en": "Reveal,Wish anted: Stun Immunity and +2 Power",
+  "zh": "展示,愿望已投注:眩晕免疫和+2威力"
  },
  {
   "角色": "Dajin",
@@ -284,8 +284,16 @@
   "卡类": "风格",
   "名称": "Overpowering",
   "时点": "展示",
-  "en": "Reveal, Wish granted: The opponent cannot Advance or Retreat. DAJIIN",
-  "zh": "展示,愿望已实现：对手不能前进或后退。达吉因"
+  "en": "Reveal, Wish anted: The opponent cannot Advance or Retreat. DAJIIN",
+  "zh": "展示,愿望已投注：对手不能前进或后退。达金"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "风格",
+  "名称": "Wishful",
+  "时点": "展示",
+  "en": "Reveal, Wish not anted: Stun Immunity [待核:卡面效果行由f05全文OCR拼回,格序相邻残片]",
+  "zh": "展示,愿望未投注:眩晕免疫[待核]"
  },
  {
   "角色": "Dajin",
