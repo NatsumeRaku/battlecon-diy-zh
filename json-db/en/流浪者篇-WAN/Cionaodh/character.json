@@ -6,7 +6,7 @@
  "来源": "官方实卡(TTS图包)",
  "备注": "deck3_c1专属招式录入时建档;英文全名/称号待补；中文名:考据拟译v1[待核](行202,对照表考据节)；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格5空、f05格6空、f05格7空、f05格8空、f05格9空;行255:真UA+β入档,旧UA误标已正名为终结技α",
  "卡牌清单": [
-  "招式_Stunt.json",
+  "专属招式_Stunt.json",
   "特技(UA)_RIDE OF A LIFETIME.json",
   "终结技_Stealth Takedown.json",
   "终结技_THE GETAWAY.json",
@@ -15,7 +15,7 @@
   "风格_Escape.json",
   "风格_Tricky.json",
   "风格_Somersault.json",
-   "配件_摩托.json"
+  "配件_摩托.json"
  ],
  "中文名": "齐奥瑙·奥齐奥明",
  "英文全名": "Cionaodh O'Ciaominh",

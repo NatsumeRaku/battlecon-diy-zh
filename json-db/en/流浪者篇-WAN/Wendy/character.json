@@ -6,7 +6,7 @@
  "来源": "官方实卡(TTS图包)",
  "备注": "deck3_c10专属招式录入时建档;英文全名/称号待补；中文名:考据拟译v1[待核](行202,对照表考据节)；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格45空、f05格46空、f05格47空、f05格48空、f05格49空;行255:真UA+β入档,旧UA误标已正名为终结技α",
  "卡牌清单": [
-  "招式_Spanner.json",
+  "专属招式_Spanner.json",
   "特技(UA)_AIR SUPPORT.json",
   "终结技_FIRE AT WILL.json",
   "终结技_Precision Strike.json",
@@ -15,7 +15,7 @@
   "风格_Suppressing.json",
   "风格_Targeted.json",
   "风格_Warning.json",
-   "配件_目标.json"
+  "配件_目标.json"
  ],
  "中文名": "温蒂·瑟斯特",
  "英文全名": "Wendy Thrystle",

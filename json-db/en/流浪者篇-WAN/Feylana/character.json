@@ -6,8 +6,8 @@
  "来源": "官方实卡(TTS图包)",
  "备注": "deck3_c3专属招式录入时建档;英文全名/称号待补；中文名:考据拟译v1[待核](行202,对照表考据节)；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格15空、f05格16空、f05格17空、f05格18空、f05格19空;行254五风格正名PROFESSIONAL/METICULOUS/LAWFUL/SERIOUS/ATHLETIC=专家/细致/法定/庄严/矫健;行255:真UA+β入档,旧UA误标已正名为终结技α",
  "卡牌清单": [
-  "招式_Objection.json",
-  "招式_Verdict.json",
+  "专属招式_Objection.json",
+  "专属招式_Verdict.json",
   "特技(UA)_REGULATION LIMITER.json",
   "终结技_Appeal.json",
   "终结技_CASE CLOSED.json",
@@ -16,7 +16,7 @@
   "风格_LAWFUL.json",
   "风格_METICULOUS.json",
   "风格_PROFESSIONAL.json",
-   "配件_信念.json"
+  "配件_信念.json"
  ],
  "中文名": "菲拉娜·乔吉茨",
  "英文全名": "Feylana Chorgitz[待核]",

@@ -7,7 +7,7 @@
   "备注": "来源注记:TTS图包;deck40专属招式录入时建档,角色卡待deck42录入；中文名:考据拟译v1[待核](行202,对照表考据节)",
   "卡牌清单": [
     "character.json",
-    "招式_Reconfiguration.json",
+    "专属招式_Reconfiguration.json",
     "终结技_Synchro Merge.json",
     "风格_Catalyst.json",
     "风格_Dimensional.json",

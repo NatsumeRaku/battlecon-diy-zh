@@ -6,7 +6,7 @@
  "来源": "官方实卡(TTS图包)",
  "备注": "deck3_c7专属招式录入时建档;英文全名/称号待补；中文名:考据拟译v1[待核](行202,对照表考据节)；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格30空、f05格31空、f05格32空、f05格33空、f05格34空;行255:真UA+β入档,旧UA误标已正名为终结技α",
  "卡牌清单": [
-  "招式_Japes.json",
+  "专属招式_Japes.json",
   "特技(UA)_DESERT'S EMBRACE.json",
   "终结技_Desert Rose.json",
   "终结技_QUEEN OF PAIN.json",
@@ -15,7 +15,7 @@
   "风格_Poisonous.json",
   "风格_Sandstorm.json",
   "风格_Splintering.json",
-   "配件_毒刺.json"
+  "配件_毒刺.json"
  ],
  "中文名": "科拉·塞芙·特拉赛",
  "英文全名": "Kora Sey Traxae[待核]",

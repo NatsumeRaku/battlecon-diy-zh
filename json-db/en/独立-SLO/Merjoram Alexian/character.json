@@ -10,7 +10,7 @@
   "来源": "官方实卡",
   "卡牌清单": [
     "character.json",
-    "招式_Warhammer.json",
+    "专属招式_Warhammer.json",
     "战术牌_Ready Defenses.json",
     "终结技_Foehammer.json",
     "风格_Crown.json",
