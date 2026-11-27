@@ -13,7 +13,7 @@
  "台词": "“Step into a legend of your own making.”",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "you deactivate a Genre",
    "效果": "<p-b>Whenever</p-b> you deactivate a <i-sb>Genre</i-sb>, <i-sb>+1 Power</i-sb>."
   }

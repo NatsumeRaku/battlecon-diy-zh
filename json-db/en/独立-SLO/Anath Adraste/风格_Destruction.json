@@ -12,7 +12,7 @@
  },
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent enters a space adjacent to you",
    "效果": "<p-b>Whenever</p-b> the Opponent enters a space adjacent to you, <i-sb>Chip 1</i-sb>."
   },

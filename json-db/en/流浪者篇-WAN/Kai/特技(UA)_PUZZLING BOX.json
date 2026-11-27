@@ -1,0 +1,36 @@
+{
+ "角色": "Kai",
+ "角标": "",
+ "名称": "PUZZLING BOX",
+ "卡类": "特技(UA)",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Kai has 3 Functions, which provide him with various bonuses. By outfitting his attacks with Functions, Kai can customize his attacks."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Setup: All Functions are deactivated."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Ante: Select a Function secretly, then reveal it. If the opponent must guess its name. If the opponent is correct, Kai is Perplexed. Otherwise, activate the Function.[待核]"
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Perplexed: -1 Priority for each active Function, then deactivate all Functions. You may not ante more Functions this beat.[待核]"
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "End: Deactivate all Functions."
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(真UA,b07背表实锤);英文卡名装饰字体实读"
+}

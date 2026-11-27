@@ -6,7 +6,7 @@
  "系列": "命运篇-FAT",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "The Opponent Advances",
    "效果": "<p-b>When the Opponent Advances,</p-b> you may spend <i-sb>2 Firepower</i-sb> to <b>Chip 2</b>."
   },

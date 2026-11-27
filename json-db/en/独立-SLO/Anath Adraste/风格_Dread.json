@@ -12,7 +12,7 @@
  },
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "you are hit",
    "效果": "<p-b>When</p-b> you are hit, if the Opponent is at Range 2, <i-sb>Armor 3</i-sb>."
   },

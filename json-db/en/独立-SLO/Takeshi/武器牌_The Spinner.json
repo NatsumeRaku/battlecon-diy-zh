@@ -12,7 +12,7 @@
  },
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent Advances (regardless of how many spaces moved)",
    "效果": "<p-b>Whenever</p-b> the Opponent Advances (regardless of how many spaces moved), <i-sb>Chip 1</i-sb>."
   }

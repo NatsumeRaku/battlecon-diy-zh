@@ -1,0 +1,36 @@
+{
+ "角色": "Kora",
+ "角标": "",
+ "名称": "DESERT'S EMBRACE",
+ "卡类": "特技(UA)",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Kora has 3 Thorn Counters. When she hits an opponent, she gains a Thorn which deals damage over time. The opponent can remove her Thorns, but at a cost to their hand."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Setup: All Thorns are depleted."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Limited Ante: Deplete all Thorns in Kora's supply. Discard a Style (it goes to your discard pile alongside your attack pair during Recycle)."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Hit: Regain a Thorn."
+  },
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "Start: Chip 1 per Thorn in your supply."
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(真UA,b07背表实锤);英文卡名装饰字体实读"
+}

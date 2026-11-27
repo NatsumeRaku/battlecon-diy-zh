@@ -1,0 +1,1 @@
+{"action":"evaluate","args":{"tabId":1863426789,"code":"(async()=>{try{const r=await Promise.race([fetch('http://127.0.0.1:8792/_cell_ua4.png'),new Promise((_,rej)=>setTimeout(()=>rej(new Error('TIMEOUT')),8000))]);return 'FETCH_OK '+r.status}catch(e){return 'FETCH_FAIL '+e.message}})()","awaitPromise":true,"timeout":15000},"session":"deepseek-translate"}

@@ -174,21 +174,23 @@
  },
  {
   "角色": "Cionaodh",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Stealth Takedown",
   "时点": "",
   "en": "'They'll never see it coming... Ignore Guard, Ignore Armor",
   "zh": "“他们绝不会看见它到来……”无视韧性，无视护甲。",
-  "效果(富文本)": "“他们绝不会看见它到来……”<b>无视韧性</b>，<b>无视护甲</b>。"
+  "效果(富文本)": "“他们绝不会看见它到来……”<b>无视韧性</b>，<b>无视护甲</b>。",
+  "zh名": "潜行放倒"
  },
  {
   "角色": "Cionaodh",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Stealth Takedown",
   "时点": "伤害",
   "en": "Damage: The opponent's. Life becomes 2. a CIONAODH",
   "zh": "伤害：对手的生命变为 2。",
-  "效果(富文本)": "<r-b>伤害：</r-b>对手的生命变为 2。"
+  "效果(富文本)": "<r-b>伤害：</r-b>对手的生命变为 2。",
+  "zh名": "潜行放倒"
  },
  {
   "角色": "Cionaodh",
@@ -246,21 +248,23 @@
  },
  {
   "角色": "Dajin",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Wish Granted",
   "时点": "",
   "en": "Such a frail and ill-considered desire Reveal, Wish anted Stun Immunity. Your life. cannot fall below 1..",
   "zh": "“如此脆弱而欠考虑的愿望。”展示，愿望被投注：眩晕免疫。你的生命不能低于 1。",
-  "效果(富文本)": "“如此脆弱而欠考虑的愿望。”<b>展示</b>，愿望被投注：眩晕免疫。你的生命不能低于 1。"
+  "效果(富文本)": "“如此脆弱而欠考虑的愿望。”<b>展示</b>，愿望被投注：眩晕免疫。你的生命不能低于 1。",
+  "zh名": "终有代偿"
  },
  {
   "角色": "Dajin",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Wish Granted",
   "时点": "展示",
   "en": "Reveal, Powerless: +4 Priority. DAJIIN",
   "zh": "展示，无威力：+4 速度。",
-  "效果(富文本)": "<b>展示，无威力：</b><i-sb>+4 速度</i-sb>。"
+  "效果(富文本)": "<b>展示，无威力：</b><i-sb>+4 速度</i-sb>。",
+  "zh名": "终有代偿"
  },
  {
   "角色": "Dajin",
@@ -372,66 +376,73 @@
  },
  {
   "角色": "Feylana",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Appeal",
   "时点": "",
   "en": "conviction won't waver!\" Stun Immunity",
   "zh": "“我的信念绝不会动摇！”眩晕免疫。",
-  "效果(富文本)": "“我的信念绝不会动摇！”眩晕免疫。"
+  "效果(富文本)": "“我的信念绝不会动摇！”眩晕免疫。",
+  "zh名": "呼吁"
  },
  {
   "角色": "Feylana",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Appeal",
   "时点": "开始",
   "en": "Start, Conviction: +5 Power. a FEYLANA -",
   "zh": "开始，信念：+5 威力。",
-  "效果(富文本)": "<g-b>开始，信念：</g-b><i-sb>+5 威力</i-sb>。"
+  "效果(富文本)": "<g-b>开始，信念：</g-b><i-sb>+5 威力</i-sb>。",
+  "zh名": "呼吁"
  },
  {
   "角色": "Feylana",
   "卡类": "风格",
-  "名称": "Awry",
+  "名称": "LAWFUL",
   "时点": "展示",
   "en": "Reveal,Conviction +1 Power and +1 Priority.",
   "zh": "展示，信念：+1 威力与+1 速度。",
-  "效果(富文本)": "<b>展示，信念：</b><i-sb>+1 威力</i-sb>与<i-sb>+1 速度</i-sb>。"
+  "效果(富文本)": "<b>展示，信念：</b><i-sb>+1 威力</i-sb>与<i-sb>+1 速度</i-sb>。",
+  "zh名": "法定"
  },
  {
   "角色": "Feylana",
   "卡类": "风格",
-  "名称": "Awry",
+  "名称": "LAWFUL",
   "时点": "展示",
   "en": "Reveal, no Conviction: +0~2 Range. 2 FEYLANA -",
   "zh": "展示，无信念：+0~2 距离。",
-  "效果(富文本)": "<b>展示，无信念：</b><i-sb>+0~2 距离</i-sb>。"
+  "效果(富文本)": "<b>展示，无信念：</b><i-sb>+0~2 距离</i-sb>。",
+  "zh名": "法定"
  },
  {
   "角色": "Feylana",
   "卡类": "风格",
-  "名称": "Serious",
+  "名称": "SERIOUS",
   "时点": "后置",
   "en": "After: The opponent chooses a Base from your hand. Put that Base into the Geas Pile You cannot pick up Bases from the Geas Pile this beat FEYLANA -",
   "zh": "后置：对手选择你手牌中的 1 张招式。将该招式放入缚约区。本回合你不能从缚约区拾取招式。",
-  "效果(富文本)": "<bl-b>后置：</bl-b>对手选择你手牌中的 1 张招式。将该招式放入缚约区。本回合你不能从缚约区拾取招式。"
+  "效果(富文本)": "<bl-b>后置：</bl-b>对手选择你手牌中的 1 张招式。将该招式放入缚约区。本回合你不能从缚约区拾取招式。",
+  "zh名": "庄严"
  },
  {
   "角色": "Feylana",
   "卡类": "风格",
-  "名称": "Showy",
+  "名称": "METICULOUS",
   "时点": "命中",
   "en": "Hit: Perform a triggered effect on a card in the Geas Pile. You cannot Advance past the opponent..",
   "zh": "命中：执行缚约区中 1 张卡上的 1 个触发效果。你不能前进越过对手。",
-  "效果(富文本)": "<r-b>命中：</r-b>执行缚约区中 1 张卡上的 1 个触发效果。你不能前进越过对手。"
+  "效果(富文本)": "<r-b>命中：</r-b>执行缚约区中 1 张卡上的 1 个触发效果。你不能前进越过对手。",
+  "zh名": "细致"
  },
  {
   "角色": "Feylana",
   "卡类": "风格",
-  "名称": "Showy",
+  "名称": "METICULOUS",
   "时点": "结束",
   "en": "End, Optional: Pick up a Base from the Geas Pile. Put. a Base into the Geas Pile. FEYLANA -",
   "zh": "结束，可选：从缚约区拾取 1 张招式。将 1 张招式放入缚约区。",
-  "效果(富文本)": "<g-b>结束，可选：</g-b>从缚约区拾取 1 张招式。将 1 张招式放入缚约区。"
+  "效果(富文本)": "<g-b>结束，可选：</g-b>从缚约区拾取 1 张招式。将 1 张招式放入缚约区。",
+  "zh名": "细致"
  },
  {
   "角色": "John",
@@ -453,30 +464,33 @@
  },
  {
   "角色": "John",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Flesh to Stone",
   "时点": "",
   "en": "'This blasted curse will not have me yet!'",
   "zh": "“这该死的诅咒还拿不下我！”",
-  "效果(富文本)": "“这该死的诅咒还拿不下我！”"
+  "效果(富文本)": "“这该死的诅咒还拿不下我！”",
+  "zh名": "血肉成石"
  },
  {
   "角色": "John",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Flesh to Stone",
   "时点": "命中",
   "en": "Hit: For the rest of the duel Stoneskin provides you Armor 3",
   "zh": "命中：此后整场决斗，石肤为你提供护甲 3。",
-  "效果(富文本)": "<r-b>命中：</r-b>此后整场决斗，<i-sb>石肤</i-sb>为你提供<b>护甲 3</b>。"
+  "效果(富文本)": "<r-b>命中：</r-b>此后整场决斗，<i-sb>石肤</i-sb>为你提供<b>护甲 3</b>。",
+  "zh名": "血肉成石"
  },
  {
   "角色": "John",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Flesh to Stone",
   "时点": "后置",
   "en": "After: For the rest of the. duel, Stoneskin provides no. Armor to the opponent",
   "zh": "后置：此后整场决斗，石肤不为对手提供护甲。",
-  "效果(富文本)": "<bl-b>后置：</bl-b>此后整场决斗，<i-sb>石肤</i-sb>不为对手提供护甲。"
+  "效果(富文本)": "<bl-b>后置：</bl-b>此后整场决斗，<i-sb>石肤</i-sb>不为对手提供护甲。",
+  "zh名": "血肉成石"
  },
  {
   "角色": "John",
@@ -588,21 +602,23 @@
  },
  {
   "角色": "Kai",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Collapsible Box",
   "时点": "",
   "en": "secret is all in the construction.. Stun Immunity, Armor 2 Functions provide +0~1 Range and. +2 Power instead of printed effects.",
   "zh": "“秘密全在构造里。”眩晕免疫，护甲 2。你的嵌板改为提供+0~1 距离和+2 威力，而非其印刷效果。",
-  "效果(富文本)": "“秘密全在构造里。”眩晕免疫，<b>护甲 2</b>。你的嵌板改为提供<i-sb>+0~1 距离</i-sb>和<i-sb>+2 威力</i-sb>，而非其印刷效果。"
+  "效果(富文本)": "“秘密全在构造里。”眩晕免疫，<b>护甲 2</b>。你的嵌板改为提供<i-sb>+0~1 距离</i-sb>和<i-sb>+2 威力</i-sb>，而非其印刷效果。",
+  "zh名": "折叠匣"
  },
  {
   "角色": "Kai",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Collapsible Box",
   "时点": "命中",
   "en": "Hit: Pull the opponent to a. a space adjacent to you. KAI",
   "zh": "命中：将对手拉动至与你相邻的 1 格。",
-  "效果(富文本)": "<r-b>命中：</r-b>将对手拉动至与你相邻的 1 格。"
+  "效果(富文本)": "<r-b>命中：</r-b>将对手拉动至与你相邻的 1 格。",
+  "zh名": "折叠匣"
  },
  {
   "角色": "Kai",
@@ -723,30 +739,33 @@
  },
  {
   "角色": "Kora",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Desert Rose",
   "时点": "",
   "en": "'Feel the desert's embrace...",
   "zh": "“感受沙漠的拥抱……”",
-  "效果(富文本)": "“感受沙漠的拥抱……”"
+  "效果(富文本)": "“感受沙漠的拥抱……”",
+  "zh名": "沙漠玫瑰"
  },
  {
   "角色": "Kora",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Desert Rose",
   "时点": "展示",
   "en": "Reveal: Avoid attacks with Priority 5+",
   "zh": "展示：回避速度 5+ 的攻击。",
-  "效果(富文本)": "<b>展示：</b>回避速度 5+ 的攻击。"
+  "效果(富文本)": "<b>展示：</b>回避速度 5+ 的攻击。",
+  "zh名": "沙漠玫瑰"
  },
  {
   "角色": "Kora",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Desert Rose",
   "时点": "伤害",
   "en": "Damage: Regain all Thorns a KORA",
   "zh": "伤害：回收所有毒刺。",
-  "效果(富文本)": "<r-b>伤害：</r-b>回收所有毒刺。"
+  "效果(富文本)": "<r-b>伤害：</r-b>回收所有毒刺。",
+  "zh名": "沙漠玫瑰"
  },
  {
   "角色": "Kora",
@@ -831,21 +850,23 @@
  },
  {
   "角色": "Rin",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Deep Freeze",
   "时点": "",
   "en": "\"'Coldwater bloodline secret arts. Frost Prison, Activate!' Ignore Guard",
   "zh": "“科德沃特血脉秘术——冻霜牢狱，发动！”无视韧性。",
-  "效果(富文本)": "“科德沃特血脉秘术——冻霜牢狱，发动！”<b>无视韧性</b>。"
+  "效果(富文本)": "“科德沃特血脉秘术——冻霜牢狱，发动！”<b>无视韧性</b>。",
+  "zh名": "深度冻结"
  },
  {
   "角色": "Rin",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Deep Freeze",
   "时点": "命中",
   "en": "Hit: Regain all Frost",
   "zh": "命中：回收所有冻霜。",
-  "效果(富文本)": "<r-b>命中：</r-b>回收所有冻霜。"
+  "效果(富文本)": "<r-b>命中：</r-b>回收所有冻霜。",
+  "zh名": "深度冻结"
  },
  {
   "角色": "Rin",
@@ -957,21 +978,23 @@
  },
  {
   "角色": "Vekyl",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Spectral Assault",
   "时点": "",
   "en": "In time, you'll serve too.... X is on a Wisp's space.",
   "zh": "“总有一天，你也会臣服的……”X 为魂奴所在的格。",
-  "效果(富文本)": "“总有一天，你也会臣服的……”X 为魂奴所在的格。"
+  "效果(富文本)": "“总有一天，你也会臣服的……”X 为魂奴所在的格。",
+  "zh名": "魂奴猛袭"
  },
  {
   "角色": "Vekyl",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Spectral Assault",
   "时点": "命中",
   "en": "Hit: Push or Pull 0-4. +2 Power per Wisp's space the opponent. left during this movement. a VEKYL",
   "zh": "命中：推动或拉动 0-4。此移动中对手每离开 1 个魂奴所在的格，+2 威力。",
-  "效果(富文本)": "<r-b>命中：</r-b>推动或拉动 0-4。此移动中对手每离开 1 个魂奴所在的格，<i-sb>+2 威力</i-sb>。"
+  "效果(富文本)": "<r-b>命中：</r-b>推动或拉动 0-4。此移动中对手每离开 1 个魂奴所在的格，<i-sb>+2 威力</i-sb>。",
+  "zh名": "魂奴猛袭"
  },
  {
   "角色": "Vekyl",
@@ -1029,21 +1052,23 @@
  },
  {
   "角色": "Wendy",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Precision Strike",
   "时点": "",
   "en": "degrees left, and fire!' Stun Immunity, X is a space containing 2 Targets.",
   "zh": "“……左转，开火！”眩晕免疫。X 为包含 2 目标的 1 格。",
-  "效果(富文本)": "“……左转，开火！”眩晕免疫。X 为包含 2 目标的 1 格。"
+  "效果(富文本)": "“……左转，开火！”眩晕免疫。X 为包含 2 目标的 1 格。",
+  "zh名": "精准打击"
  },
  {
   "角色": "Wendy",
-  "卡类": "特技(UA)",
+  "卡类": "终结技",
   "名称": "Precision Strike",
   "时点": "前置",
   "en": "Before: The opponent cannot Advance or Retreat. a Shift a Target 0-1. WENDY",
   "zh": "前置：对手不能前进或后退。转移 1 目标 0-1。",
-  "效果(富文本)": "<bl-b>前置：</bl-b>对手不能前进或后退。转移 1 目标 0-1。"
+  "效果(富文本)": "<bl-b>前置：</bl-b>对手不能前进或后退。转移 1 目标 0-1。",
+  "zh名": "精准打击"
  },
  {
   "角色": "Wendy",
@@ -1148,16 +1173,6 @@
   "效果(富文本)": "<b>限定投注：</b>变为<i-sb>飞行</i-sb>或<i-sb>地面</i-sb>。在变为地面后，你在本回合中拥有<i-sb>-1 威力</i-sb>。"
  },
  {
-  "角色": "Anya",
-  "卡类": "终结技",
-  "名称": "[β面卡名待核]",
-  "zh名": "[待核]",
-  "时点": "开始",
-  "en": "This attack cannot hit the opponent. Start: Advance or Retreat 1-3. If you moved past the opponent, avoid the opponent's attack.",
-  "zh": "本攻击无法命中对手。开始：前进或后退 1-3。若你移动越过对手，回避对手的攻击。",
-  "效果(富文本)": "本攻击无法命中对手。<g-b>开始：</g-b>前进或后退 1-3。若你移动越过对手，回避对手的攻击。"
- },
- {
   "角色": "Cionaodh",
   "卡类": "风格",
   "名称": "Veteran[待核]",
@@ -1186,5 +1201,635 @@
   "en": "Before: Place Target C on your space. Shift each Target 1-2.",
   "zh": "前置：将目标 C 放置到你的所在格。将每个目标转移 1-2。",
   "效果(富文本)": "<bl-b>前置：</bl-b>将目标 C 放置到你的所在格。将每个目标转移 1-2。"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "风格",
+  "名称": "PROFESSIONAL",
+  "zh名": "专家",
+  "时点": "展示",
+  "en": "Reveal: +1 Priority per card in the Geas Pile, up to +3.",
+  "zh": "展示：缚约区每有 1 张卡，+1 速度，至多 +3。",
+  "效果(富文本)": "<b>展示：</b>缚约区每有 1 张卡，<i-sb>+1 速度</i-sb>，至多 +3。"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "风格",
+  "名称": "PROFESSIONAL",
+  "zh名": "专家",
+  "时点": "结束",
+  "en": "End: Advance 1-2.",
+  "zh": "结束：前进 1-2。",
+  "效果(富文本)": "<g-b>结束：</g-b>前进 1-2。"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "风格",
+  "名称": "ATHLETIC",
+  "zh名": "矫健",
+  "时点": "前置",
+  "en": "Before: Advance 1.",
+  "zh": "前置：前进 1。",
+  "效果(富文本)": "<bl-b>前置：</bl-b>前进 1。"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "风格",
+  "名称": "ATHLETIC",
+  "zh名": "矫健",
+  "时点": "命中",
+  "en": "Hit: Push or Pull 0-X. X is the number of cards in the Geas Pile.",
+  "zh": "命中：推动或拉动 0-X。X 为缚约区中卡的数量。",
+  "效果(富文本)": "<r-b>命中：</r-b>推动或拉动 0-X。X 为缚约区中卡的数量。"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "终结技",
+  "名称": "THEME SONG",
+  "zh名": "主题曲[待核]",
+  "时点": "",
+  "en": "\"Judgment flies on golden wings, as the shadow falls, the tempest sings!\"[待核]",
+  "zh": "“金色的翅膀载着审判飞翔，阴影降临时，风暴歌唱！”[待核]",
+  "效果(富文本)": "“金色的翅膀载着审判飞翔，阴影降临时，风暴歌唱！”[待核]"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "终结技",
+  "名称": "THEME SONG",
+  "zh名": "主题曲[待核]",
+  "时点": "",
+  "en": "Ignore Guard",
+  "zh": "无视韧性",
+  "效果(富文本)": "无视韧性"
+ },
+ {
+  "角色": "Anya",
+  "卡类": "终结技",
+  "名称": "THEME SONG",
+  "zh名": "主题曲[待核]",
+  "时点": "命中",
+  "en": "Hit: For the rest of the duel, when you become Grounded or Flying, Advance or Retreat 0-3.",
+  "zh": "命中：此后整场决斗中，当你变为地面或飞行时，前进或后退 0-3。",
+  "效果(富文本)": "命中：此后整场决斗中，当你变为地面或飞行时，前进或后退 0-3。"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "终结技",
+  "名称": "THE GETAWAY",
+  "zh名": "脱身[待核]",
+  "时点": "",
+  "en": "\"It's nothing personal, just another job.[待核]",
+  "zh": "“别往心里去，只是又一单生意。”[待核]",
+  "效果(富文本)": "“别往心里去，只是又一单生意。”[待核]"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "终结技",
+  "名称": "THE GETAWAY",
+  "zh名": "脱身[待核]",
+  "时点": "",
+  "en": "This attack cannot hit the opponent.[照官方中文卡]",
+  "zh": "本攻击无法命中对手。",
+  "效果(富文本)": "本攻击无法命中对手。"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "终结技",
+  "名称": "THE GETAWAY",
+  "zh名": "脱身[待核]",
+  "时点": "开始",
+  "en": "Start: Advance or Retreat 1-3.[待核]",
+  "zh": "开始：前进或后退 1-3。",
+  "效果(富文本)": "开始：前进或后退 1-3。"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "终结技",
+  "名称": "THE GETAWAY",
+  "zh名": "脱身[待核]",
+  "时点": "",
+  "en": "If you move past the opponent, avoid the opponent's attack.[待核]",
+  "zh": "若你移动越过对手，回避对手的攻击。",
+  "效果(富文本)": "若你移动越过对手，回避对手的攻击。"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "终结技",
+  "名称": "THE GETAWAY",
+  "zh名": "脱身[待核]",
+  "时点": "结束",
+  "en": "End: Teleport on or adjacent to the Motorcycle. Ends: +3 Power next beat.[待核]",
+  "zh": "结束：瞬移至摩托上或相邻格。下回合开始：+3 威力。[待核]",
+  "效果(富文本)": "结束：瞬移至摩托上或相邻格。下回合开始：+3 威力。[待核]"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "终结技",
+  "名称": "PRICE OF POWER",
+  "zh名": "力量代价[待核]",
+  "时点": "",
+  "en": "\"Your ambition is too weak to wield such power!\"[待核]",
+  "zh": "“你的野心太弱，驾驭不了这样的力量！”[待核]",
+  "效果(富文本)": "“你的野心太弱，驾驭不了这样的力量！”[待核]"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "终结技",
+  "名称": "PRICE OF POWER",
+  "zh名": "力量代价[待核]",
+  "时点": "",
+  "en": "Ante: Spend any number of Force. Discard that many active Wishes.[待核]",
+  "zh": "投注：消耗任意数量能量，弃置等量已激活的愿望。[待核]",
+  "效果(富文本)": "投注：消耗任意数量能量，弃置等量已激活的愿望。[待核]"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "终结技",
+  "名称": "PRICE OF POWER",
+  "zh名": "力量代价[待核]",
+  "时点": "后置",
+  "en": "After: Chip 2 per inactive Wish. Activate all Wishes (flip them to the active side, they are not Granted).[待核]",
+  "zh": "后置：每个未激活的愿望削命 2。激活所有愿望（翻回激活面，愿望未被实现）。[待核]",
+  "效果(富文本)": "后置：每个未激活的愿望削命 2。激活所有愿望（翻回激活面，愿望未被实现）。[待核]"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "终结技",
+  "名称": "CASE CLOSED",
+  "zh名": "结案[待核]",
+  "时点": "",
+  "en": "\"Let's move to closing arguments.[待核]",
+  "zh": "“让我们进入结案陈词。”[待核]",
+  "效果(富文本)": "“让我们进入结案陈词。”[待核]"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "终结技",
+  "名称": "CASE CLOSED",
+  "zh名": "结案[待核]",
+  "时点": "伤害",
+  "en": "Damage: Pick up any number of Bases from the Geas Pile, then put any number of Bases into the Geas Pile.",
+  "zh": "伤害：从缚约区拾取任意张招式，然后将任意张招式置入缚约区。",
+  "效果(富文本)": "伤害：从缚约区拾取任意张招式，然后将任意张招式置入缚约区。"
+ },
+ {
+  "角色": "John",
+  "卡类": "终结技",
+  "名称": "BLAST MINING",
+  "zh名": "爆破采矿",
+  "时点": "",
+  "en": "\"You might want to stand a little to the side there, friend.\"",
+  "zh": "“朋友，你最好往边上站一点。”",
+  "效果(富文本)": "“朋友，你最好往边上站一点。”"
+ },
+ {
+  "角色": "John",
+  "卡类": "终结技",
+  "名称": "BLAST MINING",
+  "zh名": "爆破采矿",
+  "时点": "",
+  "en": "Stun Immunity, Ignore Armor",
+  "zh": "眩晕免疫，无视护甲",
+  "效果(富文本)": "眩晕免疫，无视护甲"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "终结技",
+  "名称": "FINAL SACRIFICE",
+  "zh名": "最终牺牲[待核]",
+  "时点": "",
+  "en": "\"Be sealed forevermore!\"[待核]",
+  "zh": "“永远封缄！”[待核]",
+  "效果(富文本)": "“永远封缄！”[待核]"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "终结技",
+  "名称": "FINAL SACRIFICE",
+  "zh名": "最终牺牲[待核]",
+  "时点": "展示",
+  "en": "Reveal, 5 Functions Active: +15 Power.[待核]",
+  "zh": "展示，5 个嵌板处于激活：+15 威力。[待核]",
+  "效果(富文本)": "展示，5 个嵌板处于激活：+15 威力。[待核]"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "终结技",
+  "名称": "QUEEN OF PAIN",
+  "zh名": "痛苦女王[待核]",
+  "时点": "",
+  "en": "\"If you struggle, it will only work faster.\"",
+  "zh": "“你越挣扎，它只会生效得越快。”",
+  "效果(富文本)": "“你越挣扎，它只会生效得越快。”"
+ },
+ {
+  "角色": "Kora",
+  "卡类": "终结技",
+  "名称": "QUEEN OF PAIN",
+  "zh名": "痛苦女王[待核]",
+  "时点": "后置",
+  "en": "After: Inflict 2 damage per Thorn depleted this beat.",
+  "zh": "后置：本回合每消耗 1 毒刺，造成 2 伤害。",
+  "效果(富文本)": "后置：本回合每消耗 1 毒刺，造成 2 伤害。"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "终结技",
+  "名称": "THE DRAGON'S FROZEN CLAW",
+  "zh名": "冰龙寒爪[待核]",
+  "时点": "",
+  "en": "\"If only big brother could see me now!\"[待核]",
+  "zh": "“要是大哥现在能看到我就好了！”[待核]",
+  "效果(富文本)": "“要是大哥现在能看到我就好了！”[待核]"
+ },
+ {
+  "角色": "Rin",
+  "卡类": "终结技",
+  "名称": "THE DRAGON'S FROZEN CLAW",
+  "zh名": "冰龙寒爪[待核]",
+  "时点": "展示",
+  "en": "Reveal, 3+ Frost held: +1 Power and +2 Priority.[待核]",
+  "zh": "展示，拥有 3+ 冻霜：+1 威力与+2 速度。[待核]",
+  "效果(富文本)": "展示，拥有 3+ 冻霜：+1 威力与+2 速度。[待核]"
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "终结技",
+  "名称": "TRANSFIX",
+  "zh名": "慑魂[待核]",
+  "时点": "",
+  "en": "\"Kneel before the master's voice!\"[待核]",
+  "zh": "“在主人的声音下跪伏！”[待核]",
+  "效果(富文本)": "“在主人的声音下跪伏！”[待核]"
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "终结技",
+  "名称": "TRANSFIX",
+  "zh名": "慑魂[待核]",
+  "时点": "前置",
+  "en": "Before: +0~2 Range and +3 Power per Wisp between you and the opponent.[待核]",
+  "zh": "前置：你与对手之间每有 1 魂奴，+0~2 距离与+3 威力。[待核]",
+  "效果(富文本)": "前置：你与对手之间每有 1 魂奴，+0~2 距离与+3 威力。[待核]"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "终结技",
+  "名称": "FIRE AT WILL",
+  "zh名": "自由开火！",
+  "时点": "",
+  "en": "\"Where's my air support?!\"",
+  "zh": "“我的空中支援在哪儿?!”",
+  "效果(富文本)": "“我的空中支援在哪儿?!”"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "终结技",
+  "名称": "FIRE AT WILL",
+  "zh名": "自由开火！",
+  "时点": "",
+  "en": "Armor 2. Targets inflict Chip 2 (instead of the usual Chip 1).",
+  "zh": "护甲 2。目标造成削命 2（取代原本的削命 1）。",
+  "效果(富文本)": "护甲 2。目标造成削命 2（取代原本的削命 1）。"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "终结技",
+  "名称": "FIRE AT WILL",
+  "zh名": "自由开火！",
+  "时点": "前置",
+  "en": "Before: Place Target C on you. Shift each Target 1-2.",
+  "zh": "前置：将目标 C 放置到你的所在格。将每个目标转移 1-2。",
+  "效果(富文本)": "前置：将目标 C 放置到你的所在格。将每个目标转移 1-2。"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "特技(UA)",
+  "名称": "RIDE OF A LIFETIME",
+  "zh名": "[待译:驰骋一生?]",
+  "时点": "",
+  "en": "Cionaodh has a Motorcycle marker, which moves around the arena. As the Motorcycle moves, it can push fighters for extra mobility.[待核]",
+  "zh": "[待译] Cionaodh has a Motorcycle marker, which ",
+  "效果(富文本)": "Cionaodh has a Motorcycle marker, which moves around the arena. As the Motorcycle moves, it can push fighters for extra mobility.[待核]"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "特技(UA)",
+  "名称": "RIDE OF A LIFETIME",
+  "zh名": "[待译:驰骋一生?]",
+  "时点": "",
+  "en": "Setup: Place the Motorcycle in your space. Choose an initial Motorcycle direction.[待核]",
+  "zh": "[待译] Setup: Place the Motorcycle in your spac",
+  "效果(富文本)": "Setup: Place the Motorcycle in your space. Choose an initial Motorcycle direction.[待核]"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "特技(UA)",
+  "名称": "RIDE OF A LIFETIME",
+  "zh名": "[待译:驰骋一生?]",
+  "时点": "",
+  "en": "Limited Ante: Shift the Motorcycle 1-3 in the direction it faces. If it reaches an edge of the arena, it reverses direction.[待核]",
+  "zh": "[待译] Limited Ante: Shift the Motorcycle 1-3 i",
+  "效果(富文本)": "Limited Ante: Shift the Motorcycle 1-3 in the direction it faces. If it reaches an edge of the arena, it reverses direction.[待核]"
+ },
+ {
+  "角色": "Cionaodh",
+  "卡类": "特技(UA)",
+  "名称": "RIDE OF A LIFETIME",
+  "zh名": "[待译:驰骋一生?]",
+  "时点": "",
+  "en": "Whenever the Motorcycle leaves your space, Advance or Retreat 0-1 in the same direction it moved.[待核]",
+  "zh": "[待译] Whenever the Motorcycle leaves your spac",
+  "效果(富文本)": "Whenever the Motorcycle leaves your space, Advance or Retreat 0-1 in the same direction it moved.[待核]"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "特技(UA)",
+  "名称": "WISHFUL THINKING",
+  "zh名": "黄粱美梦",
+  "时点": "",
+  "en": "Dajin has 6 Wish Cards (opponents may have Wishes too). While he has 3 or more Wishes in play, he becomes Empowered.[待核]",
+  "zh": "[待译] Dajin has 6 Wish Cards (opponents may ha",
+  "效果(富文本)": "Dajin has 6 Wish Cards (opponents may have Wishes too). While he has 3 or more Wishes in play, he becomes Empowered.[待核]"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "特技(UA)",
+  "名称": "WISHFUL THINKING",
+  "zh名": "黄粱美梦",
+  "时点": "",
+  "en": "Setup: All Wishes are Active. Dajin is Empowered.[待核]",
+  "zh": "[待译] Setup: All Wishes are Active. Dajin is E",
+  "效果(富文本)": "Setup: All Wishes are Active. Dajin is Empowered.[待核]"
+ },
+ {
+  "角色": "Dajin",
+  "卡类": "特技(UA)",
+  "名称": "WISHFUL THINKING",
+  "zh名": "黄粱美梦",
+  "时点": "",
+  "en": "Ante: 2[待核]",
+  "zh": "[待译] Ante: 2[待核]",
+  "效果(富文本)": "Ante: 2[待核]"
+ },
+ {
+  "角色": "Feylana",
+  "卡类": "特技(UA)",
+  "名称": "REGULATION LIMITER",
+  "zh名": "[待译:规章限制?]",
+  "时点": "",
+  "en": "Feylana has a Geas Pile and fights with Conviction. You have Conviction if the opponent's attack contains a copy of a card in your Geas Pile.[待核]",
+  "zh": "[待译] Feylana has a Geas Pile and fights with ",
+  "效果(富文本)": "Feylana has a Geas Pile and fights with Conviction. You have Conviction if the opponent's attack contains a copy of a card in your Geas Pile.[待核]"
+ },
+ {
+  "角色": "John",
+  "卡类": "特技(UA)",
+  "名称": "MARRIJANI CURSE",
+  "zh名": "[待译:马里亚尼诅咒?]",
+  "时点": "",
+  "en": "John has Stoneskin Tokens, which he uses to grant Armor and prevent movement. He uses these Tokens creatively to restrict opponents' movement and to protect himself from their attacks.",
+  "zh": "[待译] John has Stoneskin Tokens, which he uses",
+  "效果(富文本)": "John has Stoneskin Tokens, which he uses to grant Armor and prevent movement. He uses these Tokens creatively to restrict opponents' movement and to protect himself from their attacks."
+ },
+ {
+  "角色": "John",
+  "卡类": "特技(UA)",
+  "名称": "MARRIJANI CURSE",
+  "zh名": "[待译:马里亚尼诅咒?]",
+  "时点": "",
+  "en": "Setup: You have a Stoneskin. Deplete the remaining Stoneskins.[待核]",
+  "zh": "[待译] Setup: You have a Stoneskin. Deplete the",
+  "效果(富文本)": "Setup: You have a Stoneskin. Deplete the remaining Stoneskins.[待核]"
+ },
+ {
+  "角色": "John",
+  "卡类": "特技(UA)",
+  "名称": "MARRIJANI CURSE",
+  "zh名": "[待译:马里亚尼诅咒?]",
+  "时点": "",
+  "en": "Limited Ante: Use a Stoneskin to give yourself or the Opponent Armor 2 and \"When this fighter would move for the first time this beat, prevent that movement.\"",
+  "zh": "[待译] Limited Ante: Use a Stoneskin to give yo",
+  "效果(富文本)": "Limited Ante: Use a Stoneskin to give yourself or the Opponent Armor 2 and \"When this fighter would move for the first time this beat, prevent that movement.\""
+ },
+ {
+  "角色": "John",
+  "卡类": "特技(UA)",
+  "名称": "MARRIJANI CURSE",
+  "zh名": "[待译:马里亚尼诅咒?]",
+  "时点": "结束",
+  "en": "End, you moved: Regain a Stoneskin.",
+  "zh": "[待译] End, you moved: Regain a Stoneskin.",
+  "效果(富文本)": "End, you moved: Regain a Stoneskin."
+ },
+ {
+  "角色": "Kai",
+  "卡类": "特技(UA)",
+  "名称": "PUZZLING BOX",
+  "zh名": "[待译:难解之匣?]",
+  "时点": "",
+  "en": "Kai has 3 Functions, which provide him with various bonuses. By outfitting his attacks with Functions, Kai can customize his attacks.",
+  "zh": "[待译] Kai has 3 Functions, which provide him w",
+  "效果(富文本)": "Kai has 3 Functions, which provide him with various bonuses. By outfitting his attacks with Functions, Kai can customize his attacks."
+ },
+ {
+  "角色": "Kai",
+  "卡类": "特技(UA)",
+  "名称": "PUZZLING BOX",
+  "zh名": "[待译:难解之匣?]",
+  "时点": "",
+  "en": "Setup: All Functions are deactivated.",
+  "zh": "[待译] Setup: All Functions are deactivated.",
+  "效果(富文本)": "Setup: All Functions are deactivated."
+ },
+ {
+  "角色": "Kai",
+  "卡类": "特技(UA)",
+  "名称": "PUZZLING BOX",
+  "zh名": "[待译:难解之匣?]",
+  "时点": "",
+  "en": "Ante: Select a Function secretly, then reveal it. If the opponent must guess its name. If the opponent is correct, Kai is Perplexed. Otherwise, activate the Function.[待核]",
+  "zh": "[待译] Ante: Select a Function secretly, then r",
+  "效果(富文本)": "Ante: Select a Function secretly, then reveal it. If the opponent must guess its name. If the opponent is correct, Kai is Perplexed. Otherwise, activate the Function.[待核]"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "特技(UA)",
+  "名称": "PUZZLING BOX",
+  "zh名": "[待译:难解之匣?]",
+  "时点": "",
+  "en": "Perplexed: -1 Priority for each active Function, then deactivate all Functions. You may not ante more Functions this beat.[待核]",
+  "zh": "[待译] Perplexed: -1 Priority for each active F",
+  "效果(富文本)": "Perplexed: -1 Priority for each active Function, then deactivate all Functions. You may not ante more Functions this beat.[待核]"
+ },
+ {
+  "角色": "Kai",
+  "卡类": "特技(UA)",
+  "名称": "PUZZLING BOX",
+  "zh名": "[待译:难解之匣?]",
+  "时点": "结束",
+  "en": "End: Deactivate all Functions.",
+  "zh": "[待译] End: Deactivate all Functions.",
+  "效果(富文本)": "End: Deactivate all Functions."
+ },
+ {
+  "角色": "Kora",
+  "卡类": "特技(UA)",
+  "名称": "DESERT'S EMBRACE",
+  "zh名": "[待译:沙漠怀抱?]",
+  "时点": "",
+  "en": "Kora has 3 Thorn Counters. When she hits an opponent, she gains a Thorn which deals damage over time. The opponent can remove her Thorns, but at a cost to their hand.",
+  "zh": "[待译] Kora has 3 Thorn Counters. When she hits",
+  "效果(富文本)": "Kora has 3 Thorn Counters. When she hits an opponent, she gains a Thorn which deals damage over time. The opponent can remove her Thorns, but at a cost to their hand."
+ },
+ {
+  "角色": "Kora",
+  "卡类": "特技(UA)",
+  "名称": "DESERT'S EMBRACE",
+  "zh名": "[待译:沙漠怀抱?]",
+  "时点": "",
+  "en": "Setup: All Thorns are depleted.",
+  "zh": "[待译] Setup: All Thorns are depleted.",
+  "效果(富文本)": "Setup: All Thorns are depleted."
+ },
+ {
+  "角色": "Kora",
+  "卡类": "特技(UA)",
+  "名称": "DESERT'S EMBRACE",
+  "zh名": "[待译:沙漠怀抱?]",
+  "时点": "",
+  "en": "Limited Ante: Deplete all Thorns in Kora's supply. Discard a Style (it goes to your discard pile alongside your attack pair during Recycle).",
+  "zh": "[待译] Limited Ante: Deplete all Thorns in Kora",
+  "效果(富文本)": "Limited Ante: Deplete all Thorns in Kora's supply. Discard a Style (it goes to your discard pile alongside your attack pair during Recycle)."
+ },
+ {
+  "角色": "Kora",
+  "卡类": "特技(UA)",
+  "名称": "DESERT'S EMBRACE",
+  "zh名": "[待译:沙漠怀抱?]",
+  "时点": "",
+  "en": "Hit: Regain a Thorn.",
+  "zh": "[待译] Hit: Regain a Thorn.",
+  "效果(富文本)": "Hit: Regain a Thorn."
+ },
+ {
+  "角色": "Kora",
+  "卡类": "特技(UA)",
+  "名称": "DESERT'S EMBRACE",
+  "zh名": "[待译:沙漠怀抱?]",
+  "时点": "开始",
+  "en": "Start: Chip 1 per Thorn in your supply.",
+  "zh": "[待译] Start: Chip 1 per Thorn in your supply.",
+  "效果(富文本)": "Start: Chip 1 per Thorn in your supply."
+ },
+ {
+  "角色": "Rin",
+  "卡类": "特技(UA)",
+  "名称": "FROSTBITE",
+  "zh名": "[待译:霜咬?]",
+  "时点": "",
+  "en": "Rin has 5 Frost Counters. Rin's attacks build up Frost, and future attacks are enhanced based on the amount of Frost she holds. If Rin fails to hit an opponent, she loses Frost.",
+  "zh": "[待译] Rin has 5 Frost Counters. Rin's attacks ",
+  "效果(富文本)": "Rin has 5 Frost Counters. Rin's attacks build up Frost, and future attacks are enhanced based on the amount of Frost she holds. If Rin fails to hit an opponent, she loses Frost."
+ },
+ {
+  "角色": "Rin",
+  "卡类": "特技(UA)",
+  "名称": "FROSTBITE",
+  "zh名": "[待译:霜咬?]",
+  "时点": "",
+  "en": "Setup: All Frost is depleted.",
+  "zh": "[待译] Setup: All Frost is depleted.",
+  "效果(富文本)": "Setup: All Frost is depleted."
+ },
+ {
+  "角色": "Rin",
+  "卡类": "特技(UA)",
+  "名称": "FROSTBITE",
+  "zh名": "[待译:霜咬?]",
+  "时点": "结束",
+  "en": "End, did not hit the Opponent: Deplete 1 Frost.",
+  "zh": "[待译] End, did not hit the Opponent: Deplete 1",
+  "效果(富文本)": "End, did not hit the Opponent: Deplete 1 Frost."
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "特技(UA)",
+  "名称": "ETERNAL SERVITUDE",
+  "zh名": "[待译:永恒奴役?]",
+  "时点": "",
+  "en": "Vekyl has 3 Wisps, which haunt the duel in his stead. He places these each beat, and they chase down opponents to inflict damage.",
+  "zh": "[待译] Vekyl has 3 Wisps, which haunt the duel ",
+  "效果(富文本)": "Vekyl has 3 Wisps, which haunt the duel in his stead. He places these each beat, and they chase down opponents to inflict damage."
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "特技(UA)",
+  "名称": "ETERNAL SERVITUDE",
+  "zh名": "[待译:永恒奴役?]",
+  "时点": "",
+  "en": "Setup: Place a Wisp on the center of the arena. The remaining Wisps are in your supply.",
+  "zh": "[待译] Setup: Place a Wisp on the center of the",
+  "效果(富文本)": "Setup: Place a Wisp on the center of the arena. The remaining Wisps are in your supply."
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "特技(UA)",
+  "名称": "ETERNAL SERVITUDE",
+  "zh名": "[待译:永恒奴役?]",
+  "时点": "",
+  "en": "Limited Ante: Place a Wisp on or adjacent to you (a space cannot ever contain more than 1 Wisp).",
+  "zh": "[待译] Limited Ante: Place a Wisp on or adjacen",
+  "效果(富文本)": "Limited Ante: Place a Wisp on or adjacent to you (a space cannot ever contain more than 1 Wisp)."
+ },
+ {
+  "角色": "Vekyl",
+  "卡类": "特技(UA)",
+  "名称": "ETERNAL SERVITUDE",
+  "zh名": "[待译:永恒奴役?]",
+  "时点": "结束",
+  "en": "End: Withdraw a Wisp on an opponent for Chip 1. Starting with the Wisp nearest to the opponent, shift each Wisp 1 towards the opponent, but not onto another Wisp.",
+  "zh": "[待译] End: Withdraw a Wisp on an opponent for ",
+  "效果(富文本)": "End: Withdraw a Wisp on an opponent for Chip 1. Starting with the Wisp nearest to the opponent, shift each Wisp 1 towards the opponent, but not onto another Wisp."
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "特技(UA)",
+  "名称": "AIR SUPPORT",
+  "zh名": "[待译:空中支援?]",
+  "时点": "",
+  "en": "Wendy has 3 distinct Target Markers. She moves these around the arena to damage opponents and control their positioning.",
+  "zh": "[待译] Wendy has 3 distinct Target Markers. She",
+  "效果(富文本)": "Wendy has 3 distinct Target Markers. She moves these around the arena to damage opponents and control their positioning."
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "特技(UA)",
+  "名称": "AIR SUPPORT",
+  "zh名": "[待译:空中支援?]",
+  "时点": "",
+  "en": "Setup: Place Target A on the center of the arena, Target B on the far edge of the arena (behind the opponent), Place Target C in your Depiction Area. It can be placed only by the effect of your Finisher.[待核]",
+  "zh": "[待译] Setup: Place Target A on the center of t",
+  "效果(富文本)": "Setup: Place Target A on the center of the arena, Target B on the far edge of the arena (behind the opponent), Place Target C in your Depiction Area. It can be placed only by the effect of your Finisher.[待核]"
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "特技(UA)",
+  "名称": "AIR SUPPORT",
+  "zh名": "[待译:空中支援?]",
+  "时点": "",
+  "en": "Whenever a Target enters the Opponent's space, the Opponent may Advance or Retreat 1 in the direction the Target moved (away from the space the Target left). After this, if the opponent is on a Target, Chip 1.",
+  "zh": "[待译] Whenever a Target enters the Opponent's ",
+  "效果(富文本)": "Whenever a Target enters the Opponent's space, the Opponent may Advance or Retreat 1 in the direction the Target moved (away from the space the Target left). After this, if the opponent is on a Target, Chip 1."
+ },
+ {
+  "角色": "Wendy",
+  "卡类": "特技(UA)",
+  "名称": "AIR SUPPORT",
+  "zh名": "[待译:空中支援?]",
+  "时点": "结束",
+  "en": "End: Shift a Target 1. (Multiple Targets may occupy the same space.)",
+  "zh": "[待译] End: Shift a Target 1. (Multiple Targets",
+  "效果(富文本)": "End: Shift a Target 1. (Multiple Targets may occupy the same space.)"
  }
 ]

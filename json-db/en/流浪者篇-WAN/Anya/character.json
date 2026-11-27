@@ -8,13 +8,13 @@
  "系列": "流浪者篇-WAN",
  "来源": "官方实卡（TTS图包）",
  "卡牌清单": [
-  "character.json",
-  "特技(UA)_Sundowner Dropkick.json",
-  "风格_Tailwind.json",
+  "终结技_Sundowner Dropkick.json",
+  "终结技_THEME SONG.json",
   "风格_Diving.json",
   "风格_Justice.json",
   "风格_Kajari.json",
-  "风格_Roundhouse.json"
+  "风格_Roundhouse.json",
+  "风格_Tailwind.json"
  ],
- "备注": "；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格0空、f05格1空、f05格2空、f05格3空、f05格4空"
+ "备注": "；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格0空、f05格1空、f05格2空、f05格3空、f05格4空;行255:真UA+β入档,旧UA误标已正名为终结技α"
 }

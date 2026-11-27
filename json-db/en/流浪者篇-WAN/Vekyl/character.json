@@ -4,11 +4,12 @@
  "角色": "Ser Vekyl Voroos",
  "系列": "流浪者篇-WAN",
  "来源": "官方实卡（TTS图包）",
- "备注": "deck3_c9专属基底录入时建档;英文全名/称号待补；中文名:考据拟译v1[待核](行202,对照表考据节)；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格40空、f05格41空、f05格42空、f05格43空、f05格44空",
+ "备注": "deck3_c9专属基底录入时建档;英文全名/称号待补；中文名:考据拟译v1[待核](行202,对照表考据节)；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格40空、f05格41空、f05格42空、f05格43空、f05格44空;行255:真UA+β入档,旧UA误标已正名为终结技α",
  "卡牌清单": [
-  "character.json",
   "基底_Doom Blade.json",
-  "特技(UA)_Spectral Assault.json",
+  "特技(UA)_ETERNAL SERVITUDE.json",
+  "终结技_Spectral Assault.json",
+  "终结技_TRANSFIX.json",
   "风格_Ghost Form.json",
   "风格_Haunted.json",
   "风格_Undead.json"

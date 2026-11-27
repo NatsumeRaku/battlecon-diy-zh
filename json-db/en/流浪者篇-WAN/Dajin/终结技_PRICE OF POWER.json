@@ -1,0 +1,32 @@
+{
+ "角色": "Dajin",
+ "角标": "灰八芒星(β)",
+ "名称": "PRICE OF POWER",
+ "卡类": "终结技",
+ "系列": "流浪者篇-WAN",
+ "数值": {
+  "距离": "2",
+  "威力": "4",
+  "速度": "4",
+  "韧性": "0"
+ },
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "\"Your ambition is too weak to wield such power!\"[待核]"
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Ante: Spend any number of Force. Discard that many active Wishes.[待核]"
+  },
+  {
+   "时点": "后置",
+   "条件": "",
+   "效果": "After: Chip 2 per inactive Wish. Activate all Wishes (flip them to the active side, they are not Granted).[待核]"
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(β面,b07背表实锤);beta面"
+}

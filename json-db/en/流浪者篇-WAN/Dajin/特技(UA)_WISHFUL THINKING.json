@@ -1,0 +1,26 @@
+{
+ "角色": "Dajin",
+ "角标": "",
+ "名称": "WISHFUL THINKING",
+ "卡类": "特技(UA)",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Dajin has 6 Wish Cards (opponents may have Wishes too). While he has 3 or more Wishes in play, he becomes Empowered.[待核]"
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Setup: All Wishes are Active. Dajin is Empowered.[待核]"
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Ante: 2[待核]"
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(真UA,b07背表实锤);英文卡名装饰字体实读"
+}

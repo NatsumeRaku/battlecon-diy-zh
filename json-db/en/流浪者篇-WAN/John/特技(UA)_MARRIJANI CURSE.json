@@ -1,0 +1,31 @@
+{
+ "角色": "John",
+ "角标": "",
+ "名称": "MARRIJANI CURSE",
+ "卡类": "特技(UA)",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "John has Stoneskin Tokens, which he uses to grant Armor and prevent movement. He uses these Tokens creatively to restrict opponents' movement and to protect himself from their attacks."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Setup: You have a Stoneskin. Deplete the remaining Stoneskins.[待核]"
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Limited Ante: Use a Stoneskin to give yourself or the Opponent Armor 2 and \"When this fighter would move for the first time this beat, prevent that movement.\""
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "End, you moved: Regain a Stoneskin."
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(真UA,b07背表实锤);英文卡名装饰字体实读"
+}

@@ -72,3 +72,12 @@ CardID = deckID*100 + 格序号（行优先）。OCR 主任务按卡表图切片
 **FAT斗士全名页脚实读(f17)**：Jager Brandtford(DB作Brandford,中间t[待核])/Larimore Burman/SARAFINA VANEDRAN(C5姓氏冲突OCR侧再证Vanedran)/Thessala Three/Welsie Acktern/Baenvier Marlgrove/ALUMIS/BAron Eustace KherDOZA(=Eustace Kherdoza,销K?erdoza[待核]拼写)/IRIALANDRADAYAMORELLA(疑Triallandra全名,连写待拆,标[待核])。
 **f18新状态卡（未录,归属[待核]）**：REFINEMENT/HOUNDED/1 CHARGE/2 CHARGE/3 CHARGE/LIMIT EXCEEDED(Exceed联动词"Facade Exceed"出现,疑跨界促销牌)。
 **C3进展**：亚克萨斯/艾瑞克全名本轮OCR未见，挂账维持；Malandraxis页脚"f24/f27"实读(Malandrax mecchi)。
+
+## WAN背表(b07)破解(2026-11-27,行255,自读+DS双读)
+b07=backs[7]=f04(Anya牌组)背表,格0-39=10斗士(无Anva,Anva在f05背)。每斗士占4格=FINISHERS参考/BASES参考/UA背/β背(顺序有浮动,按内容识别)。
+**真UA(背面规则卡)**:TAKE FLIGHT(Anya)/RIDE OF A LIFETIME(Cionaodh)/WISHFUL THINKING(Dajin)/REGULATION LIMITER(Feylana)/MARRIJANI CURSE(John)/PUZZLING BOX(Kai)/DESERT'S EMBRACE(Kora)/FROSTBITE(Rin)/ETERNAL SERVITUDE(Vekyl)/AIR SUPPORT(Wendy)。
+**β(灰星徽)**:THEME SONG/THE GETAWAY/PRICE OF POWER/CASE CLOSED/BLAST MINING/FINAL SACRIFICE/QUEEN OF PAIN/THE DRAGON'S FROZEN CLAW/TRANSFIX[与FATALITY冲突,待字体匹配]/FIRE AT WILL。
+**结构实锤**:draft旧"特技(UA)"各行实为**终结技α**(前脸面,从f04正面表来);真UA与β全部漏录,行255补。
+**用户裁定的中文映射**:黄粱美梦=WISHFUL THINKING(用户口头称"UA Wish Granted"系沿用了draft旧误标);终有代偿=WISH GRANTED(α);自由开火!=FIRE AT WILL(标点全吻合)。
+**Feylana五风格(f05格15-19实读)**:PROFESSIONAL(红菱,专家,R+0/P-1/▲+0/⬡+0,Reveal:缚约区每卡+1速度至多+3;End:前进1-2)/METICULOUS(橙五,细致,R+0~1/P+0/▲+0/⬡+0,Hit:执行缚约区1卡触发效果,不能前进越过对手;End可选:缚约区换1张)/LAWFUL(黄六,法定,R+0/P-1/▲+1/⬡+0,Reveal信念:+1威力+1速度;无信念:+0~2距离)/SERIOUS(绿倒三,庄严,R+0~1/P+1/▲+0/⬡+0,After:对手选你手牌1张招式置入缚约区,本回合不能从缚约区拾取)/ATHLETIC(蓝圆,矫健,R+0/P-1/▲+1/⬡+0,Before:前进1;Hit:推动或拉动0-X,X=缚约区卡数)。五色↔五名用户顺序实锤。
+**DS通道手册补丁**:fetch被扩展inspector.js劫持挂起→base64+atob同步解码可用;但DS前端疑加isTrusted校验,合成change不再触发上传;CDP DOM.setFileInputFiles返回Not allowed;**文本发送有效路径=fill+点div.ds-button--primary(须全新composer)**。

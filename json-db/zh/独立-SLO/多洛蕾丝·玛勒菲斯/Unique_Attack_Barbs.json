@@ -5,13 +5,13 @@
  "系列": "独立-SLO",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent is Pushed or Pulled",
    "效果": "<i-sb>+2 Power</i-sb>.",
    "背景": "灰底"
   },
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent Advances or Retreats",
    "效果": "<b>Chip 1</b>.",
    "背景": "灰底"

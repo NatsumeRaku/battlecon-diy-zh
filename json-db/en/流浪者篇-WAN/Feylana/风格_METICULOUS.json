@@ -1,0 +1,27 @@
+{
+ "角色": "Feylana Chorgitz[待核]",
+ "角标": "橙五边形",
+ "名称": "METICULOUS",
+ "卡类": "风格",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "Hit: Perform a triggered effect on a card in the Geas Pile. You cannot Advance past the opponent.."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "End, Optional: Pick up a Base from the Geas Pile. Put. a Base into the Geas Pile. FEYLANA -"
+  }
+ ],
+ "数值": {
+  "距离": "+0~1",
+  "威力": "+0",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "行254 f05格16卡面实读正名(旧误OCR为Showy);五色对应红橙黄绿蓝=专家/细致/法定/庄严/矫健",
+ "来源": "官方实卡（TTS图包）"
+}

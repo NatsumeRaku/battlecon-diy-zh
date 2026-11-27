@@ -1,0 +1,27 @@
+{
+ "角色": "Anya Southwind",
+ "角标": "",
+ "名称": "Sundowner Dropkick",
+ "卡类": "终结技",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "\"No evildoer can outrun the Shadow of Justice!'"
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "Hit: Push as far as possible Close as far as possible"
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "N/A"
+ },
+ "备注": "来源注记:TTS图包;WAN卡表A(f04)格1;PaddleOCR照录;行257正名:原误归特技(UA),实为α终结技落日飞身踢(Sundowner Dropkick,行252);真UA另档TAKE FLIGHT(行255)",
+ "来源": "官方实卡（TTS图包）"
+}

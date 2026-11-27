@@ -12,7 +12,7 @@
  },
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "a Talisman is trashed",
    "效果": "<p-b>Whenever</p-b> a <i-sb>Talisman</i-sb> is trashed, <i-sb>Armor 1</i-sb>. You cannot Advance or Retreat. You cannot be Pushed or Pulled."
   }

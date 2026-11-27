@@ -1,0 +1,27 @@
+{
+ "角色": "Ser Vekyl Voroos",
+ "角标": "",
+ "名称": "Spectral Assault",
+ "卡类": "终结技",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "In time, you'll serve too.... X is on a Wisp's space."
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "Hit: Push or Pull 0-4. +2 Power per Wisp's space the opponent. left during this movement. a VEKYL"
+  }
+ ],
+ "数值": {
+  "距离": "x",
+  "威力": "3",
+  "速度": "4",
+  "韧性": "0"
+ },
+ "备注": "来源注记:TTS图包;WAN卡表A(f04)格33;PaddleOCR照录;UA卡名未识读;行239录入;行247:UA卡名VL重识+人工复核定案;行255正名:旧误标特技(UA),实为终结技α;背面表b07实锤",
+ "来源": "官方实卡（TTS图包）"
+}

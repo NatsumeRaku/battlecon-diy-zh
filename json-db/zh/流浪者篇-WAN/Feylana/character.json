@@ -4,13 +4,16 @@
  "角色": "菲拉娜",
  "系列": "流浪者篇-WAN",
  "来源": "官方实卡（TTS图包）",
- "备注": "行249 zh建档;英文:Feylana Chorgitz[待核];称号:Regulamancer;机制:Geas/Conviction;中文名缺者考据拟译[待核];行252官方中文实卡修正中文名:菲拉娜·乔吉茨",
+ "备注": "行249 zh建档;英文:Feylana Chorgitz[待核];称号:Regulamancer;机制:Geas/Conviction;中文名缺者考据拟译[待核];行252官方中文实卡修正中文名:菲拉娜·乔吉茨;行254五风格正名PROFESSIONAL/METICULOUS/LAWFUL/SERIOUS/ATHLETIC=专家/细致/法定/庄严/矫健;行255:真UA+β入档,旧UA误标已正名为终结技α",
  "卡牌清单": [
   "基底_异议.json",
   "基底_裁决.json",
-  "特技(UA)_呼吁.json",
-  "风格_乖舛.json",
-  "风格_炫示.json",
-  "风格_较真.json"
+  "终结技_呼吁.json",
+  "终结技_结案[待核].json",
+  "风格_专家.json",
+  "风格_庄严.json",
+  "风格_法定.json",
+  "风格_矫健.json",
+  "风格_细致.json"
  ]
 }

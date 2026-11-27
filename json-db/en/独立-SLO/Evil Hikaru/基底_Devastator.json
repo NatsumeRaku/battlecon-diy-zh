@@ -12,7 +12,7 @@
  },
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent Advances past you",
    "效果": "<p-b>When</p-b> the Opponent Advances past you, this attack does not hit."
   },

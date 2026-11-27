@@ -19,3 +19,12 @@
 
 - 短表遗漏导致：Reactive Player→反应玩家、regain→重获、Wish anted→已投注愿望(语序)、Function→功能。
 - 全表内联后以上全对，但需人工复核残项。
+
+## 识图通道实战补丁（2026-11-27 行255）
+5. **传图三件套**（extension 未开 file-URL 权限时的替代）：
+   - 本地 CORS 服务器：tts-img 目录起 `python _cors_srv.py`（127.0.0.1:8792，带 Access-Control-Allow-Origin:*）；
+   - CDP `Page.setBypassCSP` 绕页面 CSP（evaluate 里 fetch http://127.0.0.1:8792/xx.png → DataTransfer → input[type=file].files → dispatch change）；
+   - 判成功标准：`document.querySelectorAll('img')` 里 blob: 图数量，勿信返回值（React 会清 input.files）。
+6. **文本发送**：`fill` 或原生 value setter + input 事件只完成"填"，**Enter 键无效**；必须点 `div.ds-button--primary` 发送按钮。
+7. 图片与文字会拆成两条消息（图片先走），指令用"上一条消息的N张图"指代即可。
+8. 装饰字体卡名 DS 可读（TRANSFIX vs FATALITY 这类仍需字体匹配终裁，DS 引效果文偶尔张冠李戴，卡名优先信 DS+人工双读）。

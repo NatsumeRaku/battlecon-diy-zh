@@ -1,0 +1,31 @@
+{
+ "角色": "Vekyl",
+ "角标": "",
+ "名称": "ETERNAL SERVITUDE",
+ "卡类": "特技(UA)",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Vekyl has 3 Wisps, which haunt the duel in his stead. He places these each beat, and they chase down opponents to inflict damage."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Setup: Place a Wisp on the center of the arena. The remaining Wisps are in your supply."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Limited Ante: Place a Wisp on or adjacent to you (a space cannot ever contain more than 1 Wisp)."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "End: Withdraw a Wisp on an opponent for Chip 1. Starting with the Wisp nearest to the opponent, shift each Wisp 1 towards the opponent, but not onto another Wisp."
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(真UA,b07背表实锤);英文卡名装饰字体实读"
+}

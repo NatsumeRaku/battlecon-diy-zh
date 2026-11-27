@@ -6,7 +6,7 @@
  "系列": "试炼篇-TRI",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "activated",
    "效果": "<p-b>When</p-b> activated, trash all <i-sb>Drinks</i-sb> in your Discard Piles. Pick up all cards in Discard Pile 1."
   },

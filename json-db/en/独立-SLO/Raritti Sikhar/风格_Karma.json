@@ -12,7 +12,7 @@
  },
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "you are hit",
    "效果": "<p-b>When</p-b> you are hit, <i-sb>+2 Power</i-sb> and look at the face side of an inactive <i-sb>Fate</i-sb> in your Spread."
   }

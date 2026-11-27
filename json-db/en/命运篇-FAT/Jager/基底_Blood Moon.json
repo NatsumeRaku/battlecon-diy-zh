@@ -6,7 +6,7 @@
  "系列": "命运篇-FAT",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "The Opponent Advances past you",
    "效果": "<p-b>When the Opponent Advances past you,</p-b> your Range becomes <i-sb>N/A</i-sb>."
   },

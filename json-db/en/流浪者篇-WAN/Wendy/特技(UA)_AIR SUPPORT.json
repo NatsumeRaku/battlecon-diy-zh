@@ -1,0 +1,31 @@
+{
+ "角色": "Wendy",
+ "角标": "",
+ "名称": "AIR SUPPORT",
+ "卡类": "特技(UA)",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Wendy has 3 distinct Target Markers. She moves these around the arena to damage opponents and control their positioning."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Setup: Place Target A on the center of the arena, Target B on the far edge of the arena (behind the opponent), Place Target C in your Depiction Area. It can be placed only by the effect of your Finisher.[待核]"
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Whenever a Target enters the Opponent's space, the Opponent may Advance or Retreat 1 in the direction the Target moved (away from the space the Target left). After this, if the opponent is on a Target, Chip 1."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "End: Shift a Target 1. (Multiple Targets may occupy the same space.)"
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(真UA,b07背表实锤);英文卡名装饰字体实读"
+}

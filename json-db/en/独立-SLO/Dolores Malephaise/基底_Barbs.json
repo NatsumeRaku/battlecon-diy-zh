@@ -12,12 +12,12 @@
  },
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent is Pushed or Pulled",
    "效果": "<p-b>When</p-b> the Opponent is Pushed or Pulled, <i-sb>+2 Power</i-sb>."
   },
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent Advances or Retreats",
    "效果": "<p-b>When</p-b> the Opponent Advances or Retreats, <i-sb>Chip 1</i-sb> (regardless of how many spaces moved)."
   }

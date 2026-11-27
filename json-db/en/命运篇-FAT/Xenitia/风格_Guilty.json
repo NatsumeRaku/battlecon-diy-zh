@@ -6,7 +6,7 @@
  "系列": "命运篇-FAT",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "You are hit, if the Opponent's Power is ⚙ or less",
    "效果": "<p-b>When you are hit,</p-b> if the Opponent's Power is ⚙ or less, you are stunned."
   },

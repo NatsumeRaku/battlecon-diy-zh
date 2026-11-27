@@ -1,0 +1,27 @@
+{
+ "角色": "Feylana",
+ "角标": "灰八芒星(β)",
+ "名称": "CASE CLOSED",
+ "卡类": "终结技",
+ "系列": "流浪者篇-WAN",
+ "数值": {
+  "距离": "1~2",
+  "威力": "5",
+  "速度": "5",
+  "韧性": "0"
+ },
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "\"Let's move to closing arguments.[待核]"
+  },
+  {
+   "时点": "伤害",
+   "条件": "",
+   "效果": "Damage: Pick up any number of Bases from the Geas Pile, then put any number of Bases into the Geas Pile."
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(β面,b07背表实锤);beta面"
+}

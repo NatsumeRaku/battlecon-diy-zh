@@ -12,7 +12,7 @@
  },
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "an Opponent enters a Talisman’s space",
    "效果": "<p-b>When</p-b> an Opponent enters a <i-sb>Talisman</i-sb>’s space, your Range becomes 1~6*."
   },

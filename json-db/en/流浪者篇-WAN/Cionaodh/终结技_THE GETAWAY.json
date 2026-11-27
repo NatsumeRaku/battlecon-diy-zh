@@ -1,0 +1,42 @@
+{
+ "角色": "Cionaodh",
+ "角标": "灰八芒星(β)",
+ "名称": "THE GETAWAY",
+ "卡类": "终结技",
+ "系列": "流浪者篇-WAN",
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "0"
+ },
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "\"It's nothing personal, just another job.[待核]"
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "This attack cannot hit the opponent.[照官方中文卡]"
+  },
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "Start: Advance or Retreat 1-3.[待核]"
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "If you move past the opponent, avoid the opponent's attack.[待核]"
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "End: Teleport on or adjacent to the Motorcycle. Ends: +3 Power next beat.[待核]"
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(β面,b07背表实锤);beta面"
+}

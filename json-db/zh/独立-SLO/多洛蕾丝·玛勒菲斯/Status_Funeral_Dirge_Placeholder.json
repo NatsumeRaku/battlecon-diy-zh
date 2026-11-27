@@ -11,7 +11,7 @@
  "移除条件": "End of duel",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent Advances or Retreats",
    "效果": "They <b>Chip 1</b> per space they move.",
    "背景": "灰底"

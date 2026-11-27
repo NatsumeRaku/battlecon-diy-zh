@@ -1,0 +1,16 @@
+{
+ "角色": "Feylana",
+ "角标": "",
+ "名称": "REGULATION LIMITER",
+ "卡类": "特技(UA)",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Feylana has a Geas Pile and fights with Conviction. You have Conviction if the opponent's attack contains a copy of a card in your Geas Pile.[待核]"
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(真UA,b07背表实锤);英文卡名装饰字体实读"
+}

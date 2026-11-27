@@ -1,0 +1,32 @@
+{
+ "角色": "Anya",
+ "角标": "灰八芒星(β)",
+ "名称": "THEME SONG",
+ "卡类": "终结技",
+ "系列": "流浪者篇-WAN",
+ "数值": {
+  "距离": "1~2",
+  "威力": "1",
+  "速度": "6",
+  "韧性": "0"
+ },
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "\"Judgment flies on golden wings, as the shadow falls, the tempest sings!\"[待核]"
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Ignore Guard"
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "Hit: For the rest of the duel, when you become Grounded or Flying, Advance or Retreat 0-3."
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(β面THEME SONG,b07背表实锤);行252误挂的photo6文本实为Cionaodh的THE GETAWAY,已纠正;beta面"
+}

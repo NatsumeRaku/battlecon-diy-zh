@@ -16,7 +16,7 @@
    "效果": "Use a Shield (to gain Stun Immunity)."
   },
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "you are hit",
    "效果": "you are hit, you may spend a Shield for +99 Guard."
   }

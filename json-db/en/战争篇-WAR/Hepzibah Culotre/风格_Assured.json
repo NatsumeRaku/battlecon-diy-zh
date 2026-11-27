@@ -11,7 +11,7 @@
    "效果": "Stun Immunity, <b>Armor 2</b>."
   },
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "you are hit",
    "效果": "When you are hit, trash a Pact (active or inactive)."
   }

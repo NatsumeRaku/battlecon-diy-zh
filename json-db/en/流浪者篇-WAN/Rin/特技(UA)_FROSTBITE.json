@@ -1,0 +1,26 @@
+{
+ "角色": "Rin",
+ "角标": "",
+ "名称": "FROSTBITE",
+ "卡类": "特技(UA)",
+ "系列": "流浪者篇-WAN",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Rin has 5 Frost Counters. Rin's attacks build up Frost, and future attacks are enhanced based on the amount of Frost she holds. If Rin fails to hit an opponent, she loses Frost."
+  },
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Setup: All Frost is depleted."
+  },
+  {
+   "时点": "结束",
+   "条件": "",
+   "效果": "End, did not hit the Opponent: Deplete 1 Frost."
+  }
+ ],
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行255补录(真UA,b07背表实锤);英文卡名装饰字体实读"
+}

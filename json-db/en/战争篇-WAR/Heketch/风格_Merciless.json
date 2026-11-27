@@ -6,7 +6,7 @@
  "系列": "战争篇-WAR",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent enters a space adjacent to you",
    "效果": "Whenever the Opponent enters a space adjacent to you, <b>Chip 2</b>."
   },

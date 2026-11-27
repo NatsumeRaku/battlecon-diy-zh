@@ -6,7 +6,7 @@
  "系列": "试炼篇-TRI",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent enters a Paint's space",
    "效果": "<p-b>Whenever</p-b> the Opponent enters a <i-sb>Paint</i-sb>'s space, <i-sb>+2 Power</i-sb>."
   },

@@ -6,7 +6,7 @@
  "系列": "独立-SLO",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "The Opponent Advances",
    "效果": "<p-b>When the Opponent Advances,</p-b> <i-sb>+3 Guard</i-sb>."
   },

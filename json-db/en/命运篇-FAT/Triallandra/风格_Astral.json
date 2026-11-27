@@ -6,7 +6,7 @@
  "系列": "命运篇-FAT",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "You take damage",
    "效果": "<p-b>Whenever you take damage,</p-b> <i-sb>+1 Power</i-sb> per damage taken (max <i-sb>5</i-sb>)."
   },

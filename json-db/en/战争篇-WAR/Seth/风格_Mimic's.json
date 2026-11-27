@@ -6,12 +6,12 @@
  "系列": "战争篇-WAR",
  "效果": [
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent would Advance",
    "效果": "Whenever the Opponent would Advance, Retreat the same distance first, as far as possible."
   },
   {
-   "时点": "当",
+   "时点": "每当",
    "条件": "the Opponent Retreats",
    "效果": "Whenever the Opponent Retreats, Advance the same distance."
   }
