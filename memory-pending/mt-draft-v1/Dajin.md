@@ -1,10 +1,10 @@
 # Dajin 校对稿 v1（Opus骨架+对照表术语替换，机翻未经终审，禁直接入库）
 
-## 基底·Boon（时点:<bl-b>）
+## 招式·Boon（时点:<bl-b>）
 EN: Push 1.
 v1: 推进 1 。
 
-## 基底·Boon（时点:<r-b>）
+## 招式·Boon（时点:<r-b>）
 EN: You and the opponent regain 2 life.
 v1: 你和对手重获两条命
 

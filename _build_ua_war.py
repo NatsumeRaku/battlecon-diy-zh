@@ -72,7 +72,7 @@ items.append(ua("Lixis", "Withering Touch",
     "Lixis can discard Bases from the Opponent's hand when she hits them, limiting their options on future beats.",
     [fx("初始设置", "", "Virus is inactive."),
      fx("命中", "", "The Opponent discards a Base. (Discarded cards go into the Discard Pile alongside the Opponent's Attack Pair during recycle.)")],
-    NOTE % ("49", "弃基底稿无时点前缀,据机制概述拟命中[待核];角色全名按页脚LIXIS RAN KANDA")))
+    NOTE % ("49", "弃招式稿无时点前缀,据机制概述拟命中[待核];角色全名按页脚LIXIS RAN KANDA")))
 
 # 50 Luc
 items.append(ua("Luc", "Temporal Battery",

@@ -1,7 +1,7 @@
 [
  {
   "角色": "Anva",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Kick!",
   "时点": "<g-b>",
   "en": "Advance or Retreat 1.",
@@ -9,7 +9,7 @@
  },
  {
   "角色": "Anva",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Kick!",
   "时点": "<r-b>",
   "en": "Push 1. Become Grounded. If you did, +2 Power.",
@@ -17,7 +17,7 @@
  },
  {
   "角色": "Anva",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Kick!",
   "时点": "<bl-b>",
   "en": "Advance or Retreat 1.",
@@ -137,7 +137,7 @@
  },
  {
   "角色": "Cionaodh",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Stunt",
   "时点": "<i-sb>",
   "en": "X is a space the Motorcycle entered during this beat.",
@@ -145,7 +145,7 @@
  },
  {
   "角色": "Cionaodh",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Stunt",
   "时点": "<r-b>",
   "en": "Push 1~2.",
@@ -189,7 +189,7 @@
   "名称": "Rocky",
   "时点": "命中",
   "en": "Hit: The opponent discards a Base to Discard Pile 1. The opponent loses Guard, Armor, and Stun Immunity. The opponent gains any of those effects on the discarded Base CIONAODH",
-  "zh": "击中：对手将一张基底牌弃置到弃牌堆1。对手失去护甲、防御和 stun 免疫。对手在弃置的基底牌上获得上述任一效果。\n\n注：stun 免疫在英文中是 \"Stun Immunity\"，直译为“stun 免疫”。在游戏规则中，通常会有一个对应的中文术语，但如果没有明确的官方翻译，可以保留直译。这里根据上下文，将其翻译为“stun 免疫”。"
+  "zh": "击中：对手将一张招式牌弃置到弃牌堆1。对手失去护甲、防御和 stun 免疫。对手在弃置的招式牌上获得上述任一效果。\n\n注：stun 免疫在英文中是 \"Stun Immunity\"，直译为“stun 免疫”。在游戏规则中，通常会有一个对应的中文术语，但如果没有明确的官方翻译，可以保留直译。这里根据上下文，将其翻译为“stun 免疫”。"
  },
  {
   "角色": "Cionaodh",
@@ -201,7 +201,7 @@
  },
  {
   "角色": "Dajin",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Boon",
   "时点": "<bl-b>",
   "en": "Push 1.",
@@ -209,7 +209,7 @@
  },
  {
   "角色": "Dajin",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Boon",
   "时点": "<r-b>",
   "en": "You and the opponent regain 2 life.",
@@ -305,7 +305,7 @@
  },
  {
   "角色": "Feylana",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Objection",
   "时点": "<g-b>",
   "en": "Become Active Player.",
@@ -313,11 +313,11 @@
  },
  {
   "角色": "Feylana",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Verdict",
   "时点": "<r-b>",
   "en": "The opponent discards a Base. Pick up any number of Bases from the Geas Pile.",
-  "zh": "对手弃除一张基底。从诅咒堆中选取任意数量的基底。"
+  "zh": "对手弃除一张招式。从诅咒堆中选取任意数量的招式。"
  },
  {
   "角色": "Feylana",
@@ -357,7 +357,7 @@
   "名称": "Serious",
   "时点": "后置",
   "en": "After: The opponent chooses a Base from your hand. Put that Base into the Geas Pile You cannot pick up Bases from the Geas Pile this beat FEYLANA -",
-  "zh": "翻译：之后：对手从你的手牌中选择一个基底。将这个基底放入禁制堆。你不能从禁制堆中抽取基底。\n\n注：FEYLANA是角色名，保持不变。"
+  "zh": "翻译：之后：对手从你的手牌中选择一个招式。将这个招式放入禁制堆。你不能从禁制堆中抽取招式。\n\n注：FEYLANA是角色名，保持不变。"
  },
  {
   "角色": "Feylana",
@@ -373,11 +373,11 @@
   "名称": "Showy",
   "时点": "结束",
   "en": "End, Optional: Pick up a Base from the Geas Pile. Put. a Base into the Geas Pile. FEYLANA -",
-  "zh": "结束，可选：从【契缚堆】抽取一个基底。将一个基底放入【契缚堆】。\n\n注：【契缚堆】是游戏中的一个术语，表示可以抽取基底的区域。如果需要更准确的翻译或解释，请告知。"
+  "zh": "结束，可选：从【契缚堆】抽取一个招式。将一个招式放入【契缚堆】。\n\n注：【契缚堆】是游戏中的一个术语，表示可以抽取招式的区域。如果需要更准确的翻译或解释，请告知。"
  },
  {
   "角色": "John",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Figure",
   "时点": "<i-sb>",
   "en": "The opponent cannot Advance past you.",
@@ -385,7 +385,7 @@
  },
  {
   "角色": "John",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Figure",
   "时点": "<g-b>",
   "en": "Close 2.",
@@ -497,7 +497,7 @@
  },
  {
   "角色": "Kai",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Master Key",
   "时点": "<b>",
   "en": "Your Priority becomes 4.",
@@ -505,7 +505,7 @@
  },
  {
   "角色": "Kai",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Master Key",
   "时点": "<g-b>",
   "en": "Activate a Function.",
@@ -617,7 +617,7 @@
  },
  {
   "角色": "Kora",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Japes",
   "时点": "<i-sb>",
   "en": "Armor 1, Ignore Armor",
@@ -625,7 +625,7 @@
  },
  {
   "角色": "Kora",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Japes",
   "时点": "<g-b>",
   "en": "Regain a Thorn.",
@@ -825,7 +825,7 @@
  },
  {
   "角色": "Vekyl",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Doom Blade",
   "时点": "<i-sb>",
   "en": "Armor 1",
@@ -833,7 +833,7 @@
  },
  {
   "角色": "Vekyl",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Doom Blade",
   "时点": "<r-b>",
   "en": "Place a Wisp in the nearest space behind the opponent. If the opponent is on an edge of the arena, Chip 2.",
@@ -889,7 +889,7 @@
  },
  {
   "角色": "Wendy",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Spanner",
   "时点": "<r-b>",
   "en": "Push or Pull 1. The opponent cannot Advance or Retreat.",
@@ -897,7 +897,7 @@
  },
  {
   "角色": "Wendy",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Spanner",
   "时点": "<g-b>",
   "en": "Shift a Target 1~6.",

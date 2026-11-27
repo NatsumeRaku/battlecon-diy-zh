@@ -14,7 +14,7 @@
   },
   "卡牌清单": [
     "UA_Beatdown.json",
-    "基底_Dangerous.json",
+    "招式_Dangerous.json",
     "终结技_Clothesline.json",
     "终结技_Pain Train.json",
     "风格_Charging.json",
@@ -22,7 +22,7 @@
     "风格_Overhead.json",
     "风格_Smackdown.json"
   ],
-  "备注": "来源注记:TTS图包;页脚Wardlaw O'Brien (Slugger/Intermediate)；图糊随缘录入,仅2卡。;2026-11-26 TTS deck33/34录入:风格×4+基底×1+终结技×1(Cindra另有凤凰形态套5张);deck32格46角色卡补全称号；中文名:考据拟译v1[待核](行202,对照表考据节)",
+  "备注": "来源注记:TTS图包;页脚Wardlaw O'Brien (Slugger/Intermediate)；图糊随缘录入,仅2卡。;2026-11-26 TTS deck33/34录入:风格×4+招式×1+终结技×1(Cindra另有凤凰形态套5张);deck32格46角色卡补全称号；中文名:考据拟译v1[待核](行202,对照表考据节)",
   "来源": "官方实卡",
   "角色": "Wardlaw",
   "中文名": "沃德劳·奥布莱恩"

@@ -1,10 +1,10 @@
 # Vekyl 校对稿 v1（Opus骨架+对照表术语替换，机翻未经终审，禁直接入库）
 
-## 基底·Doom Blade（时点:<i-sb>）
+## 招式·Doom Blade（时点:<i-sb>）
 EN: Armor 1
 v1: 装甲 1
 
-## 基底·Doom Blade（时点:<r-b>）
+## 招式·Doom Blade（时点:<r-b>）
 EN: Place a Wisp in the nearest space behind the opponent. If the opponent is on an edge of the arena, Chip 2.
 v1: 将 Wisp 放在对手后面最近的空间。如果对手在竞技场边缘, Chip 2。
 

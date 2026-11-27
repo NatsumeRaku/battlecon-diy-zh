@@ -1,10 +1,10 @@
 # Kai 校对稿 v1（Opus骨架+对照表术语替换，机翻未经终审，禁直接入库）
 
-## 基底·Master Key（时点:<b>）
+## 招式·Master Key（时点:<b>）
 EN: Your Priority becomes 4.
 v1: 您的优先成为 4 。
 
-## 基底·Master Key（时点:<g-b>）
+## 招式·Master Key（时点:<g-b>）
 EN: Activate a Function.
 v1: a 激活功能。
 

@@ -1,11 +1,11 @@
 # Kai 机翻草稿（Argos / Opus-MT 对照，未校对，禁直接入库）
 
-## 基底·Master Key（时点:<b>）
+## 招式·Master Key（时点:<b>）
 EN: Your Priority becomes 4.
 Argos: 您的优先权变成4。
 Opus: 您的优先成为 4 。
 
-## 基底·Master Key（时点:<g-b>）
+## 招式·Master Key（时点:<g-b>）
 EN: Activate a Function.
 Argos: 激活 a 函数 。
 Opus: a 激活功能。

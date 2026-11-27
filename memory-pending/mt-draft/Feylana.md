@@ -1,11 +1,11 @@
 # Feylana 机翻草稿（Argos / Opus-MT 对照，未校对，禁直接入库）
 
-## 基底·Objection（时点:<g-b>）
+## 招式·Objection（时点:<g-b>）
 EN: Become Active Player.
 Argos: 成为积极的玩家。
 Opus: 成为活跃玩家 。
 
-## 基底·Verdict（时点:<r-b>）
+## 招式·Verdict（时点:<r-b>）
 EN: The opponent discards a Base. Pick up any number of Bases from the Geas Pile.
 Argos: 对手丢弃一个基地. 从Geas Pile那里找到多少基地
 Opus: 对手丢弃一个基地 从Geas Pile那里 取取任何几个基地

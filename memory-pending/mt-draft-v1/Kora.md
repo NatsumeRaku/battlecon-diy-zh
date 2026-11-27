@@ -1,10 +1,10 @@
 # Kora 校对稿 v1（Opus骨架+对照表术语替换，机翻未经终审，禁直接入库）
 
-## 基底·Japes（时点:<i-sb>）
+## 招式·Japes（时点:<i-sb>）
 EN: Armor 1, Ignore Armor
 v1: 装甲一号, 忽略装甲
 
-## 基底·Japes（时点:<g-b>）
+## 招式·Japes（时点:<g-b>）
 EN: Regain a Thorn.
 v1: 再来一只索恩
 

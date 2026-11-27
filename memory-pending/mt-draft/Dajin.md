@@ -1,11 +1,11 @@
 # Dajin 机翻草稿（Argos / Opus-MT 对照，未校对，禁直接入库）
 
-## 基底·Boon（时点:<bl-b>）
+## 招式·Boon（时点:<bl-b>）
 EN: Push 1.
 Argos: 推1点.
 Opus: 推进 1 。
 
-## 基底·Boon（时点:<r-b>）
+## 招式·Boon（时点:<r-b>）
 EN: You and the opponent regain 2 life.
 Argos: 你和对手重获两条命
 Opus: 你和对手重获两条命

@@ -1,11 +1,11 @@
 # Vekyl 机翻草稿（Argos / Opus-MT 对照，未校对，禁直接入库）
 
-## 基底·Doom Blade（时点:<i-sb>）
+## 招式·Doom Blade（时点:<i-sb>）
 EN: Armor 1
 Argos: 装甲1型
 Opus: 装甲 1
 
-## 基底·Doom Blade（时点:<r-b>）
+## 招式·Doom Blade（时点:<r-b>）
 EN: Place a Wisp in the nearest space behind the opponent. If the opponent is on an edge of the arena, Chip 2.
 Argos: 将 Wisp 放在对手身后最近的空间中。 如果对手处于竞技场的边缘,Chip 2.
 Opus: 将 Wisp 放在对手后面最近的空间。如果对手在竞技场边缘, Chip 2。

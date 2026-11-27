@@ -1,11 +1,11 @@
 # Wendy 机翻草稿（Argos / Opus-MT 对照，未校对，禁直接入库）
 
-## 基底·Spanner（时点:<r-b>）
+## 招式·Spanner（时点:<r-b>）
 EN: Push or Pull 1. The opponent cannot Advance or Retreat.
 Argos: 推还是拉 1。 对手不能前进或撤退。
 Opus: 推或拉1. 对手不能前进或撤退
 
-## 基底·Spanner（时点:<g-b>）
+## 招式·Spanner（时点:<g-b>）
 EN: Shift a Target 1~6.
 Argos: a 目标1~6。
 Opus: a 目标 1~6 移位。

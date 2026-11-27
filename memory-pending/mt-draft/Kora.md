@@ -1,11 +1,11 @@
 # Kora 机翻草稿（Argos / Opus-MT 对照，未校对，禁直接入库）
 
-## 基底·Japes（时点:<i-sb>）
+## 招式·Japes（时点:<i-sb>）
 EN: Armor 1, Ignore Armor
 Argos: 装甲 1, 忽略装甲
 Opus: 装甲一号, 忽略装甲
 
-## 基底·Japes（时点:<g-b>）
+## 招式·Japes（时点:<g-b>）
 EN: Regain a Thorn.
 Argos: 重来一个索恩。
 Opus: 再来一只索恩

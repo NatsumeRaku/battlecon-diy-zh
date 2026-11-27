@@ -61,7 +61,7 @@ def tr(s):
 
 
 if __name__ == "__main__":
-    for f in ["Amon/基底_Impenetrable.json", "Amon/风格_Containment.json",
+    for f in ["Amon/招式_Impenetrable.json", "Amon/风格_Containment.json",
               "Amon/终结技_Wall.json", "Amon/形态牌_Code White.json"]:
         d = json.load(io.open(os.path.join(BASE, f), encoding='utf-8'))
         print('###', f)

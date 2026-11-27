@@ -1,7 +1,7 @@
 [
  {
   "角色": "Anva",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Kick!",
   "时点": "<g-b>",
   "en": "Advance or Retreat 1.",
@@ -10,7 +10,7 @@
  },
  {
   "角色": "Anva",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Kick!",
   "时点": "<r-b>",
   "en": "Push 1. Become Grounded. If you did, +2 Power.",
@@ -19,7 +19,7 @@
  },
  {
   "角色": "Anva",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Kick!",
   "时点": "<bl-b>",
   "en": "Advance or Retreat 1.",
@@ -156,7 +156,7 @@
  },
  {
   "角色": "Cionaodh",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Stunt",
   "时点": "<i-sb>",
   "en": "X is a space the Motorcycle entered during this beat.",
@@ -165,7 +165,7 @@
  },
  {
   "角色": "Cionaodh",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Stunt",
   "时点": "<r-b>",
   "en": "Push 1~2.",
@@ -230,7 +230,7 @@
  },
  {
   "角色": "Dajin",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Boon",
   "时点": "<bl-b>",
   "en": "Push 1.",
@@ -239,7 +239,7 @@
  },
  {
   "角色": "Dajin",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Boon",
   "时点": "<r-b>",
   "en": "You and the opponent regain 2 life.",
@@ -358,7 +358,7 @@
  },
  {
   "角色": "Feylana",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Objection",
   "时点": "<g-b>",
   "en": "Become Active Player.",
@@ -367,7 +367,7 @@
  },
  {
   "角色": "Feylana",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Verdict",
   "时点": "<r-b>",
   "en": "The opponent discards a Base. Pick up any number of Bases from the Geas Pile.",
@@ -446,7 +446,7 @@
  },
  {
   "角色": "John",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Figure",
   "时点": "<i-sb>",
   "en": "The opponent cannot Advance past you.",
@@ -455,7 +455,7 @@
  },
  {
   "角色": "John",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Figure",
   "时点": "<g-b>",
   "en": "Close 2.",
@@ -584,7 +584,7 @@
  },
  {
   "角色": "Kai",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Master Key",
   "时点": "<b>",
   "en": "Your Priority becomes 4.",
@@ -593,7 +593,7 @@
  },
  {
   "角色": "Kai",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Master Key",
   "时点": "<g-b>",
   "en": "Activate a Function.",
@@ -721,7 +721,7 @@
  },
  {
   "角色": "Kora",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Japes",
   "时点": "<i-sb>",
   "en": "Armor 1, Ignore Armor",
@@ -730,7 +730,7 @@
  },
  {
   "角色": "Kora",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Japes",
   "时点": "<g-b>",
   "en": "Regain a Thorn.",
@@ -960,7 +960,7 @@
  },
  {
   "角色": "Vekyl",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Doom Blade",
   "时点": "<i-sb>",
   "en": "Armor 1",
@@ -969,7 +969,7 @@
  },
  {
   "角色": "Vekyl",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Doom Blade",
   "时点": "<r-b>",
   "en": "Place a Wisp in the nearest space behind the opponent. If the opponent is on an edge of the arena, Chip 2.",
@@ -1034,7 +1034,7 @@
  },
  {
   "角色": "Wendy",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Spanner",
   "时点": "<r-b>",
   "en": "Push or Pull 1. The opponent cannot Advance or Retreat.",
@@ -1043,7 +1043,7 @@
  },
  {
   "角色": "Wendy",
-  "卡类": "基底",
+  "卡类": "招式",
   "名称": "Spanner",
   "时点": "<g-b>",
   "en": "Shift a Target 1~6.",

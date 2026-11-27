@@ -1,10 +1,10 @@
 # Cionaodh 校对稿 v1（Opus骨架+对照表术语替换，机翻未经终审，禁直接入库）
 
-## 基底·Stunt（时点:<i-sb>）
+## 招式·Stunt（时点:<i-sb>）
 EN: X is a space the Motorcycle entered during this beat.
 v1: X 是此节拍期间摩托车进入的空间 。
 
-## 基底·Stunt（时点:<r-b>）
+## 招式·Stunt（时点:<r-b>）
 EN: Push 1~2.
 v1: 推1~2
 

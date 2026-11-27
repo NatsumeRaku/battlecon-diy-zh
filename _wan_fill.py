@@ -107,7 +107,7 @@ for folder, ename, title, mech, b4, b5, ua_name, style_names in FIGHTERS:
     c = json.load(io.open(cpath, encoding="utf-8")) if os.path.exists(cpath) else {}
     old = c.get("卡牌清单", [])
     for x in old:
-        if x not in manifest and (x.startswith("基底_") or x.startswith("终结技_")):
+        if x not in manifest and (x.startswith("招式_") or x.startswith("终结技_")):
             manifest.append(x)
     c.update({"卡类": "角色", "名称": folder, "角色": ename, "英文全名": ename,
               "称号": title, "机制名": mech, "系列": "流浪者篇-WAN",

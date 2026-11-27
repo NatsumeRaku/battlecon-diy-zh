@@ -1,10 +1,10 @@
 # Wendy 校对稿 v1（Opus骨架+对照表术语替换，机翻未经终审，禁直接入库）
 
-## 基底·Spanner（时点:<r-b>）
+## 招式·Spanner（时点:<r-b>）
 EN: Push or Pull 1. The opponent cannot Advance or Retreat.
 v1: 推或拉1. 对手不能前进或撤退
 
-## 基底·Spanner（时点:<g-b>）
+## 招式·Spanner（时点:<g-b>）
 EN: Shift a Target 1~6.
 v1: a 目标 1~6 移位。
 

@@ -1,10 +1,10 @@
 # John 校对稿 v1（Opus骨架+对照表术语替换，机翻未经终审，禁直接入库）
 
-## 基底·Figure（时点:<i-sb>）
+## 招式·Figure（时点:<i-sb>）
 EN: The opponent cannot Advance past you.
 v1: 对手不能通过你前进
 
-## 基底·Figure（时点:<g-b>）
+## 招式·Figure（时点:<g-b>）
 EN: Close 2.
 v1: 逼近 2 。
 

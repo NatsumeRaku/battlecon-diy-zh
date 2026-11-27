@@ -21,7 +21,7 @@ FIX = {
    "<bl-b>前置：</bl-b>你可以撤回一个<i-sb>颜料</i-sb>，从其所在格计算你的攻击距离。否则，你的攻击不命中。",
  ("Burgundy", "UA_Color Burn.json", 2, "效果"):
    "<g-b>结束：</g-b>在你当前的格放置一个<i-sb>颜料</i-sb>。<i>（每格限一个颜料）</i>。",
- ("Burgundy", "基底_Graphic.json", 0, "效果"):
+ ("Burgundy", "招式_Graphic.json", 0, "效果"):
    "<p-b>当你被命中时</p-b>，如果你与对手之间有<i-sb>颜料</i-sb>，获得<b>护甲 2</b>。",
  ("Burgundy", "终结技_Slaughter.json", 0, "效果"):
    "<bl-b>前置，可选：</bl-b>瞬移至一个<i-sb>颜料</i-sb>所在的格，然后撤回该<i-sb>颜料</i-sb>。",
@@ -44,13 +44,13 @@ FIX = {
    "<r-b>命中，1+ 激活的<i-sb>饮品</i-sb>：</r-b>推动或拉动 1。每有激活的<i-sb>饮品</i-sb>，就额外执行此效果一次。",
  ("Dareios", "饮品牌_Vastas Vapor.json", 0, "效果"):
    "<g-b>开始：</g-b>回避距离 1 的攻击。",
- ("Dravil", "基底_Torrential.json", 0, "效果"):
+ ("Dravil", "招式_Torrential.json", 0, "效果"):
    "<g-b>开始：</g-b>逼近 6，前进 1，后退 0~1。",
- ("Dravil", "基底_Torrential.json", 1, "效果"):
+ ("Dravil", "招式_Torrential.json", 1, "效果"):
    "<r-b>命中，冰：</r-b><i-sb>+1 威力</i-sb>。",
  ("Dravil", "终结技_Storm.json", 0, "效果"):
    "<bl-b>前置，可选：</bl-b>前进或后退 1。",
- ("Hayden", "基底_Telekinetic.json", 0, "效果"):
+ ("Hayden", "招式_Telekinetic.json", 0, "效果"):
    "<r-b>命中，选择一项：</r-b><br>• 支付任意数量的<i-sb>控制</i-sb>，每点拉动 1。<br>• 支付任意数量的<i-sb>狂怒</i-sb>，每点推动 1。",
  ("Lucida Malephaise", "UA_Jaws of Malephaise.json", 0, "效果"):
    "<b>初始设置：</b>消耗所有撕裂/吞噬指示物，并使其<i-sb>撕裂</i-sb>面朝上放置。",
@@ -58,7 +58,7 @@ FIX = {
    "<b>展示：</b>将所有<i-sb>撕裂指示物</i-sb>的效果施加于对手，然后将这些指示物翻至<i-sb>吞噬</i-sb>面。",
  ("Lucida Malephaise", "UA_Jaws of Malephaise.json", 3, "效果"):
    "<r-b>命中：</r-b>回收一个<i-sb>撕裂指示物</i-sb>。",
- ("Lucida Malephaise", "基底_Insatiable.json", 0, "效果"):
+ ("Lucida Malephaise", "招式_Insatiable.json", 0, "效果"):
    "<p-b>当</p-b>你在距离 1 被命中时，<i-sb>眩晕免疫</i-sb>。",
  ("Trias", "终结技_Slipstream.json", 2, "效果"):
    "<bl-b>前置，可选：</bl-b>弃置一个<i-sb>饰品牌</i-sb>以前进 3。",

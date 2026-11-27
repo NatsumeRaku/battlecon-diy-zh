@@ -1,0 +1,22 @@
+{
+  "角色": "Trias Blackwind",
+  "角标": "<blue-circle>",
+  "名称": "Spoony",
+  "卡类": "招式",
+  "系列": "试炼篇-TRI",
+  "效果": [
+    {
+      "时点": "展示",
+      "条件": "",
+      "效果": "<b>Reveal:</b> Negate Priority penalties from your Unique Ability. The Opponent has <i-sb>+1 Power</i-sb> per active <i-sb>Embellishment</i-sb>."
+    }
+  ],
+  "数值": {
+    "距离": "+0",
+    "威力": "+0",
+    "速度": "+1",
+    "韧性": "+0"
+  },
+  "备注": "来源注记:TTS图包;deck33格49;页脚TRIAS •TRI；名称:考据定案[待核](行200)回填(行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
+  "来源": "官方实卡"
+}

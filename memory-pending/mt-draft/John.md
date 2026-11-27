@@ -1,11 +1,11 @@
 # John 机翻草稿（Argos / Opus-MT 对照，未校对，禁直接入库）
 
-## 基底·Figure（时点:<i-sb>）
+## 招式·Figure（时点:<i-sb>）
 EN: The opponent cannot Advance past you.
 Argos: 对手不能超越你
 Opus: 对手不能通过你前进
 
-## 基底·Figure（时点:<g-b>）
+## 招式·Figure（时点:<g-b>）
 EN: Close 2.
 Argos: 关闭2。
 Opus: 关闭 2 。

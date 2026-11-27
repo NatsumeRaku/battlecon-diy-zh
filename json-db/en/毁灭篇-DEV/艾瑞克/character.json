@@ -16,11 +16,11 @@
     "风格_Perceptional.json",
     "风格_Mirrored.json",
     "终结技_Dominate Person.json",
-    "基底_Hex.json",
+    "招式_Hex.json",
     "专属招式_Dominate Person.json"
   ],
   "id": "毁灭篇-DEV-艾瑞克",
-  "英文状态": "名称/称号/五风格/α终结技已据TTS官方模组卡面核实录入;UA/β终结技/专属基底模组未含,待补",
+  "英文状态": "名称/称号/五风格/α终结技已据TTS官方模组卡面核实录入;UA/β终结技/专属招式模组未含,待补",
   "来源": "官方实卡",
   "角色": "艾瑞克",
   "英文全名": "Arec Zane",

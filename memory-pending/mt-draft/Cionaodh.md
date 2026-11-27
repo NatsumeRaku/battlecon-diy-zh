@@ -1,11 +1,11 @@
 # Cionaodh 机翻草稿（Argos / Opus-MT 对照，未校对，禁直接入库）
 
-## 基底·Stunt（时点:<i-sb>）
+## 招式·Stunt（时点:<i-sb>）
 EN: X is a space the Motorcycle entered during this beat.
 Argos: X是摩托车在此节拍中进入的空格.
 Opus: X 是此节拍期间摩托车进入的空间 。
 
-## 基底·Stunt（时点:<r-b>）
+## 招式·Stunt（时点:<r-b>）
 EN: Push 1~2.
 Argos: 推1~2号.
 Opus: 推1~2
