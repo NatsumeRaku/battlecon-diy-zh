@@ -165,7 +165,7 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "伤害",
   "en": "Damage: The opponent's. Life becomes 2. a CIONAODH",
-  "zh": "Damage: 对手的生命值变为2。"
+  "zh": "伤害：对手的生命值变为2。"
  },
  {
   "角色": "Cionaodh",
@@ -189,7 +189,7 @@
   "名称": "Rocky",
   "时点": "命中",
   "en": "Hit: The opponent discards a Base to Discard Pile 1. The opponent loses Guard, Armor, and Stun Immunity. The opponent gains any of those effects on the discarded Base CIONAODH",
-  "zh": "命中：对手弃置1张招式至弃牌堆。对手失去1点韧性、1点护甲及眩晕免疫。对手在弃置的招式CIONAODH上获得上述任一效果。"
+  "zh": "命中：对手弃置1张招式至弃牌堆1。对手失去所有韧性、护甲及眩晕免疫。对手在弃置的招式上获得上述任一效果。"
  },
  {
   "角色": "Cionaodh",
@@ -885,7 +885,7 @@
   "名称": "Undead[待核]",
   "时点": "伤害",
   "en": "Damage: Push 1 per damage dealt, as far as possible. Chip 1 for each Wisp's space the Opponent enters during this movement. VEKYL",
-  "zh": "Damage: 每造成1点伤害，推动1格，尽可能远。每回合对手进入魂火的格数削命1点。VEKYL"
+  "zh": "伤害：每造成1点伤害，推动1格，尽可能远。对手在本次移动中每进入一个魂火的格，削命1点。VEKYL"
  },
  {
   "角色": "Wendy",
@@ -949,7 +949,7 @@
   "名称": "Mortar[待核]",
   "时点": "伤害",
   "en": "Damage: Shift a Target 1-2. WENDY",
-  "zh": "Damage: 移动一个靶标1-2。温迪"
+  "zh": "伤害：移动1个靶标1-2。温迪"
  },
  {
   "角色": "Wendy",
