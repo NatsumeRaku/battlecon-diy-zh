@@ -17,7 +17,7 @@ Opus: X是一个包含2个目标的空间
 
 ## 特技(UA)·Precision Strike（时点:前置）
 EN: Before: The opponent cannot Advance or Retreat. a Shift a Target 0-1. WENDY
-Argos: 此前:对手不能推进或撤退. a 目标0-1。 温迪
+Argos: 此前:对手不能推进或撤退. a 目标0-1。 温蒂
 Opus: 之前: 对手不能前进或撤退 。 按 Shift a target 0-1. Wendy
 
 ## 风格·Airship[待核]（时点:命中）
@@ -37,7 +37,7 @@ Opus: 点击: +3 如果对手在目标上, 则使用功率。 如果对手在目
 
 ## 风格·Mortar[待核]（时点:伤害）
 EN: Damage: Shift a Target 1-2. WENDY
-Argos: 损害:移动目标1-2。 温迪
+Argos: 损害:移动目标1-2。 温蒂
 Opus: 损坏:转移目标1-2。
 
 ## 风格·Suppressing（时点:未析）
@@ -47,7 +47,7 @@ Opus: 当对手进入目标空间时 芯片2 目标在移动或放置时不会�
 
 ## 风格·Suppressing（时点:结束）
 EN: End: Place a Target. WENDY
-Argos: 结束:放置目标. 温迪
+Argos: 结束:放置目标. 温蒂
 Opus: 结束: 定位目标。 Wendy
 
 ## 风格·Warning（时点:未析）

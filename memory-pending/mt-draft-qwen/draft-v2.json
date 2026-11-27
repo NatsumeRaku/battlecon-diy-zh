@@ -917,7 +917,7 @@
   "名称": "Precision Strike",
   "时点": "前置",
   "en": "Before: The opponent cannot Advance or Retreat. a Shift a Target 0-1. WENDY",
-  "zh": "前置：对手不能前进或后退。将1个靶标位移0-1。温迪"
+  "zh": "前置：对手不能前进或后退。将1个靶标位移0-1。温蒂"
  },
  {
   "角色": "Wendy",
@@ -933,7 +933,7 @@
   "名称": "Airship[待核]",
   "时点": "后置",
   "en": "After, Optional: Advance orRetreat 1. 2 WENDY",
-  "zh": "开始,可选:前进或后退1。2温迪"
+  "zh": "开始,可选:前进或后退1。2温蒂"
  },
  {
   "角色": "Wendy",
@@ -949,7 +949,7 @@
   "名称": "Mortar[待核]",
   "时点": "伤害",
   "en": "Damage: Shift a Target 1-2. WENDY",
-  "zh": "Damage: 移动一个靶标1-2。温迪"
+  "zh": "Damage: 移动一个靶标1-2。温蒂"
  },
  {
   "角色": "Wendy",
@@ -965,7 +965,7 @@
   "名称": "Suppressing",
   "时点": "结束",
   "en": "End: Place a Target. WENDY",
-  "zh": "结束: 展示一个靶标。温迪"
+  "zh": "结束: 展示一个靶标。温蒂"
  },
  {
   "角色": "Wendy",

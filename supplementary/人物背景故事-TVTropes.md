@@ -138,7 +138,7 @@
 ### 凯·欧梅凯 Kai Omekai
 谜盒大师。持有五张功能牌,可挑战对手猜测所出之牌;猜错则凯获得加成,猜对则失去全部功能牌并受罚。
 
-### 温迪·瑟斯特 Wendy Thrystle
+### 温蒂·瑟斯特 Wendy Thrystle
 44岁女性飞艇工程师,以战术空中支援轰炸配合大扳手作战。不断调动空袭目标迫使对手走位。
 
 ### 其他WAN条目(无故事段):Cionaodh O'ciaominh、Dajin Nidala、John Strong Stevenson、Kora Sev Traxae、Rin Coldwater、Ser Vekyl Voroos
