@@ -14,7 +14,9 @@
   "风格_Justice.json",
   "风格_Kajari.json",
   "风格_Roundhouse.json",
-  "风格_Tailwind.json"
+  "风格_Tailwind.json",
+   "配件_地面.json",
+   "配件_飞行.json"
  ],
  "备注": "；行239:TTS图包(f04/f05)补录英文全名/称号/UA/风格,缺名格:f05格0空、f05格1空、f05格2空、f05格3空、f05格4空;行255:真UA+β入档,旧UA误标已正名为终结技α"
 }
