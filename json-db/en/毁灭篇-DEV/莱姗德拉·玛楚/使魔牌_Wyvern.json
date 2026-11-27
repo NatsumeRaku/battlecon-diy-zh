@@ -1,0 +1,24 @@
+{
+  "卡类": "使魔牌",
+  "名称": "Wyvern",
+  "角色": "莱姗德拉·玛楚",
+  "系列": "毁灭篇-DEV",
+  "角标": "",
+  "数值": {},
+  "鲜血费用": 4,
+  "台词": "Servant of the winds, take wing at my command!",
+  "效果": [
+    {
+      "时点": "",
+      "条件": "",
+      "效果": "Avoid attacks at Range 4."
+    },
+    {
+      "时点": "投注",
+      "条件": "",
+      "效果": "<o-b>Ante:</o-b> Trash this to Advance or Retreat 1-2."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck45_c55;页脚LESANDRA •FAMILIAR CARDS •DEV;行276c新建"
+}

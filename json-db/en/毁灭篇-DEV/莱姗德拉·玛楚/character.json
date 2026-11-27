@@ -1,13 +1,40 @@
 {
-  "角色": "莱姗德拉·玛楚",
-  "角标": "",
-  "名称": "Lesandra Machan",
   "卡类": "角色",
+  "名称": "Lesandra Machan",
+  "角色": "莱姗德拉·玛楚",
   "系列": "毁灭篇-DEV",
-  "效果": [],
+  "角标": "",
   "数值": {},
-  "备注": "来源注记:2026-11-25用户盒照识别;盒照短名莱姗德拉(66214.jpg,2026-11-26确认立绘=Lesandra Machan);骨架占位,卡面内容待TTS图包识别后补录；中文名:DEV官译夹名回填;行214:zh树全套14张已由用户实卡拍照录入(毁灭篇-DEV/莱姗德拉·玛楚),en树仍为骨架占位待TTS图包识别",
+  "效果": [],
+  "英文全名": "Lesandra Machan",
+  "称号": "Apprentice Summoner",
+  "称号_en": "Apprentice Summoner",
+  "中文名": "莱姗德拉·玛楚",
+  "类型": "",
+  "难度": "",
+  "机制名": "",
+  "机制概述": "",
+  "角标分配": {
+    "守卫": "<red-diamond>",
+    "门户": "<orange-pentagon>",
+    "乞灵": "<yellow-hexagon>",
+    "毁契": "<green-tri-down>",
+    "魔缚": "<blue-circle>"
+  },
+  "卡牌清单": [
+    "专属招式_Summons.json",
+    "使魔牌_Boreo.json",
+    "使魔牌_Raven Guide.json",
+    "使魔牌_Rune Knight.json",
+    "使魔牌_Salamander.json",
+    "使魔牌_Wyvern.json",
+    "终结技_Mazzaroth.json",
+    "风格_Binding.json",
+    "风格_Guardian.json",
+    "风格_Invocation.json",
+    "风格_Pactbreaker.json",
+    "风格_Window.json"
+  ],
   "来源": "官方实卡",
-  "卡牌清单": [],
-  "中文名": "莱姗德拉·玛楚"
+  "备注": "来源注记:TTS图包;deck45_c50角色卡;页脚LESANDRA MACHAN •APPRENTICE SUMMONER •DEV;行276c重建(en侧原为zh复制占位);机制名/概述卡面无印待规则书补;terminationα面待B图版"
 }

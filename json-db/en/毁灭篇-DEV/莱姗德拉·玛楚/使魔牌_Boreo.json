@@ -1,0 +1,19 @@
+{
+  "卡类": "使魔牌",
+  "名称": "Boreo",
+  "角色": "莱姗德拉·玛楚",
+  "系列": "毁灭篇-DEV",
+  "角标": "",
+  "数值": {},
+  "鲜血费用": 2,
+  "台词": "I can think of one thing you'll be useful for…",
+  "效果": [
+    {
+      "时点": "投注",
+      "条件": "",
+      "效果": "<o-b>Ante:</o-b> Trash this for <i-sb>+2 Blood</i-sb>."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck45_c54;页脚LESANDRA •FAMILIAR CARDS •DEV;行276c新建"
+}

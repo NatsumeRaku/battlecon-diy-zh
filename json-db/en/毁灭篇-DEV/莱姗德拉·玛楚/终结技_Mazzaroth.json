@@ -1,0 +1,42 @@
+{
+  "卡类": "终结技(双面)",
+  "名称": {
+    "α面": "[待补]",
+    "β面": "Mazzaroth"
+  },
+  "角色": "莱姗德拉·玛楚",
+  "系列": "毁灭篇-DEV",
+  "角标": {
+    "α面": "<star8-alpha>",
+    "β面": "<star8-beta>"
+  },
+  "数值": {
+    "α面": {
+      "距离": "[待补]",
+      "威力": "[待补]",
+      "速度": "[待补]",
+      "韧性": "[待补]"
+    },
+    "β面": {
+      "距离": "N/A",
+      "威力": "N/A",
+      "速度": "1<initiative>",
+      "韧性": 0
+    }
+  },
+  "台词": "Dark Master, let the pact be fulfilled and spill your wrath upon this world!",
+  "效果": [
+    {
+      "时点": "开始",
+      "条件": "",
+      "效果": "<g-b>Start:</g-b> Your life becomes 1. Trash all active <i>Familiars</i> for <b>Armor 1</b> each."
+    },
+    {
+      "时点": "结束",
+      "条件": "",
+      "效果": "<g-b>End:</g-b> At the end of the next beat, eliminate the Opponent."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包(仅β面);deck45_c51;页脚LESANDRA •DEV;行276c新建;α面需B图版,暂[待补],zh侧\"恭请薄暮巡者\"(1~2/2/5▲/0)未回译"
+}

@@ -1,0 +1,24 @@
+{
+  "卡类": "使魔牌",
+  "名称": "Rune Knight",
+  "角色": "莱姗德拉·玛楚",
+  "系列": "毁灭篇-DEV",
+  "角标": "",
+  "数值": {},
+  "鲜血费用": 5,
+  "台词": "By the blood of the dead god do I bind thee!",
+  "效果": [
+    {
+      "时点": "每当",
+      "条件": "你被命中时",
+      "效果": "When you are hit, gain 2 Blood."
+    },
+    {
+      "时点": "投注",
+      "条件": "",
+      "效果": "<o-b>Ante:</o-b> Trash this for <b>Armor 2</b>."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck45_c56;页脚LESANDRA •FAMILIAR CARDS •DEV;行276c新建"
+}
