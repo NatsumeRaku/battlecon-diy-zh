@@ -5,7 +5,8 @@
   "名称": "Kick!",
   "时点": "<g-b>",
   "en": "Advance or Retreat 1.",
-  "zh": "前进或后退1。"
+  "zh": "开始：前进或后退 1。",
+  "效果(富文本)": "<g-b>开始：</g-b>前进或后退 1。"
  },
  {
   "角色": "Anva",
@@ -13,7 +14,8 @@
   "名称": "Kick!",
   "时点": "<r-b>",
   "en": "Push 1. Become Grounded. If you did, +2 Power.",
-  "zh": "推1。变为落地。若成功,+2威力。"
+  "zh": "命中：推动 1。变为落地。若如此，+2 威力。",
+  "效果(富文本)": "<r-b>命中：</r-b>推动 1。变为<i-sb>落地</i-sb>。若如此，<i-sb>+2 威力</i-sb>。"
  },
  {
   "角色": "Anva",
@@ -21,7 +23,8 @@
   "名称": "Kick!",
   "时点": "<bl-b>",
   "en": "Advance or Retreat 1.",
-  "zh": "前进或后退1。"
+  "zh": "前置：前进或后退 1。",
+  "效果(富文本)": "<bl-b>前置：</bl-b>前进或后退 1。"
  },
  {
   "角色": "Anya",
@@ -29,7 +32,8 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "",
   "en": "\"No evildoer can outrun the Shadow of Justice!'",
-  "zh": "无法逃避正义之影！"
+  "zh": "“没有恶人能跑过正义之影！”",
+  "效果(富文本)": "“没有恶人能跑过正义之影！”"
  },
  {
   "角色": "Anya",
@@ -37,7 +41,8 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "命中",
   "en": "Hit: Push as far as possible Close as far as possible",
-  "zh": "命中: 推动尽可能远,逼近尽可能远"
+  "zh": "命中：尽可能推动。尽可能逼近。[待核:OCR连行,两动作句界待卡面复核]",
+  "效果(富文本)": "命中：尽可能推动。尽可能逼近。[待核:OCR连行,两动作句界待卡面复核]"
  },
  {
   "角色": "Anya",
@@ -45,7 +50,8 @@
   "名称": "Alwnd",
   "时点": "命中",
   "en": "Hit, you moved: +2 Power.",
-  "zh": "命中, 你移动了: +2 威力。"
+  "zh": "命中，你移动过：+2 威力。",
+  "效果(富文本)": "命中，你移动过：<i-sb>+2 威力</i-sb>。"
  },
  {
   "角色": "Anya",
@@ -53,7 +59,8 @@
   "名称": "Alwnd",
   "时点": "命中",
   "en": "Hit: Push or Pull 1 ANYA",
-  "zh": "命中: 推动或拉动1格 ANYA"
+  "zh": "命中：推动或拉动 1。",
+  "效果(富文本)": "命中：推动或拉动 1。"
  },
  {
   "角色": "Anya",
@@ -61,7 +68,8 @@
   "名称": "Diving",
   "时点": "命中",
   "en": "<r-b>Hit, Flying:</r-b> <b>Ignore Guard</b>.",
-  "zh": "命中, 飞行: 忽略韧性。"
+  "zh": "命中，飞行：无视韧性。",
+  "效果(富文本)": "<r-b>命中，飞行：</r-b><b>无视韧性</b>。"
  },
  {
   "角色": "Anya",
@@ -69,7 +77,8 @@
   "名称": "Diving",
   "时点": "命中",
   "en": "<r-b>Hit, Grounded:</r-b> <i-sb>+2 Power</i-sb>.",
-  "zh": "命中, 地面束缚: +2威力。"
+  "zh": "命中，落地：+2 威力。",
+  "效果(富文本)": "<r-b>命中，落地：</r-b><i-sb>+2 威力</i-sb>。"
  },
  {
   "角色": "Anya",
@@ -77,7 +86,8 @@
   "名称": "Diving",
   "时点": "",
   "en": "Push 0~2, as far as possible.",
-  "zh": "推动0~2,尽可能"
+  "zh": "推动 0-2，尽可能远。",
+  "效果(富文本)": "推动 0-2，尽可能远。"
  },
  {
   "角色": "Anya",
@@ -85,7 +95,8 @@
   "名称": "Justice",
   "时点": "展示",
   "en": "Reveal, Flying:+2 Priority",
-  "zh": "展示, 飞行：+2速度"
+  "zh": "展示，飞行：+2 速度。",
+  "效果(富文本)": "展示，飞行：<i-sb>+2 速度</i-sb>。"
  },
  {
   "角色": "Anya",
@@ -93,7 +104,8 @@
   "名称": "Justice",
   "时点": "展示",
   "en": "Reveal, Grounded +3 Guard and Armor 1",
-  "zh": "展示, 根据地:+3韧性, +1护甲"
+  "zh": "展示，落地：+3 韧性与护甲 1。",
+  "效果(富文本)": "展示，落地：<i-sb>+3 韧性</i-sb>与<b>护甲 1</b>。"
  },
  {
   "角色": "Anya",
@@ -101,7 +113,8 @@
   "名称": "Justice",
   "时点": "前置",
   "en": "Before: Advance 1-2 ANYA",
-  "zh": "前置: 前进1-2 ANYA"
+  "zh": "前置：前进 1-2。",
+  "效果(富文本)": "前置：前进 1-2。"
  },
  {
   "角色": "Anya",
@@ -109,7 +122,8 @@
   "名称": "Kajari",
   "时点": "开始",
   "en": "<g-b>Start, Optional, Flying:</g-b> Advance or Retreat 1.",
-  "zh": "开始,可选:飞行→前进或后退1格"
+  "zh": "开始，可选，飞行：前进或后退 1。",
+  "效果(富文本)": "<g-b>开始，可选，飞行：</g-b>前进或后退 1。"
  },
  {
   "角色": "Anya",
@@ -117,7 +131,8 @@
   "名称": "Kajari",
   "时点": "命中",
   "en": "<r-b>Hit, Optional:</r-b> Push 1. Become <i-sb>Grounded</i-sb>. If you did, <i-sb>+2 Power</i-sb>.",
-  "zh": "命中,可选:推1。变为落地。若如此,+2威力。"
+  "zh": "命中，可选：推动 1。变为落地。若如此，+2 威力。",
+  "效果(富文本)": "<r-b>命中，可选：</r-b>推动 1。变为<i-sb>落地</i-sb>。若如此，<i-sb>+2 威力</i-sb>。"
  },
  {
   "角色": "Anya",
@@ -125,7 +140,8 @@
   "名称": "Kajari",
   "时点": "后置",
   "en": "<r-b>After, Optional Flying:</r-b> Advance or Retreat 1.",
-  "zh": "后置,可选,飞行:前进或后退1格。"
+  "zh": "后置，可选，飞行：前进或后退 1。",
+  "效果(富文本)": "<r-b>后置，可选，飞行：</r-b>前进或后退 1。"
  },
  {
   "角色": "Anya",
@@ -133,7 +149,8 @@
   "名称": "Roundhouse",
   "时点": "命中",
   "en": "Hit: Push 1-2. If the opponent is on an edge of the arena, +2 Power. End, Optional, Flying Advance or Retreat 1. ANYA",
-  "zh": "命中：推动1-2。若对手位于竞技场边缘，+2威力。结束，可选，飞行前进或后退1。ANYA"
+  "zh": "命中：推动 1-2。若对手在场地边缘，+2 威力。结束，可选，飞行：前进或后退 1。",
+  "效果(富文本)": "命中：推动 1-2。若对手在场地边缘，<i-sb>+2 威力</i-sb>。<g-b>结束，可选，飞行：</g-b>前进或后退 1。"
  },
  {
   "角色": "Cionaodh",
@@ -141,7 +158,8 @@
   "名称": "Stunt",
   "时点": "<i-sb>",
   "en": "X is a space the Motorcycle entered during this beat.",
-  "zh": "X是在本回合中摩托车进入的格。"
+  "zh": "X 为本回合摩托进入过的 1 格。",
+  "效果(富文本)": "X 为本回合摩托进入过的 1 格。"
  },
  {
   "角色": "Cionaodh",
@@ -149,7 +167,8 @@
   "名称": "Stunt",
   "时点": "<r-b>",
   "en": "Push 1~2.",
-  "zh": "推动1~2"
+  "zh": "命中：推动 1-2。",
+  "效果(富文本)": "<r-b>命中：</r-b>推动 1-2。"
  },
  {
   "角色": "Cionaodh",
@@ -157,7 +176,8 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "",
   "en": "'They'll never see it coming... Ignore Guard, Ignore Armor",
-  "zh": "忽略韧性,忽略护甲:他们永远无法预料..."
+  "zh": "“他们绝不会看见它到来……”无视韧性，无视护甲。",
+  "效果(富文本)": "“他们绝不会看见它到来……”<b>无视韧性</b>，<b>无视护甲</b>。"
  },
  {
   "角色": "Cionaodh",
@@ -165,7 +185,8 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "伤害",
   "en": "Damage: The opponent's. Life becomes 2. a CIONAODH",
-  "zh": "伤害：对手的生命值变为2。"
+  "zh": "伤害：对手的生命变为 2。",
+  "效果(富文本)": "<r-b>伤害：</r-b>对手的生命变为 2。"
  },
  {
   "角色": "Cionaodh",
@@ -173,7 +194,8 @@
   "名称": "Daring",
   "时点": "后置",
   "en": "After: Your opponent chooses a Style in your hand. If you reveaI that Style next beat, +2 Power and +1 Priority CIONAODH",
-  "zh": "后置: 对手从你手牌中选择1张风格。如果你在下一个回合展示那张风格,+2威力和+1速度。"
+  "zh": "后置：对手选择你手牌中的 1 张风格。若你下回合展示该风格，+2 威力与+1 速度。",
+  "效果(富文本)": "后置：对手选择你手牌中的 1 张风格。若你下回合展示该风格，<i-sb>+2 威力</i-sb>与<i-sb>+1 速度</i-sb>。"
  },
  {
   "角色": "Cionaodh",
@@ -181,7 +203,8 @@
   "名称": "Escape",
   "时点": "前置",
   "en": "Before, Reactive Player: Teleport to any space. CIONAODH",
-  "zh": "前置, 反应玩家: 瞬移至任意格。CIONAODH"
+  "zh": "前置，后手玩家：瞬移至任意格。",
+  "效果(富文本)": "前置，后手玩家：瞬移至任意格。"
  },
  {
   "角色": "Cionaodh",
@@ -189,7 +212,8 @@
   "名称": "Rocky",
   "时点": "命中",
   "en": "Hit: The opponent discards a Base to Discard Pile 1. The opponent loses Guard, Armor, and Stun Immunity. The opponent gains any of those effects on the discarded Base CIONAODH",
-  "zh": "命中：对手弃置1张招式至弃牌堆1。对手失去所有韧性、护甲及眩晕免疫。对手在弃置的招式上获得上述任一效果。"
+  "zh": "命中：对手弃置 1 张招式至弃牌堆 1。对手失去所有韧性、护甲及眩晕免疫。对手获得被弃置招式上的这些效果。",
+  "效果(富文本)": "命中：对手弃置 1 张招式至弃牌堆 1。对手失去所有韧性、护甲及眩晕免疫。对手获得被弃置招式上的这些效果。"
  },
  {
   "角色": "Cionaodh",
@@ -197,7 +221,8 @@
   "名称": "Somersault",
   "时点": "命中",
   "en": "Hit, Optional: Advance or Retreat 1-2 towards the Motorcycle. If you are on the Motorcycle, Advance or Retreat 1 instead CIONAODH",
-  "zh": "命中,可选: 前进或后退1-2格朝向摩托车。如果你位于摩托车旁,改为前进或后退1格。"
+  "zh": "命中，可选：朝摩托前进或后退 1-2。若你在摩托上，改为前进或后退 1。",
+  "效果(富文本)": "命中，可选：朝摩托前进或后退 1-2。若你在摩托上，改为前进或后退 1。"
  },
  {
   "角色": "Dajin",
@@ -205,7 +230,8 @@
   "名称": "Boon",
   "时点": "<bl-b>",
   "en": "Push 1.",
-  "zh": "推动1"
+  "zh": "前置：推动 1。",
+  "效果(富文本)": "<bl-b>前置：</bl-b>推动 1。"
  },
  {
   "角色": "Dajin",
@@ -213,7 +239,8 @@
   "名称": "Boon",
   "时点": "<r-b>",
   "en": "You and the opponent regain 2 life.",
-  "zh": "你和对手回收2生命。"
+  "zh": "命中：你和对手回收 2 生命。",
+  "效果(富文本)": "<r-b>命中：</r-b>你和对手回收 2 生命。"
  },
  {
   "角色": "Dajin",
@@ -221,7 +248,8 @@
   "名称": "Wish Granted",
   "时点": "",
   "en": "Such a frail and ill-considered desire Reveal, Wish anted Stun Immunity. Your life. cannot fall below 1..",
-  "zh": "如此脆弱而欠考虑的愿望。展示,愿望已投注:眩晕免疫。你的生命值不能低于1。"
+  "zh": "“如此脆弱而欠考虑的愿望。”展示，愿望已投注：眩晕免疫。你的生命不能低于 1。",
+  "效果(富文本)": "“如此脆弱而欠考虑的愿望。”<b>展示</b>，愿望已投注：眩晕免疫。你的生命不能低于 1。"
  },
  {
   "角色": "Dajin",
@@ -229,7 +257,8 @@
   "名称": "Wish Granted",
   "时点": "展示",
   "en": "Reveal, Powerless: +4 Priority. DAJIIN",
-  "zh": "展示,无威力:+4速度。达金"
+  "zh": "展示，无威力：+4 速度。",
+  "效果(富文本)": "展示，无威力：<i-sb>+4 速度</i-sb>。"
  },
  {
   "角色": "Dajin",
@@ -237,7 +266,8 @@
   "名称": "Duplicitous",
   "时点": "展示",
   "en": "Reveal,Wish anted: Stun Immunity and +2 Power",
-  "zh": "展示,愿望已投注:眩晕免疫和+2威力"
+  "zh": "展示，愿望已投注：眩晕免疫与+2 威力。",
+  "效果(富文本)": "展示，愿望已投注：眩晕免疫与<i-sb>+2 威力</i-sb>。"
  },
  {
   "角色": "Dajin",
@@ -245,7 +275,8 @@
   "名称": "Duplicitous",
   "时点": "展示",
   "en": "Reveal, Powerless: +3 Guard",
-  "zh": "展示, 无威力:+3韧性"
+  "zh": "展示，无威力：+3 韧性。",
+  "效果(富文本)": "展示，无威力：<i-sb>+3 韧性</i-sb>。"
  },
  {
   "角色": "Dajin",
@@ -253,7 +284,8 @@
   "名称": "Duplicitous",
   "时点": "命中",
   "en": "Hit: Push or Pull 1 2 DAJIIN",
-  "zh": "命中: 推动或拉动1-2 DAJIIN"
+  "zh": "命中：推动或拉动 1-2。",
+  "效果(富文本)": "命中：推动或拉动 1-2。"
  },
  {
   "角色": "Dajin",
@@ -261,7 +293,8 @@
   "名称": "Masterful",
   "时点": "开始",
   "en": "Start: Retreat 1..",
-  "zh": "开始: 后退1.."
+  "zh": "开始：后退 1。",
+  "效果(富文本)": "开始：后退 1。"
  },
  {
   "角色": "Dajin",
@@ -269,7 +302,8 @@
   "名称": "Masterful",
   "时点": "结束",
   "en": "End, Optional: Advance or Retreat 1-2 DAJIIN",
-  "zh": "结束,可选:前进或后退1-2 DAJIIN"
+  "zh": "结束，可选：前进或后退 1-2。",
+  "效果(富文本)": "结束，可选：前进或后退 1-2。"
  },
  {
   "角色": "Dajin",
@@ -277,7 +311,8 @@
   "名称": "Overpowering",
   "时点": "",
   "en": "Armor 1 You cannot be Pushed or Pulled.",
-  "zh": "护甲1：你不能被推动或拉动。"
+  "zh": "护甲 1。你不能被推动或拉动。",
+  "效果(富文本)": "<b>护甲 1</b>。你不能被推动或拉动。"
  },
  {
   "角色": "Dajin",
@@ -285,7 +320,8 @@
   "名称": "Overpowering",
   "时点": "展示",
   "en": "Reveal, Wish anted: The opponent cannot Advance or Retreat. DAJIIN",
-  "zh": "展示,愿望已投注：对手不能前进或后退。达金"
+  "zh": "展示，愿望已投注：对手不能前进或后退。",
+  "效果(富文本)": "展示，愿望已投注：对手不能前进或后退。"
  },
  {
   "角色": "Dajin",
@@ -293,7 +329,8 @@
   "名称": "Almighty",
   "时点": "展示",
   "en": "Reveal, Wish not anted: +0~1 Range, +2 Power, and +1 Priority.",
-  "zh": "展示,愿望未投注:+0~1距离,+2威力和+1速度"
+  "zh": "展示，愿望未投注：+0~1 距离、+2 威力与+1 速度。",
+  "效果(富文本)": "展示，愿望未投注：<i-sb>+0~1 距离</i-sb>、<i-sb>+2 威力</i-sb>与<i-sb>+1 速度</i-sb>。"
  },
  {
   "角色": "Dajin",
@@ -301,7 +338,8 @@
   "名称": "Wishful",
   "时点": "命中",
   "en": "Hit: Activate a Wish ( flip it back to its active side, it is not Granted)",
-  "zh": "命中: 激活一个愿望(翻转回激活面,愿望未实现)"
+  "zh": "命中：激活 1 个愿望（翻回其激活面，愿望未实现）。",
+  "效果(富文本)": "命中：激活 1 个愿望（翻回其激活面，愿望未实现）。"
  },
  {
   "角色": "Dajin",
@@ -309,7 +347,8 @@
   "名称": "Wishful",
   "时点": "结束",
   "en": "End, Optional: Advance. or Retreat 1. DAJIIN",
-  "zh": "结束,可选:前进1或后退1。DAJIIN"
+  "zh": "结束，可选：前进或后退 1。",
+  "效果(富文本)": "结束，可选：前进或后退 1。"
  },
  {
   "角色": "Feylana",
@@ -317,7 +356,8 @@
   "名称": "Objection",
   "时点": "<g-b>",
   "en": "Become Active Player.",
-  "zh": "开始: 成为活跃玩家。"
+  "zh": "开始：变为先手玩家。",
+  "效果(富文本)": "<g-b>开始：</g-b>变为先手玩家。"
  },
  {
   "角色": "Feylana",
@@ -325,7 +365,8 @@
   "名称": "Verdict",
   "时点": "<r-b>",
   "en": "The opponent discards a Base. Pick up any number of Bases from the Geas Pile.",
-  "zh": "对手弃置1张招式。从诅咒堆中选取任意数量的招式牌。"
+  "zh": "命中：对手弃置 1 张招式。从咒约堆拾取任意张招式。",
+  "效果(富文本)": "<r-b>命中：</r-b>对手弃置 1 张招式。从咒约堆拾取任意张招式。"
  },
  {
   "角色": "Feylana",
@@ -333,7 +374,8 @@
   "名称": "Appeal",
   "时点": "",
   "en": "conviction won't waver!\" Stun Immunity",
-  "zh": "当：眩晕免疫"
+  "zh": "“我的信念绝不会动摇！”眩晕免疫。",
+  "效果(富文本)": "“我的信念绝不会动摇！”眩晕免疫。"
  },
  {
   "角色": "Feylana",
@@ -341,7 +383,8 @@
   "名称": "Appeal",
   "时点": "开始",
   "en": "Start, Conviction: +5 Power. a FEYLANA -",
-  "zh": "开始,坚定：+5威力。"
+  "zh": "开始，信念：+5 威力。",
+  "效果(富文本)": "开始，信念：<i-sb>+5 威力</i-sb>。"
  },
  {
   "角色": "Feylana",
@@ -349,7 +392,8 @@
   "名称": "Awry",
   "时点": "展示",
   "en": "Reveal,Conviction +1 Power and +1 Priority.",
-  "zh": "展示,坚定：+1威力和+1速度。"
+  "zh": "展示，信念：+1 威力与+1 速度。",
+  "效果(富文本)": "展示，信念：<i-sb>+1 威力</i-sb>与<i-sb>+1 速度</i-sb>。"
  },
  {
   "角色": "Feylana",
@@ -357,7 +401,8 @@
   "名称": "Awry",
   "时点": "展示",
   "en": "Reveal, no Conviction: +0~2 Range. 2 FEYLANA -",
-  "zh": "展示,无信念：+0~2距离。2费兰娜 -"
+  "zh": "展示，无信念：+0~2 距离。",
+  "效果(富文本)": "展示，无信念：<i-sb>+0~2 距离</i-sb>。"
  },
  {
   "角色": "Feylana",
@@ -365,7 +410,8 @@
   "名称": "Serious",
   "时点": "后置",
   "en": "After: The opponent chooses a Base from your hand. Put that Base into the Geas Pile You cannot pick up Bases from the Geas Pile this beat FEYLANA -",
-  "zh": "后置：对手从你的手牌中选择1张招式。将该招式放入禁牌堆。本回合你不能从禁牌堆中抽取招式。FEYLANA -"
+  "zh": "后置：对手选择你手牌中的 1 张招式。将该招式放入咒约堆。本回合你不能从咒约堆拾取招式。",
+  "效果(富文本)": "后置：对手选择你手牌中的 1 张招式。将该招式放入咒约堆。本回合你不能从咒约堆拾取招式。"
  },
  {
   "角色": "Feylana",
@@ -373,7 +419,8 @@
   "名称": "Showy",
   "时点": "命中",
   "en": "Hit: Perform a triggered effect on a card in the Geas Pile. You cannot Advance past the opponent..",
-  "zh": "命中: 从禁制堆中展示一张卡并触发其效果。你不能因此移动越过对手。"
+  "zh": "命中：执行咒约堆中 1 张卡上的 1 个触发效果。你不能前进越过对手。",
+  "效果(富文本)": "命中：执行咒约堆中 1 张卡上的 1 个触发效果。你不能前进越过对手。"
  },
  {
   "角色": "Feylana",
@@ -381,7 +428,8 @@
   "名称": "Showy",
   "时点": "结束",
   "en": "End, Optional: Pick up a Base from the Geas Pile. Put. a Base into the Geas Pile. FEYLANA -",
-  "zh": "结束,可选:从禁制堆中抽取一张招式。置入一张招式于禁制堆。FEYLANA -"
+  "zh": "结束，可选：从咒约堆拾取 1 张招式。将 1 张招式放入咒约堆。",
+  "效果(富文本)": "结束，可选：从咒约堆拾取 1 张招式。将 1 张招式放入咒约堆。"
  },
  {
   "角色": "John",
@@ -389,7 +437,8 @@
   "名称": "Figure",
   "时点": "<i-sb>",
   "en": "The opponent cannot Advance past you.",
-  "zh": "对手不能推动越过你。"
+  "zh": "对手不能前进越过你。",
+  "效果(富文本)": "对手不能前进越过你。"
  },
  {
   "角色": "John",
@@ -397,7 +446,8 @@
   "名称": "Figure",
   "时点": "<g-b>",
   "en": "Close 2.",
-  "zh": "逼近2(朝对手方向尽可能移动2格)。"
+  "zh": "开始：逼近 2。",
+  "效果(富文本)": "<g-b>开始：</g-b>逼近 2。"
  },
  {
   "角色": "John",
@@ -405,7 +455,8 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "",
   "en": "'This blasted curse will not have me yet!'",
-  "zh": "开始,此该死的诅咒还不会让我屈服！"
+  "zh": "“这该死的诅咒还拿不下我！”",
+  "效果(富文本)": "“这该死的诅咒还拿不下我！”"
  },
  {
   "角色": "John",
@@ -413,7 +464,8 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "命中",
   "en": "Hit: For the rest of the duel Stoneskin provides you Armor 3",
-  "zh": "命中：本场对决余下时间，石肤提供3点护甲。"
+  "zh": "命中：此后整场决斗，石肤为你提供护甲 3。",
+  "效果(富文本)": "命中：此后整场决斗，<i-sb>石肤</i-sb>为你提供<b>护甲 3</b>。"
  },
  {
   "角色": "John",
@@ -421,7 +473,8 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "后置",
   "en": "After: For the rest of the. duel, Stoneskin provides no. Armor to the opponent",
-  "zh": "后置: 本场对决余下时间,石头之肤不再为对手提供护甲"
+  "zh": "后置：此后整场决斗，石肤不为对手提供护甲。",
+  "效果(富文本)": "后置：此后整场决斗，<i-sb>石肤</i-sb>不为对手提供护甲。"
  },
  {
   "角色": "John",
@@ -429,7 +482,8 @@
   "名称": "Blast Mining",
   "时点": "",
   "en": "Stun Immunity, <b>Ignore Armor</b>",
-  "zh": "眩晕免疫, 忽略护甲"
+  "zh": "眩晕免疫，无视护甲。",
+  "效果(富文本)": "眩晕免疫，<b>无视护甲</b>。"
  },
  {
   "角色": "John",
@@ -437,7 +491,8 @@
   "名称": "Flesh to Stone",
   "时点": "命中",
   "en": "<r-b>Hit:</r-b> For the rest of the duel, <i-sb>Stoneskin</i-sb> provides you <b>Armor 3</b>.",
-  "zh": "命中:本场对决余下时间,<i-sb>石头之肤</i-sb>为你提供<b>护甲3</b>。"
+  "zh": "命中：此后整场决斗，石肤为你提供护甲 3。",
+  "效果(富文本)": "<r-b>命中：</r-b>此后整场决斗，<i-sb>石肤</i-sb>为你提供<b>护甲 3</b>。"
  },
  {
   "角色": "John",
@@ -445,7 +500,8 @@
   "名称": "Flesh to Stone",
   "时点": "后置",
   "en": "<r-b>After:</r-b> For the rest of the duel, <i-sb>Stoneskin</i-sb> provides no Armor to the opponent.",
-  "zh": "后置:本场对决余下时间,<i-sb>石头之肤</i-sb>不再为对手提供护甲。"
+  "zh": "后置：此后整场决斗，石肤不为对手提供护甲。",
+  "效果(富文本)": "<r-b>后置：</r-b>此后整场决斗，<i-sb>石肤</i-sb>不为对手提供护甲。"
  },
  {
   "角色": "John",
@@ -453,7 +509,8 @@
   "名称": "Hammering",
   "时点": "",
   "en": "+",
-  "zh": "+"
+  "zh": "（原卡格残片，效果行 OCR 待重读）[待核]",
+  "效果(富文本)": "（原卡格残片，效果行 OCR 待重读）[待核]"
  },
  {
   "角色": "John",
@@ -461,7 +518,8 @@
   "名称": "Hammering",
   "时点": "前置",
   "en": "Before: Advance 1-2. +2 Power if you did not move. JOHN",
-  "zh": "前置: 前进1-2。若未移动，则+2威力。JOHN"
+  "zh": "前置：前进 1-2。若你没有移动，+2 威力。",
+  "效果(富文本)": "前置：前进 1-2。若你没有移动，<i-sb>+2 威力</i-sb>。"
  },
  {
   "角色": "John",
@@ -469,7 +527,8 @@
   "名称": "Landslide",
   "时点": "开始",
   "en": "Start: Advance 1. JOHN",
-  "zh": "开始: 前进1。约翰"
+  "zh": "开始：前进 1。",
+  "效果(富文本)": "开始：前进 1。"
  },
  {
   "角色": "John",
@@ -477,7 +536,8 @@
   "名称": "Reactyrng[待核]",
   "时点": "命中",
   "en": "Hit: Push 0-3, as far as possible. -1 Power per space pushed.. 2 JOHN",
-  "zh": "命中: 推动0-3，尽可能。每推动1格，-1威力。 2 约翰"
+  "zh": "命中：推动 0-3，尽可能远。每推动 1 格，-1 威力。",
+  "效果(富文本)": "命中：推动 0-3，尽可能远。每推动 1 格，<i-sb>-1 威力</i-sb>。"
  },
  {
   "角色": "John",
@@ -485,7 +545,8 @@
   "名称": "Searing",
   "时点": "",
   "en": "When you are hit, Stun Immunity if you have not moved this beat.",
-  "zh": "当你被命中,若本回合尚未移动,则获得眩晕免疫。"
+  "zh": "当你被命中时，若你本回合未移动，眩晕免疫。",
+  "效果(富文本)": "当你被命中时，若你本回合未移动，眩晕免疫。"
  },
  {
   "角色": "John",
@@ -493,7 +554,8 @@
   "名称": "Searing",
   "时点": "后置",
   "en": "After: Advance 1 JOHN",
-  "zh": "后置:前进1。JOHN"
+  "zh": "后置：前进 1。",
+  "效果(富文本)": "后置：前进 1。"
  },
  {
   "角色": "John",
@@ -501,7 +563,8 @@
   "名称": "Solid",
   "时点": "展示",
   "en": "Reveal, Active Player Ignore Armor. Reveal, Reactive Player +2 Power and +2 Guard. JOHN",
-  "zh": "展示,主动玩家忽略护甲。展示,反应玩家+2威力和+2韧性。JOHN"
+  "zh": "展示，先手玩家：无视护甲。展示，后手玩家：+2 威力与+2 韧性。",
+  "效果(富文本)": "展示，先手玩家：<b>无视护甲</b>。展示，后手玩家：<i-sb>+2 威力</i-sb>与<i-sb>+2 韧性</i-sb>。"
  },
  {
   "角色": "Kai",
@@ -509,7 +572,8 @@
   "名称": "Master Key",
   "时点": "<b>",
   "en": "Your Priority becomes 4.",
-  "zh": "开始,可选:你的速度变为4。"
+  "zh": "你的速度变为 4。",
+  "效果(富文本)": "你的速度变为 4。"
  },
  {
   "角色": "Kai",
@@ -517,7 +581,8 @@
   "名称": "Master Key",
   "时点": "<g-b>",
   "en": "Activate a Function.",
-  "zh": "激活1个机能。"
+  "zh": "开始：激活 1 个机能。",
+  "效果(富文本)": "<g-b>开始：</g-b>激活 1 个机能。"
  },
  {
   "角色": "Kai",
@@ -525,7 +590,8 @@
   "名称": "Collapsible Box",
   "时点": "",
   "en": "secret is all in the construction.. Stun Immunity, Armor 2 Functions provide +0~1 Range and. +2 Power instead of printed effects.",
-  "zh": "秘密全在构造之中…眩晕免疫,护甲2机能提供+0~1距离和+2威力，改为印刷效果。"
+  "zh": "“秘密全在构造里。”眩晕免疫，护甲 2。你的机能改为提供+0~1 距离和+2 威力，而非其印刷效果。",
+  "效果(富文本)": "“秘密全在构造里。”眩晕免疫，<b>护甲 2</b>。你的机能改为提供<i-sb>+0~1 距离</i-sb>和<i-sb>+2 威力</i-sb>，而非其印刷效果。"
  },
  {
   "角色": "Kai",
@@ -533,7 +599,8 @@
   "名称": "Collapsible Box",
   "时点": "命中",
   "en": "Hit: Pull the opponent to a. a space adjacent to you. KAI",
-  "zh": "命中: 拉动对手至一个相邻的格。KAI"
+  "zh": "命中：将对手拉动至与你相邻的 1 格。",
+  "效果(富文本)": "命中：将对手拉动至与你相邻的 1 格。"
  },
  {
   "角色": "Kai",
@@ -541,7 +608,8 @@
   "名称": "Complex",
   "时点": "开始",
   "en": "Start: Advance or Retreat 1",
-  "zh": "开始: 前进或后退1"
+  "zh": "开始：前进或后退 1。",
+  "效果(富文本)": "开始：前进或后退 1。"
  },
  {
   "角色": "Kai",
@@ -549,7 +617,8 @@
   "名称": "Complex",
   "时点": "前置",
   "en": "Before: Advance or Retreat 1..",
-  "zh": "前置: 前进或后退1.."
+  "zh": "前置：前进或后退 1。",
+  "效果(富文本)": "前置：前进或后退 1。"
  },
  {
   "角色": "Kai",
@@ -557,7 +626,8 @@
   "名称": "Complex",
   "时点": "后置",
   "en": "After: Advance or Retreat 1.",
-  "zh": "后置:前进或后退1。"
+  "zh": "后置：前进或后退 1。",
+  "效果(富文本)": "后置：前进或后退 1。"
  },
  {
   "角色": "Kai",
@@ -565,7 +635,8 @@
   "名称": "Complex",
   "时点": "结束",
   "en": "End: Advance or Retreat 1.. KAI",
-  "zh": "结束: 前进或后退1..凯"
+  "zh": "结束：前进或后退 1。",
+  "效果(富文本)": "结束：前进或后退 1。"
  },
  {
   "角色": "Kai",
@@ -573,7 +644,8 @@
   "名称": "Flippen[待核]",
   "时点": "前置",
   "en": "Before: Advance or Retreat 0-X X is the number of active. Functions, up to 3.. 2 KAI",
-  "zh": "前置: 前进或后退 0-X : X 是活跃机能的数量，最多3个.. 2 Kai"
+  "zh": "前置：前进或后退 0-X。X 为你的激活机能数，至多为 3。",
+  "效果(富文本)": "前置：前进或后退 0-X。X 为你的激活机能数，至多为 3。"
  },
  {
   "角色": "Kai",
@@ -581,7 +653,8 @@
   "名称": "Mysterious",
   "时点": "",
   "en": "Ignore Guard, Ignore Armor",
-  "zh": "忽略韧性,忽略护甲"
+  "zh": "无视韧性，无视护甲。",
+  "效果(富文本)": "<b>无视韧性</b>，<b>无视护甲</b>。"
  },
  {
   "角色": "Kai",
@@ -589,7 +662,8 @@
   "名称": "Mysterious",
   "时点": "展示",
   "en": "Reveal, Perplexed: +3 Guard KAI",
-  "zh": "展示,困惑：+3韧性 Kai"
+  "zh": "展示，困惑：+3 韧性。",
+  "效果(富文本)": "展示，困惑：<i-sb>+3 韧性</i-sb>。"
  },
  {
   "角色": "Kai",
@@ -597,7 +671,8 @@
   "名称": "Secret",
   "时点": "开始",
   "en": "Start,1+ Functions active Activate another Function",
-  "zh": "开始,1+机能激活:激活另一个机能"
+  "zh": "开始，1+ 机能处于激活：激活另 1 个机能。",
+  "效果(富文本)": "开始，1+ 机能处于激活：激活另 1 个机能。"
  },
  {
   "角色": "Kai",
@@ -605,7 +680,8 @@
   "名称": "Secret",
   "时点": "命中",
   "en": "Hit, 5 Functions active: +5 Power KAI",
-  "zh": "命中, 5个机能激活: +5威力 Kai"
+  "zh": "命中，5 个机能处于激活：+5 威力。",
+  "效果(富文本)": "命中，5 个机能处于激活：<i-sb>+5 威力</i-sb>。"
  },
  {
   "角色": "Kai",
@@ -613,7 +689,8 @@
   "名称": "Strange",
   "时点": "展示",
   "en": "Reveal, 2+ Functions active: Swap your active and inactive Functions.",
-  "zh": "展示, 2+机能激活:交换你的激活和未激活机能。"
+  "zh": "展示，2+ 机能处于激活：交换你的激活与未激活的机能。",
+  "效果(富文本)": "展示，2+ 机能处于激活：交换你的激活与未激活的机能。"
  },
  {
   "角色": "Kai",
@@ -621,7 +698,8 @@
   "名称": "Strange",
   "时点": "展示",
   "en": "Reveal,Perplexed:Your Priority penalties become bonuses instead (all -X Priority. becomes +X Priority). KAI",
-  "zh": "展示,困惑:你的速度惩罚改为加成(所有-X速度成为+X速度)。凯"
+  "zh": "展示，困惑：你的速度惩罚改为加值（所有-X 速度变为+X 速度）。",
+  "效果(富文本)": "展示，困惑：你的速度惩罚改为加值（所有<i-sb>-X 速度</i-sb>变为<i-sb>+X 速度</i-sb>）。"
  },
  {
   "角色": "Kora",
@@ -629,7 +707,8 @@
   "名称": "Japes",
   "时点": "<i-sb>",
   "en": "Armor 1, Ignore Armor",
-  "zh": "护甲1, 忽略护甲"
+  "zh": "护甲 1，无视护甲。",
+  "效果(富文本)": "<b>护甲 1</b>，<b>无视护甲</b>。"
  },
  {
   "角色": "Kora",
@@ -637,7 +716,8 @@
   "名称": "Japes",
   "时点": "<g-b>",
   "en": "Regain a Thorn.",
-  "zh": "本回合结束:,回收1张荆棘。"
+  "zh": "开始：回收 1 荆棘。",
+  "效果(富文本)": "<g-b>开始：</g-b>回收 1 荆棘。"
  },
  {
   "角色": "Kora",
@@ -645,7 +725,8 @@
   "名称": "Desert[待核]",
   "时点": "",
   "en": "'Feel the desert's embrace...",
-  "zh": "开始,可选:展示沙漠的拥抱..."
+  "zh": "“感受沙漠的拥抱……”",
+  "效果(富文本)": "“感受沙漠的拥抱……”"
  },
  {
   "角色": "Kora",
@@ -653,7 +734,8 @@
   "名称": "Desert[待核]",
   "时点": "展示",
   "en": "Reveal: Avoid attacks with Priority 5+",
-  "zh": "展示: 回避速度为5+的攻击"
+  "zh": "展示：回避速度 5+ 的攻击。",
+  "效果(富文本)": "展示：回避速度 5+ 的攻击。"
  },
  {
   "角色": "Kora",
@@ -661,7 +743,8 @@
   "名称": "Desert[待核]",
   "时点": "伤害",
   "en": "Damage: Regain all Thorns a KORA",
-  "zh": "伤害：本回合结束时，回收所有荆棘/刺针"
+  "zh": "伤害：回收所有荆棘。",
+  "效果(富文本)": "<r-b>伤害：</r-b>回收所有荆棘。"
  },
  {
   "角色": "Kora",
@@ -669,7 +752,8 @@
   "名称": "Barbed",
   "时点": "展示",
   "en": "Reveal: +1 Power per Thorn depleted this beat.",
-  "zh": "展示: 每消耗1个荆棘,+1威力。"
+  "zh": "展示：本回合每消耗 1 荆棘，+1 威力。",
+  "效果(富文本)": "展示：本回合每消耗 1 荆棘，<i-sb>+1 威力</i-sb>。"
  },
  {
   "角色": "Kora",
@@ -677,7 +761,8 @@
   "名称": "Barbed",
   "时点": "开始",
   "en": "Start: Pull 1. KORA",
-  "zh": "开始：拉动1。科拉"
+  "zh": "开始：拉动 1。",
+  "效果(富文本)": "开始：拉动 1。"
  },
  {
   "角色": "Kora",
@@ -685,7 +770,8 @@
   "名称": "Bristling[待核]",
   "时点": "",
   "en": "When the opponent enters a space adjacent to you, regain a Thorn.. Armor 2",
-  "zh": "当对手进入与你相邻的格时,回收1个荆棘...护甲+2"
+  "zh": "当对手进入你相邻的 1 格时，回收 1 荆棘。护甲 2。",
+  "效果(富文本)": "当对手进入你相邻的 1 格时，回收 1 荆棘。<b>护甲 2</b>。"
  },
  {
   "角色": "Kora",
@@ -693,7 +779,8 @@
   "名称": "Bristling[待核]",
   "时点": "前置",
   "en": "Before: Pull 1. KORA",
-  "zh": "前置: 拉动1。科拉"
+  "zh": "前置：拉动 1。",
+  "效果(富文本)": "前置：拉动 1。"
  },
  {
   "角色": "Kora",
@@ -701,7 +788,8 @@
   "名称": "Poisonous",
   "时点": "展示",
   "en": "Reveal: +2 Priority per held Thorn. KORA",
-  "zh": "展示: 持有每张荆棘,+2速度。KORA"
+  "zh": "展示：每持有 1 荆棘，+2 速度。",
+  "效果(富文本)": "展示：每持有 1 荆棘，<i-sb>+2 速度</i-sb>。"
  },
  {
   "角色": "Kora",
@@ -709,7 +797,8 @@
   "名称": "Sandstorm",
   "时点": "展示",
   "en": "Reveal: Armor 1 per Thorn depleted this beat.",
-  "zh": "展示: 每消耗1点荆棘,护甲+1。"
+  "zh": "展示：本回合每消耗 1 荆棘，获得护甲 1。",
+  "效果(富文本)": "展示：本回合每消耗 1 荆棘，获得<b>护甲 1</b>。"
  },
  {
   "角色": "Kora",
@@ -717,7 +806,8 @@
   "名称": "Sandstorm",
   "时点": "后置",
   "en": "After: Teleport to any space. KORA",
-  "zh": "后置：瞬移至任意格。KORA"
+  "zh": "后置：瞬移至任意格。",
+  "效果(富文本)": "后置：瞬移至任意格。"
  },
  {
   "角色": "Kora",
@@ -725,7 +815,8 @@
   "名称": "Splintering",
   "时点": "展示",
   "en": "Reveal, 1+ Thorns depleted this beat: +1 Power and +2 Priority.",
-  "zh": "展示, 1+或更多荆棘在本回合耗尽:+1威力和+2速度。"
+  "zh": "展示，本回合消耗 1+ 荆棘：+1 威力与+2 速度。",
+  "效果(富文本)": "展示，本回合消耗 1+ 荆棘：<i-sb>+1 威力</i-sb>与<i-sb>+2 速度</i-sb>。"
  },
  {
   "角色": "Kora",
@@ -733,7 +824,8 @@
   "名称": "Splintering",
   "时点": "命中",
   "en": "Hit, Choose One:. .Push 0-2, as far as possible. Regain a Thorn. 2 KORA",
-  "zh": "命中，选择一项：. 推动0-2，尽可能。回收1枚荆棘。2科拉"
+  "zh": "命中，选择一项：尽可能推动 0-2；或回收 1 荆棘。",
+  "效果(富文本)": "命中，选择一项：尽可能推动 0-2；或回收 1 荆棘。"
  },
  {
   "角色": "Rin",
@@ -741,7 +833,8 @@
   "名称": "Deep Freeze",
   "时点": "",
   "en": "\"'Coldwater bloodline secret arts. Frost Prison, Activate!' Ignore Guard",
-  "zh": "「科德沃特[待核]血统秘术。冰霜囚笼，发动！」忽略韧性。"
+  "zh": "“科德沃特血脉秘术——冰霜牢狱，发动！”无视韧性。",
+  "效果(富文本)": "“科德沃特血脉秘术——冰霜牢狱，发动！”<b>无视韧性</b>。"
  },
  {
   "角色": "Rin",
@@ -749,7 +842,8 @@
   "名称": "Deep Freeze",
   "时点": "命中",
   "en": "Hit: Regain all Frost",
-  "zh": "命中：回收所有冰霜。"
+  "zh": "命中：回收所有冰霜。",
+  "效果(富文本)": "命中：回收所有冰霜。"
  },
  {
   "角色": "Rin",
@@ -757,7 +851,8 @@
   "名称": "Freezing",
   "时点": "",
   "en": "Reveal,3+ Frost held The opponent cannot Advance or Retreat.",
-  "zh": "展示,3+冰霜持有 对手不能前进或后退"
+  "zh": "展示，持有 3+ 冰霜：对手不能前进或后退。",
+  "效果(富文本)": "展示，持有 3+ 冰霜：对手不能前进或后退。"
  },
  {
   "角色": "Rin",
@@ -765,7 +860,8 @@
   "名称": "Freezing",
   "时点": "开始",
   "en": "Start: Retreat 1 RIN",
-  "zh": "开始：后退1格"
+  "zh": "开始：后退 1。",
+  "效果(富文本)": "开始：后退 1。"
  },
  {
   "角色": "Rin",
@@ -773,7 +869,8 @@
   "名称": "Frost[待核]",
   "时点": "展示",
   "en": "Reveal: +1 Priority per Frost in your supply.",
-  "zh": "展示: 每有1张冰霜在供应堆中,+1速度。"
+  "zh": "展示：你的供给区每有 1 冰霜，+1 速度。",
+  "效果(富文本)": "展示：你的供给区每有 1 冰霜，<i-sb>+1 速度</i-sb>。"
  },
  {
   "角色": "Rin",
@@ -781,7 +878,8 @@
   "名称": "Frost[待核]",
   "时点": "命中",
   "en": "Hit, 3+ Frost held: Spend all Frost for +3 Power. Do not regain Frost this beat. 2 RIN",
-  "zh": "命中, 3+冰霜持有:消耗全部冰霜+3威力。本回合不能回收冰霜。2里宁"
+  "zh": "命中，持有 3+ 冰霜：消耗所有冰霜，获得+3 威力。本回合不回收冰霜。",
+  "效果(富文本)": "命中，持有 3+ 冰霜：消耗所有冰霜，获得<i-sb>+3 威力</i-sb>。本回合不回收冰霜。"
  },
  {
   "角色": "Rin",
@@ -789,7 +887,8 @@
   "名称": "Nimblest",
   "时点": "前置",
   "en": "Before: Close 2",
-  "zh": "前置: 逼近2"
+  "zh": "前置：逼近 2。",
+  "效果(富文本)": "前置：逼近 2。"
  },
  {
   "角色": "Rin",
@@ -797,7 +896,8 @@
   "名称": "Nimblest",
   "时点": "命中",
   "en": "Hit: Spend 0-2 Frost for +1 Power each",
-  "zh": "命中: 消耗0-2冰霜以+1威力每次"
+  "zh": "命中：消耗 0-2 冰霜，每消耗 1 冰霜，+1 威力。",
+  "效果(富文本)": "命中：消耗 0-2 冰霜，每消耗 1 冰霜，<i-sb>+1 威力</i-sb>。"
  },
  {
   "角色": "Rin",
@@ -805,7 +905,8 @@
   "名称": "Nimblest",
   "时点": "后置",
   "en": "After: Advance or Retreat 1 RIN",
-  "zh": "后置：前进或后退1格"
+  "zh": "后置：前进或后退 1。",
+  "效果(富文本)": "后置：前进或后退 1。"
  },
  {
   "角色": "Rin",
@@ -813,7 +914,8 @@
   "名称": "Stealthiest",
   "时点": "开始",
   "en": "Start: Teleport to the nearest space behind the opponent",
-  "zh": "开始: 瞬移至对手身后的最近格"
+  "zh": "开始：瞬移至对手身后最近的格。",
+  "效果(富文本)": "开始：瞬移至对手身后最近的格。"
  },
  {
   "角色": "Rin",
@@ -821,7 +923,8 @@
   "名称": "Stealthiest",
   "时点": "命中",
   "en": "Hit, Optional: Retreat 1-2",
-  "zh": "命中,可选:后退1-2"
+  "zh": "命中，可选：后退 1-2。",
+  "效果(富文本)": "命中，可选：后退 1-2。"
  },
  {
   "角色": "Rin",
@@ -829,7 +932,8 @@
   "名称": "Stealthiest",
   "时点": "命中",
   "en": "Hit, Frost 2+: Armor 2 RIN",
-  "zh": "命中, 冰霜 2+: 护甲 2 RIN"
+  "zh": "命中，冰霜 2+：护甲 2。",
+  "效果(富文本)": "命中，冰霜 2+：<b>护甲 2</b>。"
  },
  {
   "角色": "Vekyl",
@@ -837,7 +941,8 @@
   "名称": "Doom Blade",
   "时点": "<i-sb>",
   "en": "Armor 1",
-  "zh": "护甲+1"
+  "zh": "护甲 1。",
+  "效果(富文本)": "<b>护甲 1</b>。"
  },
  {
   "角色": "Vekyl",
@@ -845,7 +950,8 @@
   "名称": "Doom Blade",
   "时点": "<r-b>",
   "en": "Place a Wisp in the nearest space behind the opponent. If the opponent is on an edge of the arena, Chip 2.",
-  "zh": "放置1张魂火于对手身后的最近格。若对手位于竞技场边缘，则削命2。"
+  "zh": "命中：在对手身后最近的格放置 1 幽魂。若对手在场地边缘，削命 2。",
+  "效果(富文本)": "<r-b>命中：</r-b>在对手身后最近的格放置 1 幽魂。若对手在场地边缘，<b>削命 2</b>。"
  },
  {
   "角色": "Vekyl",
@@ -853,7 +959,8 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "",
   "en": "In time, you'll serve too.... X is on a Wisp's space.",
-  "zh": "「时候到了，你也会臣服的……」X位于魂火的格上。"
+  "zh": "“总有一天，你也会臣服的……”X 为幽魂所在的格。",
+  "效果(富文本)": "“总有一天，你也会臣服的……”X 为幽魂所在的格。"
  },
  {
   "角色": "Vekyl",
@@ -861,7 +968,8 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "命中",
   "en": "Hit: Push or Pull 0-4. +2 Power per Wisp's space the opponent. left during this movement. a VEKYL",
-  "zh": "命中：推动或拉动0-4。对手在本次移动中每离开1个魂火的格，+2威力。VEKYL"
+  "zh": "命中：推动或拉动 0-4。此移动中对手每离开 1 个幽魂所在的格，+2 威力。",
+  "效果(富文本)": "命中：推动或拉动 0-4。此移动中对手每离开 1 个幽魂所在的格，<i-sb>+2 威力</i-sb>。"
  },
  {
   "角色": "Vekyl",
@@ -869,7 +977,8 @@
   "名称": "Ghostorm[待核]",
   "时点": "命中",
   "en": "Hit: Armor 2",
-  "zh": "命中: 护甲+2"
+  "zh": "命中：护甲 2。",
+  "效果(富文本)": "命中：<b>护甲 2</b>。"
  },
  {
   "角色": "Vekyl",
@@ -877,7 +986,8 @@
   "名称": "Ghostorm[待核]",
   "时点": "结束",
   "en": "End: Advance 1-2 VEKYL",
-  "zh": "结束: 前进1-2 VEKYL"
+  "zh": "结束：前进 1-2。",
+  "效果(富文本)": "结束：前进 1-2。"
  },
  {
   "角色": "Vekyl",
@@ -885,7 +995,8 @@
   "名称": "Haunted",
   "时点": "前置",
   "en": "Before, Choose One .Teleport to a Wisp, withdraw it and gain +1 Power.. .Retreat 1. 2 VEKYL",
-  "zh": "前置, 选择一项。瞬移至一个魂火旁，抽取它并获得+1威力。...后退1。2 VEKYL"
+  "zh": "前置，选择一项：瞬移至 1 幽魂并回收它，获得+1 威力；或后退 1。",
+  "效果(富文本)": "前置，选择一项：瞬移至 1 幽魂并回收它，获得<i-sb>+1 威力</i-sb>；或后退 1。"
  },
  {
   "角色": "Vekyl",
@@ -893,7 +1004,8 @@
   "名称": "Undead[待核]",
   "时点": "伤害",
   "en": "Damage: Push 1 per damage dealt, as far as possible. Chip 1 for each Wisp's space the Opponent enters during this movement. VEKYL",
-  "zh": "伤害：每造成1点伤害，推动1格，尽可能远。对手在本次移动中每进入一个魂火的格，削命1点。VEKYL"
+  "zh": "伤害：每造成 1 伤害，尽可能推动 1。此移动中对手每进入 1 个幽魂所在的格，削命 1。",
+  "效果(富文本)": "<r-b>伤害：</r-b>每造成 1 伤害，尽可能推动 1。此移动中对手每进入 1 个幽魂所在的格，<b>削命 1</b>。"
  },
  {
   "角色": "Wendy",
@@ -901,7 +1013,8 @@
   "名称": "Spanner",
   "时点": "<r-b>",
   "en": "Push or Pull 1. The opponent cannot Advance or Retreat.",
-  "zh": "推动或拉动1。对手不能前进或后退。"
+  "zh": "命中：推动或拉动 1。对手不能前进或后退。",
+  "效果(富文本)": "<r-b>命中：</r-b>推动或拉动 1。对手不能前进或后退。"
  },
  {
   "角色": "Wendy",
@@ -909,7 +1022,8 @@
   "名称": "Spanner",
   "时点": "<g-b>",
   "en": "Shift a Target 1~6.",
-  "zh": "移除一个目标，并将其位移1~6。"
+  "zh": "开始：转移 1 标靶 1-6。",
+  "效果(富文本)": "<g-b>开始：</g-b>转移 1 标靶 1-6。"
  },
  {
   "角色": "Wendy",
@@ -917,7 +1031,8 @@
   "名称": "Precision Strike",
   "时点": "",
   "en": "degrees left, and fire!' Stun Immunity, X is a space containing 2 Targets.",
-  "zh": "眩晕免疫, X是包含2个靶标的格."
+  "zh": "“……左转，开火！”眩晕免疫。X 为包含 2 标靶的 1 格。",
+  "效果(富文本)": "“……左转，开火！”眩晕免疫。X 为包含 2 标靶的 1 格。"
  },
  {
   "角色": "Wendy",
@@ -925,7 +1040,8 @@
   "名称": "Precision Strike",
   "时点": "前置",
   "en": "Before: The opponent cannot Advance or Retreat. a Shift a Target 0-1. WENDY",
-  "zh": "前置：对手不能前进或后退。将1个靶标位移0-1。温迪"
+  "zh": "前置：对手不能前进或后退。转移 1 标靶 0-1。",
+  "效果(富文本)": "前置：对手不能前进或后退。转移 1 标靶 0-1。"
  },
  {
   "角色": "Wendy",
@@ -933,7 +1049,8 @@
   "名称": "Airship[待核]",
   "时点": "命中",
   "en": "Hit: Shift a Target 1. Shift a Target 1. Shift a Target 1.",
-  "zh": "命中: 移动一个靶标1格。移动一个靶标1格。移动一个靶标1格。"
+  "zh": "命中：转移 1 标靶 1。转移 1 标靶 1。转移 1 标靶 1。",
+  "效果(富文本)": "命中：转移 1 标靶 1。转移 1 标靶 1。转移 1 标靶 1。"
  },
  {
   "角色": "Wendy",
@@ -941,7 +1058,8 @@
   "名称": "Airship[待核]",
   "时点": "后置",
   "en": "After, Optional: Advance orRetreat 1. 2 WENDY",
-  "zh": "后置,可选:前进或后退1。2温迪"
+  "zh": "后置，可选：前进或后退 1。",
+  "效果(富文本)": "后置，可选：前进或后退 1。"
  },
  {
   "角色": "Wendy",
@@ -949,7 +1067,8 @@
   "名称": "Mortar[待核]",
   "时点": "命中",
   "en": "Hit: +3 Power if the opponent is on a Target. +2 Power if the opponent is adjacent to a Target.",
-  "zh": "命中: 若对手位于靶标上,+3威力。若对手位于靶标相邻格,+2威力。"
+  "zh": "命中：若对手在标靶上，+3 威力。若对手与标靶相邻，+2 威力。",
+  "效果(富文本)": "命中：若对手在标靶上，<i-sb>+3 威力</i-sb>。若对手与标靶相邻，<i-sb>+2 威力</i-sb>。"
  },
  {
   "角色": "Wendy",
@@ -957,7 +1076,8 @@
   "名称": "Mortar[待核]",
   "时点": "伤害",
   "en": "Damage: Shift a Target 1-2. WENDY",
-  "zh": "伤害：移动1个靶标1-2。温迪"
+  "zh": "伤害：转移 1 标靶 1-2。",
+  "效果(富文本)": "<r-b>伤害：</r-b>转移 1 标靶 1-2。"
  },
  {
   "角色": "Wendy",
@@ -965,7 +1085,8 @@
   "名称": "Suppressing",
   "时点": "",
   "en": "When the opponent enters a Target's space, Chip 2.. Targets do not Chip when shifting or being placed..",
-  "zh": "当对手进入靶标的格：削命2..\n靶标在移动或被放置时不会削命：.."
+  "zh": "当对手进入标靶所在的格时，削命 2。标靶被转移或被放置时不触发削命。",
+  "效果(富文本)": "当对手进入标靶所在的格时，<b>削命 2</b>。标靶被转移或被放置时不触发削命。"
  },
  {
   "角色": "Wendy",
@@ -973,7 +1094,8 @@
   "名称": "Suppressing",
   "时点": "结束",
   "en": "End: Place a Target. WENDY",
-  "zh": "结束: 展示一个靶标。温迪"
+  "zh": "结束：放置 1 标靶。",
+  "效果(富文本)": "结束：放置 1 标靶。"
  },
  {
   "角色": "Wendy",
@@ -981,7 +1103,8 @@
   "名称": "Warning",
   "时点": "",
   "en": "You and the opponent cannot end movement in a space with a Target.",
-  "zh": "开始,你和对手不能在含有靶标的格结束移动。"
+  "zh": "你和对手不能在标靶所在的格结束移动。",
+  "效果(富文本)": "你和对手不能在标靶所在的格结束移动。"
  },
  {
   "角色": "Wendy",
@@ -989,6 +1112,7 @@
   "名称": "Warning",
   "时点": "结束",
   "en": "End: Advance or Retreat 1. Shift a Target 1-2 WENDY",
-  "zh": "结束: 前进或后退1。移动一个靶标1-2。wendy"
+  "zh": "结束：前进或后退 1。转移 1 标靶 1-2。",
+  "效果(富文本)": "结束：前进或后退 1。转移 1 标靶 1-2。"
  }
 ]
