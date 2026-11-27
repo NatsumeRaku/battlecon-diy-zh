@@ -1,57 +1,57 @@
 {
-  "角色": "Borneo",
-  "卡类": "终结技(双面)",
-  "系列": "毁灭篇扩展-DEX",
-  "名称": {
-    "α面": "And the Kitchen Sink",
-    "β面": "Mama Mazzaroth"
+ "角色": "Borneo",
+ "卡类": "终结技(双面)",
+ "系列": "毁灭篇扩展-DEX",
+ "名称": {
+  "α面": "And the Kitchen Sink",
+  "β面": "Mama Mazzaroth"
+ },
+ "台词": {
+  "α面": "\"Cheep cheep!\"",
+  "β面": "\"Bwark!\""
+ },
+ "效果": {
+  "α面": [
+   {
+    "时点": "命中",
+    "条件": "",
+    "效果": "Hit: Trash a Base from your hand face-down. The Opponent must guess that Base's name. Afterwards, reveal it. +4 Power if they guessed wrong."
+   },
+   {
+    "时点": "后置",
+    "条件": "",
+    "效果": "After: Recover all trashed Bases."
+   }
+  ],
+  "β面": [
+   {
+    "时点": "开始",
+    "条件": "",
+    "效果": "Start: Trash Force from the Force Counter Pile until only 4 Force remains (do not trash if there is 4 or less Force)."
+   },
+   {
+    "时点": "后置",
+    "条件": "",
+    "效果": "After: Regain 4 life."
+   }
+  ]
+ },
+ "数值": {
+  "α面": {
+   "距离": "1~4",
+   "威力": 2,
+   "速度": "6<initiative>",
+   "韧性": 0
   },
-  "台词": {
-    "α面": "\"Cheep cheep!\"",
-    "β面": "\"Bwark!\""
-  },
-  "效果": {
-    "α面": [
-      {
-        "时点": "命中",
-        "条件": "",
-        "效果": "Hit: Trash a Base from your hand face-down. The Opponent must guess that Base's name. Afterwards, reveal it. +4 Power if they guessed wrong."
-      },
-      {
-        "时点": "后置",
-        "条件": "",
-        "效果": "After: Recover all trashed Bases."
-      }
-    ],
-    "β面": [
-      {
-        "时点": "开始",
-        "条件": "",
-        "效果": "Start: Trash Force from the Force Counter Pile until only 4 Force remains (do not trash if there is 4 or less Force)."
-      },
-      {
-        "时点": "后置",
-        "条件": "",
-        "效果": "After: Regain 4 life."
-      }
-    ]
-  },
-  "数值": {
-    "α面": {
-      "距离": "1~4",
-      "威力": 2,
-      "速度": "6<initiative>",
-      "韧性": 0
-    },
-    "β面": {
-      "距离": "N/A",
-      "威力": "N/A",
-      "速度": "5<initiative>",
-      "韧性": 0
-    }
-  },
-  "α面": "<star8-alpha>",
-  "β面": "<star8-beta>",
-  "备注": "2026-11-24用户拍照录入(Scanned_7x10_split扫描件);画面模糊处以占位符标出;官方实卡(2026-11-25用户盒照凭证,行138/140删除后平反,仅限en树)；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文,中文名以对照表考据节为准",
-  "来源": "官方实卡"
+  "β面": {
+   "距离": "N/A",
+   "威力": "N/A",
+   "速度": "5<initiative>",
+   "韧性": 0
+  }
+ },
+ "α面": "<star8-alpha>",
+ "β面": "<star8-beta>",
+ "备注": "2026-11-24用户拍照录入(Scanned_7x10_split扫描件);画面模糊处以占位符标出;官方实卡(2026-11-25用户盒照凭证,行138/140删除后平反,仅限en树)；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文,中文名以对照表考据节为准；行291来源校正:非DEV无实体卡只有TTS图包,官方实卡→官方实卡(TTS图包)(与zh树同步)",
+ "来源": "官方实卡(TTS图包)"
 }

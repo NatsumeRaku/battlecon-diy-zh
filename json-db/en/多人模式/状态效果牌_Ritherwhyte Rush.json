@@ -17,6 +17,6 @@
    "效果": "+0~2 Range for the rest of the duel."
   }
  ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck43_c17;卡名未识读(rapidocr旧名Kiteredge Rush),效果照录PaddleOCR;行267图证:TTS图包deck43_c17标题带放大4-6倍逐字目识;卡面实读RITHERWHYTE RUSH,旧OCR误作Kiteredge Rush；行273时点修复:原值误置<i-sb>(卡面斜体小字),改常驻空串/按卡文时点词还原"
+ "来源": "官方实卡(TTS图包)",
+ "备注": "来源注记:TTS图包;deck43_c17;卡名未识读(rapidocr旧名Kiteredge Rush),效果照录PaddleOCR;行267图证:TTS图包deck43_c17标题带放大4-6倍逐字目识;卡面实读RITHERWHYTE RUSH,旧OCR误作Kiteredge Rush；行273时点修复:原值误置<i-sb>(卡面斜体小字),改常驻空串/按卡文时点词还原；行291来源校正:非DEV无实体卡只有TTS图包,官方实卡→官方实卡(TTS图包)(与zh树同步)"
 }

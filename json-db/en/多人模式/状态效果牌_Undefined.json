@@ -17,6 +17,6 @@
    "效果": "For the rest of the duel, the Opponent has +2 Range."
   }
  ],
- "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck43_c28;PaddleOCR实读UNDEFINED(原rapidocr误读Ultimate Range)；行273时点修复:原值误置<i-sb>(卡面斜体小字),改常驻空串/按卡文时点词还原"
+ "来源": "官方实卡(TTS图包)",
+ "备注": "来源注记:TTS图包;deck43_c28;PaddleOCR实读UNDEFINED(原rapidocr误读Ultimate Range)；行273时点修复:原值误置<i-sb>(卡面斜体小字),改常驻空串/按卡文时点词还原；行291来源校正:非DEV无实体卡只有TTS图包,官方实卡→官方实卡(TTS图包)(与zh树同步)"
 }

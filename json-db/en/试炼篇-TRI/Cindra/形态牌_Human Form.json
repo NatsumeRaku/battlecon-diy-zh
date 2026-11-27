@@ -1,23 +1,23 @@
 {
-  "角色": "Cindra Flama",
-  "角标": "",
-  "名称": "Human Form",
-  "卡类": "形态牌",
-  "系列": "试炼篇-TRI",
-  "效果": [
-    {
-      "时点": "",
-      "条件": "",
-      "效果": "Recycle, 10 or less life: Set your life to 10. Replace your Styles them with the matching-colored Phoenix Styles, wherever they are (your original Styles are trashed). Become <i-sb>Phoenix</i-sb>."
-    }
-  ],
-  "数值": {
-    "距离": "N/A",
-    "威力": "N/A",
-    "速度": "N/A",
-    "韧性": "N/A"
-  },
-  "台词": "“My conviction will not waver.”",
-  "备注": "来源注记:TTS图包;deck32格52;页脚CINDRA (HUMAN FORM) •TRI;Recycle句式照录原文(含them)；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
-  "来源": "官方实卡"
+ "角色": "Cindra Flama",
+ "角标": "",
+ "名称": "Human Form",
+ "卡类": "形态牌",
+ "系列": "试炼篇-TRI",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "Recycle, 10 or less life: Set your life to 10. Replace your Styles them with the matching-colored Phoenix Styles, wherever they are (your original Styles are trashed). Become <i-sb>Phoenix</i-sb>."
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "N/A"
+ },
+ "台词": "“My conviction will not waver.”",
+ "备注": "来源注记:TTS图包;deck32格52;页脚CINDRA (HUMAN FORM) •TRI;Recycle句式照录原文(含them)；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准；行291来源校正:非DEV无实体卡只有TTS图包,官方实卡→官方实卡(TTS图包)(与zh树同步)",
+ "来源": "官方实卡(TTS图包)"
 }

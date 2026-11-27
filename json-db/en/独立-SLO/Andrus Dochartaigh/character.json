@@ -13,8 +13,8 @@
   "风格_Retrieval.json",
   "风格_Twin.json"
  ],
- "备注": "来源注记:TTS图包;deck47格8角色卡;Andrus强化版(Royal Bodyguard);姓氏字形[待核]；中文名:考据拟译v1[待核](行202,对照表考据节)；行209合并:原\"Andrus\"夹并入,character.json两夹并集",
- "来源": "官方实卡",
+ "备注": "来源注记:TTS图包;deck47格8角色卡;Andrus强化版(Royal Bodyguard);姓氏字形[待核]；中文名:考据拟译v1[待核](行202,对照表考据节)；行209合并:原\"Andrus\"夹并入,character.json两夹并集；行291来源校正:非DEV无实体卡只有TTS图包,官方实卡→官方实卡(TTS图包)(与zh树同步)",
+ "来源": "官方实卡(TTS图包)",
  "中文名": "安德鲁斯·多尔卡泰",
  "名称": "Andrus",
  "卡类": "角色",

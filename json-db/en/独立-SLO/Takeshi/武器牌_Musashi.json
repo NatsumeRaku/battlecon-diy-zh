@@ -1,27 +1,27 @@
 {
-  "角色": "Takeshi",
-  "角标": "<purple-star>",
-  "名称": "Musashi",
-  "卡类": "武器牌",
-  "系列": "独立-SLO",
-  "数值": {
-    "距离": "+0~1",
-    "威力": "+1",
-    "速度": "+1",
-    "韧性": "+0"
+ "角色": "Takeshi",
+ "角标": "<purple-star>",
+ "名称": "Musashi",
+ "卡类": "武器牌",
+ "系列": "独立-SLO",
+ "数值": {
+  "距离": "+0~1",
+  "威力": "+1",
+  "速度": "+1",
+  "韧性": "+0"
+ },
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>Vulnerable</i-sb> (Opponents ignore your Guard and Armor)"
   },
-  "效果": [
-    {
-      "时点": "",
-      "条件": "",
-      "效果": "<i-sb>Vulnerable</i-sb> (Opponents ignore your Guard and Armor)"
-    },
-    {
-      "时点": "后置",
-      "条件": "your attack did not hit",
-      "效果": "<bl-b>After, your attack did not hit:</bl-b> Trash this <i-sb>Weapon</i-sb>."
-    }
-  ],
-  "备注": "来源注记:TTS图包;deck50格24;页脚TAKESHI (WEAPON CARD)·SLO；名称:考据定案[待核](行200)回填(行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
-  "来源": "官方实卡"
+  {
+   "时点": "后置",
+   "条件": "your attack did not hit",
+   "效果": "<bl-b>After, your attack did not hit:</bl-b> Trash this <i-sb>Weapon</i-sb>."
+  }
+ ],
+ "备注": "来源注记:TTS图包;deck50格24;页脚TAKESHI (WEAPON CARD)·SLO；名称:考据定案[待核](行200)回填(行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准；行291来源校正:非DEV无实体卡只有TTS图包,官方实卡→官方实卡(TTS图包)(与zh树同步)",
+ "来源": "官方实卡(TTS图包)"
 }

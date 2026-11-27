@@ -1,22 +1,22 @@
 {
-  "角色": "Welsie",
-  "角标": "",
-  "名称": "Welsie",
-  "卡类": "角色",
-  "系列": "命运篇-FAT",
-  "效果": [],
-  "数值": {},
-  "备注": "来源注记:TTS图包;盒照识别(66050/66052);Welsie Acktern,FAT[轻待核];卡面已自TTS补录,骨架备注失效;2026-11-26 TTS deck38格66角色卡补全英文/称号;deck37格10-59补录风格/招式；中文名:考据拟译v1[待核](行202,对照表考据节)",
-  "来源": "官方实卡",
-  "英文": "Welsie Acktern",
-  "称号": "Time Traveler",
-  "卡牌清单": [
-    "招式_Anomalous.json",
-    "终结技_Arc.json",
-    "风格_Discordant.json",
-    "风格_Parallax.json",
-    "风格_Quandary.json",
-    "风格_Temporal.json"
-  ],
-  "中文名": "薇尔茜·阿克特恩"
+ "角色": "Welsie",
+ "角标": "",
+ "名称": "Welsie",
+ "卡类": "角色",
+ "系列": "命运篇-FAT",
+ "效果": [],
+ "数值": {},
+ "备注": "来源注记:TTS图包;盒照识别(66050/66052);Welsie Acktern,FAT[轻待核];卡面已自TTS补录,骨架备注失效;2026-11-26 TTS deck38格66角色卡补全英文/称号;deck37格10-59补录风格/招式；中文名:考据拟译v1[待核](行202,对照表考据节)；行291来源校正:非DEV无实体卡只有TTS图包,官方实卡→官方实卡(TTS图包)(与zh树同步)",
+ "来源": "官方实卡(TTS图包)",
+ "英文": "Welsie Acktern",
+ "称号": "Time Traveler",
+ "卡牌清单": [
+  "招式_Anomalous.json",
+  "终结技_Arc.json",
+  "风格_Discordant.json",
+  "风格_Parallax.json",
+  "风格_Quandary.json",
+  "风格_Temporal.json"
+ ],
+ "中文名": "薇尔茜·阿克特恩"
 }

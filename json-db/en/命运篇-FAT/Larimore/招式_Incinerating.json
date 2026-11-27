@@ -1,29 +1,29 @@
 {
-  "角色": "Larimore",
-  "角标": "<blue-circle>",
-  "名称": "Incinerating",
-  "卡类": "招式",
-  "系列": "命运篇-FAT",
-  "效果": [
-    {
-      "时点": "命中",
-      "条件": "",
-      "效果": "<r-b>Hit, Optional:</r-b> Spend <i-sb>3 Firepower</i-sb> for <i-sb>Ignore Guard</i-sb> and <i-sb>Ignore Armor</i-sb>.",
-      "可选": true
-    },
-    {
-      "时点": "伤害",
-      "条件": "",
-      "效果": "<r-b>Damage, Optional:</r-b> Spend <i-sb>1~2 Firepower</i-sb> for Push <i-sb>1</i-sb> each.",
-      "可选": true
-    }
-  ],
-  "数值": {
-    "距离": "+0~1",
-    "威力": "+1",
-    "速度": "+0",
-    "韧性": "+0"
+ "角色": "Larimore",
+ "角标": "<blue-circle>",
+ "名称": "Incinerating",
+ "卡类": "招式",
+ "系列": "命运篇-FAT",
+ "效果": [
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit, Optional:</r-b> Spend <i-sb>3 Firepower</i-sb> for <i-sb>Ignore Guard</i-sb> and <i-sb>Ignore Armor</i-sb>.",
+   "可选": true
   },
-  "备注": "来源注记:TTS图包;deck37格34;页脚LARIMORE •FAT;蓝色圆形角标;招式牌；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
-  "来源": "官方实卡"
+  {
+   "时点": "伤害",
+   "条件": "",
+   "效果": "<r-b>Damage, Optional:</r-b> Spend <i-sb>1~2 Firepower</i-sb> for Push <i-sb>1</i-sb> each.",
+   "可选": true
+  }
+ ],
+ "数值": {
+  "距离": "+0~1",
+  "威力": "+1",
+  "速度": "+0",
+  "韧性": "+0"
+ },
+ "备注": "来源注记:TTS图包;deck37格34;页脚LARIMORE •FAT;蓝色圆形角标;招式牌；名称:考据拟译v1[待核](行204)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准；行291来源校正:非DEV无实体卡只有TTS图包,官方实卡→官方实卡(TTS图包)(与zh树同步)",
+ "来源": "官方实卡(TTS图包)"
 }

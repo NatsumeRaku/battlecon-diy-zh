@@ -1,22 +1,22 @@
 {
-  "角色": "Triallandra",
-  "角标": "<yellow-hexagon>",
-  "名称": "Galactic",
-  "卡类": "风格",
-  "系列": "命运篇-FAT",
-  "效果": [
-    {
-      "时点": "持续",
-      "条件": "",
-      "效果": "Your active Facade's <i-sb>Transform</i-sb> and <i-sb>Stabilize</i-sb> are both applied to this attack (instead of just one as usual)."
-    }
-  ],
-  "数值": {
-    "距离": "+0",
-    "威力": "+0",
-    "速度": "-1",
-    "韧性": "+0"
-  },
-  "备注": "来源注记:TTS图包;deck37格17;页脚IRIALANDRADAYAMORELLA •FAT;黄色六边形角标；风格名考据拟译v1[待核](行203)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准",
-  "来源": "官方实卡"
+ "角色": "Triallandra",
+ "角标": "<yellow-hexagon>",
+ "名称": "Galactic",
+ "卡类": "风格",
+ "系列": "命运篇-FAT",
+ "效果": [
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "Your active Facade's <i-sb>Transform</i-sb> and <i-sb>Stabilize</i-sb> are both applied to this attack (instead of just one as usual)."
+  }
+ ],
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "-1",
+  "韧性": "+0"
+ },
+ "备注": "来源注记:TTS图包;deck37格17;页脚IRIALANDRADAYAMORELLA •FAT;黄色六边形角标；风格名考据拟译v1[待核](行203)；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准；行291来源校正:非DEV无实体卡只有TTS图包,官方实卡→官方实卡(TTS图包)(与zh树同步)",
+ "来源": "官方实卡(TTS图包)"
 }
