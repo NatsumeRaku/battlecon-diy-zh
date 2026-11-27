@@ -229,7 +229,7 @@
   "名称": "Wish Granted",
   "时点": "展示",
   "en": "Reveal, Powerless: +4 Priority. DAJIIN",
-  "zh": "开始,可选:+4速度。达吉因"
+  "zh": "展示,无威力:+4速度。达吉因"
  },
  {
   "角色": "Dajin",
@@ -549,7 +549,7 @@
   "名称": "Complex",
   "时点": "后置",
   "en": "After: Advance or Retreat 1.",
-  "zh": "开始: 前进或后退1。"
+  "zh": "后置:前进或后退1。"
  },
  {
   "角色": "Kai",
@@ -621,7 +621,7 @@
   "名称": "Japes",
   "时点": "<i-sb>",
   "en": "Armor 1, Ignore Armor",
-  "zh": "盔甲1, 忽略盔甲"
+  "zh": "护甲1, 忽略护甲"
  },
  {
   "角色": "Kora",
@@ -733,7 +733,7 @@
   "名称": "Deep Freeze",
   "时点": "",
   "en": "\"'Coldwater bloodline secret arts. Frost Prison, Activate!' Ignore Guard",
-  "zh": "激活：冰霜囚笼！忽略韧性："
+  "zh": "「科德沃特[待核]血统秘术。冰霜囚笼，发动！」忽略韧性。"
  },
  {
   "角色": "Rin",
@@ -741,7 +741,7 @@
   "名称": "Deep Freeze",
   "时点": "命中",
   "en": "Hit: Regain all Frost",
-  "zh": "命中: 回收全部冰霜"
+  "zh": "命中：回收所有冰霜。"
  },
  {
   "角色": "Rin",
@@ -845,7 +845,7 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "",
   "en": "In time, you'll serve too.... X is on a Wisp's space.",
-  "zh": "开始:X个目标位于魂火的格上。"
+  "zh": "「时候到了，你也会臣服的……」X位于魂火的格上。"
  },
  {
   "角色": "Vekyl",
@@ -853,7 +853,7 @@
   "名称": "名称OCR未识读[待核]",
   "时点": "命中",
   "en": "Hit: Push or Pull 0-4. +2 Power per Wisp's space the opponent. left during this movement. a VEKYL",
-  "zh": "命中：推动或拉动0-4。每有一个魂火在移动过程中留在对手旁边，+2威力。"
+  "zh": "命中：推动或拉动0-4。对手在本次移动中每离开1个魂火的格，+2威力。VEKYL"
  },
  {
   "角色": "Vekyl",
@@ -933,7 +933,7 @@
   "名称": "Airship[待核]",
   "时点": "后置",
   "en": "After, Optional: Advance orRetreat 1. 2 WENDY",
-  "zh": "开始,可选:前进或后退1。2温迪"
+  "zh": "后置,可选:前进或后退1。2温迪"
  },
  {
   "角色": "Wendy",
