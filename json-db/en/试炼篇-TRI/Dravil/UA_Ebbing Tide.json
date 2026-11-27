@@ -1,0 +1,28 @@
+{
+ "角色": "Dravil Coldwater",
+ "角标": "",
+ "名称": "EBBING TIDE",
+ "卡类": "特技(UA)",
+ "系列": "试炼篇-TRI",
+ "机制概述": "Dravil has an Ice and a Steam Form, determined by which side of the arena he is on. His attacks change depending on which Form he is in, so use his mobility to set up the perfect attack!",
+ "效果": [
+  {
+   "时点": "初始设置",
+   "条件": "",
+   "效果": "<b>Setup:</b> Place the <i-sb>Ice Marker</i-sb> on the edge of the arena behind Dravil, and the <i-sb>Steam Marker</i-sb> on the edge of the arena in front of him."
+  },
+  {
+   "时点": "持续",
+   "条件": "",
+   "效果": "Dravil’s <i-sb>Ice</i-sb> triggers activate if he is closer to the <i-sb>Ice Marker</i-sb> than the Opponent. Dravil’s <i-sb>Steam</i-sb> triggers activate if he is closer to the <i-sb>Steam Marker</i-sb> than the Opponent. <i>(If there are Opponents on both sides of Dravil, he activates both kinds of triggers.)</i>"
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "N/A"
+ },
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行264建档;来源注记:TTS图包TRI UA切片UA_cell41;UA卡逐字目识录入(非回译);机制概述=卡面斜体说明段;Setup黑粗;Ice/Steam标记已由行263建配件档(标记/正方形)"
+}

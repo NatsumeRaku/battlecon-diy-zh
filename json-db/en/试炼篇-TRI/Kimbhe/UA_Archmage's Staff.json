@@ -1,0 +1,29 @@
+{
+ "角色": "Uleyla Kimbhe",
+ "角标": "",
+ "名称": "ARCHMAGE’S STAFF",
+ "卡类": "特技(UA)",
+ "系列": "试炼篇-TRI",
+ "机制概述": "Kimbhe has a Staff Marker that gives Power to whoever stands on it. Her Styles and Unique Base let her control the Marker, leveraging it to enhance her attacks.",
+ "效果": [
+  {
+   "时点": "初始设置",
+   "条件": "",
+   "效果": "<b>Setup:</b> Place the Staff in the center of the board."
+  },
+  {
+   "时点": "每当",
+   "条件": "any fighter hits (after other Hit triggers)",
+   "效果": "<p-b>Whenever any fighter hits (after other Hit triggers),</p-b> if that fighter is on the Staff they gain <i-sb>+2 Power</i-sb>.",
+   "背景": "灰底"
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "N/A"
+ },
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行264建档;来源注记:TTS图包TRI UA切片UA_cell43;UA卡逐字目识录入(非回译);机制概述=卡面斜体说明段;Whenever段卡面紫字+灰底,按行255当/每当区分入每当(可多次触发);卡名撇号按卡面印刷ARCHMAGE’S"
+}

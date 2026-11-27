@@ -1,0 +1,39 @@
+{
+ "角色": "Lucida Malephaise",
+ "角标": "",
+ "名称": "JAWS OF MALEPHAISE",
+ "卡类": "特技(UA)",
+ "系列": "试炼篇-TRI",
+ "机制概述": "Lucida has 4 double-sided Rend/Consume Tokens. When she hits the opponent, she gains a Rend Token, which automatically applies its effects next beat. The Rend Token then becomes an Ingest Token, which can be used on a future turn to empower Lucida.",
+ "效果": [
+  {
+   "时点": "初始设置",
+   "条件": "",
+   "效果": "<b>Setup:</b> Deplete all Rend/Consume Tokens and place them with their <i-sb>Rend</i-sb> side up."
+  },
+  {
+   "时点": "限定投注",
+   "条件": "",
+   "效果": "<o-b>Limited Ante:</o-b> Use a <i-sb>Consume Token</i-sb>, and flip it to its <i-sb>Rend</i-sb> side as you deplete it.",
+   "背景": "橙底"
+  },
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<b>Reveal:</b> Apply the effects of all <i-sb>Rend Tokens</i-sb> to the Opponent, then flip those tokens to their <i-sb>Consume</i-sb> side."
+  },
+  {
+   "时点": "命中",
+   "条件": "",
+   "效果": "<r-b>Hit:</r-b> Regain a <i-sb>Rend Token</i-sb>."
+  }
+ ],
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "N/A"
+ },
+ "来源": "官方实卡（TTS图包）",
+ "备注": "行264建档;来源注记:TTS图包TRI UA切片UA_cell44;UA卡逐字目识录入(非回译);机制概述=卡面斜体说明段;Setup/Reveal黑粗,Limited Ante橙底橙字,Hit红粗;说明段称Ingest Token而Setup/Limited Ante称Consume Token,原卡两词并存照录[待核];四枚指示物印刷名REND PAIN/COURAGE/SPIRIT/VALOR见配件档"
+}
