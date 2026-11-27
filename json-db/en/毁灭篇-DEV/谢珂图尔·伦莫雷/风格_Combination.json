@@ -1,0 +1,33 @@
+{
+ "卡类": "风格",
+ "名称": "Combination",
+ "中文名": "组合",
+ "角色": "Shekhtur Lenmorre",
+ "系列": "毁灭篇-DEV",
+ "角标": "<green-tri-down>",
+ "数值": {
+  "距离": "+0",
+  "威力": "+2",
+  "速度": "-1",
+  "韧性": "+0"
+ },
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "hit the opponent last beat:",
+   "效果": "Reveal, hit the opponent last beat: +1 <i-sb>Power</i-sb> and +1 <i-sb>Priority</i-sb>."
+  },
+  {
+   "时点": "开始",
+   "条件": "Priority 7+:",
+   "效果": "<g-b>Start, Priority 7+:</g-b> Ignore Armor."
+  },
+  {
+   "时点": "前置",
+   "条件": "Range 3+:",
+   "效果": "<bl-b>Before, Range 3+:</bl-b> This attack does not hit the opponent."
+  }
+ ],
+ "来源": "官方实卡",
+ "备注": "来源注记:TTS图包;deck47(F_19)_c33;卡名实读"
+}

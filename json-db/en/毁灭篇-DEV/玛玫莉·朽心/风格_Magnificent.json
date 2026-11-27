@@ -1,0 +1,28 @@
+{
+ "卡类": "风格",
+ "名称": "Magnificent",
+ "中文名": "宏伟",
+ "角色": "Marmelee Greyheart",
+ "系列": "毁灭篇-DEV",
+ "角标": "<green-tri-down>",
+ "数值": {
+  "距离": "+1~2",
+  "威力": "-1",
+  "速度": "+1",
+  "韧性": "+0"
+ },
+ "效果": [
+  {
+   "时点": "命中",
+   "条件": "Optional:",
+   "效果": "<r-b>Hit, Optional:</r-b> Spend 1-5 <i-sb>Concentration</i-sb> for +1 <i-sb>Power</i-sb> each."
+  },
+  {
+   "时点": "后置",
+   "条件": "Optional:",
+   "效果": "<bl-b>After, Optional:</bl-b> Spend 2 <i-sb>Concentration</i-sb> to Teleport to any space."
+  }
+ ],
+ "来源": "官方实卡",
+ "备注": "来源注记:TTS图包;deck44(F_09)_c63"
+}

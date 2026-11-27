@@ -1,0 +1,28 @@
+{
+ "卡类": "风格",
+ "名称": "Nullifying",
+ "中文名": "抵消",
+ "角色": "Marmelee Greyheart",
+ "系列": "毁灭篇-DEV",
+ "角标": "<red-diamond>",
+ "数值": {
+  "距离": "+1~2",
+  "威力": "+0",
+  "速度": "+1",
+  "韧性": "+0"
+ },
+ "效果": [
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start:</g-b> Retreat 1."
+  },
+  {
+   "时点": "命中",
+   "条件": "Optional:",
+   "效果": "<r-b>Hit, Optional:</r-b> Spend 1-5 <i-sb>Concentration</i-sb> for Armor 1 each."
+  }
+ ],
+ "来源": "官方实卡",
+ "备注": "来源注记:TTS图包;deck44(F_09)_c60"
+}
