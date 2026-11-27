@@ -4,9 +4,9 @@
  "卡类": "配件",
  "系列": "试炼篇-TRI",
  "类别": "指示物",
- "效果": "四枚双面指示物(正面撕裂/背面吞噬)。正面印刷名与效果:①Rend Pain[待核:底边小字仅辨识到AFTER SUFFER C…]；②Rend Courage——Reveal: Ignore Armor；③Rend Spirit——+1 Priority；④Rend Valor——+1 Power。背面Consume面效果文本未见于UA卡图,待实卡补录。",
+ "效果": "Four double-sided tokens (Rend front / Consume back), each individually named.<br>• REND PAIN — AFTER: SUFFER CHIP 1. / CONSUME PAIN — AFTER: REGAIN 2 LIFE.<br>• REND COURAGE — VULNERABLE (IGNORE ARMOR & GUARD) / CONSUME COURAGE — ARMOR 2.<br>• REND SPIRIT — -1 PRIORITY / CONSUME SPIRIT — +2 PRIORITY.<br>• REND VALOR — -1 POWER / CONSUME VALOR — +2 POWER.",
  "数量": 4,
  "形状": "圆形",
  "来源": "官方实卡（TTS图包）",
- "备注": "行264建档;来源注记:TTS图包TRI UA切片UA_cell44;英文原词=Rend/Consume Tokens;UA\"4 double-sided Rend/Consume Tokens\";形状圆形四枚,按配件条目规范三归指示物(效果非空);说明段另称Ingest Token,与Setup的Consume并存照录[待核];四枚正面小字部分不可辨,Rend Pain底边与背面文本均[待核],不臆造"
+ "备注": "行266实卡档补录(取代行264的[待核]占位);来源注记:TTS创意工坊2182704749 指示物原图8张(450x450,逐枚3倍放大目识);撕裂面Rend Pain/Courage/Spirit/Valor与吞噬面Consume一一对应;英文原词=Rend/Consume Tokens;UA\"4 double-sided Rend/Consume Tokens\";形状圆形四枚,按配件条目规范三归指示物(效果非空);说明段称Ingest Token而Setup/Limited Ante称Consume Token,原卡两词并存照录[待核];VULNERABLE为TRI新词,库内无先例"
 }
