@@ -10,16 +10,16 @@
  "机制概述": "",
  "机制名": "",
  "卡牌清单": [
+  "专属招式_Brand.json",
   "特技(UA)_地狱之爪.json",
-  "风格_Reaver.json",
-  "风格_Spiral.json",
-  "风格_Unleashed.json",
+  "状态效果牌_Nail in the Coffin.json",
+  "状态效果牌_Power Unleashed.json",
+  "终结技_Coffin Nails.json",
   "风格_Combination.json",
   "风格_Jugular.json",
-  "专属_Brand.json",
-  "终结技_Coffin Nails.json",
-  "状态效果牌_Power Unleashed.json",
-  "状态效果牌_Nail in the Coffin.json"
+  "风格_Reaver.json",
+  "风格_Spiral.json",
+  "风格_Unleashed.json"
  ],
  "id": "毁灭篇-DEV-谢珂图尔·伦莫雷",
  "英文状态": "名称/称号已核实(TTS角色卡)",

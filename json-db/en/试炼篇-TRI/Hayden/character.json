@@ -1,25 +1,25 @@
 {
-  "角色": "Hayden",
-  "角标": "",
-  "名称": "Hayden",
-  "卡类": "角色",
-  "系列": "试炼篇-TRI",
-  "效果": [],
-  "数值": {},
-  "备注": "来源注记:TTS图包;盒照识别(66050/66052);Hayden Morgan,TVTropes Trials名单;骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck33/34录入:风格×4+招式×1+终结技×1(Cindra另有凤凰形态套5张);deck32格42角色卡补全称号；中文名:考据拟译v1[待核](行202,对照表考据节)",
-  "来源": "官方实卡",
-  "卡牌清单": [
-    "招式_Telekinetic.json",
-    "终结技_Hemorrhage.json",
-    "终结技_Potential.json",
-    "风格_Latent.json",
-    "风格_Reckless.json",
-    "风格_Telestatic.json",
-    "风格_Versatile.json",
-    "UA_Breaking Point.json",
-    "配件_狂怒·控制计数物.json"
-  ],
-  "英文": "Hayden Morgan",
-  "称号": "Latent Psionic",
-  "中文名": "海登·摩根"
+ "角色": "Hayden",
+ "角标": "",
+ "名称": "Hayden",
+ "卡类": "角色",
+ "系列": "试炼篇-TRI",
+ "效果": [],
+ "数值": {},
+ "备注": "来源注记:TTS图包;盒照识别(66050/66052);Hayden Morgan,TVTropes Trials名单;骨架占位,卡面内容待TTS图包识别后补录;2026-11-26 TTS deck33/34录入:风格×4+招式×1+终结技×1(Cindra另有凤凰形态套5张);deck32格42角色卡补全称号；中文名:考据拟译v1[待核](行202,对照表考据节)",
+ "来源": "官方实卡",
+ "卡牌清单": [
+  "招式_Telekinetic.json",
+  "特技(UA)_Breaking Point.json",
+  "终结技_Hemorrhage.json",
+  "终结技_Potential.json",
+  "配件_狂怒·控制计数物.json",
+  "风格_Latent.json",
+  "风格_Reckless.json",
+  "风格_Telestatic.json",
+  "风格_Versatile.json"
+ ],
+ "英文": "Hayden Morgan",
+ "称号": "Latent Psionic",
+ "中文名": "海登·摩根"
 }

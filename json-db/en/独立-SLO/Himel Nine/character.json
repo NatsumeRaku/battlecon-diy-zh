@@ -1,24 +1,23 @@
 {
-  "角色": "Himel Nine",
-  "角标": "",
-  "名称": "Himel Nine",
-  "卡类": "角色",
-  "系列": "独立-SLO",
-  "效果": [],
-  "数值": {},
-  "备注": "来源注记:2026-11-24用户供图录入;中文名海梅尔九号;套件来自TTS截图,Take the Shot数值存疑;TTS模拟器截图,图糊随缘录入；中文名:考据拟译v1[待核](行202,对照表考据节)",
-  "来源": "官方实卡",
-  "卡牌清单": [
-    "character.json",
-    "状态效果牌_Exposed.json",
-    "状态效果牌_Invincible.json",
-    "终结技_IK 38.json",
-    "风格_Decompression.json",
-    "风格_Detonation.json",
-    "风格_Duker.json",
-    "风格_Insurmountable.json",
-    "风格_Sentinel.json",
-    "风格_Take the Shot.json"
-  ],
-  "中文名": "海梅尔九号"
+ "角色": "Himel Nine",
+ "角标": "",
+ "名称": "Himel Nine",
+ "卡类": "角色",
+ "系列": "独立-SLO",
+ "效果": [],
+ "数值": {},
+ "备注": "来源注记:2026-11-24用户供图录入;中文名海梅尔九号;套件来自TTS截图,Take the Shot数值存疑;TTS模拟器截图,图糊随缘录入；中文名:考据拟译v1[待核](行202,对照表考据节)",
+ "来源": "官方实卡",
+ "卡牌清单": [
+  "状态效果牌_Exposed.json",
+  "状态效果牌_Invincible.json",
+  "终结技_IK 38.json",
+  "风格_Decompression.json",
+  "风格_Detonation.json",
+  "风格_Duker.json",
+  "风格_Insurmountable.json",
+  "风格_Sentinel.json",
+  "风格_Take the Shot.json"
+ ],
+ "中文名": "海梅尔九号"
 }

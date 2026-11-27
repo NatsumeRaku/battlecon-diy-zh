@@ -10,7 +10,6 @@
  "机制概述": "",
  "机制名": "",
  "卡牌清单": [
-  "UA_循环.json",
   "专属招式_Leap.json",
   "专属招式_Rafter.json",
   "专属招式_Slope.json",
@@ -21,6 +20,7 @@
   "形态牌_Balance Mode.json",
   "形态牌_Lockdown Mode.json",
   "形态牌_Reactor Mode.json",
+  "特技(UA)_循环.json",
   "终结技_重置_虚无.json",
   "风格_Capturing.json",
   "风格_Collection.json",

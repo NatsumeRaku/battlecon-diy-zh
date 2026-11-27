@@ -1,22 +1,23 @@
 {
-  "角色": "Baenvier",
-  "角标": "",
-  "名称": "Baenvier",
-  "卡类": "角色",
-  "系列": "命运篇-FAT",
-  "效果": [],
-  "数值": {},
-  "备注": "来源注记:TTS图包;盒照识别(66050/66052);Baenvier,FAT[轻待核];卡面已自TTS补录,骨架备注失效;2026-11-26 TTS deck38格67角色卡补全英文/称号;deck37格10-59补录风格/招式；中文名:考据拟译v1[待核](行202,对照表考据节)",
-  "来源": "官方实卡",
-  "英文": "Baenvier Marlgrove",
-  "称号": "Knight Commander",
-  "卡牌清单": [
-    "招式_Crescent.json",
-    "终结技_Spire.json",
-    "风格_Cure.json",
-    "风格_Destruction.json",
-    "风格_Ranc.json",
-    "风格_Spellforge.json"
-  ],
-  "中文名": "班维尔·马格罗夫"
+ "角色": "Baenvier",
+ "角标": "",
+ "名称": "Baenvier",
+ "卡类": "角色",
+ "系列": "命运篇-FAT",
+ "效果": [],
+ "数值": {},
+ "备注": "来源注记:TTS图包;盒照识别(66050/66052);Baenvier,FAT[轻待核];卡面已自TTS补录,骨架备注失效;2026-11-26 TTS deck38格67角色卡补全英文/称号;deck37格10-59补录风格/招式；中文名:考据拟译v1[待核](行202,对照表考据节)",
+ "来源": "官方实卡",
+ "英文": "Baenvier Marlgrove",
+ "称号": "Knight Commander",
+ "卡牌清单": [
+  "招式_Crescent.json",
+  "状态效果牌_Hot Hot Hot!.json",
+  "终结技_Spire.json",
+  "风格_Cure.json",
+  "风格_Destruction.json",
+  "风格_Ranc.json",
+  "风格_Spellforge.json"
+ ],
+ "中文名": "班维尔·马格罗夫"
 }

@@ -9,16 +9,15 @@
  "id": "毁灭篇-DEV-玛玫莉·朽心",
  "难度": "初级",
  "卡牌清单": [
-  "character.json",
-  "风格_石化.json",
-  "风格_宏伟.json",
-  "风格_障壁.json",
-  "风格_抵消.json",
-  "风格_巫术.json",
   "专属招式_冥想.json",
+  "特技(UA)_专注.json",
   "终结技_星界爆轰_星界障壁.json",
   "配件_专注.json",
-  "特技(UA)_专注.json"
+  "风格_宏伟.json",
+  "风格_巫术.json",
+  "风格_抵消.json",
+  "风格_石化.json",
+  "风格_障壁.json"
  ],
  "机制名": "<i-sb>专注</i-sb>",
  "英文": "Marmelee Greyheart",

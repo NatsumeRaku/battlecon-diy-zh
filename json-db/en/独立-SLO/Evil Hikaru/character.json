@@ -1,20 +1,19 @@
 {
-  "角色": "Evil Hikaru",
-  "英文全名": "Evil Hikaru",
-  "称号": "Bizarre Reflection",
-  "系列": "独立-SLO",
-  "角标": "N/A",
-  "卡牌清单": [
-    "character.json",
-    "专属招式_Devastator.json",
-    "终结技_Rage of the Land.json",
-    "风格_Blood Red.json",
-    "风格_Dark Raging.json",
-    "风格_Primordial.json",
-    "风格_Pure Evil.json",
-    "风格_Ultimate Chaos.json"
-  ],
-  "备注": "来源注记:TTS图包;deck47格28角色卡;SLO强化版；中文名:考据拟译v1[待核](行202,对照表考据节)",
-  "来源": "官方实卡",
-  "中文名": "邪恶的光"
+ "角色": "Evil Hikaru",
+ "英文全名": "Evil Hikaru",
+ "称号": "Bizarre Reflection",
+ "系列": "独立-SLO",
+ "角标": "N/A",
+ "卡牌清单": [
+  "专属招式_Devastator.json",
+  "终结技_Rage of the Land.json",
+  "风格_Blood Red.json",
+  "风格_Dark Raging.json",
+  "风格_Primordial.json",
+  "风格_Pure Evil.json",
+  "风格_Ultimate Chaos.json"
+ ],
+ "备注": "来源注记:TTS图包;deck47格28角色卡;SLO强化版；中文名:考据拟译v1[待核](行202,对照表考据节)",
+ "来源": "官方实卡",
+ "中文名": "邪恶的光"
 }
