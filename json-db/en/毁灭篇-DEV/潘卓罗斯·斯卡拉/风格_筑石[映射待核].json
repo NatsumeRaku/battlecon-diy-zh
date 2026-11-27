@@ -1,0 +1,29 @@
+{
+ "名称": "Polymorphed[待核]",
+ "中文名": "筑石",
+ "角色": "潘卓罗斯·斯卡拉",
+ "卡类": "风格",
+ "系列": "毁灭篇-DEV",
+ "角标": "<green-triangle>",
+ "数值": {
+  "距离": "+0",
+  "威力": "+0",
+  "速度": "+1",
+  "韧性": "+0"
+ },
+ "效果": [
+  {
+   "时点": "展示",
+   "条件": "",
+   "效果": "<g-b>Reveal:</g-b> This Style's Maximum Range, Power, Priority, and Guard each copy the matching stat on the Opponent's Style, if it is higher."
+  },
+  {
+   "时点": "开始",
+   "条件": "",
+   "效果": "<g-b>Start:</g-b> Advance or Retreat 1."
+  }
+ ],
+ "来源": "官方实卡",
+ "英文状态": "TTS图包官方原文(F_19_c19);zh名'筑石'与en名'Polymorphed'语义不对应[映射待核]",
+ "备注": "来源注记:TTS图包;效果数值按TTS卡面英文OCR;卡名待用户补录;行207:en树只存官方英文原文;名称:OCR POLYMORPHEP复原Polymorphed;数值+0/+0/+1/+0;zh名筑石疑与本卡错位(筑石效果讲环境标记,Polymorphed讲复制对手数值)[待核zh映射]"
+}

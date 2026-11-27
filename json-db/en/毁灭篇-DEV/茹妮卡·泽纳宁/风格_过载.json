@@ -1,10 +1,10 @@
 {
- "名称": "",
+ "名称": "Overcharged[待核]",
  "中文名": "过载",
  "角色": "茹妮卡·泽纳宁",
  "卡类": "风格",
  "系列": "毁灭篇-DEV",
- "角标": "<red-diamond>",
+ "角标": "<blue-circle>",
  "数值": {
   "距离": "+0",
   "威力": "+0",
@@ -14,15 +14,16 @@
  "效果": [
   {
    "时点": "开始",
-   "效果": "",
-   "条件": ""
+   "条件": "",
+   "效果": "<g-b>Start:</g-b> Choose an active <i-sb>Artifact</i-sb> and perform its Overcharge trigger."
   },
   {
    "时点": "结束",
-   "效果": "",
-   "条件": ""
+   "条件": "",
+   "效果": "<g-b>End:</g-b> Trash the Overcharged <i-sb>Artifact</i-sb>."
   }
  ],
- "英文状态": "骨架待补:卡名/效果需官方英文原文",
- "来源": "待核验"
+ "来源": "官方实卡",
+ "英文状态": "TTS图包官方原文(deck48_格25)；卡名装饰字体OCR实读WERCARGEP,复原Overcharged把握中低[待核]",
+ "备注": "来源注记:TTS图包;deck19_c2x(deck48图版);官中直取(zh树实拍2026-11-23):风格数值/角标按zh实拍,效果按TTS卡面英文原文;行207:en树只存官方英文原文;名称:OCR实读WERCARGEP复原Overcharged[待核],待实卡/速查卡终审;本档为en侧缺档新建(行287盘点)"
 }

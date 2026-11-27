@@ -1,0 +1,20 @@
+{
+ "角色": "Runika Zenanen",
+ "角标": "<red-diamond>",
+ "名称": "Hover Boots",
+ "卡类": "神器牌",
+ "系列": "毁灭篇-DEV",
+ "数值": {
+  "速度": "+2"
+ },
+ "台词": "“Too fast for you?”",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>PRIORITY +2</i-sb>\n<i-sb>◆Overcharge:</i-sb> Become <i-sb>Active Player</i-sb>."
+  }
+ ],
+ "备注": "来源注记:TTS图包;deck48格30;页脚RUNIKA ZENANEN (ARTIFACT CARD)·DEV;卡类\"神器牌\";名称:卡面实读Hover Boots(OCR HovER Boots);行287缺档补录;行207:en树只存官方英文原文",
+ "来源": "官方实卡"
+}

@@ -1,0 +1,20 @@
+{
+ "角色": "Runika Zenanen",
+ "角标": "<red-diamond>",
+ "名称": "Shield Prism",
+ "卡类": "神器牌",
+ "系列": "毁灭篇-DEV",
+ "数值": {
+  "韧性": "+3"
+ },
+ "台词": "“It's not over yet!”",
+ "效果": [
+  {
+   "时点": "",
+   "条件": "",
+   "效果": "<i-sb>GUARD +3</i-sb>\n<i-sb>◆Overcharge:</i-sb> Stun Immunity. You cannot be Pushed or Pulled."
+  }
+ ],
+ "备注": "来源注记:TTS图包;deck48格31;页脚RUNIKA ZENANEN (ARTIFACT CARD)·DEV;卡类\"神器牌\";名称:卡面实读Shield Prism(OCR SHELD PRSM);行287缺档补录;行207:en树只存官方英文原文",
+ "来源": "官方实卡"
+}
