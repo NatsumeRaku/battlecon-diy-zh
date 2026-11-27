@@ -1,22 +1,22 @@
 {
-  "卡类": "状态效果牌",
-  "名称": "Devastation Within[待核]",
-  "角色": "Anath Adraste",
-  "系列": "多人模式",
-  "角标": "",
-  "数值": {
-    "距离": "N/A",
-    "威力": "+4",
-    "速度": "N/A",
-    "韧性": "N/A"
-  },
-  "效果": [
-    {
-      "时点": "后置",
-      "条件": "",
-      "效果": "<bl-b>After:</bl-b> For the rest of the duel, gain +4 Power and \"Start: Suffer Chip 2.\""
-    }
-  ],
-  "来源": "官方实卡",
-  "备注": "来源注记:TTS图包;deck51_c11;装饰字体卡名实读；行209:多人模式状态牌按立绘/卡名归入角色夹(名证:其终结技Devastation Now/面向牌Aspect of Devastation;立绘(d51_c11))；行273时点修复:原值误置<i-sb>(卡面斜体小字),改常驻空串/按卡文时点词还原"
+ "卡类": "状态效果牌",
+ "名称": "Devastation Within[待核]",
+ "角色": "Anath Adraste",
+ "系列": "独立-SLO",
+ "角标": "",
+ "数值": {
+  "距离": "N/A",
+  "威力": "+4",
+  "速度": "N/A",
+  "韧性": "N/A"
+ },
+ "效果": [
+  {
+   "时点": "后置",
+   "条件": "",
+   "效果": "<bl-b>After:</bl-b> For the rest of the duel, gain +4 Power and \"Start: Suffer Chip 2.\""
+  }
+ ],
+ "来源": "官方实卡",
+ "备注": "来源注记:TTS图包;deck51_c11;装饰字体卡名实读；行209:多人模式状态牌按立绘/卡名归入角色夹(名证:其终结技Devastation Now/面向牌Aspect of Devastation;立绘(d51_c11))；行273时点修复:原值误置<i-sb>(卡面斜体小字),改常驻空串/按卡文时点词还原"
 }
