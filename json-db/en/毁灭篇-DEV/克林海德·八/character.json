@@ -19,26 +19,13 @@
   "相位": "<blue-circle>"
  },
  "卡牌清单": [
-  "特技(UA)_强化服.json",
-  "风格_引力.json",
-  "风格_震撼.json",
-  "风格_激毒.json",
-  "风格_弥散.json",
-  "风格_相位.json",
-  "专属招式_狂暴.json",
-  "终结技_活化银注射_瑞泽怀特注射.json",
-  "刺激剂牌_克里斯玛注射.json",
-  "刺激剂牌_欧莱特注射.json",
-  "刺激剂牌_海拉汀注射.json",
-  "状态效果牌_活化银急涌.json",
-  "状态效果牌_瑞泽怀特急涌.json",
+  "专属招式_Vital Silencer Infusion.json",
   "招式_Frenzy.json",
   "风格_Diffusion.json",
   "风格_Gravity.json",
   "风格_Pulse.json",
   "风格_Shock.json",
-  "风格_Toxic.json",
-  "专属招式_Vital Silencer Infusion.json"
+  "风格_Toxic.json"
  ],
  "id": "毁灭篇-DEV-克林海德·八",
  "来源": "官方实卡",
