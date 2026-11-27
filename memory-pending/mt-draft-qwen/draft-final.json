@@ -290,10 +290,10 @@
  {
   "角色": "Dajin",
   "卡类": "风格",
-  "名称": "Wishful",
+  "名称": "Almighty",
   "时点": "展示",
-  "en": "Reveal, Wish not anted: Stun Immunity [待核:卡面效果行由f05全文OCR拼回,格序相邻残片]",
-  "zh": "展示,愿望未投注:眩晕免疫[待核]"
+  "en": "Reveal, Wish not anted: +0~1 Range, +2 Power, and +1 Priority.",
+  "zh": "展示,愿望未投注:+0~1距离,+2威力和+1速度"
  },
  {
   "角色": "Dajin",
@@ -301,7 +301,7 @@
   "名称": "Wishful",
   "时点": "命中",
   "en": "Hit: Activate a Wish ( flip it back to its active side, it is not Granted)",
-  "zh": "命中: 激活一个愿望（翻转回激活面，不会被实现）"
+  "zh": "命中: 激活一个愿望(翻转回激活面,愿望未实现)"
  },
  {
   "角色": "Dajin",
