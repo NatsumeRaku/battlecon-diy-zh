@@ -1,0 +1,32 @@
+{
+  "卡类": "风格",
+  "名称": "Avaricious",
+  "角色": "杰拉德·马特兰加",
+  "系列": "毁灭篇-DEV",
+  "角标": "<blue-circle>",
+  "数值": {
+    "距离": "+0",
+    "威力": "+0",
+    "速度": "+0",
+    "韧性": "+0"
+  },
+  "效果": [
+    {
+      "时点": "展示",
+      "条件": "Gold 多于生效佣兵",
+      "效果": "<b>Reveal:</b> If you have more <i>Gold</i> than active <i>Mercenaries</i>, <i-sb>+1 Power</i-sb>. Otherwise, <i-sb>+1 Priority</i-sb>."
+    },
+    {
+      "时点": "开始",
+      "条件": "",
+      "效果": "<g-b>Start:</g-b> Advance 1."
+    },
+    {
+      "时点": "命中",
+      "条件": "",
+      "效果": "<r-b>Hit:</r-b> Regain 2 <i>Gold</i>."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck44_c14;页脚GERARD •DEV;行278新建"
+}

@@ -1,0 +1,20 @@
+{
+  "卡类": "佣兵牌",
+  "名称": "Bookie",
+  "角色": "杰拉德·马特兰加",
+  "系列": "毁灭篇-DEV",
+  "角标": "",
+  "数值": {
+    "金币费用": 2
+  },
+  "台词": "\"Who's ready to make some money?! Come place your bets against the Mercenary King!\"",
+  "效果": [
+    {
+      "时点": "结束",
+      "条件": "命中对手",
+      "效果": "<g-b>End, hit the Opponent:</g-b> Regain 1 <i>Gold</i>."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck45_c13;页脚GERARD (MERCENARY CARD) •DEV;行278新建"
+}

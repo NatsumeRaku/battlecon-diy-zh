@@ -1,0 +1,20 @@
+{
+  "卡类": "佣兵牌",
+  "名称": "Mage",
+  "角色": "杰拉德·马特兰加",
+  "系列": "毁灭篇-DEV",
+  "角标": "",
+  "数值": {
+    "金币费用": 2
+  },
+  "台词": "\"That's not nearly enough to cover the meteor spell... how about a buff, poor boy?\"",
+  "效果": [
+    {
+      "时点": "投注",
+      "条件": "",
+      "效果": "<o-b>Ante:</o-b> Spend 3 <i>Gold</i> for <i-sb>+1 Power</i-sb> and <i-sb>+1 Priority</i-sb>."
+    }
+  ],
+  "来源": "官方实卡",
+  "备注": "来源注记:TTS图包;deck45_c19;页脚GERARD (MERCENARY CARD) •DEV;行278新建"
+}
