@@ -1,13 +1,41 @@
 {
-  "角色": "亚克萨斯",
-  "角标": "",
-  "名称": "Iaxus",
   "卡类": "角色",
+  "名称": "Iaxus the Shattered",
+  "角色": "亚克萨斯",
   "系列": "毁灭篇-DEV",
-  "效果": [],
+  "角标": "",
   "数值": {},
-  "备注": "来源注记:2026-11-26用户盒照(66214.jpg)官译裁定;来源注记:2026-11-25用户盒照识别;盒照识别(66050/66052);Iaxus the Shattered,DEV规则书30人名单确认;骨架占位,卡面内容待TTS图包识别后补录；中文名:DEV官译夹名回填",
+  "效果": [],
+  "英文全名": "Iaxus the Shattered",
+  "称号": "The Ancient of the Gate",
+  "称号_en": "The Ancient of the Gate",
+  "中文名": "亚克萨斯",
+  "类型": "",
+  "难度": "",
+  "机制名": "",
+  "机制概述": "",
+  "角标分配": {
+    "漫散": "<red-diamond>",
+    "极微": "<orange-pentagon>",
+    "折迭": "<yellow-hexagon>",
+    "地鸣": "<green-tri-down>",
+    "典范": "<blue-circle>"
+  },
+  "卡牌清单": [
+    "专属招式_Plane Step.json",
+    "专属招式_[待补].json",
+    "位面牌_Entropy Field.json",
+    "位面牌_Gravity Field.json",
+    "位面牌_Singularity Field.json",
+    "位面牌_Solar Field.json",
+    "位面牌_Temporal Field.json",
+    "终结技_Seize Control.json",
+    "风格_Diffuse.json",
+    "风格_Exemplary.json",
+    "风格_Folding.json",
+    "风格_Minimized.json",
+    "风格_Seism.json"
+  ],
   "来源": "官方实卡",
-  "卡牌清单": [],
-  "中文名": "亚克萨斯"
+  "备注": "来源注记:TTS图包;deck45_c21角色卡;页脚IAXUS THE SHATTERED •THE ANCIENT OF THE GATE •DEV;行277重建(原为骨架占位);机制名/概述卡面无印待规则书补;Plane 机制已有5张位面牌,另见BASES速查卡所列第二张base(实体卡未收录,已建占位)"
 }

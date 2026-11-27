@@ -1,0 +1,22 @@
+{
+ "卡类": "位面牌",
+ "名称": "Singularity Field",
+ "角色": "亚克萨斯",
+ "系列": "毁灭篇-DEV",
+ "角标": "",
+ "数值": {},
+ "效果": [
+  {
+   "时点": "当",
+   "条件": "Rift, 1~4 Growth",
+   "效果": "<i-sb>+0~1 Range</i-sb>."
+  },
+  {
+   "时点": "当",
+   "条件": "Rift, 5+ Growth",
+   "效果": "Your Range becomes 1~6*. Deplete all <i>Growth</i>. Trash this <i>Plane</i>. Activate a <i>Plane</i>."
+  }
+ ],
+ "来源": "官方实卡",
+ "备注": "来源注记:TTS图包;%s;页脚IAXUS (PLANE CARD) •DEV;行277新建;卡面无四数值栏,Rift/Growth为角色机制触发,时点暂记「当」待规则书核；行277 en占位:卡名保留英文待译,属性照录"
+}
