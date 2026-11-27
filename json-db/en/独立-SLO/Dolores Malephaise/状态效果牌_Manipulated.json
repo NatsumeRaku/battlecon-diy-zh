@@ -12,11 +12,11 @@
  },
  "效果": [
   {
-   "时点": "<i-sb>",
+   "时点": "",
    "条件": "",
    "效果": "Next beat, you have \"Reveal: If the named Base is not part of the Opponent's attack, Chip 2.\""
   }
  ],
  "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck43_c11;PaddleOCR实读;归属依据:立绘哈希与Dominated Mind同组(c11~c12)+操控机制"
+ "备注": "来源注记:TTS图包;deck43_c11;PaddleOCR实读;归属依据:立绘哈希与Dominated Mind同组(c11~c12)+操控机制；行273时点修复:原值误置<i-sb>(卡面斜体小字),改常驻空串/按卡文时点词还原"
 }

@@ -12,11 +12,11 @@
  },
  "效果": [
   {
-   "时点": "<i-sb>",
+   "时点": "",
    "条件": "",
    "效果": "Next beat, you have Armor 2."
   }
  ],
  "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck43_c25;装饰字体卡名实读；行210用户看切片裁定:c21~c25=乔尔;实物卡名与本文件名不符(Arcane Binding/Knuckle Cross/Canon Follow-Up/Imerating Runes/Ironstar Bulwark),deck43中块文件名整体存疑[待核];行267图证:TTS图包deck43_c25标题带放大4-6倍逐字目识;卡面实读Ironstar Bulwark,旧名Form Blur系OCR误读,依行210「实物卡名与本文件名不符」记载正名"
+ "备注": "来源注记:TTS图包;deck43_c25;装饰字体卡名实读；行210用户看切片裁定:c21~c25=乔尔;实物卡名与本文件名不符(Arcane Binding/Knuckle Cross/Canon Follow-Up/Imerating Runes/Ironstar Bulwark),deck43中块文件名整体存疑[待核];行267图证:TTS图包deck43_c25标题带放大4-6倍逐字目识;卡面实读Ironstar Bulwark,旧名Form Blur系OCR误读,依行210「实物卡名与本文件名不符」记载正名；行273时点修复:原值误置<i-sb>(卡面斜体小字),改常驻空串/按卡文时点词还原"
 }

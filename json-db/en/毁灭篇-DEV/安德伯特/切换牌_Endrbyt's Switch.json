@@ -17,11 +17,11 @@
       "效果": "Spend Force equal to your life to replace your attack with your Finisher, remove this card from play and pick up your Base."
     },
     {
-      "时点": "<g-b>",
+      "时点": "结束",
       "条件": "",
-      "效果": "Regain a Force. You may flip both your Finisher and Mode to their reverse sides."
+      "效果": "<g-b>End:</g-b> Regain a Force. You may flip both your Finisher and Mode to their reverse sides."
     }
   ],
   "来源": "官方实卡",
-  "备注": "来源注记:TTS图包;deck41_c58;卡名装饰字体放大实读ENDBYTS SWITCH(2026-11-26用户裁定角色名Endrbyt),原辨读Barons Switch作废；名称:考据拟译v1[待核](行204)；用户裁定(行205#18):Switch官方译法=变招；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准"
+  "备注": "来源注记:TTS图包;deck41_c58;卡名装饰字体放大实读ENDBYTS SWITCH(2026-11-26用户裁定角色名Endrbyt),原辨读Barons Switch作废；名称:考据拟译v1[待核](行204)；用户裁定(行205#18):Switch官方译法=变招；行207回退:en树只存官方英文原文(README建库原则1),中文名以对照表考据节为准；行273b时点按图版实读修复(原值误置样式标签)"
 }

@@ -12,11 +12,11 @@
  },
  "效果": [
   {
-   "时点": "<i-sb>",
+   "时点": "",
    "条件": "",
    "效果": "Next beat, you choose the Opponent's attack pair and control all decisions for them."
   }
  ],
  "来源": "官方实卡",
- "备注": "来源注记:TTS图包;deck43_c12;装饰字体卡名实读；行210用户看切片裁定:c12=多洛蕾丝;实物卡名Dominated Mind,与文件名Dominated出入[待核]"
+ "备注": "来源注记:TTS图包;deck43_c12;装饰字体卡名实读；行210用户看切片裁定:c12=多洛蕾丝;实物卡名Dominated Mind,与文件名Dominated出入[待核]；行273时点修复:原值误置<i-sb>(卡面斜体小字),改常驻空串/按卡文时点词还原"
 }
