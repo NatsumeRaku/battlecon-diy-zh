@@ -11,6 +11,10 @@
  "卡牌清单": [
   "专属招式_Warhammer.json",
   "战术牌_Ready Defenses.json",
+  "状态效果牌_Blitzed.json",
+  "状态效果牌_Golden Glory.json",
+  "状态效果牌_Royal Presence.json",
+  "状态效果牌_Royal Will.json",
   "终结技_Foehammer.json",
   "风格_Crown.json",
   "风格_Golden.json",
