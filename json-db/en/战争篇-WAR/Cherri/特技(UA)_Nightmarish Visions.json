@@ -31,5 +31,12 @@
    "条件": "3+ damage taken",
    "效果": "End, 3+ damage taken: Regain Insight."
   }
- ]
+ ],
+ "角标": "",
+ "数值": {
+  "距离": "N/A",
+  "威力": "N/A",
+  "速度": "N/A",
+  "韧性": "N/A"
+ }
 }

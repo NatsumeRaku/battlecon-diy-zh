@@ -10,7 +10,7 @@
   {
    "时点": "",
    "条件": "",
-   "效果": "Your team gains 2 additional Force at the end of the beat. Each surviving team member has <i-sb>+1 Power</i-sb>, <i-sb>+0▲ Priority</i-sb> <i>(a tiebreaker)</i> on all attacks."
+   "效果": "Your team gains 2 additional Force at the end of the beat. Each surviving team member has <i-sb>+1 Power</i-sb>, <i-sb>+0<initiative> Priority</i-sb> <i>(a tiebreaker)</i> on all attacks."
   }
  ],
  "备注": "来源注记:TTS图包;deck2格2;TTS英文面=zh参考牌_复仇;前记Reserve系误读；行291来源校正:非DEV无实体卡只有TTS图包,官方实卡→官方实卡(TTS图包)(与zh树同步)",

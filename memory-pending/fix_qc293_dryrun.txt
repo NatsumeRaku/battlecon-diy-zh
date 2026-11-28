@@ -1,0 +1,923 @@
+变更文件数: 390  变更点: 921
+分类计数: {'I': 581, 'T': 35, 'A': 31, 'K': 241, 'F': 17, 'S': 16}
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/克塞妮蒂亚·祖克/终结技_血刃.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/克塞妮蒂亚·祖克/终结技_血刃.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/克塞妮蒂亚·祖克/终结技_血刃.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/克塞妮蒂亚·祖克/风格_罪责.json :: [0] '每当'->'当' :: 当你被命中时，若对手的威力为 ⚙ 或更低，你被眩晕。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/塞萨莉亚·三/终结技_钢鞭.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/塞萨莉亚·三/终结技_钢鞭.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/塞萨莉亚·三/终结技_钢鞭.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/塞萨莉亚·三/风格_切割.json :: [0] '每当'->'当' :: 当对手后退时，+0~2 距离。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/尤斯提斯勋爵/终结技_寒冰十字.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/尤斯提斯勋爵/终结技_寒冰十字.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/尤斯提斯勋爵/终结技_寒冰十字.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/尤斯提斯勋爵/终结技_寒冰十字.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/崔兰德拉/终结技_星光.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/崔兰德拉/终结技_星光.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/崔兰德拉/终结技_星光.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/拉里莫尔·伯曼/终结技_龙威.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/拉里莫尔·伯曼/终结技_龙威.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/拉里莫尔·伯曼/终结技_龙威.json :: 数值.韧性: '3'->3
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/拉里莫尔·伯曼/风格_龙息.json :: [0] '每当'->'当' :: 当对手前进时，你可以消耗 2 火力 来削命 2。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/班维尔·马格罗夫/终结技_巫塔.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/班维尔·马格罗夫/终结技_巫塔.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/班维尔·马格罗夫/终结技_巫塔.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/班维尔·马格罗夫/风格_怨恨.json :: [0] '每当'->'当' :: 当你被命中时，若对手的威力大于其印刷威力，+2 威力且护甲 2。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/萨拉菲娜·范纳德兰/终结技_力场.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/萨拉菲娜·范纳德兰/终结技_力场.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/萨拉菲娜·范纳德兰/终结技_力场.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/薇尔茜·阿克特恩/终结技_时弧.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/薇尔茜·阿克特恩/终结技_时弧.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/薇尔茜·阿克特恩/终结技_时弧.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/阿露弥斯/招式_晦影.json :: [0] ''->'当' :: 当对手进入暗影所在格时，削命 2，并阻止对手移动。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/阿露弥斯/终结技_悚惧.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/阿露弥斯/终结技_悚惧.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/阿露弥斯/终结技_悚惧.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/雅格·布兰德福德/招式_血月.json :: [0] '每当'->'当' :: 当对手越过你前进时，你的距离变为 N/A。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/雅格·布兰德福德/终结技_撕裂者.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/雅格·布兰德福德/终结技_撕裂者.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/命运篇-FAT/雅格·布兰德福德/终结技_撕裂者.json :: 数值.韧性: '0'->0
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/多人模式/参考牌_复仇.json :: 效果.效果: '在每个回合结束时,你的团队额外获得 2 能量。每个幸存的团队成员的所有攻击都拥有 <i-sb>+1 威力</i-sb>,+0▲速度<i>(破局)</i>。'->'在每个回合结束时,你的团队额外获得 2 能量。每个幸存的团队成员的所有攻击都拥有 <i-sb>+1 威力</i-sb>,+0<initiative>速度<i>(破局)</i>。'
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/多人模式/参考牌_终极.json :: 数值.速度: '+2▲'->'+2<initiative>'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/多人模式/参考牌_终极.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/多人模式/参考牌_超级.json :: 数值.速度: '+1▲'->'+1<initiative>'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/多人模式/参考牌_超级.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/崩坠(Downfall)/隐士/特技(UA)_弹巢.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/崩坠(Downfall)/隐士/特技(UA)_弹巢.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/崩坠(Downfall)/隐士/终结技_连发_绝响.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/凯莉星/特技(UA)_灾厄形态.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/凯莉星/特技(UA)_灾厄形态.json :: 数值补N/A四栏(UA惯例)
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/切莉·塞内卡/特技(UA)_梦魇幻景.json :: [3] '当'->'每当' :: 每当你激斗或延长激斗时：削命 1。
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/切莉·塞内卡/特技(UA)_梦魇幻景.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/切莉·塞内卡/特技(UA)_梦魇幻景.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/切莉·塞内卡/终结技_灵魂凝视_注视者.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/华彩骑士/专属招式_冲压.json :: [0] '当'->'每当' :: 每当你受到伤害时：你每受到 1 点伤害，+1 威力。
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/华彩骑士/特技(UA)_钢铁之躯.json :: [3] '当'->'每当' :: 每当你被命中时：你可以消耗 1 护盾，获得 +99 韧性。
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/华彩骑士/特技(UA)_钢铁之躯.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/华彩骑士/特技(UA)_钢铁之躯.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/华彩骑士/终结技_火箭冲压_反馈力场.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/吕克·冯·戈特/特技(UA)_时序蓄能[待核].json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/吕克·冯·戈特/特技(UA)_时序蓄能[待核].json :: 数值补N/A四栏(UA惯例)
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/吕克·冯·戈特/风格_永恒.json :: [0] '每当'->'当' :: 当你被命中时，消耗任意数量的时间，每消耗 1 时间就获得护甲 1。
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/塔丝蜜·诺克与朱托/特技(UA)_潮汐羁绊.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/塔丝蜜·诺克与朱托/特技(UA)_潮汐羁绊.json :: 数值补N/A四栏(UA惯例)
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/塔丝蜜·诺克与朱托/风格_激流.json :: [0] '每当'->'当' :: 当你被命中时，若对手位于 朱托 身后，对手拥有 -2 威力。
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/塞斯·克雷穆尔/特技(UA)_目外之眼.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/塞斯·克雷穆尔/特技(UA)_目外之眼.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/德米特拉斯·德尼格朗德/特技(UA)_渐强.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/德米特拉斯·德尼格朗德/特技(UA)_渐强.json :: 数值补N/A四栏(UA惯例)
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/扎马萨尔·凯特/形态牌_敞门.json :: [0] '每当'->'当' :: 当你被眩晕或变为范式时，回收所有被弃置的范式并停用此牌。
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/扎马萨尔·凯特/特技(UA)_主观现实.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/扎马萨尔·凯特/特技(UA)_主观现实.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/玛格德莉娜·拉灵顿/特技(UA)_神圣导管[待核].json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/玛格德莉娜·拉灵顿/特技(UA)_神圣导管[待核].json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/瓦娜·卡尔莫/特技(UA)_神圣突进.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/瓦娜·卡尔莫/特技(UA)_神圣突进.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/科达斯·阿赫缪赛/特技(UA)_门径陷阱[待核].json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/科达斯·阿赫缪赛/特技(UA)_门径陷阱[待核].json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/空山光/特技(UA)_地占袭击.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/空山光/特技(UA)_地占袭击.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/莉克希丝·澜·坎达/特技(UA)_凋零之触[待核].json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/莉克希丝·澜·坎达/特技(UA)_凋零之触[待核].json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/萨加斯·塞提斯/特技(UA)_影镜.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/萨加斯·塞提斯/特技(UA)_影镜.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/专属招式_王命.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/专属招式_王命.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/专属招式_王命.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/专属招式_王命.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/专属招式_王命.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/特技(UA)_影步.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/特技(UA)_影步.json :: 数值补N/A四栏(UA惯例)
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/终结技_万刃_活夜魇.json :: 数值.速度: '7▲'->'7<initiative>'
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/终结技_万刃_活夜魇.json :: 数值.速度: '2▲'->'2<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/终结技_万刃_活夜魇.json :: 数值.α面.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/终结技_万刃_活夜魇.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/终结技_万刃_活夜魇.json :: 数值.β面.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/终结技_万刃_活夜魇.json :: 数值.β面.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/终结技_万刃_活夜魇.json :: 数值.β面.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/终结技_万刃_活夜魇.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫凯奇/风格_无情.json :: [0] '当'->'每当' :: 每当对手进入你相邻的格时：削命 2。
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫普兹巴·库洛特/特技(UA)_暗契约.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫普兹巴·库洛特/特技(UA)_暗契约.json :: 数值补N/A四栏(UA惯例)
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/赫普兹巴·库洛特/风格_笃定.json :: [1] '每当'->'当' :: 当你被命中时，弃置 契约（已激活或未激活）。
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/鲁奇优客·安布尔迪恩/特技(UA)_定制弹药[待核].json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/战争篇-WAR/鲁奇优客·安布尔迪恩/特技(UA)_定制弹药[待核].json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·故障机器人/特技(UA)_充能球槽.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·故障机器人/特技(UA)_充能球槽.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·故障机器人/终结技_雷雨_流星撞击.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·观者/形态牌_无极姿态.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·观者/形态牌_神格.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·观者/特技(UA)_无极姿态.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·观者/特技(UA)_无极姿态.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·观者/终结技_神格_天陨.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·铁甲战士/特技(UA)_燃血之躯.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·铁甲战士/特技(UA)_燃血之躯.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·铁甲战士/终结技_死神_全身撞击.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·静默猎手/特技(UA)_致命毒素.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·静默猎手/特技(UA)_致命毒素.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔1/先古·静默猎手/终结技_毒爆_幽魂.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/亡灵契约师/特技(UA)_殁境契约.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/亡灵契约师/特技(UA)_殁境契约.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/亡灵契约师/终结技_灾变之咒_殁境.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/储君/特技(UA)_君王之剑.json :: 效果.效果: '剑级:1 枚=你的所有攻击 <i-sb>+1 威力</i-sb>;2 枚=<i-sb>+1 威力</i-sb>,<i-sb>+0~1 距离</i-sb>,每回合首次你受到伤害时:<b>护甲 1</b>;3 枚=<i-sb>+2 威力</i-sb>,<i-sb>+0~1 距离</i-sb>,每回合首次受伤<b>护甲 1</b>,+0▲速度。'->'剑级:1 枚=你的所有攻击 <i-sb>+1 威力</i-sb>;2 枚=<i-sb>+1 威力</i-sb>,<i-sb>+0~1 距离</i-sb>,每回合首次你受到伤害时:<b>护甲 1</b>;3 枚=<i-sb>+2 威力</i-sb>,<i-sb>+0~1 距离</i-sb>,每回合首次受伤<b>护甲 1</b>,+0<initiative>速度。'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/储君/特技(UA)_君王之剑.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/储君/特技(UA)_君王之剑.json :: 数值补N/A四栏(UA惯例)
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/储君/终结技_裁决_陨星.json :: 效果.效果: '<i-sb>+3 威力</i-sb>,+0▲速度[铸成之剑的终审]。'->'<i-sb>+3 威力</i-sb>,+0<initiative>速度[铸成之剑的终审]。'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/储君/终结技_裁决_陨星.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/愚者/特技(UA)_余音箭袋.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/愚者/特技(UA)_余音箭袋.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/愚者/终结技_高音_终曲.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/机煲/特技(UA)_燃料核心.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/机煲/特技(UA)_燃料核心.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/机煲/终结技_四重释放_碎裂.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/铁甲战士/特技(UA)_瓦库之契.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/铁甲战士/特技(UA)_瓦库之契.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/铁甲战士/终结技_熔融之拳_午夜.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/静默猎手/特技(UA)_蜃毒.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/静默猎手/特技(UA)_蜃毒.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/杀戮尖塔2/静默猎手/终结技_毒性爆发_无实体.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/招式_碎片[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/特技(UA)_冻伤[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/特技(UA)_冻伤[待核].json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/终结技_冰龙寒爪[待核].json :: 数值.威力: '7'->7
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/终结技_冰龙寒爪[待核].json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/终结技_冰龙寒爪[待核].json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/终结技_深度冻结.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/终结技_深度冻结.json :: 数值.速度: '74'->74
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/终结技_深度冻结.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/终结技_深度冻结.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/风格_冰结.json :: 角标←en镜像 ''
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/风格_忍雾[待核].json :: [0] ''->'当' :: 当你被命中时，回复 1 冻霜。
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/风格_忍雾[待核].json :: 角标←en镜像 ''
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/风格_潜踪.json :: 数值.距离: '0+'->'+0'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/风格_潜踪.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/风格_轻灵.json :: 角标←en镜像 ''
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/风格_霜艺.json :: 数值.距离: 'Q+'->'+0'
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/风格_霜艺.json :: 数值.威力: '0+'->'+0'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凛/风格_霜艺.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/特技(UA)_迷局魔盒[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/特技(UA)_迷局魔盒[待核].json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/终结技_折叠匣.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/终结技_折叠匣.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/终结技_折叠匣.json :: 数值.速度: '24'->24
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/终结技_折叠匣.json :: 角标←en镜像 ''
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/终结技_最终牺牲[待核].json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/终结技_最终牺牲[待核].json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/终结技_最终牺牲[待核].json :: 数值.韧性: '0'->0
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/风格_匿形.json :: 数值.距离: '0+'->'+0'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/风格_匿形.json :: 角标←en镜像 ''
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/风格_机秘.json :: 数值.距离: '0+'->'+0'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/风格_机秘.json :: 角标←en镜像 ''
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/风格_繁复.json :: 数值.距离: '0+'->'+0'
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/风格_繁复.json :: 数值.威力: '1'->'+1'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/风格_繁复.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/风格_莫测.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/凯/风格_诡奇.json :: 角标←en镜像 ''
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/招式_踢击[待核].json :: 数值.距离: '1'->1
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/招式_踢击[待核].json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/特技(UA)_展翅翱翔.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/特技(UA)_展翅翱翔.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/终结技_主题曲[待核].json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/终结技_主题曲[待核].json :: 数值.速度: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/终结技_主题曲[待核].json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/终结技_落日飞身踢.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/终结技_落日飞身踢.json :: 数值←en镜像 {"距离": "N/A", "威力": "N/A", "速度": "N/A", "韧性": "N/A"}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/风格_俯冲.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/风格_回旋踢.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/风格_正义.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/风格_腾空.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/安雅·南风/风格_起飞[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/特技(UA)_一生驰骋[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/特技(UA)_一生驰骋[待核].json :: 数值补N/A四栏(UA惯例)
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/状态效果牌_大胆一博.json :: 数值.韧性: '0+'->'+0'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/状态效果牌_大胆一博.json :: 角标补默认 ''
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/终结技_潜行放倒.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/终结技_潜行放倒.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/终结技_潜行放倒.json :: 数值.韧性: '3'->3
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/终结技_潜行放倒.json :: 角标←en镜像 ''
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/终结技_脱身[待核].json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/终结技_脱身[待核].json :: 数值.韧性: '0'->0
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/风格_机巧[待核].json :: 数值.韧性: '0+'->'+0'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/风格_机巧[待核].json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/风格_空翻.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/风格_老练.json :: 角标补默认 ''
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/风格_脱身.json :: 数值.速度: '3'->'+3'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/希尔纳奥/风格_脱身.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/温蒂/特技(UA)_空中支援[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/温蒂/特技(UA)_空中支援[待核].json :: 数值补N/A四栏(UA惯例)
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/温蒂/终结技_精准打击.json :: 数值.距离: 'x'->'X'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/温蒂/终结技_精准打击.json :: 数值.威力: '9'->9
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/温蒂/终结技_精准打击.json :: 数值.速度: '4'->4
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/温蒂/终结技_精准打击.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/温蒂/风格_压制.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/温蒂/风格_疾奔[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/温蒂/风格_警示.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/温蒂/风格_迫击.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/温蒂/风格_锁定.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/特技(UA)_荒漠之拥[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/特技(UA)_荒漠之拥[待核].json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/终结技_沙漠玫瑰.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/终结技_沙漠玫瑰.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/终结技_沙漠玫瑰.json :: 角标←en镜像 ''
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/终结技_痛苦女王[待核].json :: 数值.威力: '9'->9
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/终结技_痛苦女王[待核].json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/终结技_痛苦女王[待核].json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/风格_含毒.json :: 角标←en镜像 ''
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/风格_怒张.json :: 数值.距离: '0+'->'+0'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/风格_怒张.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/风格_沙暴.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/风格_迸裂.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/科拉/风格_钩刺.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/特技(UA)_玛里亚尼之咒[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/特技(UA)_玛里亚尼之咒[待核].json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/终结技_Blast Mining.json :: 数值.距离: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/终结技_Blast Mining.json :: 数值.威力: '8'->8
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/终结技_Blast Mining.json :: 数值.速度: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/终结技_Blast Mining.json :: 角标←en镜像 '灰八芒星(β)'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/终结技_爆破采矿.json :: 数值.威力: '8'->8
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/终结技_爆破采矿.json :: 数值.速度: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/终结技_爆破采矿.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/终结技_血肉成石.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/终结技_血肉成石.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/终结技_血肉成石.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/终结技_血肉成石.json :: 角标←en镜像 ''
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/风格_坚实.json :: 数值.距离: '0+'->'+0'
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/风格_坚实.json :: 数值.威力: 'O+'->'+0'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/风格_坚实.json :: 角标←en镜像 ''
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/风格_塌方.json :: 数值.距离: '0+'->'+0'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/风格_碎压.json :: 角标←en镜像 ''
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/风格_花岗岩[待核].json :: 数值.距离: '0+'->'+0'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/风格_花岗岩[待核].json :: 角标补默认 ''
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/风格_锤击.json :: 数值.距离: '0+'->'+0'
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/风格_锤击.json :: 数值.韧性: '2'->'+2'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/约翰/风格_锤击.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/特技(UA)_永世奴役[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/特技(UA)_永世奴役[待核].json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/终结技_慑魂[待核].json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/终结技_慑魂[待核].json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/终结技_慑魂[待核].json :: 数值.韧性: '0'->0
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/终结技_魂奴猛袭.json :: 数值.距离: 'x'->'X'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/终结技_魂奴猛袭.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/终结技_魂奴猛袭.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/终结技_魂奴猛袭.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/终结技_魂奴猛袭.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/风格_亡灵.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/风格_忠诚[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/风格_缠魂.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/风格_骇人[待核].json :: 角标←en镜像 '<yellow-hexagon>'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/维凯尔/风格_鬼形.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/菲拉娜/特技(UA)_约束限制器[待核].json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/菲拉娜/特技(UA)_约束限制器[待核].json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/菲拉娜/终结技_呼吁.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/菲拉娜/终结技_呼吁.json :: 数值.速度: '14'->14
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/菲拉娜/终结技_呼吁.json :: 角标←en镜像 ''
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/菲拉娜/终结技_结案[待核].json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/菲拉娜/终结技_结案[待核].json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/菲拉娜/终结技_结案[待核].json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/达奎/特技(UA)_黄粱美梦.json :: 角标←en镜像 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/达奎/特技(UA)_黄粱美梦.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/达奎/终结技_力量代价[待核].json :: 数值.距离: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/达奎/终结技_力量代价[待核].json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/达奎/终结技_力量代价[待核].json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/达奎/终结技_力量代价[待核].json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/达奎/终结技_终有代偿.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/达奎/终结技_终有代偿.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/达奎/风格_压倒.json :: 角标←en镜像 ''
+  [F] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/达奎/风格_精湛.json :: 数值.韧性: '0+'->'+0'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/流浪者篇-WAN/达奎/风格_贪愿.json :: 角标←en镜像 ''
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/伊丽莎/专属招式_世界之书.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/伊丽莎/专属招式_世界之书.json :: 数值.速度: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/伊丽莎/专属招式_世界之书.json :: 数值.韧性: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/伊丽莎/终结技_言外之意.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/伊丽莎/终结技_言外之意.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/伊丽莎/终结技_言外之意.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/伊丽莎/风格_选集.json :: [0] '每当'->'当' :: 当你被命中时，对手选择并停用 1 个流派。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/克劳斯与温德尔/专属招式_暴风雨.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/克劳斯与温德尔/专属招式_暴风雨.json :: 数值.速度: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/克劳斯与温德尔/专属招式_暴风雨.json :: 数值.韧性: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/克劳斯与温德尔/终结技_深秋进军.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/克劳斯与温德尔/终结技_深秋进军.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/克劳斯与温德尔/终结技_深秋进军.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/克劳斯与温德尔/终结技_深秋进军.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/克劳斯与温德尔/风格_坠风.json :: [0] '每当'->'当' :: 当你被命中时，若对手位于距离 3+，护甲 2。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/卢修斯/专属招式_空翻.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/卢修斯/专属招式_空翻.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/卢修斯/专属招式_空翻.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/卢修斯/专属招式_空翻.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/卢修斯/终结技_天坠击.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/卢修斯/终结技_天坠击.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/卢修斯/终结技_天坠击.json :: 数值.速度: '8'->8
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/卢修斯/终结技_天坠击.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/多洛蕾丝·玛勒菲斯/专属招式_倒刺.json :: [0] '每当'->'当' :: en: When the Opponent is Pushed or Pulled
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/多洛蕾丝·玛勒菲斯/专属招式_倒刺.json :: [1] '每当'->'当' :: en: When the Opponent Advances or Retreats
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/多洛蕾丝·玛勒菲斯/专属招式_倒刺.json :: 角标补默认 ''
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/多洛蕾丝·玛勒菲斯/特技(UA)_展翼.json :: 效果.效果: '使用<i-sb>翅膀</i-sb>(立即逼近或撤退 1。本回合 +1▲速度。)'->'使用<i-sb>翅膀</i-sb>(立即逼近或撤退 1。本回合 +1<initiative>速度。)'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/多洛蕾丝·玛勒菲斯/特技(UA)_展翼.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/多洛蕾丝·玛勒菲斯/特技(UA)_展翼.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/多洛蕾丝·玛勒菲斯/终结技_致命降临_殡葬仪式.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/奥瑞亚克斯二世/专属招式_神怒.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/奥瑞亚克斯二世/专属招式_神怒.json :: 数值.速度: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/奥瑞亚克斯二世/专属招式_神怒.json :: 数值.韧性: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/奥瑞亚克斯二世/终结技_打倒.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/奥瑞亚克斯二世/终结技_打倒.json :: 数值.速度: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/奥瑞亚克斯二世/终结技_打倒.json :: 数值.韧性: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/安德鲁斯·多尔卡泰/专属招式_挥砍.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/安德鲁斯·多尔卡泰/专属招式_挥砍.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/安德鲁斯·多尔卡泰/专属招式_挥砍.json :: 数值.韧性: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/安德鲁斯·多尔卡泰/终结技_闪光斩.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/安德鲁斯·多尔卡泰/终结技_闪光斩.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/安德鲁斯·多尔卡泰/终结技_闪光斩.json :: 数值.韧性: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/拉丽蒂·西卡尔/专属招式_占卜.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/拉丽蒂·西卡尔/专属招式_占卜.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/拉丽蒂·西卡尔/专属招式_占卜.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/拉丽蒂·西卡尔/风格_业报.json :: [0] '每当'->'当' :: 当你被命中时，+2 威力，并查看你牌阵中 1 张未激活命运牌的正面。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/梅乔拉姆·亚历克希安/专属招式_战锤.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/梅乔拉姆·亚历克希安/专属招式_战锤.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/梅乔拉姆·亚历克希安/专属招式_战锤.json :: 数值.韧性: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/梅乔拉姆·亚历克希安/终结技_破敌锤.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/梅乔拉姆·亚历克希安/终结技_破敌锤.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/梅乔拉姆·亚历克希安/终结技_破敌锤.json :: 数值.韧性: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/武/专属招式_投掷.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/武/专属招式_投掷.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/武/专属招式_投掷.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/武/终结技_究极毁灭者.json :: 数值.威力: '9'->9
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/武/终结技_究极毁灭者.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/武/终结技_究极毁灭者.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/海梅尔九号/状态效果牌_无敌.json :: [0] ''->'当' :: 当你前进或后退，或对手前进越过你时，变为破绽。
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/海梅尔九号/状态效果牌_无敌.json :: [1] ''->'当' :: 当你将承受超过 1 点伤害时，改为承受 1 点伤害。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/海梅尔九号/终结技_I.K. 38.json :: 数值.威力: '38'->38
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/海梅尔九号/终结技_I.K. 38.json :: 数值.速度: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/海梅尔九号/终结技_I.K. 38.json :: 数值.韧性: '0'->0
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/海梅尔九号/风格_给它一炮.json :: 数值.威力: '1'->'+1'
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/海梅尔九号/风格_给它一炮.json :: 数值.速度: '0'->'+0'
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/海梅尔九号/风格_给它一炮.json :: 数值.韧性: '6'->'+6'
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/瑞伊·卡尔/专属招式_天罚.json :: [0] '每当'->'当' :: 当对手进入护符所在格时，你的距离变为 1~6*。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/瑞伊·卡尔/专属招式_天罚.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/瑞伊·卡尔/专属招式_天罚.json :: 数值.速度: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/瑞伊·卡尔/终结技_天界新星.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/瑞伊·卡尔/终结技_天界新星.json :: 数值.速度: '2'->2
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/维克托/建议牌_你无路可逃…….json :: [0] ''->'当' :: 当对手前进越过你时，弃置该建议。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/维克托/招式_[待核].json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/维克托/招式_[待核].json :: 数值.速度: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/维克托/终结技_毕生之悸.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/维克托/终结技_毕生之悸.json :: 数值.速度: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/维克托/终结技_毕生之悸.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/维克托/风格_安全.json :: [0] '每当'->'当' :: 当你被命中时，+3 威力。
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/维克托/风格_就绪.json :: [0] '每当'->'当' :: 当对手前进时，+3 韧性。
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/维克托/风格_惊吓.json :: [0] '每当'->'当' :: 当你被命中时，对手身后每有 1 格，护甲 1。
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/维克托/风格_自信.json :: [0] '每当'->'当' :: 当对手前进或后退时，-2 威力与+0~1 距离。
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/邪恶的光/专属招式_毁灭者.json :: [0] '每当'->'当' :: 当对手前进越过你时，本次攻击不命中。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/邪恶的光/专属招式_毁灭者.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/邪恶的光/专属招式_毁灭者.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/邪恶的光/专属招式_毁灭者.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/邪恶的光/专属招式_毁灭者.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/邪恶的光/终结技_大地之怒.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/邪恶的光/终结技_大地之怒.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/邪恶的光/终结技_大地之怒.json :: 数值.速度: '7'->7
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/邪恶的光/终结技_大地之怒.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/金/专属招式_重铸.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/金/专属招式_重铸.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/金/专属招式_重铸.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/金/终结技_虹吸.json :: 数值.威力: '7'->7
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/金/终结技_虹吸.json :: 数值.速度: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/金/风格_刹那.json :: [0] '每当'->'当' :: 当你被命中时，你可瞬移至 1 个侦察器。若如此，将那个侦察器放置在你离开的格（你
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/阿娜思·阿德拉斯特亚/专属招式_浩劫.json :: 数值.距离: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/阿娜思·阿德拉斯特亚/专属招式_浩劫.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/阿娜思·阿德拉斯特亚/专属招式_浩劫.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/阿娜思·阿德拉斯特亚/专属招式_浩劫.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/阿娜思·阿德拉斯特亚/终结技_即刻毁灭.json :: 数值.速度: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/阿娜思·阿德拉斯特亚/终结技_即刻毁灭.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/独立-SLO/阿娜思·阿德拉斯特亚/风格_惧怖.json :: [0] '每当'->'当' :: 当你被命中时，若对手位于距离 2，护甲 3。
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/卢克/特技(UA)_蓄拳.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/卢克/特技(UA)_蓄拳.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/卢克/终结技_抹除者_苍白骑士.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/卢克/风格_升龙.json :: 效果.效果: '若对手攻击速度比你快:<i-sb>+1 威力</i-sb>,+0▲速度。'->'若对手攻击速度比你快:<i-sb>+1 威力</i-sb>,+0<initiative>速度。'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/春丽/形态牌_行云流水.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/春丽/特技(UA)_行云流水.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/春丽/特技(UA)_行云流水.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/春丽/终结技_气功掌_苍天乱华.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/春丽/风格_天升.json :: 效果.效果: '流水时:<i-sb>+1 威力</i-sb>,+0▲速度。'->'流水时:<i-sb>+1 威力</i-sb>,+0<initiative>速度。'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/杰米/特技(UA)_醉意.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/杰米/特技(UA)_醉意.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/杰米/终结技_醉魔之歌_月牙.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/桑吉尔夫/特技(UA)_赤旋风.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/桑吉尔夫/特技(UA)_赤旋风.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/街霸6/桑吉尔夫/终结技_旋风绕颈_伏虎击狼.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/勃艮第十二世/招式_如绘.json :: [0] '每当'->'当' :: 当你被命中时，如果你与对手之间有颜料，获得护甲 2。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/勃艮第十二世/终结技_屠杀.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/勃艮第十二世/终结技_屠杀.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/勃艮第十二世/终结技_屠杀.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/勃艮第十二世/终结技_屠杀.json :: 数值.韧性: '0'->0
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/勃艮第十二世/终结技_皇帝的新衣.json :: 数值.速度: '1▲'->'1<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/勃艮第十二世/终结技_皇帝的新衣.json :: 数值.距离: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/勃艮第十二世/终结技_皇帝的新衣.json :: 数值.威力: '8'->8
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/德拉维尔·寒水/终结技_蓝龙斩·试炼.json :: 数值.速度: '1▲'->'1<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/德拉维尔·寒水/终结技_蓝龙斩·试炼.json :: 数值.威力: '7'->7
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/德拉维尔·寒水/终结技_蓝龙斩·试炼.json :: 数值.韧性: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/德拉维尔·寒水/终结技_风暴.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/德拉维尔·寒水/终结技_风暴.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/德拉维尔·寒水/终结技_风暴.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/沃德劳·奥布莱恩/特技(UA)_痛殴.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/沃德劳·奥布莱恩/特技(UA)_痛殴.json :: 数值补N/A四栏(UA惯例)
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/沃德劳·奥布莱恩/终结技_痛苦列车.json :: 数值.速度: '4▲'->'4<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/沃德劳·奥布莱恩/终结技_痛苦列车.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/沃德劳·奥布莱恩/终结技_痛苦列车.json :: 数值.威力: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/沃德劳·奥布莱恩/终结技_痛苦列车.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/沃德劳·奥布莱恩/终结技_金刚臂.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/沃德劳·奥布莱恩/终结技_金刚臂.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/沃德劳·奥布莱恩/终结技_金刚臂.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/海登·摩根/终结技_潜能.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/海登·摩根/终结技_潜能.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/海登·摩根/终结技_潜能.json :: 数值.韧性: '0'->0
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/海登·摩根/终结技_血涌.json :: 数值.速度: '2▲'->'2<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/海登·摩根/终结技_血涌.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/海登·摩根/终结技_血涌.json :: 数值.韧性: '2'->2
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/特里亚斯·黑风/终结技_滑流.json :: 数值.速度: '4▲'->'4<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/特里亚斯·黑风/终结技_滑流.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/特里亚斯·黑风/终结技_滑流.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/特里亚斯·黑风/终结技_谣曲.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/特里亚斯·黑风/终结技_谣曲.json :: 数值.速度: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/特里亚斯·黑风/终结技_谣曲.json :: 数值.韧性: '3'->3
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/辛德拉·弗拉马/招式_危殆.json :: [0] '每当'->'当' :: 当对手从你身边前进时，削命 2。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/辛德拉·弗拉马/终结技_双翼.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/辛德拉·弗拉马/终结技_双翼.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/辛德拉·弗拉马/终结技_双翼.json :: 数值.韧性: '2'->2
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/辛德拉·弗拉马/终结技_熔渣风暴.json :: 数值.速度: '6▲'->'6<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/辛德拉·弗拉马/终结技_熔渣风暴.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/辛德拉·弗拉马/终结技_熔渣风暴.json :: 数值.韧性: '0'->0
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/辛德拉·弗拉马/风格_升腾.json :: 数值.速度: '1'->'+1'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/达雷俄斯·库尔/终结技_酒桶.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/达雷俄斯·库尔/终结技_酒桶.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/达雷俄斯·库尔/终结技_酒桶.json :: 数值.韧性: '2'->2
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/达雷俄斯·库尔/风格_踉跄.json :: 数值.速度: '1'->'+1'
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/达雷俄斯·库尔/饮品牌_超凡茗茶.json :: [0] '每当'->'当' :: 当它被激活时，弃置你各个弃牌堆中的所有饮品。拾取弃牌堆 1 中的所有牌。
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/金碧/终结技_施法者.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/金碧/终结技_施法者.json :: 数值.速度: '1'->1
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/金碧/终结技_猎法师.json :: 数值.速度: '9▲'->'9<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/金碧/终结技_猎法师.json :: 数值.威力: '9'->9
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/金碧/终结技_猎法师.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/阿蒙·埃尔塞拉/终结技_隔离墙.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/阿蒙·埃尔塞拉/终结技_隔离墙.json :: 数值.速度: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/阿蒙·埃尔塞拉/终结技_隔离墙.json :: 数值.韧性: '4'->4
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/阿蒙·埃尔塞拉/终结技_黑色代码.json :: 数值.速度: '1▲'->'1<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/阿蒙·埃尔塞拉/终结技_黑色代码.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/阿蒙·埃尔塞拉/终结技_黑色代码.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/阿蒙·埃尔塞拉/终结技_黑色代码.json :: 数值.韧性: '0'->0
+  [T] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/露西达·玛勒菲斯/招式_无餍.json :: [0] '每当'->'当' :: 当你在距离 1 被命中时，眩晕免疫。
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/露西达·玛勒菲斯/终结技_垂涎磨牙.json :: 数值.速度: '4▲'->'4<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/露西达·玛勒菲斯/终结技_垂涎磨牙.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/露西达·玛勒菲斯/终结技_垂涎磨牙.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/露西达·玛勒菲斯/终结技_垂涎磨牙.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/露西达·玛勒菲斯/终结技_獠牙.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/露西达·玛勒菲斯/终结技_獠牙.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/露西达·玛勒菲斯/终结技_獠牙.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/试炼篇-TRI/露西达·玛勒菲斯/终结技_獠牙.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/鸣潮/绯雪/形态牌_预求.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/鸣潮/绯雪/特技(UA)_归刃.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/zh/鸣潮/绯雪/终结技_见心_归刃.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Alumis/终结技_Dread.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Alumis/终结技_Dread.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Alumis/终结技_Dread.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Baenvier/终结技_Spire.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Baenvier/终结技_Spire.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Baenvier/终结技_Spire.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Eustace/终结技_Cross.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Eustace/终结技_Cross.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Eustace/终结技_Cross.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Eustace/终结技_Cross.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Jager/终结技_Slicer.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Jager/终结技_Slicer.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Jager/终结技_Slicer.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Larimore/终结技_Might.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Larimore/终结技_Might.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Larimore/终结技_Might.json :: 数值.韧性: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Sarafina/终结技_Field.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Sarafina/终结技_Field.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Sarafina/终结技_Field.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Thessala/终结技_Lash.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Thessala/终结技_Lash.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Thessala/终结技_Lash.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Triallandra/终结技_Starlight.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Triallandra/终结技_Starlight.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Triallandra/终结技_Starlight.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Welsie/终结技_Arc.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Welsie/终结技_Arc.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Welsie/终结技_Arc.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Xenitia/终结技_Bloodweapon.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Xenitia/终结技_Bloodweapon.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/命运篇-FAT/Xenitia/终结技_Bloodweapon.json :: 数值.韧性: '0'->0
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/多人模式/参考牌_复仇.json :: 效果.效果: 'Your team gains 2 additional Force at the end of the beat. Each surviving team member has <i-sb>+1 Power</i-sb>, <i-sb>+0▲ Priority</i-sb> <i>(a tiebreaker)</i> on all attacks.'->'Your team gains 2 additional Force at the end of the beat. Each surviving team member has <i-sb>+1 Power</i-sb>, <i-sb>+0<initiative> Priority</i-sb> <i>(a tiebreaker)</i> on all attacks.'
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/多人模式/参考牌_终极.json :: 数值.速度: '+2▲'->'+2<initiative>'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/多人模式/参考牌_终极.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/多人模式/参考牌_超级.json :: 数值.速度: '+1▲'->'+1<initiative>'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/多人模式/参考牌_超级.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cadenza/专属招式_Press.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cadenza/专属招式_Press.json :: 数值.速度: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cadenza/专属招式_Press.json :: 数值.韧性: '6'->6
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cadenza/特技(UA)_Iron Body.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cadenza/特技(UA)_Iron Body.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cadenza/终结技_Rocket Press.json :: 数值.α面.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cadenza/终结技_Rocket Press.json :: 数值.α面.威力: '8'->8
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cadenza/终结技_Rocket Press.json :: 数值.β面.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cadenza/终结技_Rocket Press.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cherri/专属招式_Stare.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cherri/专属招式_Stare.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cherri/特技(UA)_Nightmarish Visions.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cherri/特技(UA)_Nightmarish Visions.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cherri/终结技_Soul Gaze.json :: 数值.α面.距离: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cherri/终结技_Soul Gaze.json :: 数值.α面.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cherri/终结技_Soul Gaze.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cherri/终结技_Soul Gaze.json :: 数值.β面.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Cherri/终结技_Soul Gaze.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Demitras Denigrande/专属招式_Deathblow.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Demitras Denigrande/专属招式_Deathblow.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Demitras Denigrande/专属招式_Deathblow.json :: 数值.速度: '8'->8
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Demitras Denigrande/专属招式_Deathblow.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Demitras Denigrande/特技(UA)_Crescendo.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Demitras Denigrande/特技(UA)_Crescendo.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Demitras Denigrande/终结技_Symphony of Demise.json :: 数值.α面.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Demitras Denigrande/终结技_Symphony of Demise.json :: 数值.α面.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Demitras Denigrande/终结技_Symphony of Demise.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Demitras Denigrande/终结技_Symphony of Demise.json :: 数值.β面.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Demitras Denigrande/终结技_Symphony of Demise.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Heketch/专属招式_King's.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Heketch/专属招式_King's.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Heketch/专属招式_King's.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Heketch/专属招式_King's.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Heketch/特技(UA)_Shadowstep.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Heketch/特技(UA)_Shadowstep.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Heketch/终结技_Million Knives.json :: 数值.α面.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Heketch/终结技_Million Knives.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Heketch/终结技_Million Knives.json :: 数值.β面.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Heketch/终结技_Million Knives.json :: 数值.β面.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Heketch/终结技_Million Knives.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hepzibah Culotre/专属招式_Bloodlight.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hepzibah Culotre/专属招式_Bloodlight.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hepzibah Culotre/专属招式_Bloodlight.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hepzibah Culotre/特技(UA)_Dark Pact.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hepzibah Culotre/特技(UA)_Dark Pact.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hepzibah Culotre/终结技_Seal the Past.json :: 数值.α面.韧性: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hepzibah Culotre/终结技_Seal the Past.json :: 数值.β面.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hepzibah Culotre/终结技_Seal the Past.json :: 数值.β面.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hepzibah Culotre/终结技_Seal the Past.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/专属招式_Palmstrike.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/专属招式_Palmstrike.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/专属招式_Palmstrike.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/专属招式_Palmstrike.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/特技(UA)_Geomantic Assault.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/特技(UA)_Geomantic Assault.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/终结技_Wrath of the Elements.json :: 数值.α面.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/终结技_Wrath of the Elements.json :: 数值.α面.威力: '7'->7
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/终结技_Wrath of the Elements.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/终结技_Wrath of the Elements.json :: 数值.β面.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/终结技_Wrath of the Elements.json :: 数值.β面.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Hikaru/终结技_Wrath of the Elements.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kallistar/专属招式_Spellbolt.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kallistar/专属招式_Spellbolt.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kallistar/专属招式_Spellbolt.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kallistar/特技(UA)_Form of Disaster.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kallistar/特技(UA)_Form of Disaster.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kallistar/终结技_Supernova.json :: 数值.α面.威力: '10'->10
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kallistar/终结技_Supernova.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kallistar/终结技_Supernova.json :: 数值.β面.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kallistar/终结技_Supernova.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kehrolyn Ross/专属招式_Strand.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kehrolyn Ross/专属招式_Strand.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kehrolyn Ross/专属招式_Strand.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kehrolyn Ross/专属招式_Strand.json :: 数值.韧性: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kehrolyn Ross/终结技_Hydra Fork.json :: 数值.α面.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kehrolyn Ross/终结技_Hydra Fork.json :: 数值.α面.速度: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Kehrolyn Ross/终结技_Hydra Fork.json :: 数值.β面.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Khadath/专属招式_Snare.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Khadath/专属招式_Snare.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Khadath/专属招式_Snare.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Khadath/特技(UA)_Gate Trap.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Khadath/特技(UA)_Gate Trap.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Khadath/终结技_Dimensional Exile.json :: 数值.α面.威力: '25'->25
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Khadath/终结技_Dimensional Exile.json :: 数值.β面.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Khadath/终结技_Dimensional Exile.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Lixis/专属招式_Lance.json :: 数值.距离: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Lixis/专属招式_Lance.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Lixis/专属招式_Lance.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Lixis/专属招式_Lance.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Lixis/特技(UA)_Withering Touch.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Lixis/特技(UA)_Withering Touch.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Lixis/终结技_Virulent Magma.json :: 数值.α面.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Lixis/终结技_Virulent Magma.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Lixis/终结技_Virulent Magma.json :: 数值.β面.威力: '4'->4
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Luc/特技(UA)_Temporal Battery.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Luc/特技(UA)_Temporal Battery.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Luc/终结技_Temporal Recursion.json :: 数值.α面.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Luc/终结技_Temporal Recursion.json :: 数值.α面.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Luc/终结技_Temporal Recursion.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Luc/终结技_Temporal Recursion.json :: 数值.β面.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Luc/终结技_Temporal Recursion.json :: 数值.β面.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/专属招式_Blessing.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/专属招式_Blessing.json :: 数值.韧性: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/专属招式_Flash.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/专属招式_Flash.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/专属招式_Flash.json :: 数值.速度: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/专属招式_Flash.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/特技(UA)_Divine Conduit.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/特技(UA)_Divine Conduit.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/终结技_Apotheosis.json :: 数值.α面.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/终结技_Apotheosis.json :: 数值.α面.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/终结技_Apotheosis.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/终结技_Apotheosis.json :: 数值.β面.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Magdelina/终结技_Apotheosis.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Rukyuk/专属招式_Reload.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Rukyuk/专属招式_Reload.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Rukyuk/特技(UA)_Custom Ammunition.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Rukyuk/特技(UA)_Custom Ammunition.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Rukyuk/终结技_Fully Automatic.json :: 数值.α面.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Rukyuk/终结技_Fully Automatic.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Rukyuk/终结技_Fully Automatic.json :: 数值.β面.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Rukyuk/终结技_Fully Automatic.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Sagas/专属招式_Staff.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Sagas/专属招式_Staff.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Sagas/专属招式_Staff.json :: 数值.韧性: '3'->3
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Sagas/特技(UA)_Shadow Mirror.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Sagas/特技(UA)_Shadow Mirror.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Sagas/终结技_Soul Mirror.json :: 数值.α面.距离: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Sagas/终结技_Soul Mirror.json :: 数值.α面.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Sagas/终结技_Soul Mirror.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Sagas/终结技_Soul Mirror.json :: 数值.β面.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Sagas/终结技_Soul Mirror.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Seth/专属招式_Omen.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Seth/专属招式_Omen.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Seth/专属招式_Omen.json :: 数值.速度: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Seth/专属招式_Omen.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Seth/特技(UA)_Beyond Eyes.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Seth/特技(UA)_Beyond Eyes.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Seth/终结技_Reading Fate.json :: 数值.α面.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Seth/终结技_Reading Fate.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Seth/终结技_Reading Fate.json :: 数值.β面.威力: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Seth/终结技_Reading Fate.json :: 数值.β面.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Tatsumi & Juto/特技(UA)_Tidal Bond.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Tatsumi & Juto/特技(UA)_Tidal Bond.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Tatsumi & Juto/终结技_Tsunamis Collide.json :: 数值.α面.威力: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Tatsumi & Juto/终结技_Tsunamis Collide.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Tatsumi & Juto/终结技_Tsunamis Collide.json :: 数值.β面.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Tatsumi & Juto/终结技_Tsunamis Collide.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Vanaah/专属招式_Scythe.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Vanaah/专属招式_Scythe.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Vanaah/专属招式_Scythe.json :: 数值.韧性: '3'->3
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Vanaah/特技(UA)_Divine Rush.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Vanaah/特技(UA)_Divine Rush.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Vanaah/终结技_Hand of Dusk.json :: 数值.α面.威力: '7'->7
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Vanaah/终结技_Hand of Dusk.json :: 数值.β面.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Vanaah/终结技_Hand of Dusk.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Zaamassal/专属招式_Paradigm Shift.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Zaamassal/专属招式_Paradigm Shift.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Zaamassal/专属招式_Paradigm Shift.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Zaamassal/特技(UA)_Subjective Reality.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Zaamassal/特技(UA)_Subjective Reality.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Zaamassal/终结技_Open the Gate.json :: 数值.α面.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Zaamassal/终结技_Open the Gate.json :: 数值.α面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Zaamassal/终结技_Open the Gate.json :: 数值.β面.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Zaamassal/终结技_Open the Gate.json :: 数值.β面.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/战争篇-WAR/Zaamassal/终结技_Open the Gate.json :: 数值.β面.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/专属招式_Dunder.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/专属招式_Knuckle.json :: 数值.距离: '1'->1
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/参考牌_Bases.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/参考牌_Bases.json :: 数值补空dict
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/参考牌_Finishers.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/参考牌_Finishers.json :: 数值补空dict
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/参考牌_Map.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/参考牌_Map.json :: 数值补空dict
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/参考牌_Styles.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/参考牌_Styles.json :: 数值补空dict
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/特技(UA)_Oddly_Familiar.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/特技(UA)_Oddly_Familiar.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Borneo/终结技_And_the_Kitchen_Sink_Mama_Mazzaroth.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/专属招式_Flash.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/专属招式_Lance.json :: 数值.距离: '2'->2
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/参考牌_Bases.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/参考牌_Bases.json :: 数值补空dict
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/参考牌_Finishers.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/参考牌_Finishers.json :: 数值补空dict
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/参考牌_Map.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/参考牌_Map.json :: 数值补空dict
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/参考牌_Styles.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/参考牌_Styles.json :: 数值补空dict
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/特技(UA)_Strangely_Familiar.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/特技(UA)_Strangely_Familiar.json :: 数值补N/A四栏(UA惯例)
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/毁灭篇扩展-DEX/Juto/终结技_And_a_Bag_of_Chips_Ban_Hammer.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Anya/招式_KICK!.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Anya/招式_KICK!.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Anya/招式_KICK!.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Anya/招式_KICK!.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Anya/终结技_THEME SONG.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Anya/终结技_THEME SONG.json :: 数值.速度: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Anya/终结技_THEME SONG.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Cionaodh/特技(UA)_RIDE OF A LIFETIME.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Cionaodh/终结技_Stealth Takedown.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Cionaodh/终结技_Stealth Takedown.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Cionaodh/终结技_Stealth Takedown.json :: 数值.韧性: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Cionaodh/终结技_THE GETAWAY.json :: 数值.韧性: '0'->0
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Cionaodh/风格_Escape.json :: 数值.速度: '3'->'+3'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Dajin/特技(UA)_WISHFUL THINKING.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Dajin/终结技_PRICE OF POWER.json :: 数值.距离: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Dajin/终结技_PRICE OF POWER.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Dajin/终结技_PRICE OF POWER.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Dajin/终结技_PRICE OF POWER.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Dajin/终结技_Wish Granted.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Dajin/终结技_Wish Granted.json :: 数值.速度: '14'->14
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Dajin/终结技_Wish Granted.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Feylana/特技(UA)_REGULATION LIMITER.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Feylana/终结技_Appeal.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Feylana/终结技_Appeal.json :: 数值.速度: '14'->14
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Feylana/终结技_CASE CLOSED.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Feylana/终结技_CASE CLOSED.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Feylana/终结技_CASE CLOSED.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/John/特技(UA)_MARRIJANI CURSE.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/John/终结技_Blast Mining.json :: 数值.威力: '8'->8
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/John/终结技_Blast Mining.json :: 数值.速度: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/John/终结技_Blast Mining.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/John/终结技_Flesh to Stone.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/John/终结技_Flesh to Stone.json :: 数值.速度: '54'->54
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/John/终结技_Flesh to Stone.json :: 数值.韧性: '0'->0
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/John/风格_Hammering.json :: 数值.韧性: '2'->'+2'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kai/特技(UA)_PUZZLING BOX.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kai/终结技_Collapsible Box.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kai/终结技_Collapsible Box.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kai/终结技_Collapsible Box.json :: 数值.速度: '24'->24
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kai/终结技_FINAL SACRIFICE.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kai/终结技_FINAL SACRIFICE.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kai/终结技_FINAL SACRIFICE.json :: 数值.韧性: '0'->0
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kai/风格_Complex.json :: 数值.威力: '1'->'+1'
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kora/特技(UA)_DESERT'S EMBRACE.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kora/终结技_Desert Rose.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kora/终结技_Desert Rose.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kora/终结技_QUEEN OF PAIN.json :: 数值.威力: '9'->9
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kora/终结技_QUEEN OF PAIN.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Kora/终结技_QUEEN OF PAIN.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Rin/特技(UA)_FROSTBITE.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Rin/终结技_Deep Freeze.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Rin/终结技_Deep Freeze.json :: 数值.速度: '74'->74
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Rin/终结技_Deep Freeze.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Rin/终结技_THE DRAGON'S FROZEN CLAW.json :: 数值.威力: '7'->7
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Rin/终结技_THE DRAGON'S FROZEN CLAW.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Rin/终结技_THE DRAGON'S FROZEN CLAW.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Vekyl/特技(UA)_ETERNAL SERVITUDE.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Vekyl/终结技_Spectral Assault.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Vekyl/终结技_Spectral Assault.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Vekyl/终结技_Spectral Assault.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Vekyl/终结技_TRANSFIX.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Vekyl/终结技_TRANSFIX.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Vekyl/终结技_TRANSFIX.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Wendy/特技(UA)_AIR SUPPORT.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Wendy/终结技_FIRE AT WILL.json :: 数值.韧性: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Wendy/终结技_Precision Strike.json :: 数值.威力: '9'->9
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/流浪者篇-WAN/Wendy/终结技_Precision Strike.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Anath Adraste/专属招式_Havoc.json :: 数值.距离: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Anath Adraste/专属招式_Havoc.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Anath Adraste/专属招式_Havoc.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Anath Adraste/专属招式_Havoc.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Anath Adraste/终结技_Devastation Now.json :: 数值.速度: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Anath Adraste/终结技_Devastation Now.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Andrus Dochartaigh/专属招式_Slash.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Andrus Dochartaigh/专属招式_Slash.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Andrus Dochartaigh/专属招式_Slash.json :: 数值.韧性: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Andrus Dochartaigh/终结技_Flash Cutter.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Andrus Dochartaigh/终结技_Flash Cutter.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Andrus Dochartaigh/终结技_Flash Cutter.json :: 数值.韧性: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Claus & Wyndhal/专属招式_Tempest.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Claus & Wyndhal/专属招式_Tempest.json :: 数值.速度: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Claus & Wyndhal/专属招式_Tempest.json :: 数值.韧性: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Claus & Wyndhal/终结技_Autumn's Advance.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Claus & Wyndhal/终结技_Autumn's Advance.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Claus & Wyndhal/终结技_Autumn's Advance.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Claus & Wyndhal/终结技_Autumn's Advance.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Dolores Malephaise/专属招式_Barbs.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Dolores Malephaise/专属招式_Barbs.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Dolores Malephaise/专属招式_Barbs.json :: 数值.韧性: '3'->3
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Dolores Malephaise/终结技_Fatal_Descent_Funeral_Rites.json :: 角标补默认 {'α面': '<star8-alpha>', 'β面': '<star8-beta>'}
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Eliza/专属招式_Worldbook.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Eliza/专属招式_Worldbook.json :: 数值.速度: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Eliza/专属招式_Worldbook.json :: 数值.韧性: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Eliza/终结技_Between the Lines.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Eliza/终结技_Between the Lines.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Eliza/终结技_Between the Lines.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Evil Hikaru/专属招式_Devastator.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Evil Hikaru/专属招式_Devastator.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Evil Hikaru/专属招式_Devastator.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Evil Hikaru/专属招式_Devastator.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Evil Hikaru/终结技_Rage of the Land.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Evil Hikaru/终结技_Rage of the Land.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Evil Hikaru/终结技_Rage of the Land.json :: 数值.速度: '7'->7
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Evil Hikaru/终结技_Rage of the Land.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Himel Nine/终结技_IK 38.json :: 数值.威力: '38'->38
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Himel Nine/终结技_IK 38.json :: 数值.速度: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Himel Nine/终结技_IK 38.json :: 数值.韧性: '0'->0
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Himel Nine/风格_Take the Shot.json :: 数值.威力: '1'->'+1'
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Himel Nine/风格_Take the Shot.json :: 数值.速度: '0'->'+0'
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Himel Nine/风格_Take the Shot.json :: 数值.韧性: '6'->'+6'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Jin/专属招式_Reforging.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Jin/专属招式_Reforging.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Jin/专属招式_Reforging.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Jin/终结技_Siphon.json :: 数值.威力: '7'->7
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Jin/终结技_Siphon.json :: 数值.速度: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Lucius/专属招式_Somersault.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Lucius/专属招式_Somersault.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Lucius/专属招式_Somersault.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Lucius/专属招式_Somersault.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Lucius/终结技_Skyfall Strike.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Lucius/终结技_Skyfall Strike.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Lucius/终结技_Skyfall Strike.json :: 数值.速度: '8'->8
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Lucius/终结技_Skyfall Strike.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Merjoram Alexian/专属招式_Warhammer.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Merjoram Alexian/专属招式_Warhammer.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Merjoram Alexian/专属招式_Warhammer.json :: 数值.韧性: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Merjoram Alexian/终结技_Foehammer.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Merjoram Alexian/终结技_Foehammer.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Merjoram Alexian/终结技_Foehammer.json :: 数值.韧性: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Oriax Two/专属招式_Wrath.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Oriax Two/专属招式_Wrath.json :: 数值.速度: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Oriax Two/专属招式_Wrath.json :: 数值.韧性: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Oriax Two/终结技_Strike Down.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Oriax Two/终结技_Strike Down.json :: 数值.速度: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Oriax Two/终结技_Strike Down.json :: 数值.韧性: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Raritti Sikhar/专属招式_Reading.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Raritti Sikhar/专属招式_Reading.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Raritti Sikhar/专属招式_Reading.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Rheye/专属招式_Smite.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Rheye/专属招式_Smite.json :: 数值.速度: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Rheye/终结技_Celestial Nova.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Rheye/终结技_Celestial Nova.json :: 数值.速度: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Takeshi/专属招式_Throw.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Takeshi/专属招式_Throw.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Takeshi/专属招式_Throw.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Takeshi/终结技_Omega Destroyer.json :: 数值.威力: '9'->9
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Takeshi/终结技_Omega Destroyer.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Takeshi/终结技_Omega Destroyer.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Victor/招式_[待核].json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Victor/招式_[待核].json :: 数值.速度: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Victor/终结技_Thrill of a Lifetime.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Victor/终结技_Thrill of a Lifetime.json :: 数值.速度: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/独立-SLO/Victor/终结技_Thrill of a Lifetime.json :: 数值.韧性: '0'->0
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Amon/终结技_Code Black.json :: 数值.速度: '1▲'->'1<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Amon/终结技_Code Black.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Amon/终结技_Code Black.json :: 数值.威力: '6'->6
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Amon/终结技_Code Black.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Amon/终结技_Wall.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Amon/终结技_Wall.json :: 数值.速度: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Amon/终结技_Wall.json :: 数值.韧性: '4'->4
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Burgundy/终结技_Emperor's New Clothes.json :: 数值.速度: '1▲'->'1<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Burgundy/终结技_Emperor's New Clothes.json :: 数值.距离: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Burgundy/终结技_Emperor's New Clothes.json :: 数值.威力: '8'->8
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Burgundy/终结技_Slaughter.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Burgundy/终结技_Slaughter.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Burgundy/终结技_Slaughter.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Burgundy/终结技_Slaughter.json :: 数值.韧性: '0'->0
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Cindra/终结技_Cinder Storm.json :: 数值.速度: '6▲'->'6<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Cindra/终结技_Cinder Storm.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Cindra/终结技_Cinder Storm.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Cindra/终结技_Wings.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Cindra/终结技_Wings.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Cindra/终结技_Wings.json :: 数值.韧性: '2'->2
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Cindra/风格_Rising.json :: 数值.速度: '1'->'+1'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Dareios/终结技_Keg.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Dareios/终结技_Keg.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Dareios/终结技_Keg.json :: 数值.韧性: '2'->2
+  [S] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Dareios/风格_Shuffling.json :: 数值.速度: '1'->'+1'
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Dravil/终结技_Blue Dragon's Slicing Test.json :: 数值.速度: '1▲'->'1<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Dravil/终结技_Blue Dragon's Slicing Test.json :: 数值.威力: '7'->7
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Dravil/终结技_Blue Dragon's Slicing Test.json :: 数值.韧性: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Dravil/终结技_Storm.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Dravil/终结技_Storm.json :: 数值.速度: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Dravil/终结技_Storm.json :: 数值.韧性: '0'->0
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Hayden/终结技_Hemorrhage.json :: 数值.速度: '2▲'->'2<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Hayden/终结技_Hemorrhage.json :: 数值.威力: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Hayden/终结技_Hemorrhage.json :: 数值.韧性: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Hayden/终结技_Potential.json :: 数值.威力: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Hayden/终结技_Potential.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Hayden/终结技_Potential.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Kimbhe/终结技_Caster.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Kimbhe/终结技_Caster.json :: 数值.速度: '1'->1
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Kimbhe/终结技_Mage Hunter.json :: 数值.速度: '9▲'->'9<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Kimbhe/终结技_Mage Hunter.json :: 数值.威力: '9'->9
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Kimbhe/终结技_Mage Hunter.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Lucida Malephaise/终结技_Teeth.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Lucida Malephaise/终结技_Teeth.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Lucida Malephaise/终结技_Teeth.json :: 数值.速度: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Lucida Malephaise/终结技_Teeth.json :: 数值.韧性: '0'->0
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Lucida Malephaise/终结技_Wet the Jaws.json :: 数值.速度: '4▲'->'4<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Lucida Malephaise/终结技_Wet the Jaws.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Lucida Malephaise/终结技_Wet the Jaws.json :: 数值.威力: '5'->5
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Lucida Malephaise/终结技_Wet the Jaws.json :: 数值.韧性: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Trias/终结技_Ballad.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Trias/终结技_Ballad.json :: 数值.速度: '2'->2
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Trias/终结技_Ballad.json :: 数值.韧性: '3'->3
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Trias/终结技_Slipstream.json :: 数值.速度: '4▲'->'4<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Trias/终结技_Slipstream.json :: 数值.威力: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Trias/终结技_Slipstream.json :: 数值.韧性: '0'->0
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Wardlaw/特技(UA)_Beatdown.json :: 角标补默认 ''
+  [K] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Wardlaw/特技(UA)_Beatdown.json :: 数值补N/A四栏(UA惯例)
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Wardlaw/终结技_Clothesline.json :: 数值.威力: '4'->4
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Wardlaw/终结技_Clothesline.json :: 数值.速度: '3'->3
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Wardlaw/终结技_Clothesline.json :: 数值.韧性: '0'->0
+  [A] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Wardlaw/终结技_Pain Train.json :: 数值.速度: '4▲'->'4<initiative>'
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Wardlaw/终结技_Pain Train.json :: 数值.距离: '1'->1
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Wardlaw/终结技_Pain Train.json :: 数值.威力: '0'->0
+  [I] D:/Arkham Horror PSD/BattleConDB/battlecon-diy-zh/json-db/en/试炼篇-TRI/Wardlaw/终结技_Pain Train.json :: 数值.韧性: '0'->0

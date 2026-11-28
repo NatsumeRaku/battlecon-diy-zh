@@ -1,0 +1,128 @@
+== 角色映射（zh->en）== 53
+  命运篇-FAT/克塞妮蒂亚·祖克 -> 命运篇-FAT/Xenitia
+  命运篇-FAT/切换牌_切换.json -> 命运篇-FAT/通用牌_Switch.json
+  命运篇-FAT/塞萨莉亚·三 -> 命运篇-FAT/Thessala
+  命运篇-FAT/尤斯提斯勋爵 -> 命运篇-FAT/Eustace
+  命运篇-FAT/崔兰德拉 -> 命运篇-FAT/Triallandra
+  命运篇-FAT/拉里莫尔·伯曼 -> 命运篇-FAT/Larimore
+  命运篇-FAT/班维尔·马格罗夫 -> 命运篇-FAT/Baenvier
+  命运篇-FAT/萨拉菲娜·范纳德兰 -> 命运篇-FAT/Sarafina
+  命运篇-FAT/薇尔茜·阿克特恩 -> 命运篇-FAT/Welsie
+  命运篇-FAT/阿露弥斯 -> 命运篇-FAT/Alumis
+  命运篇-FAT/雅格·布兰德福德 -> 命运篇-FAT/Jager
+  战争篇-WAR/凯莉星 -> 战争篇-WAR/Kallistar
+  战争篇-WAR/华彩骑士 -> 战争篇-WAR/Cadenza
+  战争篇-WAR/卡罗琳·萝丝 -> 战争篇-WAR/Kehrolyn Ross
+  战争篇-WAR/吕克·冯·戈特 -> 战争篇-WAR/Luc
+  战争篇-WAR/塔丝蜜·诺克与朱托 -> 战争篇-WAR/Tatsumi & Juto
+  战争篇-WAR/塞斯·克雷穆尔 -> 战争篇-WAR/Seth
+  战争篇-WAR/德米特拉斯·德尼格朗德 -> 战争篇-WAR/Demitras Denigrande
+  战争篇-WAR/扎马萨尔·凯特 -> 战争篇-WAR/Zaamassal
+  战争篇-WAR/玛格德莉娜·拉灵顿 -> 战争篇-WAR/Magdelina
+  战争篇-WAR/瓦娜·卡尔莫 -> 战争篇-WAR/Vanaah
+  战争篇-WAR/科达斯·阿赫缪赛 -> 战争篇-WAR/Khadath
+  战争篇-WAR/空山光 -> 战争篇-WAR/Hikaru
+  战争篇-WAR/莉克希丝·澜·坎达 -> 战争篇-WAR/Lixis
+  战争篇-WAR/萨加斯·塞提斯 -> 战争篇-WAR/Sagas
+  战争篇-WAR/赫凯奇 -> 战争篇-WAR/Heketch
+  战争篇-WAR/赫普兹巴·库洛特 -> 战争篇-WAR/Hepzibah Culotre
+  战争篇-WAR/鲁奇优客·安布尔迪恩 -> 战争篇-WAR/Rukyuk
+  独立-SLO/伊丽莎 -> 独立-SLO/Eliza
+  独立-SLO/克劳斯与温德尔 -> 独立-SLO/Claus & Wyndhal
+  独立-SLO/卢修斯 -> 独立-SLO/Lucius
+  独立-SLO/多洛蕾丝·玛勒菲斯 -> 独立-SLO/Dolores Malephaise
+  独立-SLO/奥瑞亚克斯二世 -> 独立-SLO/Oriax Two
+  独立-SLO/安德鲁斯·多尔卡泰 -> 独立-SLO/Andrus Dochartaigh
+  独立-SLO/拉丽蒂·西卡尔 -> 独立-SLO/Raritti Sikhar
+  独立-SLO/梅乔拉姆·亚历克希安 -> 独立-SLO/Merjoram Alexian
+  独立-SLO/武 -> 独立-SLO/Takeshi
+  独立-SLO/海梅尔九号 -> 独立-SLO/Himel Nine
+  独立-SLO/瑞伊·卡尔 -> 独立-SLO/Rheye
+  独立-SLO/维克托 -> 独立-SLO/Victor
+  独立-SLO/邪恶的光 -> 独立-SLO/Evil Hikaru
+  独立-SLO/金 -> 独立-SLO/Jin
+  独立-SLO/阿娜思·阿德拉斯特亚 -> 独立-SLO/Anath Adraste
+  试炼篇-TRI/勃艮第十二世 -> 试炼篇-TRI/Burgundy
+  试炼篇-TRI/德拉维尔·寒水 -> 试炼篇-TRI/Dravil
+  试炼篇-TRI/沃德劳·奥布莱恩 -> 试炼篇-TRI/Wardlaw
+  试炼篇-TRI/海登·摩根 -> 试炼篇-TRI/Hayden
+  试炼篇-TRI/特里亚斯·黑风 -> 试炼篇-TRI/Trias
+  试炼篇-TRI/辛德拉·弗拉马 -> 试炼篇-TRI/Cindra
+  试炼篇-TRI/达雷俄斯·库尔 -> 试炼篇-TRI/Dareios
+  试炼篇-TRI/金碧 -> 试炼篇-TRI/Kimbhe
+  试炼篇-TRI/阿蒙·埃尔塞拉 -> 试炼篇-TRI/Amon
+  试炼篇-TRI/露西达·玛勒菲斯 -> 试炼篇-TRI/Lucida Malephaise
+
+== 数值/结构不一致: 6
+   ('特技(UA)_钢铁之躯.json|特技(UA)_Iron Body.json', '效果条数', 4, 3)
+   ('状态效果牌_夜沼.json|状态效果牌_Nightmarsh.json', '效果条数', 2, 1)
+   ('状态效果牌_断腱.json|状态效果牌_Hamstrung.json', '效果条数', 2, 1)
+   ('终结技_万刃_活夜魇.json|终结技_Million Knives.json', 'β面.速度', '2▲', '2')
+   ('终结技_万刃_活夜魇.json|终结技_Million Knives.json', 'α面.速度', '7▲', '7')
+   ('终结技_万刃_活夜魇.json|终结技_Million Knives.json', '效果条数', 5, 3)
+
+== 时点打架候选: 38
+   ('命运篇-FAT/克塞妮蒂亚·祖克/风格_罪责.json', '每当', '当你被命中时，若对手的威力为 ⚙ 或更低，你被眩晕。', '当', "When you are hit, if the Opponent's Power is ⚙ or less, you ", 0)
+   ('命运篇-FAT/塞萨莉亚·三/风格_切割.json', '每当', '当对手后退时，+0~2 距离。', '当', 'When the Opponent Retreats, +0~2 Range.', 0)
+   ('命运篇-FAT/拉里莫尔·伯曼/风格_龙息.json', '每当', '当对手前进时，你可以消耗 2 火力 来削命 2。', '当', 'When the Opponent Advances, you may spend 2 Firepower to Chi', 0)
+   ('命运篇-FAT/班维尔·马格罗夫/风格_怨恨.json', '每当', '当你被命中时，若对手的威力大于其印刷威力，+2 威力且护甲 2。', '当', "When you are hit, if the Opponent's Power is greater than th", 0)
+   ('命运篇-FAT/阿露弥斯/招式_晦影.json', '', '当对手进入暗影所在格时，削命 2，并阻止对手移动。', '当', "When the Opponent enters the Shadow's space, Chip 2 and stop", 0)
+   ('命运篇-FAT/雅格·布兰德福德/招式_血月.json', '每当', '当对手越过你前进时，你的距离变为 N/A。', '当', 'When the Opponent Advances past you, your Range becomes N/A.', 0)
+   ('战争篇-WAR/华彩骑士/专属招式_冲压.json', '当', '每当你受到伤害时：你每受到 1 点伤害，+1 威力。', '每当', 'Whenever you take damage, +1 Power per damage taken.', 0)
+   ('战争篇-WAR/吕克·冯·戈特/终结技_时序递归_静止充能[待核].json', '持续', '每当对手将要执行一个触发效果时，阻止该触发效果并回收 1 时间。', '', 'Each time the Opponent would perform a trigger, prevent that', 2)
+   ('战争篇-WAR/吕克·冯·戈特/风格_永恒.json', '每当', '当你被命中时，消耗任意数量的时间，每消耗 1 时间就获得护甲 1。', '当', 'When you are hit, spend any amount of Time for Armor 1 each.', 0)
+   ('战争篇-WAR/塔丝蜜·诺克与朱托/风格_激流.json', '每当', '当你被命中时，若对手位于 朱托 身后，对手拥有 -2 威力。', '当', 'When you are hit, if the Opponent is behind Juto, the Oppone', 0)
+   ('战争篇-WAR/扎马萨尔·凯特/形态牌_敞门.json', '每当', '当你被眩晕或变为范式时，回收所有被弃置的范式并停用此牌。', '当', 'When you are stunned or become a Paradigm, recover all trash', 0)
+   ('战争篇-WAR/玛格德莉娜·拉灵顿/特技(UA)_神圣导管[待核].json', '持续', '等级提升：按顺序激活下一个等级来等级提升（0 > 1 > 2 > 3 > 4 > 5）。同一时间只能有一个等级处于激活状', '当', 'Level Up: Level Up by activating the next Level in sequence ', 1)
+   ('战争篇-WAR/赫凯奇/风格_无情.json', '当', '每当对手进入你相邻的格时：削命 2。', '每当', 'Whenever the Opponent enters a space adjacent to you, Chip 2', 0)
+   ('战争篇-WAR/赫普兹巴·库洛特/风格_笃定.json', '每当', '当你被命中时，弃置 契约（已激活或未激活）。', '当', 'When you are hit, trash a Pact (active or inactive).', 1)
+   ('独立-SLO/伊丽莎/风格_选集.json', '每当', '当你被命中时，对手选择并停用 1 个流派。', '当', 'When you are hit, the Opponent chooses and deactivates a Gen', 0)
+   ('独立-SLO/克劳斯与温德尔/风格_坠风.json', '每当', '当你被命中时，若对手位于距离 3+，护甲 2。', '当', 'When you are hit, if the Opponent is at range 3+, Armor 2.', 0)
+   ('独立-SLO/多洛蕾丝·玛勒菲斯/专属招式_倒刺.json', '每当', '+2 威力。', '当', 'When the Opponent is Pushed or Pulled, +2 Power.', 0)
+   ('独立-SLO/多洛蕾丝·玛勒菲斯/专属招式_倒刺.json', '每当', '削命 1。', '当', 'When the Opponent Advances or Retreats, Chip 1 (regardless o', 1)
+   ('独立-SLO/多洛蕾丝·玛勒菲斯/终结技_致命降临_殡葬仪式.json', '命中', '本场对决的剩余时间内,获得“每当对手前进或后退时,每移动 1 格就削命 1。”', '每当', 'For the rest of the duel, gain “Whenever the Opponent Advanc', 1)
+   ('独立-SLO/拉丽蒂·西卡尔/风格_业报.json', '每当', '当你被命中时，+2 威力，并查看你牌阵中 1 张未激活命运牌的正面。', '当', 'When you are hit, +2 Power and look at the face side of an i', 0)
+   ('独立-SLO/海梅尔九号/状态效果牌_无敌.json', '', '当你前进或后退，或对手前进越过你时，变为破绽。', '当', 'When you Advance or Retreat or the Opponent Advances past yo', 0)
+   ('独立-SLO/海梅尔九号/状态效果牌_无敌.json', '', '当你将承受超过 1 点伤害时，改为承受 1 点伤害。', '当', 'When you would take more than 1 damage, take 1 damage instea', 1)
+   ('独立-SLO/瑞伊·卡尔/专属招式_天罚.json', '每当', '当对手进入护符所在格时，你的距离变为 1~6*。', '当', 'When an Opponent enters a Talisman’s space, your Range becom', 0)
+   ('独立-SLO/维克托/建议牌_你无路可逃…….json', '', '当对手前进越过你时，弃置该建议。', '当', 'When the Opponent Advances past you, trash this Suggestion.', 0)
+   ('独立-SLO/维克托/风格_安全.json', '每当', '当你被命中时，+3 威力。', '当', 'When you are hit, +3 Power.', 0)
+   ('独立-SLO/维克托/风格_就绪.json', '每当', '当对手前进时，+3 韧性。', '当', 'When the Opponent Advances, +3 Guard.', 0)
+   ('独立-SLO/维克托/风格_惊吓.json', '每当', '当你被命中时，对手身后每有 1 格，护甲 1。', '当', 'When you are hit, Armor 1 for each space behind the Opponent', 0)
+   ('独立-SLO/维克托/风格_自信.json', '每当', '当对手前进或后退时，-2 威力与+0~1 距离。', '当', 'When the Opponent Advances or Retreats, -2 Power and +0~1 Ra', 0)
+   ('独立-SLO/邪恶的光/专属招式_毁灭者.json', '每当', '当对手前进越过你时，本次攻击不命中。', '当', 'When the Opponent Advances past you, this attack does not hi', 0)
+   ('独立-SLO/金/风格_刹那.json', '每当', '当你被命中时，你可瞬移至 1 个侦察器。若如此，将那个侦察器放置在你离开的格（你仍被命中，随后可用特技收回侦察器）。', '当', 'When you are hit, you may teleport to a Scouter. If you did,', 0)
+   ('独立-SLO/阿娜思·阿德拉斯特亚/风格_惧怖.json', '每当', '当你被命中时，若对手位于距离 2，护甲 3。', '当', 'When you are hit, if the Opponent is at Range 2, Armor 3.', 0)
+   ('试炼篇-TRI/勃艮第十二世/招式_如绘.json', '每当', '当你被命中时，如果你与对手之间有颜料，获得护甲 2。', '当', 'When you are hit, Armor 2 if there is Paint between you and ', 0)
+   ('试炼篇-TRI/特里亚斯·黑风/特技(UA)_饰彩.json', '限定投注', '限定投注： 选择一个起首。当展示你的攻击对时，它被激活。', '当', 'Limited Ante: Select a Beginning. It is activated when you r', 1)
+   ('试炼篇-TRI/特里亚斯·黑风/特技(UA)_饰彩.json', '限定投注', '限定投注： 选择一个收尾。当展示你的攻击对时，它被激活。', '当', 'Limited Ante: Select an Ending. It is activated when you rev', 2)
+   ('试炼篇-TRI/辛德拉·弗拉马/招式_危殆.json', '每当', '当对手从你身边前进时，削命 2。', '当', 'When the Opponent Advances past you, Chip 2.', 0)
+   ('试炼篇-TRI/达雷俄斯·库尔/饮品牌_超凡茗茶.json', '每当', '当它被激活时，弃置你各个弃牌堆中的所有饮品。拾取弃牌堆 1 中的所有牌。', '当', 'When activated, trash all Drinks in your Discard Piles. Pick', 0)
+   ('试炼篇-TRI/阿蒙·埃尔塞拉/特技(UA)_损害管制.json', '持续', '一次只能有一个危险等级处于激活状态。当你激活一个新的危险等级时，需先取消任何较旧的危险等级。', '当', 'Only one Danger Level can be active at a time. Deactivate an', 1)
+   ('试炼篇-TRI/露西达·玛勒菲斯/招式_无餍.json', '每当', '当你在距离 1 被命中时，眩晕免疫。', '当', 'When you are hit at Range 1, Stun Immunity.', 0)
+
+== 未配对 zh: 3
+   ('战争篇-WAR/塞斯·克雷穆尔', '终结技_命运解读_命运突破.json')
+   ('独立-SLO/多洛蕾丝·玛勒菲斯', '特技(UA)_展翼.json')
+   ('独立-SLO/多洛蕾丝·玛勒菲斯', '状态效果牌_挽歌.json')
+== 未配对 en: 22
+   ('战争篇-WAR/Kallistar', '特技(UA)_Rebirth.json')
+   ('战争篇-WAR/Kallistar', '状态效果牌_Human Form.json')
+   ('战争篇-WAR/Kallistar', '状态效果牌_Phoenix Form.json')
+   ('战争篇-WAR/Kallistar', '终结技_Blazing Dive.json')
+   ('战争篇-WAR/Kallistar', '终结技_Cinder Storm.json')
+   ('战争篇-WAR/Kallistar', '风格_Ash.json')
+   ('战争篇-WAR/Kallistar', '风格_Cinder.json')
+   ('战争篇-WAR/Kallistar', '风格_Ember.json')
+   ('战争篇-WAR/Kallistar', '风格_Fireloop.json')
+   ('战争篇-WAR/Kallistar', '风格_Fulmination.json')
+   ('战争篇-WAR/Kallistar', '风格_Kindle.json')
+   ('战争篇-WAR/Kallistar', '风格_Kindled.json')
+   ('战争篇-WAR/Kallistar', '风格_Phoenix.json')
+   ('战争篇-WAR/Kallistar', '风格_Smoldering.json')
+   ('战争篇-WAR/Kallistar', '风格_Soaring.json')
+   ('战争篇-WAR/Kallistar', '风格_Wings.json')
+   ('战争篇-WAR/Cadenza', '状态效果牌_Unending Vigil.json')
+   ('战争篇-WAR/Seth', '终结技_Reading Fate.json')
+   ('战争篇-WAR/Sagas', '终结技_Erasure.json')
+   ('战争篇-WAR/Sagas', '风格_Bloodletting.json')

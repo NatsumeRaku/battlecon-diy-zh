@@ -7,8 +7,8 @@
  "数值": {
   "距离": "N/A",
   "威力": "N/A",
-  "速度": "1",
-  "韧性": "0"
+  "速度": 1,
+  "韧性": 0
  },
  "台词": "“The world has grown weary. Indines demands rest from the burden of your kind.”",
  "效果": [

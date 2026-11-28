@@ -6,9 +6,9 @@
  "系列": "独立-SLO",
  "数值": {
   "距离": "3~5",
-  "威力": "9",
-  "速度": "4",
-  "韧性": "0"
+  "威力": 9,
+  "速度": 4,
+  "韧性": 0
  },
  "台词": "“I didn’t want to use this, but... ok, you got me, I was actually looking forward to it!”",
  "效果": [

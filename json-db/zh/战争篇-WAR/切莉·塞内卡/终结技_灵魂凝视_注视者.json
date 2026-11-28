@@ -53,5 +53,9 @@
   }
  },
  "α面": "<star8-alpha>",
- "β面": "<star8-beta>"
+ "β面": "<star8-beta>",
+ "角标": {
+  "α面": "<star8-alpha>",
+  "β面": "<star8-beta>"
+ }
 }

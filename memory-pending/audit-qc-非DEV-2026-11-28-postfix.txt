@@ -1,0 +1,94 @@
+== 角色映射（zh->en）== 53
+  命运篇-FAT/克塞妮蒂亚·祖克 -> 命运篇-FAT/Xenitia
+  命运篇-FAT/切换牌_切换.json -> 命运篇-FAT/通用牌_Switch.json
+  命运篇-FAT/塞萨莉亚·三 -> 命运篇-FAT/Thessala
+  命运篇-FAT/尤斯提斯勋爵 -> 命运篇-FAT/Eustace
+  命运篇-FAT/崔兰德拉 -> 命运篇-FAT/Triallandra
+  命运篇-FAT/拉里莫尔·伯曼 -> 命运篇-FAT/Larimore
+  命运篇-FAT/班维尔·马格罗夫 -> 命运篇-FAT/Baenvier
+  命运篇-FAT/萨拉菲娜·范纳德兰 -> 命运篇-FAT/Sarafina
+  命运篇-FAT/薇尔茜·阿克特恩 -> 命运篇-FAT/Welsie
+  命运篇-FAT/阿露弥斯 -> 命运篇-FAT/Alumis
+  命运篇-FAT/雅格·布兰德福德 -> 命运篇-FAT/Jager
+  战争篇-WAR/凯莉星 -> 战争篇-WAR/Kallistar
+  战争篇-WAR/华彩骑士 -> 战争篇-WAR/Cadenza
+  战争篇-WAR/卡罗琳·萝丝 -> 战争篇-WAR/Kehrolyn Ross
+  战争篇-WAR/吕克·冯·戈特 -> 战争篇-WAR/Luc
+  战争篇-WAR/塔丝蜜·诺克与朱托 -> 战争篇-WAR/Tatsumi & Juto
+  战争篇-WAR/塞斯·克雷穆尔 -> 战争篇-WAR/Seth
+  战争篇-WAR/德米特拉斯·德尼格朗德 -> 战争篇-WAR/Demitras Denigrande
+  战争篇-WAR/扎马萨尔·凯特 -> 战争篇-WAR/Zaamassal
+  战争篇-WAR/玛格德莉娜·拉灵顿 -> 战争篇-WAR/Magdelina
+  战争篇-WAR/瓦娜·卡尔莫 -> 战争篇-WAR/Vanaah
+  战争篇-WAR/科达斯·阿赫缪赛 -> 战争篇-WAR/Khadath
+  战争篇-WAR/空山光 -> 战争篇-WAR/Hikaru
+  战争篇-WAR/莉克希丝·澜·坎达 -> 战争篇-WAR/Lixis
+  战争篇-WAR/萨加斯·塞提斯 -> 战争篇-WAR/Sagas
+  战争篇-WAR/赫凯奇 -> 战争篇-WAR/Heketch
+  战争篇-WAR/赫普兹巴·库洛特 -> 战争篇-WAR/Hepzibah Culotre
+  战争篇-WAR/鲁奇优客·安布尔迪恩 -> 战争篇-WAR/Rukyuk
+  独立-SLO/伊丽莎 -> 独立-SLO/Eliza
+  独立-SLO/克劳斯与温德尔 -> 独立-SLO/Claus & Wyndhal
+  独立-SLO/卢修斯 -> 独立-SLO/Lucius
+  独立-SLO/多洛蕾丝·玛勒菲斯 -> 独立-SLO/Dolores Malephaise
+  独立-SLO/奥瑞亚克斯二世 -> 独立-SLO/Oriax Two
+  独立-SLO/安德鲁斯·多尔卡泰 -> 独立-SLO/Andrus Dochartaigh
+  独立-SLO/拉丽蒂·西卡尔 -> 独立-SLO/Raritti Sikhar
+  独立-SLO/梅乔拉姆·亚历克希安 -> 独立-SLO/Merjoram Alexian
+  独立-SLO/武 -> 独立-SLO/Takeshi
+  独立-SLO/海梅尔九号 -> 独立-SLO/Himel Nine
+  独立-SLO/瑞伊·卡尔 -> 独立-SLO/Rheye
+  独立-SLO/维克托 -> 独立-SLO/Victor
+  独立-SLO/邪恶的光 -> 独立-SLO/Evil Hikaru
+  独立-SLO/金 -> 独立-SLO/Jin
+  独立-SLO/阿娜思·阿德拉斯特亚 -> 独立-SLO/Anath Adraste
+  试炼篇-TRI/勃艮第十二世 -> 试炼篇-TRI/Burgundy
+  试炼篇-TRI/德拉维尔·寒水 -> 试炼篇-TRI/Dravil
+  试炼篇-TRI/沃德劳·奥布莱恩 -> 试炼篇-TRI/Wardlaw
+  试炼篇-TRI/海登·摩根 -> 试炼篇-TRI/Hayden
+  试炼篇-TRI/特里亚斯·黑风 -> 试炼篇-TRI/Trias
+  试炼篇-TRI/辛德拉·弗拉马 -> 试炼篇-TRI/Cindra
+  试炼篇-TRI/达雷俄斯·库尔 -> 试炼篇-TRI/Dareios
+  试炼篇-TRI/金碧 -> 试炼篇-TRI/Kimbhe
+  试炼篇-TRI/阿蒙·埃尔塞拉 -> 试炼篇-TRI/Amon
+  试炼篇-TRI/露西达·玛勒菲斯 -> 试炼篇-TRI/Lucida Malephaise
+
+== 数值/结构不一致: 4
+   ('特技(UA)_钢铁之躯.json|特技(UA)_Iron Body.json', '效果条数', 4, 3)
+   ('状态效果牌_夜沼.json|状态效果牌_Nightmarsh.json', '效果条数', 2, 1)
+   ('状态效果牌_断腱.json|状态效果牌_Hamstrung.json', '效果条数', 2, 1)
+   ('终结技_万刃_活夜魇.json|终结技_Million Knives.json', '效果条数', 5, 3)
+
+== 时点打架候选: 6
+   ('战争篇-WAR/吕克·冯·戈特/终结技_时序递归_静止充能[待核].json', '持续', '每当对手将要执行一个触发效果时，阻止该触发效果并回收 1 时间。', '', 'Each time the Opponent would perform a trigger, prevent that', 2)
+   ('战争篇-WAR/玛格德莉娜·拉灵顿/特技(UA)_神圣导管[待核].json', '持续', '等级提升：按顺序激活下一个等级来等级提升（0 > 1 > 2 > 3 > 4 > 5）。同一时间只能有一个等级处于激活状', '当', 'Level Up: Level Up by activating the next Level in sequence ', 1)
+   ('独立-SLO/多洛蕾丝·玛勒菲斯/终结技_致命降临_殡葬仪式.json', '命中', '本场对决的剩余时间内,获得“每当对手前进或后退时,每移动 1 格就削命 1。”', '每当', 'For the rest of the duel, gain “Whenever the Opponent Advanc', 1)
+   ('试炼篇-TRI/特里亚斯·黑风/特技(UA)_饰彩.json', '限定投注', '限定投注： 选择一个起首。当展示你的攻击对时，它被激活。', '当', 'Limited Ante: Select a Beginning. It is activated when you r', 1)
+   ('试炼篇-TRI/特里亚斯·黑风/特技(UA)_饰彩.json', '限定投注', '限定投注： 选择一个收尾。当展示你的攻击对时，它被激活。', '当', 'Limited Ante: Select an Ending. It is activated when you rev', 2)
+   ('试炼篇-TRI/阿蒙·埃尔塞拉/特技(UA)_损害管制.json', '持续', '一次只能有一个危险等级处于激活状态。当你激活一个新的危险等级时，需先取消任何较旧的危险等级。', '当', 'Only one Danger Level can be active at a time. Deactivate an', 1)
+
+== 未配对 zh: 3
+   ('战争篇-WAR/塞斯·克雷穆尔', '终结技_命运解读_命运突破.json')
+   ('独立-SLO/多洛蕾丝·玛勒菲斯', '特技(UA)_展翼.json')
+   ('独立-SLO/多洛蕾丝·玛勒菲斯', '状态效果牌_挽歌.json')
+== 未配对 en: 22
+   ('战争篇-WAR/Kallistar', '特技(UA)_Rebirth.json')
+   ('战争篇-WAR/Kallistar', '状态效果牌_Human Form.json')
+   ('战争篇-WAR/Kallistar', '状态效果牌_Phoenix Form.json')
+   ('战争篇-WAR/Kallistar', '终结技_Blazing Dive.json')
+   ('战争篇-WAR/Kallistar', '终结技_Cinder Storm.json')
+   ('战争篇-WAR/Kallistar', '风格_Ash.json')
+   ('战争篇-WAR/Kallistar', '风格_Cinder.json')
+   ('战争篇-WAR/Kallistar', '风格_Ember.json')
+   ('战争篇-WAR/Kallistar', '风格_Fireloop.json')
+   ('战争篇-WAR/Kallistar', '风格_Fulmination.json')
+   ('战争篇-WAR/Kallistar', '风格_Kindle.json')
+   ('战争篇-WAR/Kallistar', '风格_Kindled.json')
+   ('战争篇-WAR/Kallistar', '风格_Phoenix.json')
+   ('战争篇-WAR/Kallistar', '风格_Smoldering.json')
+   ('战争篇-WAR/Kallistar', '风格_Soaring.json')
+   ('战争篇-WAR/Kallistar', '风格_Wings.json')
+   ('战争篇-WAR/Cadenza', '状态效果牌_Unending Vigil.json')
+   ('战争篇-WAR/Seth', '终结技_Reading Fate.json')
+   ('战争篇-WAR/Sagas', '终结技_Erasure.json')
+   ('战争篇-WAR/Sagas', '风格_Bloodletting.json')
