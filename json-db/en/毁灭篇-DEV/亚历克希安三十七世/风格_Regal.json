@@ -12,12 +12,12 @@
   },
   "效果": [
     {
-      "时点": "<b>",
+      "时点": "持续",
       "条件": "Range 1+:",
       "效果": "the Opponent cannot Retreat."
     },
     {
-      "时点": "<b>",
+      "时点": "持续",
       "条件": "",
       "效果": "Negate Power and Priority bonuses from Chivalry."
     }

@@ -12,12 +12,12 @@
   },
   "效果": [
     {
-      "时点": "<b>",
+      "时点": "持续",
       "条件": "",
       "效果": "+2 Petrify held: Armor 2."
     },
     {
-      "时点": "<b>",
+      "时点": "持续",
       "条件": "",
       "效果": "+4 Petrify held: You cannot be Pushed or Pulled."
     },

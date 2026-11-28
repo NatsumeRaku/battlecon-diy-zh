@@ -17,7 +17,7 @@
       "效果": "If the Dampening Droid is between you and the Opponent, Armor 3."
     },
     {
-      "时点": "<b>",
+      "时点": "持续",
       "条件": "",
       "效果": "you are on Magnetron Droid: +4 Priority."
     }
