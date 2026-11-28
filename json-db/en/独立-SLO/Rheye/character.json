@@ -12,6 +12,10 @@
  "称号": "Celestial Sojourner",
  "卡牌清单": [
   "专属招式_Smite.json",
+  "状态效果牌_Chains.json",
+  "状态效果牌_Might.json",
+  "状态效果牌_Retribution.json",
+  "状态效果牌_Silence.json",
   "终结技_Celestial Nova.json",
   "风格_Angelic.json",
   "风格_Divine.json",
